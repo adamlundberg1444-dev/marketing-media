@@ -1,0 +1,115 @@
+{
+  "slug": "tips_liten-insats-stor-skillnad_20262738",
+  "caption": "En liten insats gjorde enorm skillnad på mönstringen Du behöver inte göra allt",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-12.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "En liten insats gjorde enorm skillnad på mönstringen",
+          "color": "navy"
+        },
+        {
+          "text": "Du behöver inte göra allt",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-08.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Jag hade ingen tid att lägga om hela livet",
+          "color": "brown"
+        },
+        {
+          "text": "Så jag gjorde bara lite, men varje dag",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-13.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Ett par minuter logikövningar på bussen",
+          "color": "navy"
+        },
+        {
+          "text": "En kort rörelsepass när jag ändå var ute",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-16.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Det kändes nästan för lite för att räknas",
+          "color": "brown"
+        },
+        {
+          "text": "Men det adderade ihop sig till verklig trygghet",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-23.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "På dagen kände jag att jag hade gjort min del",
+          "color": "navy"
+        },
+        {
+          "text": "Och den känslan var värd mer än perfektion",
+          "color": "green"
+        },
+        {
+          "text": "Lite varje dag slår allt på en gång 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-03.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

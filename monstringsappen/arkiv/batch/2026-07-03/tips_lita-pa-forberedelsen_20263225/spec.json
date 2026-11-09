@@ -1,0 +1,111 @@
+{
+  "slug": "tips_lita-pa-forberedelsen_20263225",
+  "caption": "På dagen, lita på jobbet du redan gjort Nu är det dags att skörda",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-12.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "På dagen, lita på jobbet du redan gjort",
+          "color": "navy"
+        },
+        {
+          "text": "Nu är det dags att skörda",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-10.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Har du tränat och läst på är jobbet redan gjort",
+          "color": "brown"
+        },
+        {
+          "text": "Dagen är bara att visa upp det du kan",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-15.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tvivlet brukar komma starkast precis innan",
+          "color": "navy"
+        },
+        {
+          "text": "Det betyder inte att du är oförberedd",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-12.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Försök inte lära dig något nytt sista timmen",
+          "color": "brown"
+        },
+        {
+          "text": "Det skapar bara mer stress utan att hjälpa",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-13.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Andas och påminn dig: jag har gjort mitt",
+          "color": "navy"
+        },
+        {
+          "text": "Förtroende kommer av förberedelse, inte tur 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-14.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

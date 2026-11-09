@@ -1,0 +1,21 @@
+{
+  "slug": "tarningar_20263514",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna mönstringsfråga?",
+      "sub": "Vrid dem i huvudet 🎲",
+      "bgImage": "bg/bg-03.png",
+      "bgScrim": "rgba(10,14,8,0.35)"
+    },
+    {
+      "kind": "html",
+      "html": "\n    <div class=\"qhead\">Kan tärningarna vara lika?</div>\n    <div style=\"display:flex;justify-content:center;gap:48px;margin:24px 0 40px;\">\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:16px;\">\n      <div style=\"width:300px;height:300px;background:#FFFFFF;border-radius:32px;padding:24px;\"><svg viewBox=\"0 0 252 252\" width=\"252\" height=\"252\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"210.9,64.0 141.9,107.9 41.1,77.9 110.1,34.0\" fill=\"#dad5c7\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,218.0 141.9,107.9 210.9,64.0 210.9,174.1\" fill=\"#6c6962\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"41.1,188.0 41.1,77.9 141.9,107.9 141.9,218.0\" fill=\"#b1ada1\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"162.3,81.8 115.4,87.1 71.0,73.9 112.4,47.6 156.8,60.8\" fill=\"#15140f\"/><polygon points=\"99.6,117.3 95.6,116.4 91.7,116.1 88.0,116.4 84.4,117.2 81.1,118.7 78.2,120.6 75.6,123.1 73.4,126.0 71.6,129.4 70.3,133.1 69.6,137.1 69.3,141.3 69.6,145.7 70.3,150.2 71.6,154.7 73.4,159.0 75.6,163.3 78.2,167.3 81.1,171.0 84.4,174.4 88.0,177.4 91.7,179.9 95.6,181.9 99.6,183.4\" fill=\"#15140f\"/><polygon points=\"169.5,110.2 177.8,104.9 177.8,162.1 198.5,149.0 198.5,162.2 169.5,180.6\" fill=\"#15140f\"/></svg></div>\n      <div style=\"font-size:42px;font-weight:900;color:#FFFFFF;\">1</div>\n    </div>\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:16px;\">\n      <div style=\"width:300px;height:300px;background:#FFFFFF;border-radius:32px;padding:24px;\"><svg viewBox=\"0 0 252 252\" width=\"252\" height=\"252\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"210.9,64.0 141.9,107.9 41.1,77.9 110.1,34.0\" fill=\"#dad5c7\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"210.9,174.1 141.9,218.0 141.9,107.9 210.9,64.0\" fill=\"#6c6962\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,218.0 41.1,188.0 41.1,77.9 141.9,107.9\" fill=\"#b1ada1\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"91.5,187.6 61.2,149.9 61.2,101.5 121.8,119.5 121.8,167.9\" fill=\"#15140f\"/><polygon points=\"153.0,191.1 153.0,120.7 162.6,114.6 162.6,141.0 199.9,117.3 199.9,134.9 162.6,158.6 162.6,185.0\" fill=\"#15140f\"/><polygon points=\"174.3,64.7 130.1,92.8 93.7,61.4\" fill=\"#15140f\"/></svg></div>\n      <div style=\"font-size:42px;font-weight:900;color:#FFFFFF;\">2</div>\n    </div></div>\n    <div style=\"display:flex;gap:26px;justify-content:center;\"><div style=\"min-width:300px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border:4px solid rgba(255,255,255,0.45);border-radius:28px;font-size:52px;font-weight:800;color:#FFFFFF;padding:34px 30px;\">Lika</div><div style=\"min-width:300px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border:4px solid rgba(255,255,255,0.45);border-radius:28px;font-size:52px;font-weight:800;color:#FFFFFF;padding:34px 30px;\">Olika</div></div>"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför mönstringen"
+    }
+  ],
+  "theme": "camo"
+}

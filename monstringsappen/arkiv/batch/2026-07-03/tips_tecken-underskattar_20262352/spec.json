@@ -1,0 +1,128 @@
+{
+  "slug": "tips_tecken-underskattar_20262352",
+  "caption": "5 tecken på att du underskattar mönstringen Punkt två luras många av",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-20.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "5 tecken på att du underskattar mönstringen",
+          "color": "brown"
+        },
+        {
+          "text": "Punkt två luras många av",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-01.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du tänker dyka upp helt oförberedd",
+          "color": "navy"
+        },
+        {
+          "text": "Lite förberedelse gör hela dagen lättare",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-20.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du tror testerna är snabbt avklarade",
+          "color": "brown"
+        },
+        {
+          "text": "Mönstringen kan ta en till två dagar",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-18.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du har aldrig kollat hur det går till",
+          "color": "navy"
+        },
+        {
+          "text": "Ovisshet skapar onödig stress på plats",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-02.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du struntar i konditionen",
+          "color": "brown"
+        },
+        {
+          "text": "Cykeltestet märker direkt om grunden saknas",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-16.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du tror intervjun är en formalitet",
+          "color": "navy"
+        },
+        {
+          "text": "Den väger tungt för vad du får göra 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-17.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

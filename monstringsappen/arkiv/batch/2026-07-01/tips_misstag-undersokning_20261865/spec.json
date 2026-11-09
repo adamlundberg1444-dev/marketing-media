@@ -1,0 +1,111 @@
+{
+  "slug": "tips_misstag-undersokning_20261865",
+  "caption": "Var inte nervös för kroppsundersökningen på mönstringen Folk oroar sig helt i onödan",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-23.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Var inte nervös för kroppsundersökningen på mönstringen",
+          "color": "brown"
+        },
+        {
+          "text": "Folk oroar sig helt i onödan",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-06.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tror att de letar fel på dig",
+          "color": "navy"
+        },
+        {
+          "text": "Sjuksköterskan kollar allmäntillstånd, leder, rygg och hud",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-18.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Skäms för ärr, eksem eller tatueringar",
+          "color": "brown"
+        },
+        {
+          "text": "Det noteras helt sakligt, ingen dömer dig",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-03.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Mindre oro när du vet vad som sker 💡",
+          "color": "yellow"
+        },
+        {
+          "text": "Det är en vanlig hälsokontroll, inget mer",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-11.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Var öppen om sånt du vet om din kropp",
+          "color": "navy"
+        },
+        {
+          "text": "Då blir bedömningen rätt för just dig",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-08.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

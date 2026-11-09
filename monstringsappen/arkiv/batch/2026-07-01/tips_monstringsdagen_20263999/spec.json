@@ -1,0 +1,128 @@
+{
+  "slug": "tips_monstringsdagen_20263999",
+  "caption": "Så går en mönstringsdag till, steg för steg Bra att veta innan du åker 🪖",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-01.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Så går en mönstringsdag till, steg för steg",
+          "color": "brown"
+        },
+        {
+          "text": "Bra att veta innan du åker 🪖",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-04.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du mönstrar i Stockholm, Göteborg eller Malmö",
+          "color": "navy"
+        },
+        {
+          "text": "Resa, mat och boende betalas av myndigheten",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-11.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Först: ankomst och teoriprov",
+          "color": "brown"
+        },
+        {
+          "text": "Du checkar in, låser in mobilen och gör ofta det teoretiska provet tidigt",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-03.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Sen: hälsa och fystester",
+          "color": "navy"
+        },
+        {
+          "text": "Sjuksköterska, läkarundersökning, syn och hörsel, plus cykel och styrketest",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-18.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Sist: psykolog och samtal",
+          "color": "brown"
+        },
+        {
+          "text": "Du pratar med en psykolog och går sen igenom dina resultat med en handläggare",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-19.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Räkna med en lång dag",
+          "color": "navy"
+        },
+        {
+          "text": "Mönstringen tar ofta runt åtta timmar, ibland sträcker den sig över två dagar",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-14.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "tips_var-dig-sjalv-intervju_20264872",
+  "caption": "Den lugnaste vägen genom intervjun Sluta försöka spela en roll",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-10.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Den lugnaste vägen genom intervjun",
+          "color": "navy"
+        },
+        {
+          "text": "Sluta försöka spela en roll",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-13.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du kan inte plugga dig till rätt svar",
+          "color": "brown"
+        },
+        {
+          "text": "Samtalet handlar om vem du är, inte vad du memorerat",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-01.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Att överdriva eller spela tuff genomskådas",
+          "color": "navy"
+        },
+        {
+          "text": "Ärliga svar gör dig faktiskt lugnare också",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-07.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Det är okej att tänka efter innan du svarar",
+          "color": "brown"
+        },
+        {
+          "text": "En lugn paus är bättre än ett stressat svar",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-01.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Prata om sånt du gillar och brinner för",
+          "color": "navy"
+        },
+        {
+          "text": "Då släpper nervositeten nästan av sig själv 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-07.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "synonymer_5",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna mönstringsfråga?",
+      "sub": "Välj rätt synonym 📖"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad betyder ordet?",
+      "word": "parkas",
+      "options": [
+        "lindrigare brott",
+        "sammanbrott, misslyckande",
+        "skillnad",
+        "vindtät jacka"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad betyder ordet?",
+      "word": "parkas",
+      "options": [
+        "lindrigare brott",
+        "sammanbrott, misslyckande",
+        "skillnad",
+        "vindtät jacka"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför mönstringen"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "tips_att-inte-skrivas-in_20261091",
+  "caption": "Tänk om du inte skrivs in? Det är inte ett misslyckande 🪖",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-09.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tänk om du inte skrivs in?",
+          "color": "navy"
+        },
+        {
+          "text": "Det är inte ett misslyckande 🪖",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-11.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Få av de kallade skrivs in",
+          "color": "brown"
+        },
+        {
+          "text": "Antalet platser styrs av Försvarets behov, inte bara av dig",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-15.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Behovet sätter taket",
+          "color": "navy"
+        },
+        {
+          "text": "Även starka resultat ryms inte alltid när platserna är få",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-04.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Det säger inget om ditt värde",
+          "color": "brown"
+        },
+        {
+          "text": "Du har gjort din plikt genom att svara och genomföra dagen",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-20.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Och om du vill in?",
+          "color": "navy"
+        },
+        {
+          "text": "Starka resultat ökar dina chanser när du står mot andra",
+          "color": "green"
+        },
+        {
+          "text": "Ge det du har, så vet du att du gjorde ditt 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-21.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

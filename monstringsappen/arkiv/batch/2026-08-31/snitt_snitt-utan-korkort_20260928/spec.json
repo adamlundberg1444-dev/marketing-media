@@ -1,0 +1,131 @@
+{
+  "slug": "snitt_snitt-utan-korkort_20260928",
+  "caption": "Inget körkort ännu?",
+  "tiktokTitle": "Inget körkort? Så mycket är öppet",
+  "kravVersion": "GU26-27 Ä2 250505",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-11.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Inget körkort ännu?",
+          "color": "navy"
+        },
+        {
+          "text": "Så många befattningar står ändå öppna 🪖",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "html",
+      "theme": "skog",
+      "bgImage": "bg/bg-18.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "html": "<div class=\"stickerwrap\"><div class=\"stk\"><span class=\"stk-t\" style=\"background:#34495e;color:#FFFFFF\">Mer än hälften av alla befattningar kräver inget körkort</span></div><div class=\"stk\"><span class=\"stk-t\" style=\"background:#b3a06a;color:#1A1A1A\">Körkort är ett krav på vissa roller, inte på mönstringen i sig</span></div><div style=\"align-self:stretch;background:#FCFAF4;border-radius:34px;padding:44px 48px;box-shadow:0 18px 50px rgba(0,0,0,0.38);position:relative;\">\n      <div style=\"display:flex;align-items:center;justify-content:space-between;margin-bottom:32px;\">\n      <span style=\"font-size:34px;font-weight:900;color:#1A1A1A;letter-spacing:-0.5px\">Kräver inget körkort</span>\n      \n    </div>\n      <div style=\"display:flex;align-items:baseline;gap:18px;\">\n        <span style=\"font-size:150px;font-weight:900;color:#1A1A1A;line-height:0.9;letter-spacing:-4px;\">163</span>\n        <span style=\"font-size:52px;font-weight:800;color:rgba(26,26,26,0.55);\">av 304</span>\n      </div>\n      <div style=\"margin-top:30px;height:26px;border-radius:100px;background:rgba(26,26,26,0.13);overflow:hidden;\">\n        <div style=\"width:54%;height:100%;background:#3c5440;\"></div>\n      </div>\n    </div><div style=\"align-self:stretch;margin-top:20px;background:rgba(20,24,18,0.86);color:#FFFFFF;\n      border-radius:20px;padding:22px 30px;font-size:31px;font-weight:700;line-height:1.35;\n      box-shadow:0 10px 30px rgba(0,0,0,0.30)\">Notera: att en befattning står öppen betyder att kravet inte stänger dig ute, inte att platsen är din.</div></div><div class=\"stk btnrow\"><span class=\"stk-btn\" style=\"background:#1d3557\">Svep 👉👉</span></div><div class=\"stk-kalla\">GU 26/27</div>"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-23.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Det är förarrollerna som ställer kravet",
+          "color": "brown"
+        },
+        {
+          "text": "Har befattningen ordet förare i namnet är det oftast därför",
+          "color": "khaki"
+        },
+        {
+          "text": "Resten bryr sig inte om ditt körkort",
+          "color": "grey"
+        }
+      ],
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-13.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Du behöver alltså inte skynda på körkortet för att mönstra",
+          "color": "navy"
+        },
+        {
+          "text": "Mönstringen mäter dig, inte dina papper",
+          "color": "khaki"
+        },
+        {
+          "text": "Kraven handlar om kropp, huvud och hälsa",
+          "color": "grey"
+        }
+      ],
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-09.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Vill du till en förarbefattning är körkortet däremot en tidsfråga",
+          "color": "khaki"
+        },
+        {
+          "text": "Då är det värt att börja i tid",
+          "color": "grey"
+        }
+      ],
+      "appTip": "Tips 💡 Mönstringsappen visar kravprofilen per befattning",
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-28.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Körkortet öppnar en dörr till",
+          "color": "navy"
+        },
+        {
+          "text": "Men det stänger ingen dörr att sakna det 💡",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "stickers",
+      "theme": "tipspapper",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen gratis",
+          "color": "yellow"
+        },
+        {
+          "text": "Alla krav, övningar och prov för 304 befattningar",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

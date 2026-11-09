@@ -1,0 +1,21 @@
+{
+  "slug": "tarningar_20264096",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna mönstringsfråga?",
+      "sub": "Vrid dem i huvudet 🎲",
+      "bgImage": "bg/bg-23.png",
+      "bgScrim": "rgba(10,14,8,0.35)"
+    },
+    {
+      "kind": "html",
+      "html": "\n    <div class=\"qhead\">Kan tärningarna vara lika?</div>\n    <div style=\"display:flex;justify-content:center;gap:48px;margin:24px 0 40px;\">\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:16px;\">\n      <div style=\"width:300px;height:300px;background:#FFFFFF;border-radius:32px;padding:24px;\"><svg viewBox=\"0 0 252 252\" width=\"252\" height=\"252\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"110.1,34.0 210.9,64.0 141.9,107.9 41.1,77.9\" fill=\"#dad5c7\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,218.0 141.9,107.9 210.9,64.0 210.9,174.1\" fill=\"#6c6962\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"41.1,188.0 41.1,77.9 141.9,107.9 141.9,218.0\" fill=\"#b1ada1\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"134.8,95.5 70.3,76.3 79.9,70.1 104.1,77.4 141.4,53.7 157.5,58.5 120.3,82.2 144.5,89.4\" fill=\"#15140f\"/><polygon points=\"176.4,126.7 174.1,128.7 171.9,131.5 170.1,134.9 168.7,138.8 167.8,142.8 167.5,146.7 167.8,150.2 168.7,153.1 170.1,155.2 171.9,156.2 174.1,156.3 176.4,155.3 178.8,153.4 180.9,150.5 182.8,147.1 184.2,143.2 185.1,139.2 185.4,135.3 185.1,131.8 184.2,128.9 182.8,126.9 180.9,125.8 178.8,125.7\" fill=\"#15140f\"/><polygon points=\"121.8,165.7 121.5,161.4 120.7,156.9 119.5,152.4 117.7,148.0 115.5,143.8 112.9,139.8 109.9,136.0 106.6,132.7 103.1,129.7 99.3,127.2 95.4,125.2 91.5,123.7 87.5,122.8 83.7,122.5 79.9,122.8 76.4,123.6 73.1,125.1 70.1,127.0 67.5,129.5 65.3,132.4 63.5,135.8 62.3,139.5 61.5,143.5 61.2,147.7\" fill=\"#15140f\"/></svg></div>\n      <div style=\"font-size:42px;font-weight:900;color:#FFFFFF;\">1</div>\n    </div>\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:16px;\">\n      <div style=\"width:300px;height:300px;background:#FFFFFF;border-radius:32px;padding:24px;\"><svg viewBox=\"0 0 252 252\" width=\"252\" height=\"252\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"210.9,64.0 141.9,107.9 41.1,77.9 110.1,34.0\" fill=\"#dad5c7\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,218.0 141.9,107.9 210.9,64.0 210.9,174.1\" fill=\"#6c6962\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"41.1,188.0 41.1,77.9 141.9,107.9 141.9,218.0\" fill=\"#b1ada1\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"117.2,46.5 181.7,65.7 172.1,71.8 147.9,64.6 110.6,88.3 94.5,83.5 131.7,59.8 107.5,52.6\" fill=\"#15140f\"/><polygon points=\"91.5,133.6 88.1,133.1 84.9,133.6 82.2,135.1 80.1,137.4 78.8,140.5 78.4,144.0 78.8,147.9 80.1,151.7 82.2,155.3 84.9,158.4 88.1,160.7 91.5,162.2 94.9,162.8 98.1,162.3 100.8,160.8 102.9,158.5 104.2,155.4 104.6,151.8 104.2,148.0 102.9,144.2 100.8,140.6 98.1,137.5 94.9,135.1\" fill=\"#15140f\"/><polygon points=\"194.4,94.4 194.4,164.8 154.4,155.0\" fill=\"#15140f\"/></svg></div>\n      <div style=\"font-size:42px;font-weight:900;color:#FFFFFF;\">2</div>\n    </div></div>\n    <div style=\"display:flex;gap:26px;justify-content:center;\"><div style=\"min-width:300px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border:4px solid rgba(255,255,255,0.45);border-radius:28px;font-size:52px;font-weight:800;color:#FFFFFF;padding:34px 30px;\">Lika</div><div style=\"min-width:300px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border:4px solid rgba(255,255,255,0.45);border-radius:28px;font-size:52px;font-weight:800;color:#FFFFFF;padding:34px 30px;\">Olika</div></div>"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför mönstringen"
+    }
+  ],
+  "theme": "camo"
+}

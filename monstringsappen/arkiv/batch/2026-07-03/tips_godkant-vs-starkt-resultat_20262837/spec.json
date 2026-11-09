@@ -1,0 +1,115 @@
+{
+  "slug": "tips_godkant-vs-starkt-resultat_20262837",
+  "caption": "Godkänt räcker, men vad ger ett starkt resultat? Mer frihet än du tror 🪖",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-08.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Godkänt räcker, men vad ger ett starkt resultat?",
+          "color": "navy"
+        },
+        {
+          "text": "Mer frihet än du tror 🪖",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-04.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Godkänt öppnar dörren in",
+          "color": "brown"
+        },
+        {
+          "text": "Då är du aktuell för inskrivning till grundutbildning",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-08.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Starka resultat öppnar fler dörrar",
+          "color": "navy"
+        },
+        {
+          "text": "Du får fler befattningar att faktiskt välja mellan",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-19.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tänk på det som en meny",
+          "color": "brown"
+        },
+        {
+          "text": "Ju bättre du presterar, desto större blir urvalet att önska från",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-14.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Därför lönar sig förberedelse",
+          "color": "navy"
+        },
+        {
+          "text": "Inte bara för att klara ribban, utan för att få välja",
+          "color": "green"
+        },
+        {
+          "text": "Sikta lite högre än precis godkänt 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-07.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

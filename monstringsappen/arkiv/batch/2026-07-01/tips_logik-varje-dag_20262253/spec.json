@@ -1,0 +1,111 @@
+{
+  "slug": "tips_logik-varje-dag_20262253",
+  "caption": "Så vänjer du hjärnan vid logikuppgifterna Tre minuter här och var räcker längre än du tror",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-04.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Så vänjer du hjärnan vid logikuppgifterna",
+          "color": "brown"
+        },
+        {
+          "text": "Tre minuter här och var räcker längre än du tror",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-12.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Logikdelen mäter hur du löser problem",
+          "color": "navy"
+        },
+        {
+          "text": "Det går inte att plugga utantill, men du kan bli van vid tänket",
+          "color": "khaki"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-01.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Börja med talföljder",
+          "color": "brown"
+        },
+        {
+          "text": "Leta efter mönstret: ökar det, dubblas det, hoppar det?",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-07.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Fortsätt med figurmönster",
+          "color": "navy"
+        },
+        {
+          "text": "Vad är det som förändras från ruta till ruta?",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-09.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Gör det till en vana",
+          "color": "brown"
+        },
+        {
+          "text": "En liten pyssel-app i kön eller på bussen gör susen 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-20.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

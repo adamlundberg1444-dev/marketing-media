@@ -1,0 +1,40 @@
+{
+  "slug": "synonymer_20261583",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna mönstringsfråga?",
+      "sub": "Välj rätt synonym 📖"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad betyder ordet?",
+      "word": "överdådig",
+      "options": [
+        "sträng; besk",
+        "lockande",
+        "slösaktig; dumdristig",
+        "färggrann"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad betyder ordet?",
+      "word": "överdådig",
+      "options": [
+        "sträng; besk",
+        "lockande",
+        "slösaktig; dumdristig",
+        "färggrann"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför mönstringen"
+    }
+  ],
+  "theme": "camo"
+}

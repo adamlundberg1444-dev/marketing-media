@@ -1,0 +1,40 @@
+{
+  "slug": "antonymer_20262262",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna mönstringsfråga?",
+      "sub": "Välj rätt antonym 🔁"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad är motsatsen?",
+      "word": "likgiltig",
+      "options": [
+        "ointresserad",
+        "engagerad",
+        "passiv",
+        "apatisk"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad är motsatsen?",
+      "word": "likgiltig",
+      "options": [
+        "ointresserad",
+        "engagerad",
+        "passiv",
+        "apatisk"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför mönstringen"
+    }
+  ],
+  "theme": "camo"
+}

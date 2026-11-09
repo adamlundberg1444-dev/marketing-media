@@ -1,0 +1,115 @@
+{
+  "slug": "tips_faq-monstring_20264971",
+  "caption": "De vanligaste frågorna om mönstringen Svaren på 30 sekunder 🪖",
+  "tiktokTitle": "Tips inför mönstringen",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-02.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "De vanligaste frågorna om mönstringen",
+          "color": "brown"
+        },
+        {
+          "text": "Svaren på 30 sekunder 🪖",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-19.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Måste jag mönstra?",
+          "color": "navy"
+        },
+        {
+          "text": "Blir du kallad är det obligatoriskt, och det gäller alla oavsett kön",
+          "color": "rust"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-10.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "När händer det?",
+          "color": "brown"
+        },
+        {
+          "text": "Det år du fyller 18 fyller du i mönstringsunderlaget, sen kan du bli kallad",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-05.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Kan jag förbereda mig?",
+          "color": "navy"
+        },
+        {
+          "text": "Ja. Myndigheten tipsar själv om att träna allsidigt och komma utvilad",
+          "color": "khaki"
+        },
+        {
+          "text": "Titta på deras instruktionsfilmer också 💡",
+          "color": "yellow"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-13.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Vad händer om jag blir inskriven?",
+          "color": "brown"
+        },
+        {
+          "text": "Då väntar grundutbildning, oftast mellan nio och femton månader",
+          "color": "green"
+        }
+      ],
+      "pointers": true
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/bg-06.png",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen på App Store",
+          "color": "yellow"
+        },
+        {
+          "text": "Övningar, tips och prov, allt på ett ställe",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}

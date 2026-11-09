@@ -1,0 +1,40 @@
+{
+  "slug": "antonymer_20260904",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna mönstringsfråga?",
+      "sub": "Välj rätt antonym 🔁"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad är motsatsen?",
+      "word": "trög",
+      "options": [
+        "seg",
+        "lat",
+        "kvick",
+        "långsam"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad är motsatsen?",
+      "word": "trög",
+      "options": [
+        "seg",
+        "lat",
+        "kvick",
+        "långsam"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför mönstringen"
+    }
+  ],
+  "theme": "camo"
+}

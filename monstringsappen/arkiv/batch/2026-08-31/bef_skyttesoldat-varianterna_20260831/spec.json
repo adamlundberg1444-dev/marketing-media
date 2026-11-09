@@ -1,0 +1,106 @@
+{
+  "slug": "bef_skyttesoldat-varianterna_20260831",
+  "caption": "Skyttesoldat finns i fler varianter än en",
+  "tiktokTitle": "Skyttesoldat finns i fler varianter",
+  "kravVersion": "GU26-27 Ä2 250505",
+  "slides": [
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/hook/skog/skog-16.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Skyttesoldat finns i fler varianter än en",
+          "color": "brown"
+        },
+        {
+          "text": "Och kraven skiljer sig mellan dem 🪖",
+          "color": "green"
+        }
+      ],
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "html",
+      "theme": "skog",
+      "bgImage": "bg/hook/skog/skog-05.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "html": "<div class=\"stickerwrap\"><div class=\"stk\"><span class=\"stk-t\" style=\"background:#43342a;color:#FFFFFF\">Grundvarianten: skyttesoldat</span></div><div class=\"stk\"><span class=\"stk-t\" style=\"background:#b3a06a;color:#1A1A1A\">Styrka 4, kondition 6 och I‑provet 3</span></div><div style=\"align-self:stretch;background:#FCFAF4;border-radius:34px;padding:44px 48px;box-shadow:0 18px 50px rgba(0,0,0,0.38);\">\n      <div style=\"display:flex;align-items:center;justify-content:space-between;margin-bottom:32px;\">\n        <span style=\"font-size:34px;font-weight:900;color:#1A1A1A;letter-spacing:-0.5px\">Skyttesoldat</span>\n        <span style=\"font-size:26px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#FFFFFF;background:#3c5440;border-radius:100px;padding:10px 22px;\">Krav 1–9</span>\n      </div>\n      <div style=\"display:flex;flex-direction:column;gap:26px;\"><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">Styrka</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">4<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">Kondition</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">6<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">I-provet</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">3<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div></div>\n      <div style=\"margin-top:34px;padding-top:26px;border-top:3px solid rgba(26,26,26,0.13);display:flex;justify-content:space-between;font-size:30px;font-weight:700;color:rgba(26,26,26,0.55)\">\n         <span>Längd 156–210 cm</span><span>Kravprofil GU26-27</span>\n       </div>\n    </div><div style=\"align-self:stretch;margin-top:20px;background:rgba(20,24,18,0.86);color:#FFFFFF;\n      border-radius:20px;padding:22px 30px;font-size:31px;font-weight:700;line-height:1.35;\n      box-shadow:0 10px 30px rgba(0,0,0,0.30)\">Notera: kraven är ett minimum. Att nå dem garanterar ingen plats, det finns färre platser än sökande.</div></div><div class=\"stk btnrow\"><span class=\"stk-btn\" style=\"background:#1d3557\">Svep 👉👉</span></div>"
+    },
+    {
+      "kind": "html",
+      "theme": "skog",
+      "bgImage": "bg/hook/skog/skog-11.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "html": "<div class=\"stickerwrap\"><div class=\"stk\"><span class=\"stk-t\" style=\"background:#43342a;color:#FFFFFF\">Sedan finns Högvakt</span></div><div class=\"stk\"><span class=\"stk-t\" style=\"background:#b3a06a;color:#1A1A1A\">Samma styrka, men annan balans</span></div><div style=\"align-self:stretch;background:#FCFAF4;border-radius:34px;padding:44px 48px;box-shadow:0 18px 50px rgba(0,0,0,0.38);\">\n      <div style=\"display:flex;align-items:center;justify-content:space-between;margin-bottom:32px;\">\n        <span style=\"font-size:34px;font-weight:900;color:#1A1A1A;letter-spacing:-0.5px\">Skyttesoldat Högvakt</span>\n        <span style=\"font-size:26px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#FFFFFF;background:#3c5440;border-radius:100px;padding:10px 22px;\">Krav 1–9</span>\n      </div>\n      <div style=\"display:flex;flex-direction:column;gap:26px;\"><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">Styrka</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">4<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">Kondition</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">5<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">I-provet</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">4<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div></div>\n      <div style=\"margin-top:34px;padding-top:26px;border-top:3px solid rgba(26,26,26,0.13);display:flex;justify-content:space-between;font-size:30px;font-weight:700;color:rgba(26,26,26,0.55)\">\n         <span>Längd 156–210 cm</span><span>Kravprofil GU26-27</span>\n       </div>\n    </div><div style=\"align-self:stretch;margin-top:20px;background:rgba(20,24,18,0.86);color:#FFFFFF;\n      border-radius:20px;padding:22px 30px;font-size:31px;font-weight:700;line-height:1.35;\n      box-shadow:0 10px 30px rgba(0,0,0,0.30)\">Notera: kraven är ett minimum. Att nå dem garanterar ingen plats, det finns färre platser än sökande.</div></div><div class=\"stk btnrow\"><span class=\"stk-btn\" style=\"background:#1d3557\">Svep 👉👉</span></div>"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/hook/skog/skog-17.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Högvakt byter kondition mot huvud",
+          "color": "navy"
+        },
+        {
+          "text": "Konditionskravet sjunker från 6 till 5, medan I-provet stiger från 3 till 4",
+          "color": "khaki"
+        },
+        {
+          "text": "Två vägar in i samma grundroll",
+          "color": "grey"
+        }
+      ],
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557",
+      "kalla": "GU 26/27"
+    },
+    {
+      "kind": "html",
+      "theme": "skog",
+      "bgImage": "bg/hook/skog/skog-08.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "html": "<div class=\"stickerwrap\"><div class=\"stk\"><span class=\"stk-t\" style=\"background:#43342a;color:#FFFFFF\">Och en beriden variant</span></div><div class=\"stk\"><span class=\"stk-t\" style=\"background:#b3a06a;color:#1A1A1A\">Där sjunker även styrkekravet</span></div><div style=\"align-self:stretch;background:#FCFAF4;border-radius:34px;padding:44px 48px;box-shadow:0 18px 50px rgba(0,0,0,0.38);\">\n      <div style=\"display:flex;align-items:center;justify-content:space-between;margin-bottom:32px;\">\n        <span style=\"font-size:34px;font-weight:900;color:#1A1A1A;letter-spacing:-0.5px\">Skyttesoldat Beriden högvakt</span>\n        <span style=\"font-size:26px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#FFFFFF;background:#3c5440;border-radius:100px;padding:10px 22px;\">Krav 1–9</span>\n      </div>\n      <div style=\"display:flex;flex-direction:column;gap:26px;\"><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">Styrka</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">3<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">Kondition</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">5<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div><div style=\"display:flex;flex-direction:column;gap:12px;\">\n      <div style=\"display:flex;align-items:baseline;justify-content:space-between;\">\n        <span style=\"font-size:40px;font-weight:800;color:#1A1A1A;letter-spacing:-0.5px\">I-provet</span>\n        <span style=\"font-size:44px;font-weight:900;color:#1A1A1A\">4<span style=\"font-size:30px;color:rgba(26,26,26,0.55)\">/9</span></span>\n      </div>\n      <div style=\"display:flex;gap:8px;\"><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:#3c5440\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span><span style=\"flex:1;height:22px;border-radius:6px;background:rgba(26,26,26,0.13)\"></span></div>\n    </div></div>\n      <div style=\"margin-top:34px;padding-top:26px;border-top:3px solid rgba(26,26,26,0.13);display:flex;justify-content:space-between;font-size:30px;font-weight:700;color:rgba(26,26,26,0.55)\">\n         <span>Längd 156–190 cm</span><span>Kravprofil GU26-27</span>\n       </div>\n    </div><div style=\"align-self:stretch;margin-top:20px;background:rgba(20,24,18,0.86);color:#FFFFFF;\n      border-radius:20px;padding:22px 30px;font-size:31px;font-weight:700;line-height:1.35;\n      box-shadow:0 10px 30px rgba(0,0,0,0.30)\">Notera: kraven är ett minimum. Att nå dem garanterar ingen plats, det finns färre platser än sökande.</div></div><div class=\"stk btnrow\"><span class=\"stk-btn\" style=\"background:#1d3557\">Svep 👉👉</span></div>"
+    },
+    {
+      "kind": "stickers",
+      "theme": "skog",
+      "bgImage": "bg/hook/skog/skog-04.jpg",
+      "bgScrim": "rgba(10,14,8,0.32)",
+      "stickers": [
+        {
+          "text": "Högvaktsvarianterna bär ett eget krav",
+          "color": "navy"
+        },
+        {
+          "text": "Pälsdjursallergi stänger dem allihop 💡",
+          "color": "yellow"
+        }
+      ],
+      "appTip": "Tips 💡 Mönstringsappen visar kravprofilen per befattning",
+      "button": "Svep 👉👉",
+      "buttonColor": "#1d3557"
+    },
+    {
+      "kind": "stickers",
+      "theme": "tipspapper",
+      "stickers": [
+        {
+          "text": "Tips 💡 Ladda ner Mönstringsappen gratis",
+          "color": "yellow"
+        },
+        {
+          "text": "Alla krav, övningar och prov för 304 befattningar",
+          "color": "green"
+        }
+      ],
+      "logo": true,
+      "appstore": true
+    }
+  ],
+  "theme": "camo"
+}
