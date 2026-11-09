@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch07-016",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är exempel på sådant som medierna inte får publicera?",
+      "options": [
+        "Kritik mot regeringen",
+        "Hets mot folkgrupp och förtal",
+        "Granskningar av myndigheter",
+        "Nyheter om brott"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är exempel på sådant som medierna inte får publicera?",
+      "options": [
+        "Kritik mot regeringen",
+        "Hets mot folkgrupp och förtal",
+        "Granskningar av myndigheter",
+        "Nyheter om brott"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

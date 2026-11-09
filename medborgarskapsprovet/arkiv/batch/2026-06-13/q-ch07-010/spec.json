@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch07-010",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad skiljer journalistik från annat innehåll, till exempel reklam och inlägg?",
+      "options": [
+        "Journalistik görs av redaktioner som kontrollerar fakta och följer etiska regler",
+        "Journalistik är alltid gratis att läsa",
+        "Journalistik får bara handla om politik",
+        "Det finns ingen skillnad"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad skiljer journalistik från annat innehåll, till exempel reklam och inlägg?",
+      "options": [
+        "Journalistik görs av redaktioner som kontrollerar fakta och följer etiska regler",
+        "Journalistik är alltid gratis att läsa",
+        "Journalistik får bara handla om politik",
+        "Det finns ingen skillnad"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

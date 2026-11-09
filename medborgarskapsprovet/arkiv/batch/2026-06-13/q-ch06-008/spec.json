@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch06-008",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "I vilken domstol börjar de flesta brottmål?",
+      "options": [
+        "I hovrätten",
+        "I Högsta domstolen",
+        "I tingsrätten",
+        "I förvaltningsrätten"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "I vilken domstol börjar de flesta brottmål?",
+      "options": [
+        "I hovrätten",
+        "I Högsta domstolen",
+        "I tingsrätten",
+        "I förvaltningsrätten"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

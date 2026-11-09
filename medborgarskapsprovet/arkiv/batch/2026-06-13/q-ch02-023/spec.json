@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch02-023",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vem bestämmer i regioner och kommuner?",
+      "options": [
+        "Politiker som invånarna har röstat fram",
+        "Tjänstemän som staten utser",
+        "Länsstyrelsen",
+        "Riksdagen"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vem bestämmer i regioner och kommuner?",
+      "options": [
+        "Politiker som invånarna har röstat fram",
+        "Tjänstemän som staten utser",
+        "Länsstyrelsen",
+        "Riksdagen"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

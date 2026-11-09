@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch03-004",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad betyder föreningsfrihet?",
+      "options": [
+        "Att alla måste vara med i en förening",
+        "Att du får starta och vara med i föreningar",
+        "Att föreningar slipper betala skatt",
+        "Att bara politiska partier får finnas"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad betyder föreningsfrihet?",
+      "options": [
+        "Att alla måste vara med i en förening",
+        "Att du får starta och vara med i föreningar",
+        "Att föreningar slipper betala skatt",
+        "Att bara politiska partier får finnas"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

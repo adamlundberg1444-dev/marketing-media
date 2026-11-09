@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch13-001",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad innebär religionsfriheten i Sverige?",
+      "options": [
+        "Alla måste tillhöra ett religiöst samfund",
+        "Du får utöva din religion, byta religion eller inte ha någon religion alls",
+        "Bara kristendom får utövas offentligt",
+        "Religion får bara utövas i hemmet"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad innebär religionsfriheten i Sverige?",
+      "options": [
+        "Alla måste tillhöra ett religiöst samfund",
+        "Du får utöva din religion, byta religion eller inte ha någon religion alls",
+        "Bara kristendom får utövas offentligt",
+        "Religion får bara utövas i hemmet"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

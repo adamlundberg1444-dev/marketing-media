@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch02-015",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är den viktigaste orsaken till klimatförändringarna?",
+      "options": [
+        "Utsläpp av växthusgaser",
+        "Vulkanutbrott",
+        "Förändringar i havsströmmar",
+        "Att solen lyser starkare"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är den viktigaste orsaken till klimatförändringarna?",
+      "options": [
+        "Utsläpp av växthusgaser",
+        "Vulkanutbrott",
+        "Förändringar i havsströmmar",
+        "Att solen lyser starkare"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch05-009",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad kallas de partier som inte är med i regeringen?",
+      "options": [
+        "Opposition",
+        "Koalition",
+        "Utskott",
+        "Förbund"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad kallas de partier som inte är med i regeringen?",
+      "options": [
+        "Opposition",
+        "Koalition",
+        "Utskott",
+        "Förbund"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

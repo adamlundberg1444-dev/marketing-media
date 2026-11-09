@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch02-020",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka är Sveriges två största öar?",
+      "options": [
+        "Tjörn och Orust",
+        "Hisingen och Värmdö",
+        "Åland och Bornholm",
+        "Gotland och Öland"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka är Sveriges två största öar?",
+      "options": [
+        "Tjörn och Orust",
+        "Hisingen och Värmdö",
+        "Åland och Bornholm",
+        "Gotland och Öland"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

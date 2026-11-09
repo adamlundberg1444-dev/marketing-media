@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch08-001",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad antog FN år 1948?",
+      "options": [
+        "Barnkonventionen",
+        "Den allmänna förklaringen om de mänskliga rättigheterna",
+        "Sveriges grundlagar",
+        "EU:s stadga om de grundläggande rättigheterna"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad antog FN år 1948?",
+      "options": [
+        "Barnkonventionen",
+        "Den allmänna förklaringen om de mänskliga rättigheterna",
+        "Sveriges grundlagar",
+        "EU:s stadga om de grundläggande rättigheterna"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

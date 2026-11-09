@@ -1,0 +1,43 @@
+{
+  "slug": "q-ch11-007",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "hook",
+      "theme": "intro",
+      "title": "Kan du bli svensk medborgare?",
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad var folkhemmet?",
+      "options": [
+        "Ett museum om svensk historia",
+        "En byggnad där riksdagen sammanträder",
+        "En förening för bostadsägare",
+        "Visionen om ett samhälle som tar hand om alla"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad var folkhemmet?",
+      "options": [
+        "Ett museum om svensk historia",
+        "En byggnad där riksdagen sammanträder",
+        "En förening för bostadsägare",
+        "Visionen om ett samhälle som tar hand om alla"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

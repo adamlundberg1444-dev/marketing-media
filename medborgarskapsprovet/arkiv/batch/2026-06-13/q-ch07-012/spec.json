@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch07-012",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka frågor är bra att ställa när du granskar en källa?",
+      "options": [
+        "Vem ligger bakom? Varför? När? Var kommer uppgiften ifrån?",
+        "Hur många har gillat inlägget?",
+        "Är texten lång och välskriven?",
+        "Har nyheten en bild?"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka frågor är bra att ställa när du granskar en källa?",
+      "options": [
+        "Vem ligger bakom? Varför? När? Var kommer uppgiften ifrån?",
+        "Hur många har gillat inlägget?",
+        "Är texten lång och välskriven?",
+        "Har nyheten en bild?"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

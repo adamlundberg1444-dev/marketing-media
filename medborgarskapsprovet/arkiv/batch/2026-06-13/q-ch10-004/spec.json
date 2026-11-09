@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch10-004",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilken myndighet betalar ut föräldrapenning, barnbidrag och sjukpenning?",
+      "options": [
+        "Skatteverket",
+        "Arbetsförmedlingen",
+        "Pensionsmyndigheten",
+        "Försäkringskassan"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilken myndighet betalar ut föräldrapenning, barnbidrag och sjukpenning?",
+      "options": [
+        "Skatteverket",
+        "Arbetsförmedlingen",
+        "Pensionsmyndigheten",
+        "Försäkringskassan"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

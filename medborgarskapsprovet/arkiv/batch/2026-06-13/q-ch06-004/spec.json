@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch06-004",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilken grundlag skyddar det fria ordet i radio, tv och på webben?",
+      "options": [
+        "Regeringsformen",
+        "Successionsordningen",
+        "Tryckfrihetsförordningen",
+        "Yttrandefrihetsgrundlagen"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilken grundlag skyddar det fria ordet i radio, tv och på webben?",
+      "options": [
+        "Regeringsformen",
+        "Successionsordningen",
+        "Tryckfrihetsförordningen",
+        "Yttrandefrihetsgrundlagen"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

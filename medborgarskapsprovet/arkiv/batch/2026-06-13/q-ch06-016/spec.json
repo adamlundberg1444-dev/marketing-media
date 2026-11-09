@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch06-016",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad kallas ett förslag på en ny lag från regeringen till riksdagen?",
+      "options": [
+        "Ett mandat",
+        "En folkomröstning",
+        "En proposition",
+        "En dom"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad kallas ett förslag på en ny lag från regeringen till riksdagen?",
+      "options": [
+        "Ett mandat",
+        "En folkomröstning",
+        "En proposition",
+        "En dom"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

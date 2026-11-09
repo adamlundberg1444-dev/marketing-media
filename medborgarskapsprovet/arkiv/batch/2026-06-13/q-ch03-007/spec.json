@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch03-007",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är desinformation?",
+      "options": [
+        "Information från myndigheter",
+        "Falsk eller vilseledande information som sprids med flit",
+        "Nyheter från utlandet",
+        "Information som är svår att förstå"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är desinformation?",
+      "options": [
+        "Information från myndigheter",
+        "Falsk eller vilseledande information som sprids med flit",
+        "Nyheter från utlandet",
+        "Information som är svår att förstå"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

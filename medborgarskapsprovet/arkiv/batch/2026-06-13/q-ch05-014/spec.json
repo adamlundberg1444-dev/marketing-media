@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch05-014",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "När börjar förtidsröstningen i Sverige?",
+      "options": [
+        "Ungefär två veckor före valdagen",
+        "På valdagens morgon",
+        "Ett år före valet",
+        "Dagen efter valet"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "När börjar förtidsröstningen i Sverige?",
+      "options": [
+        "Ungefär två veckor före valdagen",
+        "På valdagens morgon",
+        "Ett år före valet",
+        "Dagen efter valet"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch08-032",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka särskilda rättigheter har de nationella minoriteterna i vissa kommuner?",
+      "options": [
+        "De betalar lägre skatt",
+        "De får rösta i fler val än andra",
+        "De har förtur till bostäder",
+        "De kan använda sitt språk i kontakt med myndigheter och få förskola och äldreomsorg på sitt språk"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka särskilda rättigheter har de nationella minoriteterna i vissa kommuner?",
+      "options": [
+        "De betalar lägre skatt",
+        "De får rösta i fler val än andra",
+        "De har förtur till bostäder",
+        "De kan använda sitt språk i kontakt med myndigheter och få förskola och äldreomsorg på sitt språk"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

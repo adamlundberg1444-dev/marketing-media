@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch09-002",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad kännetecknar en tillsvidareanställning?",
+      "options": [
+        "Den har inget slutdatum och kallas ofta fast anställning",
+        "Den gäller högst sex månader",
+        "Den gäller bara på sommaren",
+        "Den får inte sägas upp av arbetstagaren"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad kännetecknar en tillsvidareanställning?",
+      "options": [
+        "Den har inget slutdatum och kallas ofta fast anställning",
+        "Den gäller högst sex månader",
+        "Den gäller bara på sommaren",
+        "Den får inte sägas upp av arbetstagaren"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

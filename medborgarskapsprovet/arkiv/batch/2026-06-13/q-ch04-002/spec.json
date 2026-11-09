@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch04-002",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka är riksdagens tre viktigaste uppgifter?",
+      "options": [
+        "Att stifta lagar, besluta om statens budget och kontrollera regeringen",
+        "Att döma i domstol, leda polisen och utse kungen",
+        "Att styra kommunerna, regionerna och länen",
+        "Att skriva nyheter, granska medier och utse journalister"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vilka är riksdagens tre viktigaste uppgifter?",
+      "options": [
+        "Att stifta lagar, besluta om statens budget och kontrollera regeringen",
+        "Att döma i domstol, leda polisen och utse kungen",
+        "Att styra kommunerna, regionerna och länen",
+        "Att skriva nyheter, granska medier och utse journalister"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch09-005",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad menas med den svenska modellen på arbetsmarknaden?",
+      "options": [
+        "Fack och arbetsgivare förhandlar om löner och villkor utan att staten blandar sig i",
+        "Riksdagen beslutar om alla löner i Sverige",
+        "Alla anställda måste vara med i facket",
+        "Staten äger alla stora företag"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad menas med den svenska modellen på arbetsmarknaden?",
+      "options": [
+        "Fack och arbetsgivare förhandlar om löner och villkor utan att staten blandar sig i",
+        "Riksdagen beslutar om alla löner i Sverige",
+        "Alla anställda måste vara med i facket",
+        "Staten äger alla stora företag"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}

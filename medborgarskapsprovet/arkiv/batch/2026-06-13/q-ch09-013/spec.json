@@ -1,0 +1,37 @@
+{
+  "slug": "q-ch09-013",
+  "theme": "blue",
+  "slides": [
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är en budget?",
+      "options": [
+        "En plan över dina inkomster och utgifter",
+        "Ett lån från banken",
+        "En räkning från Skatteverket",
+        "Ett sparkonto med hög ränta"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "theme": "ljus",
+      "eyebrow": "Medborgarskaps**provet**",
+      "title": "Vad är en budget?",
+      "options": [
+        "En plan över dina inkomster och utgifter",
+        "Ett lån från banken",
+        "En räkning från Skatteverket",
+        "Ett sparkonto med hög ränta"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Klara medborgar-\nskapsprovet"
+    }
+  ]
+}
