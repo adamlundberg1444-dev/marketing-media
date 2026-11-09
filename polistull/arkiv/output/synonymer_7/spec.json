@@ -1,0 +1,39 @@
+{
+  "slug": "synonymer_7",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Klarar du denna fråga från I-provet?",
+      "sub": "Välj rätt synonym 📖"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad betyder ordet?",
+      "word": "rendezvous",
+      "options": [
+        "betalningsbevis",
+        "gryning",
+        "logisk slutledning",
+        "avtalat möte"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Vad betyder ordet?",
+      "word": "rendezvous",
+      "options": [
+        "betalningsbevis",
+        "gryning",
+        "logisk slutledning",
+        "avtalat möte"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Träna inför antagningsprovet"
+    }
+  ]
+}
