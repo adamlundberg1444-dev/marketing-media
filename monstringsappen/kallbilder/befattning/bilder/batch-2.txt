@@ -1,0 +1,76 @@
+FH71X|Jägarplutonbefäl|jagare
+FH81X|Jägargruppbefäl|jagare
+FH91X|Jägarsoldat|jagare
+FH91Y|Jägarsoldat förare|jagare
+MA72X|Underhållsplutonsbefäl|logistik
+MA82X|Logistikgruppbefäl|logistik
+MA91X|Logistiksoldat|logistik
+MA81X|Logistikgruppbefäl Jägartjänst|logistik_jagartjanst
+MA92X|Logistiksoldat  Jägartjänst|logistik_jagartjanst
+GL71X|Luftvärnsplutonsbefäl|luftvarn
+GL81X|Luftvärnsgruppbefäl|luftvarn
+GL91Y|Luftvärnsoldat förare|luftvarn
+GL91X|Luftvärnssoldat|luftvarn
+PA81X|Militärpolis|militarpolis
+PA82Y|Militärpolis MC förare|militarpolis
+PA81Y|Militärpolis förare|militarpolis
+PA71X|Militärpolisplutonsbefäl|militarpolis
+JD71X|Motorredskapsplutonbefäl|motorredskap
+JD81X|Motorredskapsgruppbefäl|motorredskap
+JD91Y|Motorredskapsförare|motorredskap
+FC73X|Norrlandsjägarplutonbefäl|norrlandsjagare
+FC83X|Norrlandsjägargruppbefäl|norrlandsjagare
+FC91X|Norrlandsjägarsoldat|norrlandsjagare
+FC93Y|Norrlandsjägarsoldat förare|norrlandsjagare
+GA70X|Pansarskytteplutonbefäl|pansarskytte
+GA80X|Pansarskyttegruppchef|pansarskytte
+GA90X|Pansarskyttesoldat|pansarskytte
+GM74X|Pansarvärnsrobotplutonbefäl|pansarvarn
+GM84X|Pansarvärnsrobotgruppbefäl|pansarvarn
+GM94X|Pansarvärnsrobotsoldat|pansarvarn
+GM94Y|Pansarvärnsrobotsoldat förare|pansarvarn
+JB70X|Pionjärplutonbefäl|pionjar
+JB80X|Pionjärgruppbefäl|pionjar
+JB90X|Pionjärsoldat|pionjar
+JB90Y|Pionjärsoldat förare|pionjar
+GD74X|Rekognoseringsplutonchef|rekognosering
+GD84X|Rekognoseringsgruppchef|rekognosering
+GD84Y|Rekognoseringsgruppchef stridsfordon|rekognosering
+GD94Å|Rekognoseringsbiträde stridsfordon|rekognosering
+GD94X|Rekognoseringssoldat|rekognosering
+GD94Y|Rekognoseringssoldat förare|rekognosering
+GD94Z|Rekognoseringssoldat förare strf|rekognosering
+GA71X|Skytteplutonbefäl|skytte
+GA81X|Skyttegruppchef|skytte
+GA91X|Skyttesoldat|skytte
+GA94Z|Skyttesoldat förare|skytte
+FK71X|Spaningsplutonsbefäl|spaning
+FK81X|Spaningsgruppchef|spaning
+FK91X|Spaningssoldat|spaning
+FK91Y|Spaningssoldat förare|spaning
+GC93Z|Stridsfordonsförare skytt Ptgb|stridsfordon
+GC72X|Stridsfordonschef|stridsfordon
+GC85X|Stridsfordongruppbefäl|stridsfordon
+GC92Y|Stridsfordonsförare|stridsfordon
+GC92X|Stridsfordonsskytt|stridsfordon
+GC97X|Stridsvagn skytt/laddare|stridsvagn
+GC73X|Stridsvagnschef|stridsvagn
+GC87X|Stridsvagngruppbefäl|stridsvagn
+GC97Y|Stridsvagnsförare|stridsvagn
+MJ71X|Trafikplutonbefäl|trafik
+MJ81X|Trafikgruppchef|trafik
+MJ91X|Trafiksoldat|trafik
+MK71X|Transportplutonsbefäl|transport
+MK83X|Transportgruppbefäl|transport
+MK92Y|Bandvagnsförare|transport
+MK93Y|Fordonsförare|transport
+MK91Y|Lastbilsförare|transport
+MJ81Y|Transportledningsbefäl|transportledning
+MJ82Y|Transportledningsassistent|transportledning
+FJ81X|Underrättelsegruppchef|underrattelse
+FJ91X|Underrättelsesoldat|underrattelse
+FJ91Y|Underrättelsesoldat förare|underrattelse
+GD71Y|Vädersonderingstroppchef|vadersondering
+GD81Z|Vädersonderingsgruppchef|vadersondering
+GD91Y|Vädersonderingssoldat|vadersondering
+GD91Z|Vädersonderingssoldat förare|vadersondering

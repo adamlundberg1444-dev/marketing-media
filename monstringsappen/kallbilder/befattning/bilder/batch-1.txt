@@ -1,0 +1,77 @@
+JP75X|Ammunitionsröjningsbefäl|ammunitionsrojning
+JP85X|Ammunitionsröjningsgruppbefäl|ammunitionsrojning
+JP95X|Ammunitionsröjningssoldat|ammunitionsrojning
+JP95Y|Ammunitionsröjningssoldat förare|ammunitionsrojning
+GF82X|Ammunitionsgruppchef|artilleri_ammunition
+GF72X|Ammunitionstroppchef ammunitionshanteringsutrustning|artilleri_ammunition
+GF91Y|Ammunitionssoldat förare ammunitionshanteringsutrustning|artilleri_ammunition
+GF70X|Artilleripjäsplutonbefäl|artilleripjas
+GF80X|Pjäsgruppchef|artilleripjas
+GF81Y|Pjäsgruppchef förare|artilleripjas
+GF90X|Pjäsoperatör|artilleripjas
+GD74Y|Artilleriradartroppchef|artilleriradar
+GD81X|Artilleriradargruppchef|artilleriradar
+GD91X|Artilleriradaroperatör|artilleriradar
+GD92Ä|Artilleriradarförare|artilleriradar
+GE80Z|Batteriplatsbefäl stridsfordon|batteriplats
+GE82X|Batteriplatsgruppchef|batteriplats
+GE93X|Batteriplatsbiträde stridsfordon|batteriplats
+GE92X|Batteriplatssoldat|batteriplats
+GE93Y|Batteriplatssoldat förare stridsfordon|batteriplats
+GE92Y|Batteriplatssoldat förare|batteriplats
+GD83X|Bekämpningsassistent stridsfordon|bekampning
+GD83Y|Bekämpningsassistent|bekampning
+GD94Ö|Bekämpningsbiträde|bekampning
+GD93X|Bekämpningsbiträde stridsfordon|bekampning
+GA72X|Skytteplutonbefäl Beriden Högvakt|beriden_hogvakt
+GA82X|Skyttegruppchef Beriden högvakt|beriden_hogvakt
+GA92Y|Skyttesoldat Beriden Högvakt förare|beriden_hogvakt
+GA92X|Skyttesoldat Beriden högvakt|beriden_hogvakt
+GU89Y|Bevakningsgruppchef|bevakning
+GU99Y|Bevakningssoldat|bevakning
+GU99Z|Bevakningssoldat förare|bevakning
+JG70X|Broplutonbefäl|bro
+JG81X|Brogruppbefäl|bro
+JG92Y|Brosoldat|bro
+JS71X|CBRN-plutonbefäl|cbrn
+JS81X|CBRN-gruppbefäl|cbrn
+JS91X|CBRN-soldat|cbrn
+JS91Y|CBRN-soldat Förare|cbrn
+MG89Z|Drivmedelsgruppchef|drivmedel
+MG92Y|Drivmedelssoldat|drivmedel
+GD81Y|Eldledningsgruppchef|eldledning
+GD71X|Eldledningsplutonbefäl|eldledning
+GD92X|Eldledningssoldat|eldledning
+GD92Y|Eldledningssoldat förare|eldledning
+GD92Å|Eldledningssoldat stridssjukvårdare|eldledning
+GD81Å|Eldledningsgruppchef stridsfordon|eldledning_strf
+GD73X|Eldledningsplutonchef stridsfordon|eldledning_strf
+GD94Ä|Eldledningsbiträde stridsfordon|eldledning_strf
+GD92Z|Eldledningssoldat förare stridsfordon|eldledning_strf
+MD81X|Förplägnadgruppbefäl|forplagnad
+MD91Z|Förplägnadsoldat|forplagnad
+JF81X|Ingenjörgruppbefäl geoinfo|geoinfo
+JF91X|Ingenjörsoldat geoinfo|geoinfo
+GE80X|Granatkastargruppchef|granatkastare
+GE72X|Granatkastarplutonbefäl|granatkastare
+GE91Z|Granatkastarsoldat stridssjukvårdare|granatkastare
+GE91X|Granatkastarsoldat|granatkastare
+GE91Y|Granatkastarsoldat förare|granatkastare
+GE90Y|Förare granatkastarpansarbandvagn|grkpbv
+GE90X|Laddare granatkastarpansarbandvagn|grkpbv
+GE80Y|Vagnchef granatkastarpansarbandvagn|grkpbv
+GA73X|Skytteplutonbefäl Högvakt|hogvakt
+GA85X|Skyttegruppchef Högvakt|hogvakt
+GA93X|Skyttesoldat Högvakt|hogvakt
+GA95Y|Skyttesoldat Högvakt förare|hogvakt
+JE70X|Ingenjörbandvagn/brobandvagnbefäl|ingbv
+JE80X|Ingenjörbandvagn/brobandvagnsgruppbefäl|ingbv
+JE90Y|Ingenjörbandvagn/ brobandvagnsförare|ingbv
+JF70X|Ingenjörplutonbefäl|ingenjor
+JF80X|Ingenjörgruppbefäl|ingenjor
+JF80Y|Ingenjörgruppbefäl förare|ingenjor
+JF90X|Ingenjörsoldat|ingenjor
+JF90Y|Ingenjörsoldat förare|ingenjor
+JF82Z|Ingenjörgruppbefäl dykare|ingenjordykare
+JF92Z|Ingenjörsoldat dykare|ingenjordykare
+JF92Y|Ingenjörsoldat dykare förare|ingenjordykare

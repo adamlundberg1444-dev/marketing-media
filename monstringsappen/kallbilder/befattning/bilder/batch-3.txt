@@ -1,0 +1,61 @@
+HY77Y|Plutonsbefäl Amfibie|amfibie
+HY87Y|Amfibiegruppbefäl|amfibie
+HY97Y|Amfibiesoldat|amfibie
+HT87X|Basskyddsgruppbefäl|basskydd
+HT77X|Plutonsbefäl BAS|basskydd
+HT97X|Basskyddssoldat|basskydd
+HE97X|Båtförare|batforare
+HE85X|Båtförare befäl Bas|batforare
+HP87X|Eldledningsgruppbefäl Amfibie|eldledning_amfibie
+HP97X|Eldledningssoldat Amfibie|eldledning_amfibie
+HL90X|Systemtekniker|fartygsteknik
+ND97X|Fordonsmekaniker Marinen|fartygsteknik
+ND93X|Motormekaniker Marinen|fartygsteknik
+HO90X|Stridsfartygsmotorman|fartygsteknik
+HO91X|Stridsfartygsmotorman Ubåt|fartygsteknik
+HL92X|Systemtekniker Sjö|fartygsteknik
+HL91X|Systemtekniker Ubåt|fartygsteknik
+HM90X|Vapentekniker|fartygsteknik
+MD87X|Kokgruppbefäl Bas|kock
+MD97X|Kock Bas|kock
+MD87Z|Kokgruppbefäl Amfibie|kock_amfibie
+MD97Z|Kock Amfibie|kock_amfibie
+HU83Y|Kokgruppbefäl Sjö|kock_sjo
+HU97Y|Kock Sjö|kock_sjo
+HU97X|Kock Ubåt|kock_ubat
+HU87X|Kokgruppbefäl Ubåt|kock_ubat
+MA87X|Logistikgruppbefäl Amfibie|logistik_amfibie
+MA97X|Logistiksoldat Amfibie|logistik_amfibie
+MA97Z|Logistiksoldat Marinen|logistik_amfibie
+HJ86X|Mingruppbefäl|mine
+HJ87X|Mingruppbefäl Amfibie|mine
+HJ96X|Minsoldat|mine
+HJ97Y|Minsoldat Amfibie|mine
+HP87Z|Robot-grkgruppbefäl Amfibie|robot_grk_amfibie
+HP97Z|Robot-/grksoldat Amfibie|robot_grk_amfibie
+HK87X|Röjdykare befäl|rojdykare
+PA87X|Säkerhetsgruppbefäl Sjö|sak_sjo
+PA97Y|Säksoldat Sjö|sak_sjo
+HB87Y|Sambandgruppbefäl Amfibie|samband_amfibie
+HB97Y|Sambandssoldat Amfibie|samband_amfibie
+HB87Z|Sambandgruppbefäl Bas|samband_bas
+HB97Z|Sambandsoperatör Bas|samband_bas
+HB85X|Sambandgruppbefäl Sjö|samband_sjo
+HB94X|Sambandsoperatör Ubåt|samband_ubat
+HE97Q|Signalmatros Sjö|signalmatros
+HD97X|Signalspaningoperatör|signalspaning
+HD85X|Signalspaningoperatör befäl|signalspaning
+HC87Z|Sjöövervakningoperatör befäl|sjoovervakning
+HC97X|Sjöövervakningoperatör|sjoovervakning
+MH87X|Sjukvårdsgruppbefäl Amfibie|sjukvard_amfibie
+MH97X|Sjukvårdssoldat Amfibie|sjukvard_amfibie
+HX97X|Sonaroperatör aktiv|sonar
+HX87X|Sonaroperatör aktiv  befäl|sonar
+HF90Y|Sonaroperatör passiv Ubåt|sonar_passiv
+HF85Z|Sonaroperatör passiv befäl|sonar_passiv
+HF98X|Sonaroperatör Passiv|sonar_passiv
+HE83X|Stridsbåtsförare befäl Amfibie|stridsbat
+HE97T|Stridsbåtsförare|stridsbat
+ND87X|Mekanikergruppbefäl Amfibie|teknik_amfibie
+HL93Z|Tekniksoldat Amfibie|teknik_amfibie
+HO97Z|Mekaniker Amfibie|teknik_amfibie
