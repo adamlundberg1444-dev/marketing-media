@@ -1,0 +1,202 @@
+{
+  "niches": [
+    {
+      "name": "skepparexamen",
+      "verdict": "KOR",
+      "motivering": "Den enda nischen i körningen med BEVISAD betalvilja och en trött marknadsledare. Båtkörkortet tar 129 kr och har 166 recensioner men uppdaterades senast 2024-04-01 — två år gammal. NFB Båtintyg är förarintygets egen organisation, tar 99 kr och ligger på 3,1. Sex träffar totalt i hela sökresultatet.",
+      "byggbarhet": "Ja. Frågebank plus provsimulering är exakt Mönstringsappens mall. Kunskapsfordringarna för förarintyg är publicerade av NFB, så innehållet går att strukturera utan att kopiera någon annans frågor — de måste skrivas av oss.",
+      "innehallskalla": "NFB:s kunskapsfordringar för förarintyg och kustskepparintyg (publika). Sjövägsregler och lanternor är författningstext. Frågorna skriver vi själva.",
+      "betalvilja": "Bevisad: två konkurrenter tar 99 respektive 129 kr och den dyrare har 166 recensioner. Förarintyget kostar flera tusen kronor i kursavgift, så en app på hundralappen är en marginell utgift för den som ändå ska ta det.",
+      "risk43": "Låg. Ingen av våra befintliga appar rör sjöfart.",
+      "konkurrentsvaghet": "Ledaren är två år gammal. Organisationens egen app ligger på 3,1. Ingen har ett modernt gränssnitt eller provsimulering med statistik.",
+      "kandidat": "forarintyg"
+    },
+    {
+      "name": "brandfarliga heta arbeten",
+      "verdict": "KANSKE",
+      "motivering": "Tunnaste konkurrensen i hela den svenska körningen — EN app, 17 recensioner, 3,6. Men samtliga appar i nischen är gratis, och certifikatet kräver en kurs med lärarledd examination. Man kan inte plugga sig till behörigheten, och arbetsgivaren betalar kursen. Ingen har visat att någon vill betala för en app här.",
+      "byggbarhet": "Ja, tekniskt trivialt.",
+      "innehallskalla": "Brandskyddsföreningens och SVEBRA:s regelverk är publika.",
+      "betalvilja": "Obevisad, och det är invändningen. Alla konkurrenter är gratis.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "En enda app, medelmåttigt betyg."
+    },
+    {
+      "name": "korsord hjälp",
+      "verdict": "KANSKE",
+      "motivering": "Lägsta svårigheten i körningen (7). Korsordshjälp har 113 recensioner, tvåan har 4. Ett verktyg som löser mönster i en svensk ordlista är byggbart på några dagar och har en tydlig, återkommande användning.",
+      "byggbarhet": "Ja, men kräver en fri svensk ordlista med böjningsformer och en snabb mönstersökning. En extra dags arbete med datat.",
+      "innehallskalla": "Fria ordlistor (DSSO, Folkets lexikon). Licenserna måste läsas innan något byggs.",
+      "betalvilja": "Osäker. Korsordslösare är en klassisk engångsköpsprodukt, men målgruppen är äldre och priskänslig.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Ledaren är ensam; allt under henne har enstaka recensioner."
+    },
+    {
+      "name": "ränta på ränta: sparkalkylator",
+      "verdict": "KANSKE",
+      "motivering": "Högsta möjlighetspoängen i körningen (71) och bara två konkurrenter, med 1 respektive 5 recensioner. Men en kalkylator är svår att ta betalt för, och nischnamnet är i sig en apptitel — signalen kan vara ekot av en svag app snarare än en efterfrågan.",
+      "byggbarhet": "Ja, en dag.",
+      "innehallskalla": "Ingen — ren räknelogik.",
+      "betalvilja": "Svag. Gratis kalkylatorer finns överallt, även i Google.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Två appar, båda utan fäste."
+    },
+    {
+      "name": "tidrapportering",
+      "verdict": "KANSKE",
+      "motivering": "Körningens starkaste efterfrågan (100) och samma splittrade marknad som i går: 7, 9, 26 och 57 recensioner i toppen. Vi har redan byggt appen — Timmar ligger i Documents/Projekt/Timmar och väntar på inskick. Nischen är alltså inte ledig, den är påbörjad.",
+      "byggbarhet": "Redan byggd.",
+      "innehallskalla": "Kollektivavtalens OB-tider, verifierade i juli 2026.",
+      "betalvilja": "Oprövad — appen är gratis i dag.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Ingen konkurrent räknar OB, bara timmar."
+    },
+    {
+      "name": "läsförståelse",
+      "verdict": "KANSKE",
+      "motivering": "Fortfarande samma bild som i går: svag konkurrens men ett rörigt sökresultat där snabbläsning, HP-coach och dyslexityposnitt blandas. Ingen äger begreppet — eller så söker för få det för att någon ska bry sig.",
+      "byggbarhet": "Ja, men innehållet är texter plus frågor, alltså verklig produktion.",
+      "innehallskalla": "Egenproducerade texter, eller public domain.",
+      "betalvilja": "Osäker.",
+      "risk43": "Gränsar till HPHome och Integro.",
+      "konkurrentsvaghet": "Ingen med fäste."
+    },
+    {
+      "name": "min biodling",
+      "verdict": "KANSKE",
+      "motivering": "Liten men engagerad målgrupp, alla konkurrenter under 30 recensioner. En kupdagbok är enkel att bygga och har en säsong som återkommer varje år. Frågan är fortfarande om marknaden är stor nog för att synas i intäkterna.",
+      "byggbarhet": "Ja, ren loggbok.",
+      "innehallskalla": "Ingen.",
+      "betalvilja": "Biodlare köper utrustning för tusenlappar, så en app på hundralappen är rimlig.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Fyra appar, ingen över 30 recensioner."
+    },
+    {
+      "name": "lavinprognoser",
+      "verdict": "KANSKE",
+      "motivering": "Nästan ingen konkurrens, men prognoserna kommer från Naturvårdsverkets lavinprognoser och kräver löpande datainhämtning. Dessutom ett ansvar: en app som visar fel lavinfara kan bidra till att någon dör.",
+      "byggbarhet": "Kräver dataintegration, inte bara innehåll.",
+      "innehardskalla": "Naturvårdsverket.",
+      "innehallskalla": "Naturvårdsverkets lavinprognoser.",
+      "betalvilja": "Osäker.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Två appar utan recensioner."
+    },
+    {
+      "name": "ivt värmepump",
+      "verdict": "KANSKE",
+      "motivering": "Ovanligt tydlig missnöjd marknad: IVT Anywhere II har 521 recensioner på 2,9 och IVT Anywhere 130 på 1,4. Men det är tillverkarens egna appar som styr hårdvaran — vi kan inte bygga en ersättare utan deras API.",
+      "byggbarhet": "Nej, inte utan tillverkarens gränssnitt.",
+      "innehallskalla": "Saknas.",
+      "betalvilja": "Irrelevant.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Uselt betyg, men inlåst bakom hårdvaran."
+    },
+    {
+      "name": "stegräknare widget",
+      "verdict": "SKIPPA",
+      "motivering": "Apple Health räknar redan steg och visar dem i en widget. Det finns ingen lucka."
+    },
+    {
+      "name": "teoriprov för jägarexamen",
+      "verdict": "SKIPPA",
+      "motivering": "Jägarexamen har 5025 recensioner på 4,8 och säljs för 349 kr. Nischen är tagen av en app som är både etablerad och omtyckt."
+    },
+    {
+      "name": "naturvårdsverket teoriprov",
+      "verdict": "SKIPPA",
+      "motivering": "Samma jägarexamenskluster. Huvudappen dominerar hela nischen."
+    },
+    {
+      "name": "svensk teckenspråkslexikon",
+      "verdict": "SKIPPA",
+      "motivering": "Hög efterfrågan och missnöjd marknad, men ett teckenspråkslexikon kräver filmade tecken. Fel sorts innehållsproduktion för oss."
+    },
+    {
+      "name": "korsord svenska lätt",
+      "verdict": "SKIPPA",
+      "motivering": "Ledarna har 793, 294 och 160 recensioner på 4,1–4,6. Ingen lucka."
+    },
+    {
+      "name": "teoriprov mc",
+      "verdict": "SKIPPA",
+      "motivering": "iKörkort MC har 3105 recensioner och Ta Körkort 32 018. Körkortsteori är den hårdaste svenska nischen som finns."
+    },
+    {
+      "name": "skanna qr kod gratis",
+      "verdict": "SKIPPA",
+      "motivering": "iOS skannar QR-koder inbyggt i kameran, och QR Reader har 36 589 recensioner."
+    },
+    {
+      "name": "valutaomvandlare valutakurser*",
+      "verdict": "SKIPPA",
+      "motivering": "Ledaren har 5406 recensioner på 4,7. Dessutom kräver valutakurser löpande data."
+    },
+    {
+      "name": "interrail eurail",
+      "verdict": "SKIPPA",
+      "motivering": "Omio har 19 934 recensioner och de officiella apparna äger nischen. Tågdata är dyr att hålla färsk."
+    },
+    {
+      "name": "körjournal från driversnote",
+      "verdict": "SKIPPA",
+      "motivering": "Nischnamnet är en apptitel. Driversnote har 2008 recensioner på 4,6."
+    },
+    {
+      "name": "glutenfritt",
+      "verdict": "SKIPPA",
+      "motivering": "Kräver en produktdatabas med streckkoder som måste hållas färsk. eatersmap har 386 recensioner, Find Me Gluten Free 147."
+    },
+    {
+      "name": "kaloriräknare och matspårare",
+      "verdict": "SKIPPA",
+      "motivering": "Marknaden är full av AI-kaloriräknare med bildigenkänning. Fel teknikhöjd för oss."
+    },
+    {
+      "name": "orientering karta",
+      "verdict": "SKIPPA",
+      "motivering": "Kräver kartdata och GPS-lager. Tyngre än vi klarar på rimlig tid."
+    },
+    {
+      "name": "radon eye",
+      "verdict": "SKIPPA",
+      "motivering": "Nischnamnet är en apptitel för en hårdvarumätare. Ingen app utan mätaren."
+    },
+    {
+      "name": "2ma körjournal",
+      "verdict": "SKIPPA",
+      "motivering": "Nischnamnet är en apptitel utan recensioner — ett rent appnamnseko, inte en sökning."
+    },
+    {
+      "name": "svensk innebandy",
+      "verdict": "SKIPPA",
+      "motivering": "Förbundets officiella app har 858 recensioner på 1,8. Missnöjd marknad, men matchdata ägs av förbundet."
+    },
+    {
+      "name": "sluta röka gratis",
+      "verdict": "SKIPPA",
+      "motivering": "Delfrasen är öppen men huvudnischen domineras av Rökfri. Beteendeförändring kräver dessutom mer än en räknare för att ge värde."
+    },
+    {
+      "name": "tyska stater - geografi quiz",
+      "verdict": "SKIPPA",
+      "motivering": "En app med två recensioner. Marknaden är för liten för att synas."
+    },
+    {
+      "name": "usa städer & huvudstäder",
+      "verdict": "SKIPPA",
+      "motivering": "Samma sak: geografiquiz utan urskiljbar efterfrågan."
+    },
+    {
+      "name": "3d-animerade akvarium",
+      "verdict": "SKIPPA",
+      "motivering": "Nischnamnet är en apptitel. Bakgrundsbilder är inte vår sorts produkt."
+    },
+    {
+      "name": "veganskt och fika i skåne ab",
+      "verdict": "SKIPPA",
+      "motivering": "Apptitel, inte en sökfras. Lokal restaurangguide kräver löpande redaktionellt arbete."
+    }
+  ],
+  "forslag": null
+}

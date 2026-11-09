@@ -1,0 +1,86 @@
+{
+  "niches": [
+    {
+      "name": "medborgerskabsprøven",
+      "verdict": "KOR",
+      "motivering": "Körningens tydligaste fynd. Danmark har TVÅ obligatoriska prov — indfødsretsprøven för medborgarskap och medborgerskabsprøven för permanent uppehållstillstånd — och ingen app har fäste i någondera. Bästa konkurrenten har 4 recensioner. Vi har redan byggt exakt den här appen för Sverige, så bygget är en port och inte ett nytt projekt.",
+      "byggbarhet": "Ja, och billigast av allt i körningen: Medborgarskapsprovets struktur, lektioner, quiz och provsimulering finns redan. Det som byts ut är innehållet och språket.",
+      "innehallskalla": "Undervisningsministeriets läromedel till indfødsretsprøven är publikt, liksom tidigare provfrågor. Materialet är på danska och måste läsas av någon som kan språket — det är projektets verkliga kostnad.",
+      "betalvilja": "Samma som i Sverige: provet är obligatoriskt för medborgarskap, avgiftsbelagt, och ges två gånger om året. Den som missar väntar ett halvår. Det är precis den situation där folk betalar för att plugga rätt.",
+      "risk43": "Reell och måste hanteras. Medborgarskapsprovet finns redan i vårt konto, och Apple avvisar appar som bara byter innehåll i samma skal. En dansk app måste vara en egen produkt med eget namn, egna skärmbilder och eget innehåll — inte en lokalisering av den svenska.",
+      "konkurrentsvaghet": "Sex appar, den bästa har fyra recensioner. Ingen har en fullständig frågebank för båda proven.",
+      "kandidat": "indfodsretsproven"
+    },
+    {
+      "name": "jagtprøve",
+      "verdict": "KANSKE",
+      "motivering": "Bara EN app i sökresultatet — Jægerappen med 129 recensioner på 4,4. Danska jagttegn tas av tusentals varje år. Betydligt svagare konkurrens än den svenska jägarexamen, där ledaren har 5025 recensioner.",
+      "byggbarhet": "Ja, samma mall som förarintyg.",
+      "innehallskalla": "Naturstyrelsens jagtprøve-material är publikt. Artkännedom kräver bilder — det är arbetet.",
+      "betalvilja": "Sannolik: jagttegn kostar kursavgift, och svenska motsvarigheten säljs för 349 kr.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "En ensam app med gott men inte överväldigande fäste."
+    },
+    {
+      "name": "varmt arbejde",
+      "verdict": "KANSKE",
+      "motivering": "En app, DBI Certifikater, med tre recensioner. Samma nisch som den svenska och norska heta arbeten — och samma invändning: kursen är obligatorisk och betalas av arbetsgivaren.",
+      "byggbarhet": "Ja.",
+      "innehallskalla": "DBI:s regelverk.",
+      "betalvilja": "Obevisad.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Praktiskt taget ingen konkurrent."
+    },
+    {
+      "name": "teoriprøver gratis",
+      "verdict": "KANSKE",
+      "motivering": "Ovanligt: den danska körkortsteorin har en betydligt svagare ledare än den svenska och norska. Teoriprøven - bil har 121 recensioner mot iKörkorts 3105. Tio fraser i klustret, alltså bred efterfrågan. Men körkortsteori kräver aktuella vägmärken och regeländringar, och innehållsmängden är stor.",
+      "byggbarhet": "Ja, men den största innehållsproduktionen av alla kandidater.",
+      "innehallskalla": "Færdselsstyrelsens material.",
+      "betalvilja": "Bevisad i alla nordiska länder.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Ledaren har bara 121 recensioner — svagast i Norden."
+    },
+    {
+      "name": "digital jagttegn",
+      "verdict": "SKIPPA",
+      "motivering": "Missnöjd marknad (2,6 och 2,1 i betyg) men \"digitalt jagttegn\" är den officiella licensen som visas upp vid kontroll. Det är en myndighetsfunktion vi inte kan bygga."
+    },
+    {
+      "name": "mit fisketegn",
+      "verdict": "SKIPPA",
+      "motivering": "Samma sak — det officiella fiskekortet, utfärdat av staten."
+    },
+    {
+      "name": "dit digitale vaccinationskort",
+      "verdict": "SKIPPA",
+      "motivering": "Vaccinationsdata ligger hos sundhed.dk. Min Læge har 5152 recensioner."
+    },
+    {
+      "name": "maddagbog kalorier måltider",
+      "verdict": "SKIPPA",
+      "motivering": "Kaloriräkning, global kategori."
+    },
+    {
+      "name": "menstruationskalender: raheva",
+      "verdict": "SKIPPA",
+      "motivering": "Apptitel, inte en sökfras. Perioduppföljning ägs globalt av Flo och Clue."
+    },
+    {
+      "name": "hækling",
+      "verdict": "SKIPPA",
+      "motivering": "Virkning, global kategori."
+    },
+    {
+      "name": "engelsk grammatik",
+      "verdict": "SKIPPA",
+      "motivering": "44 appar och ingen språkfördel — engelsk grammatik lärs ut likadant överallt."
+    },
+    {
+      "name": "jægerappen - jagttegn artsquiz",
+      "verdict": "SKIPPA",
+      "motivering": "Apptitel, inte en sökfras. Ekot av konkurrenten i jagtprøve-nischen."
+    }
+  ],
+  "forslag": null
+}

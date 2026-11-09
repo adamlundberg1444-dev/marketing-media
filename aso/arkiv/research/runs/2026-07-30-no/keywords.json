@@ -1,0 +1,947 @@
+{
+  "market": "no",
+  "mode": "nisch",
+  "app": null,
+  "fronFil": "teman.no.json",
+  "keywords": [
+    {
+      "term": "teoriprøven - mc",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "statsborgerprøven 2026 øving",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "statsborgerprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven – bil",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven moped",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven mc",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven traktor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven - eteo",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "båtførerprøven.no",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "båtførerprøven quiz",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "båtførerprøven 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "jegerprøveneksamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jegerprøven",
+      "depth": 0
+    },
+    {
+      "term": "jegerprøven øving 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jegerprøven",
+      "depth": 0
+    },
+    {
+      "term": "jegerquiz: øv til jegerprøven",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jegerprøven",
+      "depth": 0
+    },
+    {
+      "term": "jegerprøveeksamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jegerprøveeksamen",
+      "depth": 0
+    },
+    {
+      "term": "statsborgerprøven 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "statsborgerprøven",
+      "depth": 0
+    },
+    {
+      "term": "samfunn & statsborgerprøven",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "statsborgerprøven",
+      "depth": 0
+    },
+    {
+      "term": "norskprøven: norwegian a2 b1",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "norskprøven",
+      "depth": 0
+    },
+    {
+      "term": "varme arbeider",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "varme arbeider",
+      "depth": 0
+    },
+    {
+      "term": "gangetabellen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "gangetabellen",
+      "depth": 0
+    },
+    {
+      "term": "søvndagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "søvndagbok",
+      "depth": 0
+    },
+    {
+      "term": "morfei søvndagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "søvndagbok",
+      "depth": 0
+    },
+    {
+      "term": "søvndagbok fra vei helse",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "søvndagbok",
+      "depth": 0
+    },
+    {
+      "term": "matdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "matdagbok",
+      "depth": 0
+    },
+    {
+      "term": "matdagbok kalorier måltider",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "matdagbok",
+      "depth": 0
+    },
+    {
+      "term": "menstruasjonskalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menstruasjonskalender",
+      "depth": 0
+    },
+    {
+      "term": "min menstruasjonskalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menstruasjonskalender",
+      "depth": 0
+    },
+    {
+      "term": "menstruasjonskalender gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menstruasjonskalender",
+      "depth": 0
+    },
+    {
+      "term": "pollenvarsel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "pollenvarsel",
+      "depth": 0
+    },
+    {
+      "term": "naaf pollenvarsel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "pollenvarsel",
+      "depth": 0
+    },
+    {
+      "term": "skredvarsel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "skredvarsel",
+      "depth": 0
+    },
+    {
+      "term": "hyttebok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hyttebok",
+      "depth": 0
+    },
+    {
+      "term": "hekling",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hekling",
+      "depth": 0
+    },
+    {
+      "term": "båtførerprøven",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "jegerprøven",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "jegerprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "norsk grammatikk",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "norsk grammatikk",
+      "depth": 0
+    },
+    {
+      "term": "studieteknikk",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "studieteknikk",
+      "depth": 0
+    },
+    {
+      "term": "timeliste",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "timeliste",
+      "depth": 0
+    },
+    {
+      "term": "hyttepermen – hyttebok & tur",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "hyttebok",
+      "depth": 0
+    },
+    {
+      "term": "båtførerprøven - fritidsbåt",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "båtførerappen - båtførerprøven",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "båtførerprøven - bestå prøven",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "båtførerprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriappen: bestå teoriprøven",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "teoriprøven nå b-førerkort",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "teoriprøven",
+      "depth": 0
+    },
+    {
+      "term": "trafikkregler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "trafikkregler",
+      "depth": 0
+    },
+    {
+      "term": "førerkort klasse b",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "førerkort klasse b",
+      "depth": 0
+    },
+    {
+      "term": "mopedførerbevis",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "mopedførerbevis",
+      "depth": 0
+    },
+    {
+      "term": "motorsykkel førerkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "motorsykkel førerkort",
+      "depth": 0
+    },
+    {
+      "term": "statsborgerprøven",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "statsborgerprøven",
+      "depth": 0
+    },
+    {
+      "term": "samfunnskunnskapsprøven",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "samfunnskunnskapsprøven",
+      "depth": 0
+    },
+    {
+      "term": "norskprøven",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "norskprøven",
+      "depth": 0
+    },
+    {
+      "term": "bergenstesten",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bergenstesten",
+      "depth": 0
+    },
+    {
+      "term": "truckførerbevis",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "truckførerbevis",
+      "depth": 0
+    },
+    {
+      "term": "kranførerbevis",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kranførerbevis",
+      "depth": 0
+    },
+    {
+      "term": "maskinførerbevis",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "maskinførerbevis",
+      "depth": 0
+    },
+    {
+      "term": "stillasbygging",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "stillasbygging",
+      "depth": 0
+    },
+    {
+      "term": "fallsikring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fallsikring",
+      "depth": 0
+    },
+    {
+      "term": "arbeid i høyden",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arbeid i høyden",
+      "depth": 0
+    },
+    {
+      "term": "førstehjelpskurs",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "førstehjelpskurs",
+      "depth": 0
+    },
+    {
+      "term": "hlr kurs",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hlr kurs",
+      "depth": 0
+    },
+    {
+      "term": "brannvern kurs",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "brannvern kurs",
+      "depth": 0
+    },
+    {
+      "term": "matsikkerhet hygiene",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "matsikkerhet hygiene",
+      "depth": 0
+    },
+    {
+      "term": "adr farlig gods",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "adr farlig gods",
+      "depth": 0
+    },
+    {
+      "term": "drone dronesertifikat",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "drone dronesertifikat",
+      "depth": 0
+    },
+    {
+      "term": "vhf radiosertifikat",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vhf radiosertifikat",
+      "depth": 0
+    },
+    {
+      "term": "våpensøknad",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "våpensøknad",
+      "depth": 0
+    },
+    {
+      "term": "fiskekort norge",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fiskekort norge",
+      "depth": 0
+    },
+    {
+      "term": "sikkerhetskurs sjø",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sikkerhetskurs sjø",
+      "depth": 0
+    },
+    {
+      "term": "eksamen matematikk",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "eksamen matematikk",
+      "depth": 0
+    },
+    {
+      "term": "brøkregning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "brøkregning",
+      "depth": 0
+    },
+    {
+      "term": "nynorsk rettskriving",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "nynorsk rettskriving",
+      "depth": 0
+    },
+    {
+      "term": "engelsk grammatikk",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "engelsk grammatikk",
+      "depth": 0
+    },
+    {
+      "term": "kjemi formler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kjemi formler",
+      "depth": 0
+    },
+    {
+      "term": "fysikk formler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fysikk formler",
+      "depth": 0
+    },
+    {
+      "term": "periodesystemet",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "periodesystemet",
+      "depth": 0
+    },
+    {
+      "term": "kildekritikk",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kildekritikk",
+      "depth": 0
+    },
+    {
+      "term": "kildehenvisning apa",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kildehenvisning apa",
+      "depth": 0
+    },
+    {
+      "term": "glosetrening",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "glosetrening",
+      "depth": 0
+    },
+    {
+      "term": "eksamensangst",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "eksamensangst",
+      "depth": 0
+    },
+    {
+      "term": "boliglånskalkulator",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "boliglånskalkulator",
+      "depth": 0
+    },
+    {
+      "term": "egenkapital bolig",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "egenkapital bolig",
+      "depth": 0
+    },
+    {
+      "term": "renteberegning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "renteberegning",
+      "depth": 0
+    },
+    {
+      "term": "skattekalkulator",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skattekalkulator",
+      "depth": 0
+    },
+    {
+      "term": "nettolønn",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "nettolønn",
+      "depth": 0
+    },
+    {
+      "term": "feriepenger beregning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "feriepenger beregning",
+      "depth": 0
+    },
+    {
+      "term": "overtidsbetaling",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "overtidsbetaling",
+      "depth": 0
+    },
+    {
+      "term": "sykepenger",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sykepenger",
+      "depth": 0
+    },
+    {
+      "term": "foreldrepenger",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "foreldrepenger",
+      "depth": 0
+    },
+    {
+      "term": "dagpenger nav",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "dagpenger nav",
+      "depth": 0
+    },
+    {
+      "term": "pensjon beregning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "pensjon beregning",
+      "depth": 0
+    },
+    {
+      "term": "aksjesparekonto skatt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "aksjesparekonto skatt",
+      "depth": 0
+    },
+    {
+      "term": "mva beregning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "mva beregning",
+      "depth": 0
+    },
+    {
+      "term": "enkeltpersonforetak regnskap",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "enkeltpersonforetak regnskap",
+      "depth": 0
+    },
+    {
+      "term": "kjøregodtgjørelse",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kjøregodtgjørelse",
+      "depth": 0
+    },
+    {
+      "term": "diett reise",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "diett reise",
+      "depth": 0
+    },
+    {
+      "term": "blodtrykk dagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "blodtrykk dagbok",
+      "depth": 0
+    },
+    {
+      "term": "blodsukker logg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "blodsukker logg",
+      "depth": 0
+    },
+    {
+      "term": "medisinpåminnelse",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "medisinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "migrenedagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "migrenedagbok",
+      "depth": 0
+    },
+    {
+      "term": "smertedagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "smertedagbok",
+      "depth": 0
+    },
+    {
+      "term": "eggløsningskalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "eggløsningskalender",
+      "depth": 0
+    },
+    {
+      "term": "ammelogg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ammelogg",
+      "depth": 0
+    },
+    {
+      "term": "vaksinasjonskort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vaksinasjonskort",
+      "depth": 0
+    },
+    {
+      "term": "allergikalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "allergikalender",
+      "depth": 0
+    },
+    {
+      "term": "bekkenbunnstrening",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bekkenbunnstrening",
+      "depth": 0
+    },
+    {
+      "term": "rehabilitering kne",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "rehabilitering kne",
+      "depth": 0
+    },
+    {
+      "term": "turkart merking",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "turkart merking",
+      "depth": 0
+    },
+    {
+      "term": "allemannsretten",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "allemannsretten",
+      "depth": 0
+    },
+    {
+      "term": "fjellvettreglene",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fjellvettreglene",
+      "depth": 0
+    },
+    {
+      "term": "knuter tau",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "knuter tau",
+      "depth": 0
+    },
+    {
+      "term": "fiskeknuter",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fiskeknuter",
+      "depth": 0
+    },
+    {
+      "term": "soppguide norge",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "soppguide norge",
+      "depth": 0
+    },
+    {
+      "term": "byggesøknad",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "byggesøknad",
+      "depth": 0
+    },
+    {
+      "term": "tomtegrense",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tomtegrense",
+      "depth": 0
+    },
+    {
+      "term": "radonmåling",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "radonmåling",
+      "depth": 0
+    },
+    {
+      "term": "varmepumpe beregning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "varmepumpe beregning",
+      "depth": 0
+    },
+    {
+      "term": "strømforbruk hus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "strømforbruk hus",
+      "depth": 0
+    },
+    {
+      "term": "solceller beregning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "solceller beregning",
+      "depth": 0
+    },
+    {
+      "term": "strømpris time",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "strømpris time",
+      "depth": 0
+    },
+    {
+      "term": "vedfyring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vedfyring",
+      "depth": 0
+    },
+    {
+      "term": "hundetrening kommandoer",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hundetrening kommandoer",
+      "depth": 0
+    },
+    {
+      "term": "valpekurs",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "valpekurs",
+      "depth": 0
+    },
+    {
+      "term": "hesteforing",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hesteforing",
+      "depth": 0
+    },
+    {
+      "term": "akvarium vannverdier",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "akvarium vannverdier",
+      "depth": 0
+    },
+    {
+      "term": "birøkt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "birøkt",
+      "depth": 0
+    },
+    {
+      "term": "sauehold",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sauehold",
+      "depth": 0
+    },
+    {
+      "term": "gitargrep",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gitargrep",
+      "depth": 0
+    },
+    {
+      "term": "noteopplæring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "noteopplæring",
+      "depth": 0
+    },
+    {
+      "term": "strikkeoppskrift",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "strikkeoppskrift",
+      "depth": 0
+    },
+    {
+      "term": "surdeigsbrød",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "surdeigsbrød",
+      "depth": 0
+    },
+    {
+      "term": "ølbrygging",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ølbrygging",
+      "depth": 0
+    },
+    {
+      "term": "kjernetemperatur grilling",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kjernetemperatur grilling",
+      "depth": 0
+    }
+  ],
+  "failed": [],
+  "sonderingsfel": [],
+  "cache": {
+    "hits": 12,
+    "misses": 225,
+    "oldestAt": "2026-07-29T23:14:16.814Z",
+    "newestAt": "2026-07-30T01:02:25.166Z"
+  }
+}

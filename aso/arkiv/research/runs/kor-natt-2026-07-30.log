@@ -1,0 +1,79 @@
+[23:13:43] Plan (3000 ms mellan anrop):
+[23:13:43]   se   583 frön (teman.json)  ≈1901 fraser  ≈1008 nischer  ≈ 4562 anrop  ≈3.8 h
+[23:13:43]   no   104 frön (teman.no.json)  ≈ 339 fraser  ≈ 180 nischer  ≈  814 anrop  ≈0.7 h
+[23:13:43]   dk   103 frön (teman.dk.json)  ≈ 336 fraser  ≈ 178 nischer  ≈  806 anrop  ≈0.7 h
+[23:13:43]   us   243 frön (teman.us.json)  ≈ 792 fraser  ≈ 420 nischer  ≈ 1901 anrop  ≈1.6 h
+[23:13:43]   TOTALT ≈8083 anrop ≈6.7 h  ≈1786 nischer
+[23:13:43] Uppskattningen bygger på 2026-07-29 (3,26 fraser per frö). Cachade anrop går på millisekunder, så verklig tid blir kortare — särskilt för se, som delvis är hämtad.
+[23:13:43] --plan: kör inget.
+[23:17:55] Plan (3000 ms mellan anrop):
+[23:17:55]   se   583 frön (teman.json)  ≈1901 fraser  ≈1008 nischer  ≈ 4562 anrop  ≈3.8 h
+[23:17:55]   no   104 frön (teman.no.json)  ≈ 339 fraser  ≈ 180 nischer  ≈  814 anrop  ≈0.7 h
+[23:17:55]   dk   103 frön (teman.dk.json)  ≈ 336 fraser  ≈ 178 nischer  ≈  806 anrop  ≈0.7 h
+[23:17:55]   us   243 frön (teman.us.json)  ≈ 792 fraser  ≈ 420 nischer  ≈ 1901 anrop  ≈1.6 h
+[23:17:55]   TOTALT ≈8083 anrop ≈6.7 h  ≈1786 nischer
+[23:17:55] Uppskattningen bygger på 2026-07-29 (3,26 fraser per frö). Cachade anrop går på millisekunder, så verklig tid blir kortare — särskilt för se, som delvis är hämtad.
+[23:17:55] 
+===== 2026-07-30-se =====
+[23:17:55] expand.js …
+[23:45:49]   ✅ ✅ 1334 sökfraser → /Users/adamlundberg/Documents/Projekt/Marketing/research/runs/2026-07-30-se/keywords.json  (1675 s)
+[23:45:49] competitors.js …
+[23:58:52] Plan (3000 ms mellan anrop):
+[23:58:52]   se   583 frön (teman.json)  ≈1901 fraser  ≈1008 nischer  ≈ 4562 anrop  ≈3.8 h
+[23:58:52]   no   104 frön (teman.no.json)  ≈ 339 fraser  ≈ 180 nischer  ≈  814 anrop  ≈0.7 h
+[23:58:52]   dk   103 frön (teman.dk.json)  ≈ 336 fraser  ≈ 178 nischer  ≈  806 anrop  ≈0.7 h
+[23:58:52]   us   243 frön (teman.us.json)  ≈ 792 fraser  ≈ 420 nischer  ≈ 1901 anrop  ≈1.6 h
+[23:58:52]   TOTALT ≈8083 anrop ≈6.7 h  ≈1786 nischer
+[23:58:52] Uppskattningen bygger på 2026-07-29 (3,26 fraser per frö). Cachade anrop går på millisekunder, så verklig tid blir kortare — särskilt för se, som delvis är hämtad.
+[23:58:52] 
+===== 2026-07-30-se =====
+[23:58:52] expand.js …
+[23:58:52]   ✅ ✅ 1334 sökfraser → /Users/adamlundberg/Documents/Projekt/Marketing/research/runs/2026-07-30-se/keywords.json  (0 s)
+[23:58:52] competitors.js …
+[00:52:00]   ✅ ✅ konkurrenter för 1334 fraser  (3188 s)
+[00:52:00] popularity.js …
+[00:52:00]   ✅ ✅ popularitet (proxy) för 1334 fraser  (0 s)
+[00:52:00] score.js …
+[00:52:00]   ✅ ✅ 645 nischer, 1115 poängsatta fraser, 219 flaggade  (0 s)
+[00:52:00] 
+===== 2026-07-30-no =====
+[00:52:00] expand.js …
+[01:03:13]   ✅ ✅ 133 sökfraser → /Users/adamlundberg/Documents/Projekt/Marketing/research/runs/2026-07-30-no/keywords.json  (672 s)
+[01:03:13] competitors.js …
+[01:09:40]   ✅ ✅ konkurrenter för 133 fraser  (387 s)
+[01:09:40] popularity.js …
+[01:09:40]   ✅ ✅ popularitet (proxy) för 133 fraser  (0 s)
+[01:09:40] score.js …
+[01:09:40]   ✅ ✅ 78 nischer, 100 poängsatta fraser, 33 flaggade  (0 s)
+[01:09:40] 
+===== 2026-07-30-dk =====
+[01:09:40] expand.js …
+[01:21:05]   ✅ ✅ 137 sökfraser → /Users/adamlundberg/Documents/Projekt/Marketing/research/runs/2026-07-30-dk/keywords.json  (684 s)
+[01:21:05] competitors.js …
+[01:27:44]   ✅ ✅ konkurrenter för 137 fraser  (399 s)
+[01:27:44] popularity.js …
+[01:27:44]   ✅ ✅ popularitet (proxy) för 137 fraser  (0 s)
+[01:27:44] score.js …
+[01:27:44]   ✅ ✅ 84 nischer, 109 poängsatta fraser, 28 flaggade  (0 s)
+[01:27:44] 
+===== 2026-07-30-us =====
+[01:27:44] expand.js …
+[02:12:33]   ✅ ✅ 779 sökfraser → /Users/adamlundberg/Documents/Projekt/Marketing/research/runs/2026-07-30-us/keywords.json  (2689 s)
+[02:12:33] competitors.js …
+[02:51:20]   ✅ ✅ konkurrenter för 779 fraser  (2327 s)
+[02:51:20] popularity.js …
+[02:51:20]   ✅ ✅ popularitet (proxy) för 779 fraser  (0 s)
+[02:51:20] score.js …
+[02:51:21]   ✅ ✅ 189 nischer, 776 poängsatta fraser, 3 flaggade  (0 s)
+[02:51:21] 
+===== Klart =====
+[02:51:21]   2026-07-30-se: 645 nischer, 1115 poängsatta fraser, 219 flaggade
+[02:51:21]   2026-07-30-no: 78 nischer, 100 poängsatta fraser, 33 flaggade
+[02:51:21]   2026-07-30-dk: 84 nischer, 109 poängsatta fraser, 28 flaggade
+[02:51:21]   2026-07-30-us: 189 nischer, 776 poängsatta fraser, 3 flaggade
+[02:51:21] 
+Återstår (kräver Claude i sessionen):
+[02:51:21]   steg 5: läs runs/<run>/scores.json, skriv verdicts.json
+[02:51:21]   steg 6: node research/report.js --run <run>
+[02:51:21] 
+Logg: research/runs/kor-natt-2026-07-30.log

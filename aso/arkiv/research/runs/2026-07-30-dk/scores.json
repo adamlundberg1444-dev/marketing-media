@@ -1,0 +1,3204 @@
+{
+  "market": "dk",
+  "mode": "nisch",
+  "app": null,
+  "hamtLimit": 50,
+  "cache": {
+    "expand": {
+      "hits": 9,
+      "misses": 229,
+      "oldestAt": "2026-07-29T23:14:34.756Z",
+      "newestAt": "2026-07-30T01:19:11.101Z"
+    },
+    "competitors": {
+      "hits": 3,
+      "misses": 134,
+      "oldestAt": "2026-07-29T23:14:37.973Z"
+    }
+  },
+  "flagged": [
+    {
+      "term": "traktorkørekort",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "prøve i dansk 3",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "truckcertifikat",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "krancertifikat",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "stilladsopstilling",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "arbejde i højden",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "brandbekæmpelse kursus",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "hygiejnebevis",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "src radiocertifikat",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "våbentilladelse",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "folkeskolens afgangsprøve",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "kildehenvisning apa",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "ssa optagelsesprøve",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "overarbejde tillæg",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "dagpenge sats",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "aktieskat",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "enkeltmandsvirksomhed regnskab",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "allergikalender",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "byggetilladelse",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "skelgrænse",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "radonmåling",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "elforbrug hus",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "fugt i krybekælder",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "kolonihave regler",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "hestefoder",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "bibavl",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "guitargreb",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    },
+    {
+      "term": "ølbrygning",
+      "reason": "inga konkurrenter hittade — ingen marknad eller misslyckad hämtning",
+      "steg": "competitors"
+    }
+  ],
+  "niches": [
+    {
+      "name": "teoriprøver gratis",
+      "score": 265,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "teoriprøver gratis",
+          "demand": 79,
+          "demandRaw": 79,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 21,
+          "components": {
+            "reviews": 0.1493566567779284,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.6666666666666666,
+            "resultDensity": 0.06
+          },
+          "appCount": 3,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 62,
+          "total": 3
+        },
+        {
+          "term": "teoriprøven - bil",
+          "demand": 55,
+          "demandRaw": 79,
+          "ekoFaktor": 0.7,
+          "ekoRecensioner": 121,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 28,
+          "components": {
+            "reviews": 0.13288798331227458,
+            "titleMatch": 0.1,
+            "rating": 0.5306288461538463,
+            "freshness": 0.9,
+            "resultDensity": 0.36
+          },
+          "appCount": 10,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 40,
+          "total": 18
+        },
+        {
+          "term": "teoriprøver",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 38,
+          "components": {
+            "reviews": 0.19883712335919543,
+            "titleMatch": 0.1,
+            "rating": 0.7560317307692307,
+            "freshness": 0.9,
+            "resultDensity": 0.74
+          },
+          "appCount": 10,
+          "ratedCount": 8,
+          "densityCapped": false,
+          "opportunity": 40,
+          "total": 37
+        },
+        {
+          "term": "teoriprøven",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 51,
+          "components": {
+            "reviews": 0.17848063299713166,
+            "titleMatch": 0.7,
+            "rating": 0.736669230769231,
+            "freshness": 0.9,
+            "resultDensity": 0.66
+          },
+          "appCount": 10,
+          "ratedCount": 5,
+          "densityCapped": false,
+          "opportunity": 32,
+          "total": 33
+        },
+        {
+          "term": "teorikortet: bestå teoriprøven",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": 6422,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.19571093874687687,
+            "titleMatch": 0.1,
+            "rating": 0.6616817307692306,
+            "freshness": 0.9,
+            "resultDensity": 0.3
+          },
+          "appCount": 10,
+          "ratedCount": 8,
+          "densityCapped": false,
+          "opportunity": 32,
+          "total": 15
+        },
+        {
+          "term": "kørekort teori",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 39,
+          "components": {
+            "reviews": 0.2601346264729422,
+            "titleMatch": 0,
+            "rating": 0.866074358974359,
+            "freshness": 0.9,
+            "resultDensity": 0.64
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 29,
+          "total": 32
+        },
+        {
+          "term": "teoriprøven - mc",
+          "demand": 24,
+          "demandRaw": 79,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 3,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 40,
+          "components": {
+            "reviews": 0.36748315944517196,
+            "titleMatch": 0.5,
+            "rating": 0.5,
+            "freshness": 0.5,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 14,
+          "total": 2
+        },
+        {
+          "term": "teoriprøven nå b-førerkort",
+          "demand": 12,
+          "demandRaw": 35,
+          "ekoFaktor": 0.35,
+          "ekoRecensioner": 10,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 40,
+          "components": {
+            "reviews": 0.17356544752637082,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 0,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 7,
+          "total": 1
+        },
+        {
+          "term": "teoriprøven - bestå prøven",
+          "demand": 9,
+          "demandRaw": 30,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 28,
+          "components": {
+            "reviews": 0.17440004274992274,
+            "titleMatch": 0.14285714285714285,
+            "rating": 0.4708153846153843,
+            "freshness": 0.8571428571428571,
+            "resultDensity": 0.14
+          },
+          "appCount": 7,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 6,
+          "total": 7
+        },
+        {
+          "term": "teoriprøve",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 47,
+          "components": {
+            "reviews": 0.17421843578053434,
+            "titleMatch": 0.5,
+            "rating": 0.7516320512820509,
+            "freshness": 0.9,
+            "resultDensity": 0.74
+          },
+          "appCount": 10,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 37
+        }
+      ]
+    },
+    {
+      "name": "digital jagttegn",
+      "score": 163,
+      "flags": [
+        "missnöjd marknad",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "digital jagttegn",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 15,
+          "components": {
+            "reviews": 0.2149818469694317,
+            "titleMatch": 0,
+            "rating": 0.05838461538461561,
+            "freshness": 0.375,
+            "resultDensity": 0.16
+          },
+          "appCount": 8,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 55,
+          "total": 8
+        },
+        {
+          "term": "mit jagttegn",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.2002288975577715,
+            "titleMatch": 0,
+            "rating": 0.18594175824175782,
+            "freshness": 0.6,
+            "resultDensity": 0.22
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 53,
+          "total": 11
+        },
+        {
+          "term": "digitalt jagttegn",
+          "demand": 37,
+          "demandRaw": 65,
+          "ekoFaktor": 0.57,
+          "ekoRecensioner": 51,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.17697842752821058,
+            "titleMatch": 0.25,
+            "rating": 0,
+            "freshness": 0.5,
+            "resultDensity": 0.08
+          },
+          "appCount": 4,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 30,
+          "total": 4
+        },
+        {
+          "term": "jagttegn",
+          "demand": 40,
+          "demandRaw": 40,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 37,
+          "components": {
+            "reviews": 0.3626709869183497,
+            "titleMatch": 0.5,
+            "rating": 0.3002211538461541,
+            "freshness": 0.5,
+            "resultDensity": 0.08
+          },
+          "appCount": 4,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 25,
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "medborgerskabsprøven",
+      "score": 107,
+      "flags": [
+        "missnöjd marknad",
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "medborgerskabsprøven",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 23,
+          "components": {
+            "reviews": 0.061225555073775695,
+            "titleMatch": 0.16666666666666666,
+            "rating": 0.4487192307692307,
+            "freshness": 0.8333333333333334,
+            "resultDensity": 0.12
+          },
+          "appCount": 6,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 50,
+          "total": 6
+        },
+        {
+          "term": "medborgerskabsprøven test",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 20,
+          "components": {
+            "reviews": 0.06343633289973145,
+            "titleMatch": 0.2,
+            "rating": 0.21367692307692301,
+            "freshness": 0.8,
+            "resultDensity": 0.1
+          },
+          "appCount": 5,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 16,
+          "total": 5
+        },
+        {
+          "term": "indfødsretsprøven",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 26,
+          "components": {
+            "reviews": 0.04838483311653239,
+            "titleMatch": 0.3,
+            "rating": 0.4017092307692309,
+            "freshness": 0.8,
+            "resultDensity": 0.22
+          },
+          "appCount": 10,
+          "ratedCount": 5,
+          "densityCapped": false,
+          "opportunity": 15,
+          "total": 11
+        },
+        {
+          "term": "indfødsretsprøven ◎",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 23,
+          "components": {
+            "reviews": 0.02966777761718449,
+            "titleMatch": 0.1111111111111111,
+            "rating": 0.55555641025641,
+            "freshness": 0.8888888888888888,
+            "resultDensity": 0.18
+          },
+          "appCount": 9,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 15,
+          "total": 9
+        },
+        {
+          "term": "indfødsretsprøven qcm 2026",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 43,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 11,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "menstruationskalender",
+      "score": 101,
+      "flags": [
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "menstruationskalender",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 45,
+          "components": {
+            "reviews": 0.4427441811368748,
+            "titleMatch": 0,
+            "rating": 0.7312907692307684,
+            "freshness": 0.9,
+            "resultDensity": 0.72
+          },
+          "appCount": 10,
+          "ratedCount": 10,
+          "densityCapped": false,
+          "opportunity": 36,
+          "total": 36
+        },
+        {
+          "term": "clue – menstruationskalender",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 50,
+          "components": {
+            "reviews": 0.47935632651392956,
+            "titleMatch": 0,
+            "rating": 0.8591030769230761,
+            "freshness": 1,
+            "resultDensity": 0.82
+          },
+          "appCount": 10,
+          "ratedCount": 10,
+          "densityCapped": false,
+          "opportunity": 33,
+          "total": 41
+        },
+        {
+          "term": "menstruationskalender gratis",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 51,
+          "components": {
+            "reviews": 0.49303283056032493,
+            "titleMatch": 0,
+            "rating": 0.8388353846153848,
+            "freshness": 1,
+            "resultDensity": 0.82
+          },
+          "appCount": 10,
+          "ratedCount": 10,
+          "densityCapped": false,
+          "opportunity": 32,
+          "total": 41
+        }
+      ]
+    },
+    {
+      "name": "vandreruter",
+      "score": 81,
+      "flags": [
+        "missnöjd marknad"
+      ],
+      "keywords": [
+        {
+          "term": "vandreruter",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 39,
+          "components": {
+            "reviews": 0.341227406029673,
+            "titleMatch": 0.2,
+            "rating": 0.5516692307692304,
+            "freshness": 0.8,
+            "resultDensity": 0.42
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 29,
+          "total": 21
+        },
+        {
+          "term": "vandreruter i danmark",
+          "demand": 42,
+          "demandRaw": 65,
+          "ekoFaktor": 0.64,
+          "ekoRecensioner": 83,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 34,
+          "components": {
+            "reviews": 0.29048134575121076,
+            "titleMatch": 0.1,
+            "rating": 0.5684711538461541,
+            "freshness": 0.8,
+            "resultDensity": 0.3
+          },
+          "appCount": 10,
+          "ratedCount": 8,
+          "densityCapped": false,
+          "opportunity": 28,
+          "total": 15
+        },
+        {
+          "term": "vandreruter på bornholm",
+          "demand": 31,
+          "demandRaw": 65,
+          "ekoFaktor": 0.48,
+          "ekoRecensioner": 26,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 21,
+          "components": {
+            "reviews": 0.21978004760820594,
+            "titleMatch": 0.25,
+            "rating": 0.013553846153845788,
+            "freshness": 0.5,
+            "resultDensity": 0.08
+          },
+          "appCount": 4,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 24,
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "dit digitale vaccinationskort",
+      "score": 75,
+      "flags": [
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "dit digitale vaccinationskort",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.2546471334569901,
+            "titleMatch": 0,
+            "rating": 0.4958241758241755,
+            "freshness": 0.7,
+            "resultDensity": 0.72
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 44,
+          "total": 36
+        },
+        {
+          "term": "vaccinationskort",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 33,
+          "components": {
+            "reviews": 0.3011142481919202,
+            "titleMatch": 0,
+            "rating": 0.3925326923076925,
+            "freshness": 0.8,
+            "resultDensity": 0.74
+          },
+          "appCount": 10,
+          "ratedCount": 8,
+          "densityCapped": false,
+          "opportunity": 31,
+          "total": 37
+        }
+      ]
+    },
+    {
+      "name": "pollental",
+      "score": 65,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "pollental",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 47,
+          "components": {
+            "reviews": 0.4116152759918914,
+            "titleMatch": 0.1,
+            "rating": 0.6975669230769226,
+            "freshness": 0.8,
+            "resultDensity": 0.96
+          },
+          "appCount": 10,
+          "ratedCount": 10,
+          "densityCapped": false,
+          "opportunity": 34,
+          "total": 48
+        },
+        {
+          "term": "dagens pollental",
+          "demand": 44,
+          "demandRaw": 65,
+          "ekoFaktor": 0.67,
+          "ekoRecensioner": 104,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 29,
+          "components": {
+            "reviews": 0.13309552941915126,
+            "titleMatch": 0.1,
+            "rating": 0.7383967032967036,
+            "freshness": 0.8,
+            "resultDensity": 0.22
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 31,
+          "total": 11
+        }
+      ]
+    },
+    {
+      "name": "maddagbog kalorier måltider",
+      "score": 57,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "maddagbog kalorier måltider",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 17,
+          "components": {
+            "reviews": 0.006271458242999608,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.75,
+            "resultDensity": 0.16
+          },
+          "appCount": 8,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 54,
+          "total": 8
+        },
+        {
+          "term": "maddagbog",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 37,
+          "components": {
+            "reviews": 0.13214678346987793,
+            "titleMatch": 0,
+            "rating": 0.900706153846154,
+            "freshness": 0.9,
+            "resultDensity": 0.92
+          },
+          "appCount": 10,
+          "ratedCount": 5,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 46
+        }
+      ]
+    },
+    {
+      "name": "menstruationskalender: raheva",
+      "score": 53,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "menstruationskalender: raheva",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 53,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "varmt arbejde",
+      "score": 51,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "varmt arbejde",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 22,
+          "components": {
+            "reviews": 0.10034333188799373,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 51,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "mit fisketegn",
+      "score": 49,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "mit fisketegn",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 24,
+          "components": {
+            "reviews": 0.1590404182398875,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 49,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "hækling",
+      "score": 49,
+      "flags": [
+        "missnöjd marknad",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "hækling",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 25,
+          "components": {
+            "reviews": 0.1393193982803335,
+            "titleMatch": 0,
+            "rating": 0.17601538461538446,
+            "freshness": 0.8,
+            "resultDensity": 0.86
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 49,
+          "total": 43
+        }
+      ]
+    },
+    {
+      "name": "engelsk grammatik",
+      "score": 47,
+      "flags": [
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "engelsk grammatik",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 27,
+          "components": {
+            "reviews": 0.07161108650435885,
+            "titleMatch": 0,
+            "rating": 0.4567307692307692,
+            "freshness": 0.8,
+            "resultDensity": 0.88
+          },
+          "appCount": 10,
+          "ratedCount": 8,
+          "densityCapped": false,
+          "opportunity": 47,
+          "total": 44
+        }
+      ]
+    },
+    {
+      "name": "jagtprøve",
+      "score": 44,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "jagtprøve",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.3523238920511395,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 44,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "jagtprøven",
+      "score": 44,
+      "flags": [
+        "för lite betygsdata",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "jagtprøven",
+          "demand": 65,
+          "demandRaw": 65,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.3523238920511395,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 44,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "timeseddel",
+      "score": 34,
+      "flags": [
+        "missnöjd marknad",
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "timeseddel",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 27,
+          "components": {
+            "reviews": 0.1899919327102049,
+            "titleMatch": 0,
+            "rating": 0.2551692307692309,
+            "freshness": 0.8,
+            "resultDensity": 0.8
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 34,
+          "total": 40
+        }
+      ]
+    },
+    {
+      "name": "duelighedsbevis",
+      "score": 32,
+      "flags": [
+        "obesatt titel"
+      ],
+      "keywords": [
+        {
+          "term": "duelighedsbevis",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 31,
+          "components": {
+            "reviews": 0.30249710958216114,
+            "titleMatch": 0,
+            "rating": 0.5059038461538463,
+            "freshness": 0.7,
+            "resultDensity": 0.46
+          },
+          "appCount": 10,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 32,
+          "total": 23
+        }
+      ]
+    },
+    {
+      "name": "fisketegn",
+      "score": 25,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "fisketegn",
+          "demand": 47,
+          "demandRaw": 47,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 47,
+          "components": {
+            "reviews": 0.4130807348284827,
+            "titleMatch": 0.1,
+            "rating": 0.6637123076923077,
+            "freshness": 1,
+            "resultDensity": 0.8
+          },
+          "appCount": 10,
+          "ratedCount": 10,
+          "densityCapped": false,
+          "opportunity": 25,
+          "total": 40
+        }
+      ]
+    },
+    {
+      "name": "teoriprøver.dk",
+      "score": 21,
+      "flags": [
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "teoriprøver.dk",
+          "demand": 31,
+          "demandRaw": 79,
+          "ekoFaktor": 0.39,
+          "ekoRecensioner": 14,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.13879503076608893,
+            "titleMatch": 0.3333333333333333,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.06
+          },
+          "appCount": 3,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 21,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "name": "jægerappen - jagttegn artsquiz",
+      "score": 20,
+      "flags": [
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "jægerappen - jagttegn artsquiz",
+          "demand": 46,
+          "demandRaw": 65,
+          "ekoFaktor": 0.7,
+          "ekoRecensioner": 129,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 57,
+          "components": {
+            "reviews": 0.3523238920511395,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 20,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "gangetabell",
+      "score": 16,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "gangetabell",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 39,
+          "components": {
+            "reviews": 0.21947338562609595,
+            "titleMatch": 0.1,
+            "rating": 0.7638726495726497,
+            "freshness": 0.9,
+            "resultDensity": 0.72
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 12,
+          "total": 36
+        },
+        {
+          "term": "gangetabel",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 29,
+          "components": {
+            "reviews": 0.14519347296410132,
+            "titleMatch": 0,
+            "rating": 0.6419109890109883,
+            "freshness": 0.7,
+            "resultDensity": 0.64
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 32
+        }
+      ]
+    },
+    {
+      "name": "dansk plus – dansk grammatik",
+      "score": 14,
+      "flags": [
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "dansk plus – dansk grammatik",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 2,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 46,
+          "components": {
+            "reviews": 0.07952020911994374,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 11,
+          "total": 1
+        },
+        {
+          "term": "dansk grammatik",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 43,
+          "components": {
+            "reviews": 0.3409848348755606,
+            "titleMatch": 0.1,
+            "rating": 0.790105982905983,
+            "freshness": 0.6,
+            "resultDensity": 0.9
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 45
+        }
+      ]
+    },
+    {
+      "name": "mine vandreruter",
+      "score": 14,
+      "flags": [
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "mine vandreruter",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 3,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 30,
+          "components": {
+            "reviews": 0.10841916630533177,
+            "titleMatch": 0.5,
+            "rating": 0.5,
+            "freshness": 0.5,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 14,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "gloseprøven!",
+      "score": 13,
+      "flags": [
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "gloseprøven!",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 33,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 0,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 13,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "bliv klar: indfødsretsprøven",
+      "score": 11,
+      "flags": [
+        "för lite betygsdata"
+      ],
+      "keywords": [
+        {
+          "term": "bliv klar: indfødsretsprøven",
+          "demand": 20,
+          "demandRaw": 65,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 3,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 47,
+          "components": {
+            "reviews": 0.10034333188799373,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 11,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "teoriappen: bestå teoriprøven",
+      "score": 5,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "teoriappen: bestå teoriprøven",
+          "demand": 8,
+          "demandRaw": 28,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 37,
+          "components": {
+            "reviews": 0.2752147754273522,
+            "titleMatch": 0.3333333333333333,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.06
+          },
+          "appCount": 3,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 5,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "name": "smertedagbog",
+      "score": 5,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "smertedagbog",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 10,
+          "components": {
+            "reviews": 0.020068666377598746,
+            "titleMatch": 0,
+            "rating": 0,
+            "freshness": 0.7,
+            "resultDensity": 0.22
+          },
+          "appCount": 10,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 5,
+          "total": 11
+        }
+      ]
+    },
+    {
+      "name": "teoritjek: bestå teoriprøven",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "teoritjek: bestå teoriprøven",
+          "demand": 9,
+          "demandRaw": 20,
+          "ekoFaktor": 0.45,
+          "ekoRecensioner": 22,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 52,
+          "components": {
+            "reviews": 0.22695463933626547,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "færdselsregler",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "færdselsregler",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 26,
+          "components": {
+            "reviews": 0.09558080783514494,
+            "titleMatch": 0,
+            "rating": 0.7575743589743591,
+            "freshness": 1,
+            "resultDensity": 0.12
+          },
+          "appCount": 6,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 6
+        }
+      ]
+    },
+    {
+      "name": "motorcykel kørekort",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "motorcykel kørekort",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0.17853579903057348,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.25,
+            "resultDensity": 0.08
+          },
+          "appCount": 4,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "speedbådsbevis",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "speedbådsbevis",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "danskprøve",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "danskprøve",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 20,
+          "components": {
+            "reviews": 0.050171665943996864,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "gaffeltruck",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "gaffeltruck",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 26,
+          "components": {
+            "reviews": 0.10223920746780729,
+            "titleMatch": 0,
+            "rating": 0.7451923076923077,
+            "freshness": 0.4,
+            "resultDensity": 0.7
+          },
+          "appCount": 10,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 35
+        }
+      ]
+    },
+    {
+      "name": "faldsikring",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "faldsikring",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "førstehjælpskursus",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "førstehjælpskursus",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 24,
+          "components": {
+            "reviews": 0.1505149978319906,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "hjertelunge redning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "hjertelunge redning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 24,
+          "components": {
+            "reviews": 0.14994504578779846,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "brøkregning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "brøkregning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 11,
+          "components": {
+            "reviews": 0.10446166253187451,
+            "titleMatch": 0,
+            "rating": 0,
+            "freshness": 0.5714285714285714,
+            "resultDensity": 0.14
+          },
+          "appCount": 7,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 7
+        }
+      ]
+    },
+    {
+      "name": "kemi formler",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "kemi formler",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 13,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.5,
+            "resultDensity": 0.08
+          },
+          "appCount": 4,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "fysik formler",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "fysik formler",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 16,
+          "components": {
+            "reviews": 0.0292964028899589,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.5714285714285714,
+            "resultDensity": 0.14
+          },
+          "appCount": 7,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 7
+        }
+      ]
+    },
+    {
+      "name": "det periodiske system",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "det periodiske system",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 27,
+          "components": {
+            "reviews": 0.11924206309105428,
+            "titleMatch": 0,
+            "rating": 0.5772230769230772,
+            "freshness": 0.7,
+            "resultDensity": 0.68
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 34
+        }
+      ]
+    },
+    {
+      "name": "kildekritik",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "kildekritik",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "studieteknik",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "studieteknik",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.16
+          },
+          "appCount": 8,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 8
+        }
+      ]
+    },
+    {
+      "name": "gloseprøve",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "gloseprøve",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 25,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0.5,
+            "rating": 0.5,
+            "freshness": 0.5,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "eksamensangst",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "eksamensangst",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.14817927086530366,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.5,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "boliglån beregner",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "boliglån beregner",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 24,
+          "components": {
+            "reviews": 0.04295819666395375,
+            "titleMatch": 0,
+            "rating": 0.5235051282051284,
+            "freshness": 1,
+            "resultDensity": 0.42
+          },
+          "appCount": 10,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 21
+        }
+      ]
+    },
+    {
+      "name": "udbetaling bolig",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "udbetaling bolig",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 23,
+          "components": {
+            "reviews": 0.14084967333570947,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "renteberegning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "renteberegning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0.014334761698284819,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.8571428571428571,
+            "resultDensity": 0.14
+          },
+          "appCount": 7,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 7
+        }
+      ]
+    },
+    {
+      "name": "skatteberegner",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "skatteberegner",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 24,
+          "components": {
+            "reviews": 0.22049650401494691,
+            "titleMatch": 0,
+            "rating": 0.3806338461538461,
+            "freshness": 0.7777777777777778,
+            "resultDensity": 0.18
+          },
+          "appCount": 9,
+          "ratedCount": 5,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 9
+        }
+      ]
+    },
+    {
+      "name": "nettoløn",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "nettoløn",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.16
+          },
+          "appCount": 8,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 8
+        }
+      ]
+    },
+    {
+      "name": "feriepenge beregning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "feriepenge beregning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 17,
+          "components": {
+            "reviews": 0.05785514917545694,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.6666666666666666,
+            "resultDensity": 0.06
+          },
+          "appCount": 3,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "name": "sygedagpenge",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "sygedagpenge",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "barselsdagpenge",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "barselsdagpenge",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "pension beregning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "pension beregning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.017986354100793748,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.8,
+            "resultDensity": 0.28
+          },
+          "appCount": 10,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 14
+        }
+      ]
+    },
+    {
+      "name": "moms beregning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "moms beregning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 14,
+          "components": {
+            "reviews": 0.04098987479598718,
+            "titleMatch": 0,
+            "rating": 0.11332500000000001,
+            "freshness": 0.6,
+            "resultDensity": 0.44
+          },
+          "appCount": 10,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 22
+        }
+      ]
+    },
+    {
+      "name": "kørselsfradrag",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "kørselsfradrag",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 17,
+          "components": {
+            "reviews": 0.023299000144533965,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.8,
+            "resultDensity": 0.1
+          },
+          "appCount": 5,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 5
+        }
+      ]
+    },
+    {
+      "name": "blodsukker log",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "blodsukker log",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 21,
+          "components": {
+            "reviews": 0.061672625463711,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.9,
+            "resultDensity": 0.24
+          },
+          "appCount": 10,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 12
+        }
+      ]
+    },
+    {
+      "name": "medicinpåmindelse",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "medicinpåmindelse",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 20,
+          "components": {
+            "reviews": 0.07408301853479908,
+            "titleMatch": 0,
+            "rating": 0.24329807692307695,
+            "freshness": 0.9,
+            "resultDensity": 0.44
+          },
+          "appCount": 10,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 22
+        }
+      ]
+    },
+    {
+      "name": "søvndagbog",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "søvndagbog",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 30,
+          "components": {
+            "reviews": 0.18541341087799515,
+            "titleMatch": 0,
+            "rating": 0.3258067307692305,
+            "freshness": 0.8,
+            "resultDensity": 0.94
+          },
+          "appCount": 10,
+          "ratedCount": 8,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 47
+        }
+      ]
+    },
+    {
+      "name": "migrænedagbog",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "migrænedagbog",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.007167380849142409,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.14
+          },
+          "appCount": 7,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 7
+        }
+      ]
+    },
+    {
+      "name": "ægløsningskalender",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "ægløsningskalender",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 21,
+          "components": {
+            "reviews": 0.15687679537130236,
+            "titleMatch": 0,
+            "rating": 0.2205487179487178,
+            "freshness": 0.9,
+            "resultDensity": 0.28
+          },
+          "appCount": 10,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 14
+        }
+      ]
+    },
+    {
+      "name": "genoptræning knæ",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "genoptræning knæ",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 17,
+          "components": {
+            "reviews": 0.05995451366931249,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 0.6666666666666666,
+            "resultDensity": 0.06
+          },
+          "appCount": 3,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "name": "varmepumpe beregning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "varmepumpe beregning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 21,
+          "components": {
+            "reviews": 0.08993177050396874,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "solceller beregning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "solceller beregning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.04
+          },
+          "appCount": 2,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 2
+        }
+      ]
+    },
+    {
+      "name": "brændeovn",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "brændeovn",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.13436180949089624,
+            "titleMatch": 0,
+            "rating": 0.24973626373626365,
+            "freshness": 0.3,
+            "resultDensity": 0.68
+          },
+          "appCount": 10,
+          "ratedCount": 7,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 34
+        }
+      ]
+    },
+    {
+      "name": "svampeguide danmark",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "svampeguide danmark",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 12,
+          "components": {
+            "reviews": 0.11666899485872294,
+            "titleMatch": 0,
+            "rating": 0.030770512820512685,
+            "freshness": 0.5555555555555556,
+            "resultDensity": 0.18
+          },
+          "appCount": 9,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 9
+        }
+      ]
+    },
+    {
+      "name": "fiskeknuder",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "fiskeknuder",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 23,
+          "components": {
+            "reviews": 0.17192214196924935,
+            "titleMatch": 0,
+            "rating": 0.5345230769230772,
+            "freshness": 0.75,
+            "resultDensity": 0.08
+          },
+          "appCount": 4,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "knuder reb",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "knuder reb",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 17,
+          "components": {
+            "reviews": 0.13014275525485428,
+            "titleMatch": 0,
+            "rating": 0.21401025641025648,
+            "freshness": 0.8,
+            "resultDensity": 0.1
+          },
+          "appCount": 5,
+          "ratedCount": 3,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 5
+        }
+      ]
+    },
+    {
+      "name": "hundetræning kommandoer",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "hundetræning kommandoer",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 20,
+          "components": {
+            "reviews": 0.0266407000198506,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.16
+          },
+          "appCount": 8,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 8
+        }
+      ]
+    },
+    {
+      "name": "hvalpetræning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "hvalpetræning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 29,
+          "components": {
+            "reviews": 0.13063837976802248,
+            "titleMatch": 0,
+            "rating": 0.8421269230769236,
+            "freshness": 1,
+            "resultDensity": 0.12
+          },
+          "appCount": 6,
+          "ratedCount": 4,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 6
+        }
+      ]
+    },
+    {
+      "name": "akvarium vandværdier",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "akvarium vandværdier",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 19,
+          "components": {
+            "reviews": 0.03344777729599791,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.06
+          },
+          "appCount": 3,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "name": "hønsehold",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "hønsehold",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "nodelæsning",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "nodelæsning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 25,
+          "components": {
+            "reviews": 0.06085463356663574,
+            "titleMatch": 0,
+            "rating": 0.8664338461538466,
+            "freshness": 0.7,
+            "resultDensity": 0.24
+          },
+          "appCount": 10,
+          "ratedCount": 5,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 12
+        }
+      ]
+    },
+    {
+      "name": "strikkeopskrift",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "strikkeopskrift",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 21,
+          "components": {
+            "reviews": 0.06076446446767952,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.12
+          },
+          "appCount": 6,
+          "ratedCount": 2,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 6
+        }
+      ]
+    },
+    {
+      "name": "surdejsbrød",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "surdejsbrød",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "kernetemperatur grill",
+      "score": 4,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "kernetemperatur grill",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 18,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 4,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "testen.no: øv til teoriprøven",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "testen.no: øv til teoriprøven",
+          "demand": 6,
+          "demandRaw": 19,
+          "ekoFaktor": 0.3,
+          "ekoRecensioner": 0,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 43,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "adr farligt gods",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "adr farligt gods",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.13404159162062576,
+            "titleMatch": 0,
+            "rating": 0.7122820512820512,
+            "freshness": 0.8,
+            "resultDensity": 0.78
+          },
+          "appCount": 10,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 39
+        }
+      ]
+    },
+    {
+      "name": "dronebevis",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "dronebevis",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 43,
+          "components": {
+            "reviews": 0,
+            "titleMatch": 1,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 0,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "retstavning",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "retstavning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 37,
+          "components": {
+            "reviews": 0.377480308032883,
+            "titleMatch": 0,
+            "rating": 0.5673162393162392,
+            "freshness": 0.7,
+            "resultDensity": 0.62
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 31
+        }
+      ]
+    },
+    {
+      "name": "rejsegodtgørelse",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "rejsegodtgørelse",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 46,
+          "components": {
+            "reviews": 0.6995053864863335,
+            "titleMatch": 0,
+            "rating": 0.5,
+            "freshness": 1,
+            "resultDensity": 0.02
+          },
+          "appCount": 1,
+          "ratedCount": 1,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 1
+        }
+      ]
+    },
+    {
+      "name": "blodtryk dagbog",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "blodtryk dagbog",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 31,
+          "components": {
+            "reviews": 0.09408312929291791,
+            "titleMatch": 0,
+            "rating": 0.6474353846153846,
+            "freshness": 0.8,
+            "resultDensity": 0.98
+          },
+          "appCount": 10,
+          "ratedCount": 5,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 49
+        }
+      ]
+    },
+    {
+      "name": "ammelog",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "ammelog",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 36,
+          "components": {
+            "reviews": 0.31868293982027446,
+            "titleMatch": 0,
+            "rating": 0.6333358974358977,
+            "freshness": 0.7,
+            "resultDensity": 0.7
+          },
+          "appCount": 10,
+          "ratedCount": 9,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 35
+        }
+      ]
+    },
+    {
+      "name": "bækkenbundstræning",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "bækkenbundstræning",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 32,
+          "components": {
+            "reviews": 0.19122293216272399,
+            "titleMatch": 0,
+            "rating": 0.7244653846153842,
+            "freshness": 0.5,
+            "resultDensity": 0.84
+          },
+          "appCount": 10,
+          "ratedCount": 6,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 42
+        }
+      ]
+    },
+    {
+      "name": "elpris time",
+      "score": 3,
+      "flags": [],
+      "keywords": [
+        {
+          "term": "elpris time",
+          "demand": 5,
+          "demandRaw": 5,
+          "ekoFaktor": 1,
+          "ekoRecensioner": null,
+          "estimated": true,
+          "source": "autocomplete-proxy",
+          "difficulty": 41,
+          "components": {
+            "reviews": 0.4851945094369459,
+            "titleMatch": 0,
+            "rating": 0.5347853846153854,
+            "freshness": 0.8,
+            "resultDensity": 0.54
+          },
+          "appCount": 10,
+          "ratedCount": 10,
+          "densityCapped": false,
+          "opportunity": 3,
+          "total": 27
+        }
+      ]
+    }
+  ]
+}

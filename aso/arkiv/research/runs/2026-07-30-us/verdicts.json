@@ -1,0 +1,125 @@
+{
+  "niches": [
+    {
+      "name": "hvac load calculator",
+      "verdict": "KANSKE",
+      "motivering": "Den enda amerikanska nischen där ingen konkurrent har fäste: HVAC Load Calculator Manual J har 32 recensioner, resten under 6. Manual J-beräkning är dessutom en avgränsad räkneuppgift med en publicerad standard, inte en innehållsproduktion.",
+      "byggbarhet": "Ja, men standarden (ACCA Manual J) är upphovsrättsskyddad och måste licensieras eller implementeras från de publika delarna. Juridiken före koden.",
+      "innehallskalla": "ACCA Manual J — licensfråga.",
+      "betalvilja": "God: verktyget används yrkesmässigt av installatörer, och yrkesverktyg tål prissättning.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Ingen app i nischen har fler än 32 recensioner."
+    },
+    {
+      "name": "pet medication reminder",
+      "verdict": "KANSKE",
+      "motivering": "Fyra av de fem översta har noll recensioner, trots att 48 appar rankar. Antingen är det ett glapp eller en kategori ingen tjänar pengar på — samma osäkerhet som \"cv mall gratis\" i den svenska körningen.",
+      "byggbarhet": "Ja, ren påminnelselogik.",
+      "innehallskalla": "Ingen.",
+      "betalvilja": "Osäker. Medisafe (100 787 recensioner) täcker människor gratis.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Ingen av de nischspecifika apparna har någon recension alls."
+    },
+    {
+      "name": "faa part 107 — practice test",
+      "verdict": "SKIPPA",
+      "motivering": "Ledaren har 1924 recensioner på 4,8 och tvåan 968. Nischnamnet är dessutom en apptitel."
+    },
+    {
+      "name": "servsafe practice test prep •",
+      "verdict": "SKIPPA",
+      "motivering": "Fyra appar med 999, 1501 och 647 recensioner, alla på 4,9. Fullständigt mättat."
+    },
+    {
+      "name": "cna practice test 2026 prep",
+      "verdict": "SKIPPA",
+      "motivering": "2159, 1879 och 890 recensioner på 4,8–4,9. Mättat."
+    },
+    {
+      "name": "ati teas test prep 2026.",
+      "verdict": "SKIPPA",
+      "motivering": "Official ATI TEAS Prep har 7781 recensioner. Officiella provgivaren är själv på plats."
+    },
+    {
+      "name": "free sales tax calculator",
+      "verdict": "SKIPPA",
+      "motivering": "5417 och 2515 recensioner på 4,8. En räknare med den etableringen tas inte."
+    },
+    {
+      "name": "free car loan calculator",
+      "verdict": "SKIPPA",
+      "motivering": "Loan Calculator har 104 247 recensioner."
+    },
+    {
+      "name": "paycheck calculator free",
+      "verdict": "SKIPPA",
+      "motivering": "12 585 och 13 889 recensioner i toppen."
+    },
+    {
+      "name": "migraine diary free",
+      "verdict": "SKIPPA",
+      "motivering": "Migraine Buddy har 41 082 recensioner på 4,8. En av de mest etablerade hälsoapparna som finns."
+    },
+    {
+      "name": "server tip tracker free",
+      "verdict": "SKIPPA",
+      "motivering": "9406 och 9323 recensioner. Mättat."
+    },
+    {
+      "name": "fishing knots free",
+      "verdict": "SKIPPA",
+      "motivering": "Fishing Knots FishPlanet har 19 603 recensioner."
+    },
+    {
+      "name": "5/3/1 workout logger",
+      "verdict": "SKIPPA",
+      "motivering": "Strong Workout Tracker har 108 475 recensioner. Träningsloggar är den mest mättade kategorin i App Store."
+    },
+    {
+      "name": "habit tracker grid",
+      "verdict": "SKIPPA",
+      "motivering": "everyday har 4487 och HabitKit 2290 recensioner."
+    },
+    {
+      "name": "mood tracker bpd",
+      "verdict": "SKIPPA",
+      "motivering": "Daylio har 60 839 recensioner. Dessutom kräver psykiatrinära appar omsorg vi inte kan ge på två dagar."
+    },
+    {
+      "name": "the medication reminder арр",
+      "verdict": "SKIPPA",
+      "motivering": "Medisafe har 100 787 recensioner. Nischnamnet innehåller dessutom kyrilliska tecken — ett appnamnseko, inte en sökning."
+    },
+    {
+      "name": "chess opening trainer",
+      "verdict": "SKIPPA",
+      "motivering": "Chessable (5819) och Chessbook (1967) ägs av schackvärldens etablerade aktörer."
+    },
+    {
+      "name": "iverbs irregular verbs english",
+      "verdict": "SKIPPA",
+      "motivering": "Apptitel med 3259 recensioner."
+    },
+    {
+      "name": "morse code practice",
+      "verdict": "SKIPPA",
+      "motivering": "Morse Mania har 8032 recensioner på 4,9."
+    },
+    {
+      "name": "seizure diary",
+      "verdict": "SKIPPA",
+      "motivering": "Epsy har 1668 recensioner, och epilepsiloggar är medicinskt känsliga."
+    },
+    {
+      "name": "cross stitch pattern keeper",
+      "verdict": "SKIPPA",
+      "motivering": "Markup R-XP har 2739 och Stitchly 2055 recensioner."
+    },
+    {
+      "name": "solar panel calculator plus",
+      "verdict": "SKIPPA",
+      "motivering": "Sun position and path har 1842 recensioner; solberäkning kräver dessutom platsdata."
+    }
+  ],
+  "forslag": null
+}

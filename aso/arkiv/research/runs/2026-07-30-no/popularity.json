@@ -1,0 +1,803 @@
+{
+  "market": "no",
+  "popularity": [
+    {
+      "term": "teoriprøven - mc",
+      "demand": 79,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "statsborgerprøven 2026 øving",
+      "demand": 79,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven – bil",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven moped",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven mc",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven gratis",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven traktor",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven - eteo",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerprøven.no",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerprøven quiz",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerprøven 2026",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "jegerprøveneksamen",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "jegerprøven øving 2026",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "jegerquiz: øv til jegerprøven",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "jegerprøveeksamen",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "statsborgerprøven 2026",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "samfunn & statsborgerprøven",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "norskprøven: norwegian a2 b1",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "varme arbeider",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "gangetabellen",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "søvndagbok",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "morfei søvndagbok",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "søvndagbok fra vei helse",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "matdagbok",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "matdagbok kalorier måltider",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "menstruasjonskalender",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "min menstruasjonskalender",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "menstruasjonskalender gratis",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "pollenvarsel",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "naaf pollenvarsel",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "skredvarsel",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "hyttebok",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "hekling",
+      "demand": 65,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerprøven",
+      "demand": 47,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "jegerprøven",
+      "demand": 47,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven",
+      "demand": 40,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "norsk grammatikk",
+      "demand": 47,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "studieteknikk",
+      "demand": 47,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "timeliste",
+      "demand": 47,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "hyttepermen – hyttebok & tur",
+      "demand": 35,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerprøven - fritidsbåt",
+      "demand": 30,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerappen - båtførerprøven",
+      "demand": 26,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "båtførerprøven - bestå prøven",
+      "demand": 24,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriappen: bestå teoriprøven",
+      "demand": 21,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "teoriprøven nå b-førerkort",
+      "demand": 20,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "trafikkregler",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "førerkort klasse b",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "mopedførerbevis",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "motorsykkel førerkort",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "statsborgerprøven",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "samfunnskunnskapsprøven",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "norskprøven",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "bergenstesten",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "truckførerbevis",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "kranførerbevis",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "maskinførerbevis",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "stillasbygging",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "fallsikring",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "arbeid i høyden",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "førstehjelpskurs",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "hlr kurs",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "brannvern kurs",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "matsikkerhet hygiene",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "adr farlig gods",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "drone dronesertifikat",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "vhf radiosertifikat",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "våpensøknad",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "fiskekort norge",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "sikkerhetskurs sjø",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "eksamen matematikk",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "brøkregning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "nynorsk rettskriving",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "engelsk grammatikk",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "kjemi formler",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "fysikk formler",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "periodesystemet",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "kildekritikk",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "kildehenvisning apa",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "glosetrening",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "eksamensangst",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "boliglånskalkulator",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "egenkapital bolig",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "renteberegning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "skattekalkulator",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "nettolønn",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "feriepenger beregning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "overtidsbetaling",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "sykepenger",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "foreldrepenger",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "dagpenger nav",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "pensjon beregning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "aksjesparekonto skatt",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "mva beregning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "enkeltpersonforetak regnskap",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "kjøregodtgjørelse",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "diett reise",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "blodtrykk dagbok",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "blodsukker logg",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "medisinpåminnelse",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "migrenedagbok",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "smertedagbok",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "eggløsningskalender",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "ammelogg",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "vaksinasjonskort",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "allergikalender",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "bekkenbunnstrening",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "rehabilitering kne",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "turkart merking",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "allemannsretten",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "fjellvettreglene",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "knuter tau",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "fiskeknuter",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "soppguide norge",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "byggesøknad",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "tomtegrense",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "radonmåling",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "varmepumpe beregning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "strømforbruk hus",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "solceller beregning",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "strømpris time",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "vedfyring",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "hundetrening kommandoer",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "valpekurs",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "hesteforing",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "akvarium vannverdier",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "birøkt",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "sauehold",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "gitargrep",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "noteopplæring",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "strikkeoppskrift",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "surdeigsbrød",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "ølbrygging",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    },
+    {
+      "term": "kjernetemperatur grilling",
+      "demand": 5,
+      "estimated": true,
+      "source": "autocomplete-proxy"
+    }
+  ]
+}

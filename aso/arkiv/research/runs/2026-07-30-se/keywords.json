@@ -1,0 +1,9354 @@
+{
+  "market": "se",
+  "mode": "nisch",
+  "app": null,
+  "fronFil": "teman.json",
+  "keywords": [
+    {
+      "term": "svenskt teckenspråkslexikon",
+      "hits": 5,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "ägglossningskalender menscykel",
+      "hits": 5,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "ägglossningskalender & period",
+      "hits": 5,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "tidrapportering",
+      "hits": 5,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov för jägarexamen",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "teoriprovet för jägarexamen",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprovet",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "svensk teckenspråkslexikon",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "ägglossningskalender",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "ränta på ränta: sparkalkylator",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "körjournal och milersättning",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "milersättning",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden + identifiering",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "glutenfritt",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "glutenfritt",
+      "depth": 0
+    },
+    {
+      "term": "valutaomvandlare valutakurser*",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "valutaomvandlare valutakurser.",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "valutaomvandlare, valutakurser",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "skanna qr kod gratis",
+      "hits": 4,
+      "bestRank": 0,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "tidrapportering: tid + lön",
+      "hits": 4,
+      "bestRank": 1,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden identifiering",
+      "hits": 4,
+      "bestRank": 1,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprovet – plugga",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprovet sw",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "kemi periodiska systemet 2026",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "kemi periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "engelsk läsförståelse .",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "läsförståelse",
+      "depth": 0
+    },
+    {
+      "term": "mens & ägglossningskalender",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 1
+    },
+    {
+      "term": "blodsockermätare・diabetes",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsockermätare glucose",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "rökfri sluta röka cigaretter",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "ränta på ränta kalkylator i",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "billy - dela notan",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "foodfair - dela notan",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "olive split: dela notan",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "partly: dela notan",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "splitcash: dela notan",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "atwork tidrapport",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapport.nu",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapport24",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapport & lon | flexishift",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapportcenter pro",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapport x - timesheet",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapportera",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "tidrapportering - timeclock44",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "arbetsschema · tidrapportering",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "easyhours tidrapportering",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "infranord tidrapportering",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "jiffy - tidrapportering arbete",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "jobbtid – tidrapportering",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "shiftflow tidrapportering",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "thyme - tidrapporteringsapp",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "timrapport",
+      "depth": 1
+    },
+    {
+      "term": "radon eye plus",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radoneye pro",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "apiarist - min biodling",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "biodling",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden: identifiera svamp",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden: hitta svamp",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden: mushroom id",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden - hitta svamp",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden: fungi ai",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "hitta svamp - svampguiden app",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "mc kort",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "mc körkort",
+      "depth": 0
+    },
+    {
+      "term": "hundträningsljud .",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "akvarium live hd",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "stretching & flexibility plans",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "korsord svenska gratis",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsord svenska barn",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsord svenska lätt",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "valutaomvandlare valutakurser",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "världsklocka tidszoner pro",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "tidszoner",
+      "depth": 0
+    },
+    {
+      "term": "interrail eurail",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "tipsrundan.se",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "tipsrunda",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet kemi 2026",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet: kemi quiz",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet quiz pro",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet - kemi",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "derivative calculator app",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "derivative-calculus pro",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen, matte",
+      "hits": 3,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "svenskt teckenspråk",
+      "hits": 3,
+      "bestRank": 1,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "akvarium live hd +",
+      "hits": 3,
+      "bestRank": 1,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "valutaomvandlare valutakurser+",
+      "hits": 3,
+      "bestRank": 1,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "ägglossningskalender för-kvinn",
+      "hits": 3,
+      "bestRank": 3,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "ägglossningskalender - cykle",
+      "hits": 3,
+      "bestRank": 4,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "ägglossningskalender: fertila",
+      "hits": 3,
+      "bestRank": 5,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "jägarexamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "naturvårdsverket jägarexamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "jägarexamen lite",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "jägarexamen online",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "jägarexamen teoriprov pro",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "nya jägarexamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "ta jägarexamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "körkortsteori",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körkortsteori",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov körkort",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov am",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov mc",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov moped",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "naturvårdsverket teoriprov",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "teoriprovet från drivly",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "skepparexamen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "skepparexamen",
+      "depth": 0
+    },
+    {
+      "term": "drönarkort a1 a2 a3 test",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "drönarkort",
+      "depth": 0
+    },
+    {
+      "term": "truckkort a tya lasthantering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "truckkort",
+      "depth": 0
+    },
+    {
+      "term": "ta motorsågskörkort",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "motorsågskörkort",
+      "depth": 0
+    },
+    {
+      "term": "heta arbeten",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "heta arbeten",
+      "depth": 0
+    },
+    {
+      "term": "brandfarliga heta arbeten",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "heta arbeten",
+      "depth": 0
+    },
+    {
+      "term": "fallskydd quiz 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fallskydd",
+      "depth": 0
+    },
+    {
+      "term": "första hjälpen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "första hjälpen",
+      "depth": 0
+    },
+    {
+      "term": "röda korset första hjälpen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "första hjälpen",
+      "depth": 0
+    },
+    {
+      "term": "savelife första hjälpen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "första hjälpen",
+      "depth": 0
+    },
+    {
+      "term": "fiskekort",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskekort",
+      "depth": 0
+    },
+    {
+      "term": "fiskekort.dk",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskekort",
+      "depth": 0
+    },
+    {
+      "term": "fortuna fiskekort",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskekort",
+      "depth": 0
+    },
+    {
+      "term": "napp - fiskekort hos inatur",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskekort",
+      "depth": 0
+    },
+    {
+      "term": "mönstringsappen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "mönstring",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprov sverige",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprov 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprov: quiz 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprov.",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "adr farligt gods",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "adr farligt gods",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet ord",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovets verktygslåda",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet appen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "hp ord",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hp ord",
+      "depth": 0
+    },
+    {
+      "term": "hp-ordkraft",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hp ord",
+      "depth": 0
+    },
+    {
+      "term": "nationella prov",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "nationella prov",
+      "depth": 0
+    },
+    {
+      "term": "gymnasiematte - integro",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "gymnasiematte",
+      "depth": 0
+    },
+    {
+      "term": "fysik. formler. tränare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fysik formler",
+      "depth": 0
+    },
+    {
+      "term": "kemi periodiska systemet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kemi periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "läsförståelse",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läsförståelse",
+      "depth": 0
+    },
+    {
+      "term": "läsförståelse engelska skolor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läsförståelse",
+      "depth": 0
+    },
+    {
+      "term": "engelsk läsförståelse:",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läsförståelse",
+      "depth": 0
+    },
+    {
+      "term": "julies tyska läsförståelsetest",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läsförståelse",
+      "depth": 0
+    },
+    {
+      "term": "teckenspråkslexikon",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "teckenspråk",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "lär dig teckenspråk",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "lära sig teckenspråk",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "svensk teckenspråk",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "teckenspråk lexikon",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "svenska teckenspråk",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckenspråk",
+      "depth": 0
+    },
+    {
+      "term": "morsekod för amatörradio",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "morsekodövningar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "morsekod: glint",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "engelska uttal @",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska uttal",
+      "depth": 0
+    },
+    {
+      "term": "e-talk: engelska uttalande",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska uttal",
+      "depth": 0
+    },
+    {
+      "term": "japanska hiragana med maru",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "japanska hiragana",
+      "depth": 0
+    },
+    {
+      "term": "studera kinesiska tecken",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kinesiska tecken",
+      "depth": 0
+    },
+    {
+      "term": "arabiska alfabetet +",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "arabiska alfabetet",
+      "depth": 0
+    },
+    {
+      "term": "lära sig norska för barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "lära sig norska",
+      "depth": 0
+    },
+    {
+      "term": "lära sig finska",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "lära sig finska",
+      "depth": 0
+    },
+    {
+      "term": "lek och lära sig finska",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "lära sig finska",
+      "depth": 0
+    },
+    {
+      "term": "blodtryck dagbok health+",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodtryck dagbok",
+      "depth": 0
+    },
+    {
+      "term": "blodtryck dagbok bpmate",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodtryck dagbok",
+      "depth": 0
+    },
+    {
+      "term": "avax blodtryck dagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodtryck dagbok",
+      "depth": 0
+    },
+    {
+      "term": "bp tracker - blodtryck dagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodtryck dagbok",
+      "depth": 0
+    },
+    {
+      "term": "cardilog: blodtryck dagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodtryck dagbok",
+      "depth": 0
+    },
+    {
+      "term": "medicinpåminnelse & doslogg",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "mewdicate medicinpåminnelse",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "libresse menskalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "menskalender, menskoll",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "menskalender: period tracker",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "menskalender & ägglossning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "stardust menskalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "cyca: menskalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "ägglossnings kalender.",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "ägglossning kalender ladytimer",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "ägglossning cykel tracker",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "bebis sömn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "bebis sömn",
+      "depth": 0
+    },
+    {
+      "term": "kaloriräknare gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "kaloriräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "ai kaloriräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "kaloriräknaren av fatsecret",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "kaloriräknare och matspårare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "träningsdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "träningsdagbok gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "repcount träningsdagbok gym",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "träningsdagbok gymmet träning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "gratis stegräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "stegräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "stepsapp stegräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "stegräknare widget",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "promenad stegräknare goals gps",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "accupedo stegräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "stepup pedometer stegräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "stegräknare kaloriräknare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "glukos - diabetes dagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "diabetes dagbok",
+      "depth": 0
+    },
+    {
+      "term": "blodsockermätare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsocker spårare & mätare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsockernivå",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsockerspårning glucobyte",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsocker grafer",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsocker-app sugar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "blodsocker mätning sugarnote",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "pollenprognos",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "pollenprognos",
+      "depth": 0
+    },
+    {
+      "term": "pollen: pollenprognoser",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "pollenprognos",
+      "depth": 0
+    },
+    {
+      "term": "pollinate: pollenprognos",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "pollenprognos",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka & sluta snus",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "dipquit: sluta snusa",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "snusless: sluta snusa",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa - bli snusfri",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa – snusy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa och röka・sober",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa: zyn - snusst",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "promillekalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "promillekalkylator",
+      "depth": 0
+    },
+    {
+      "term": "andningsövningar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "andningsövningar mot ångest",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "veckopeng: fickpengar & barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fickpengar barn",
+      "depth": 0
+    },
+    {
+      "term": "veckopeng",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "gimi - veckopeng i mobilen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "veckopeng och sysslor för barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "veckopengsäventyret",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "kroni - veckopeng och sysslor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "sysslor: barnens veckopeng",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "tjing - kul veckopeng",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veckopeng",
+      "depth": 0
+    },
+    {
+      "term": "hushållsbudget",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hushållsbudget",
+      "depth": 0
+    },
+    {
+      "term": "budgets hushållsbudget",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hushållsbudget",
+      "depth": 0
+    },
+    {
+      "term": "bolånekalkyl: bolånekalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "bolånekalkyl",
+      "depth": 0
+    },
+    {
+      "term": "bolånekalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "bolånekalkyl",
+      "depth": 0
+    },
+    {
+      "term": "ränta-på-ränta kalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "ränta på räntan",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "elpris idag",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "elpris idag",
+      "depth": 0
+    },
+    {
+      "term": "kvittohantering・receiptgenie",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kvittohantering",
+      "depth": 0
+    },
+    {
+      "term": "dela notan",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "rightsplit: dela nota grupp",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "splitcheck: dela nota",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "cv mall gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "cv mall",
+      "depth": 0
+    },
+    {
+      "term": "cv-mallar - cv-byggare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "cv mall",
+      "depth": 0
+    },
+    {
+      "term": "personligt brev skapare - ai",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "personligt brev",
+      "depth": 0
+    },
+    {
+      "term": "personligt brev lettergenie",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "personligt brev",
+      "depth": 0
+    },
+    {
+      "term": "cv- och personligt brevskapare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "personligt brev",
+      "depth": 0
+    },
+    {
+      "term": "skapare för personligt brev",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "personligt brev",
+      "depth": 0
+    },
+    {
+      "term": "lag&avtal − allt om arbetsrätt",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "arbetsrätt",
+      "depth": 0
+    },
+    {
+      "term": "fakturamallen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fakturamall",
+      "depth": 0
+    },
+    {
+      "term": "attefallshus stockholm",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "attefallshus",
+      "depth": 0
+    },
+    {
+      "term": "ivt värmepump",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "värmepump",
+      "depth": 0
+    },
+    {
+      "term": "min värmepump",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "värmepump",
+      "depth": 0
+    },
+    {
+      "term": "radon eye",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radonautica",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radon qa ledger",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radoneye+²",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radon monitor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radonc reference",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "radon map of santa barbara",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "kompostor access",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kompost",
+      "depth": 0
+    },
+    {
+      "term": "växthusstorlekskalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "växthus",
+      "depth": 0
+    },
+    {
+      "term": "ogräsdatabasen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ogräs",
+      "depth": 0
+    },
+    {
+      "term": "biodling",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "biodling",
+      "depth": 0
+    },
+    {
+      "term": "min biodling",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "biodling",
+      "depth": 0
+    },
+    {
+      "term": "biodling tracker - hive",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "biodling",
+      "depth": 0
+    },
+    {
+      "term": "svampguiden+",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "fungai - svampguide med ai",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "vandringsleder",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "vandringsleder",
+      "depth": 0
+    },
+    {
+      "term": "vandringsleder på bornholm",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "vandringsleder",
+      "depth": 0
+    },
+    {
+      "term": "vandringsleder i danmark",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "vandringsleder",
+      "depth": 0
+    },
+    {
+      "term": "knopar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "knopar",
+      "depth": 0
+    },
+    {
+      "term": "knopar 3d",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "knopar",
+      "depth": 0
+    },
+    {
+      "term": "knopar rep guide",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "knopar",
+      "depth": 0
+    },
+    {
+      "term": "orientering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "orientering karta",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "control orientering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "liveresultat orientering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "orientering hitta ut",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "gps orientering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "svenska orienteringsforbundet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "kontrollen orientering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "orisym: orienteringssymboler",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "signum: katolsk orientering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "orientering",
+      "depth": 0
+    },
+    {
+      "term": "stjärnhimlen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stjärnhimlen",
+      "depth": 0
+    },
+    {
+      "term": "fågelguiden",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fågelguide",
+      "depth": 0
+    },
+    {
+      "term": "djurspårsguide",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "djurspår",
+      "depth": 0
+    },
+    {
+      "term": "lavinprognoser",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "lavinprognos",
+      "depth": 0
+    },
+    {
+      "term": "camping sverige",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "camping sverige",
+      "depth": 0
+    },
+    {
+      "term": "mc körkort",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "mc körkort",
+      "depth": 0
+    },
+    {
+      "term": "båtkörkortet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "båtkörkort",
+      "depth": 0
+    },
+    {
+      "term": "bilvärde & identifiering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "bilvärde",
+      "depth": 0
+    },
+    {
+      "term": "steerlog: servicebok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "servicebok",
+      "depth": 0
+    },
+    {
+      "term": "digital servicebok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "servicebok",
+      "depth": 0
+    },
+    {
+      "term": "körjournal",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "körjournal gps",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "2ma körjournal",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "boomr körjournal",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "drive körjournal",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "körjournal från driversnote",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "körjournal fran tripbook",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "hundträning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "hundträning med ulrika",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "hundträningsljud",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "ridning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "ridning kedjad häst",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "ridning mästerskap",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "häst ridning roligt springa",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "hästvård och ridning spel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "my vild häst ridning historier",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "akvarium",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "akvarium 3d: levande bakgrunde",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "akvarium bakgrund - akvarium",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "akvarium match 3:pussel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "akvarium - fishbowl",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "3d-animerade akvarium",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "fisk akvarium liv simulator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "marsvin - fotodagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "marsvin",
+      "depth": 0
+    },
+    {
+      "term": "hundmat stormarknadssimulator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hundmat",
+      "depth": 0
+    },
+    {
+      "term": "hundmatskollen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "hundmat",
+      "depth": 0
+    },
+    {
+      "term": "receptsamlingen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "receptsamling",
+      "depth": 0
+    },
+    {
+      "term": "matdagbok: receptsamling",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "receptsamling",
+      "depth": 0
+    },
+    {
+      "term": "min receptsamling",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "receptsamling",
+      "depth": 0
+    },
+    {
+      "term": "surdeg",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "surdeg",
+      "depth": 0
+    },
+    {
+      "term": "surdeg tracker: crust",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "surdeg",
+      "depth": 0
+    },
+    {
+      "term": "loaflo: surdegsstart",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "surdeg",
+      "depth": 0
+    },
+    {
+      "term": "vinprovning pro: aromguide",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "vinprovning",
+      "depth": 0
+    },
+    {
+      "term": "vinprovning ai - vinsip",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "vinprovning",
+      "depth": 0
+    },
+    {
+      "term": "oak - vinprovning i mobilen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "vinprovning",
+      "depth": 0
+    },
+    {
+      "term": "veganskt och fika i skåne ab",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "veganskt",
+      "depth": 0
+    },
+    {
+      "term": "stretching mobility: stretchit",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "stretching at home, mobility",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "stretching & rörlighet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "stretching övningar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "stretching exercises free",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "stretching, flexibility: flex",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "stretching and splits training",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "crossfit timer",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit gustavsberg",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit games on-site guide",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit copenhagen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit solid",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit wgd",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit birka",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "crossfit crefeld",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "boxning spel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxning timer",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxnings intervall timer",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxning 3d kampen spelet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxning och mma träning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxning: 30 dagars utmaning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxning real revolution",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "boxningstimer för träning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "klättring",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "klättring",
+      "depth": 0
+    },
+    {
+      "term": "lyft upp klättring tillsammans",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "klättring",
+      "depth": 0
+    },
+    {
+      "term": "golf handicap tracker & scores",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "golf handicap + gps - mogc",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "golf handicapp: leaderboards",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "golf handicap tracker: cap18",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "golf handicap calculator pro",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "divotpro se - golf handicap",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "easy golf handicap calculator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "strokesin golf handicaprechner",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "innebandy play",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "innebandy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "innebandy appen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "svensk innebandy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "innebandy spel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "taktiktavla innebandy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "min innebandy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "innebandyavisen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "gothia innebandy cup",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "göransson cup innebandy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "innebandy",
+      "depth": 0
+    },
+    {
+      "term": "barnvisor vol.1",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "barnvisor vol.2",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "barnvisor vol.3",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "barnvisor 2-5",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "tyska-barnvisor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "marytale: godnattsagor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor hd",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor - stella sleep",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor för barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor och sovsagor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor - linguo baby",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor med min röst",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor taledreams",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "läxhjälp",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "läxhjälp ai",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "ai för läxhjälp i psykologi",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "ai läxhjälp & ai lärare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "virkning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "stashbot: stickning, virkning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "virka",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "stitchique: ai-broderikonst",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "broderi",
+      "depth": 0
+    },
+    {
+      "term": "ar belanja keramik",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "keramik",
+      "depth": 0
+    },
+    {
+      "term": "celtra press keramik guide app",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "keramik",
+      "depth": 0
+    },
+    {
+      "term": "akvarell målning foto",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "akvarell",
+      "depth": 0
+    },
+    {
+      "term": "teckningar till liv",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "ai art generator - ai-teckning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "ai konstfoto teckning & filter",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "drawtales - teckning till saga",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "engelska teckning för barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "filtrera skiss teckning penna",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "glitché foto & videoredigering",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "videoredigering",
+      "depth": 0
+    },
+    {
+      "term": "drumknee 3d trummor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "trummor set - real pad machine",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "trummor pad - real finger drum",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "trummor - augmented reality",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "trummor set + - pad machine",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "bongo trummor mästare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "de bästa trummor",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "schack",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack klocka",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack offline",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack timer",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack 2 player",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack online",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack.com",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "schack barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "korsord svenska",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsordshjälp",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsord barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsord hjälp",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsord på svenska",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "korsord gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "sudoku",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku a day",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku.com",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku free",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku offline",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku friends",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku master",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudokupad",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "sudoku solver",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "sudoku",
+      "depth": 0
+    },
+    {
+      "term": "packlista",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "packlista pro",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "packlista – pack, repeat",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "packlista: packy",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "packlista vandring: checklist",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "packlista för resa & semester",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "packlista & reseplanerare",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "ai packlista resa - packwise",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "auto pack: smart packlista",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "tripmemo | resedagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "stampic: resedagbok i bild",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "resedagbok & minnen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "footprint map - resedagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "journalfy: resedagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "journi blog: resedagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "track my journey - resedagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "valutakurser",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "valutakurser kalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "valutakurser - valutaomvandlar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "valutakurser för kryptovaluta",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "forex valutakurser",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "valutakurser",
+      "depth": 0
+    },
+    {
+      "term": "världsklocka tidszoner",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "tidszoner",
+      "depth": 0
+    },
+    {
+      "term": "interrail",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "interrail planner",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "interrail eu",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "interrail rail planner",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "interrail b.v.",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "interrailing",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "interrail",
+      "depth": 0
+    },
+    {
+      "term": "koranen svenska",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "koranen svenska",
+      "depth": 0
+    },
+    {
+      "term": "psalmer spanska ligan",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "psalmer",
+      "depth": 0
+    },
+    {
+      "term": "kyrkoåret",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kyrkoåret",
+      "depth": 0
+    },
+    {
+      "term": "kyrkoåret widget",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kyrkoåret",
+      "depth": 0
+    },
+    {
+      "term": "namnsdagar sverige",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "namnsdagar",
+      "depth": 0
+    },
+    {
+      "term": "svenska namnsdagar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "namnsdagar",
+      "depth": 0
+    },
+    {
+      "term": "namnsdagar på urtavlan",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "namnsdagar",
+      "depth": 0
+    },
+    {
+      "term": "enkla namnsdagar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "namnsdagar",
+      "depth": 0
+    },
+    {
+      "term": "kalender namnsdagar & förnamn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "namnsdagar",
+      "depth": 0
+    },
+    {
+      "term": "midsommar festival",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "midsommar",
+      "depth": 0
+    },
+    {
+      "term": "julkalender & adventskalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "julkalender 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "julkalender opengl effects",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "julkalender - spelet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "löpande julkalender",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "säkerhetskopiera kontakter",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "säkerhetskopiering",
+      "depth": 0
+    },
+    {
+      "term": "qr kod gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "qr kod generator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "skanna qr kod",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "scanna qr-kod",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "geografi quiz",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "geografi quiz",
+      "depth": 0
+    },
+    {
+      "term": "geografi quiz: geogeek",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "geografi quiz",
+      "depth": 0
+    },
+    {
+      "term": "geomuscle 3d: geografi quiz",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "geografi quiz",
+      "depth": 0
+    },
+    {
+      "term": "tyska stater - geografi quiz",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "geografi quiz",
+      "depth": 0
+    },
+    {
+      "term": "flaggor quiz - ord bilder spel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "flaggor quiz",
+      "depth": 0
+    },
+    {
+      "term": "huvudstäder",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "huvudstäder av alla länder",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "huvudstäder i alla världsdelar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "huvudstäder och stater",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "usa städer & huvudstäder",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "värld flagga och huvudstäder",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "historia quiz",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "historia quiz",
+      "depth": 0
+    },
+    {
+      "term": "tipsrundan",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "tipsrunda",
+      "depth": 0
+    },
+    {
+      "term": "fiskeknopar pro",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskeknopar",
+      "depth": 0
+    },
+    {
+      "term": "fiskeknutar pro",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskeknopar",
+      "depth": 0
+    },
+    {
+      "term": "ultimata fiskeknutar",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "fiskeknopar",
+      "depth": 0
+    },
+    {
+      "term": "tomtgräns",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "tomtgräns",
+      "depth": 0
+    },
+    {
+      "term": "tomtgränser",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "tomtgräns",
+      "depth": 0
+    },
+    {
+      "term": "huvudvärksdagboken",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudvärksdagbok",
+      "depth": 0
+    },
+    {
+      "term": "huvudvärksdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudvärksdagbok",
+      "depth": 0
+    },
+    {
+      "term": "headslate · huvudvärksdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "huvudvärksdagbok",
+      "depth": 0
+    },
+    {
+      "term": "smärtdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "smärtdagbok",
+      "depth": 0
+    },
+    {
+      "term": "smärtdagbok och smärtanalys",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "smärtdagbok",
+      "depth": 0
+    },
+    {
+      "term": "kostdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "kostdagbok",
+      "depth": 0
+    },
+    {
+      "term": "symtomdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "symtomdagbok",
+      "depth": 0
+    },
+    {
+      "term": "moona symtomdagbok",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "symtomdagbok",
+      "depth": 0
+    },
+    {
+      "term": "ibs fodmap diet journal",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ibs fodmap",
+      "depth": 0
+    },
+    {
+      "term": "gentlegut: ibs, fodmap tracker",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "ibs fodmap",
+      "depth": 0
+    },
+    {
+      "term": "glutenfri scanner",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "glutenfri skanner: gf foods",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "glutenfria restauranger",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "glutenfri mat: leto",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "glutenfri - gluten checker",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "celisafe: glutenfri skanner",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "sansglu glutenfri restaurang",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "tät bäckenbottenträning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "bäckenbottenträning",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet 2026",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet quiz",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet－frågesport",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "det periodiska systemet",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "derivative clinic",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "derivative calculator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "derivative-calculus",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "cloudlabs 1st & 2nd derivative",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "english derivatives",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "first derivative",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "functions and derivatives",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "math derivatives",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "träna multiplikationstabellen",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen, spel",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen.",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen matte",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen 20x20",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen barn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen 10x10",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "engelska grammatik",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "engelska grammatik spel: esl",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "engelska grammatik quiz games",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "lär dig engelska grammatik efl",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "lär dig engelska grammatik esl",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "lär dig engelska grammatik top",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "lära sig engelska grammatik",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "spanska verb och konjugation",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "spanska verb",
+      "depth": 0
+    },
+    {
+      "term": "conjuga: spanska verb",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "spanska verb",
+      "depth": 0
+    },
+    {
+      "term": "golvvärme kalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "golvvärme",
+      "depth": 0
+    },
+    {
+      "term": "släpvagnskalkylator",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "släpvagnskalkyl",
+      "depth": 0
+    },
+    {
+      "term": "trängselskatter",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "trängselskatt",
+      "depth": 0
+    },
+    {
+      "term": "matsvinn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "matsvinn",
+      "depth": 0
+    },
+    {
+      "term": "fango – mindre matsvinn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "matsvinn",
+      "depth": 0
+    },
+    {
+      "term": "matdags – minska matsvinn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "matsvinn",
+      "depth": 0
+    },
+    {
+      "term": "millum matsvinn",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "matsvinn",
+      "depth": 0
+    },
+    {
+      "term": "notläsning",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "notläsning",
+      "depth": 0
+    },
+    {
+      "term": "äkta piano notläsning midi",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "notläsning",
+      "depth": 0
+    },
+    {
+      "term": "metronom - taktslag, rytm",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "metronom takt",
+      "depth": 0
+    },
+    {
+      "term": "stämma gitarr gratis",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stämma gitarr",
+      "depth": 0
+    },
+    {
+      "term": "stämma gitarr",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "stämma gitarr",
+      "depth": 0
+    },
+    {
+      "term": "skogsbruksplan 2.0",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "skogsbruksplan",
+      "depth": 0
+    },
+    {
+      "term": "flygande skötare simulator 3d",
+      "hits": 2,
+      "bestRank": 0,
+      "seed": "skotare",
+      "depth": 0
+    },
+    {
+      "term": "svenska röda korset första hjälpen",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "första hjälpen",
+      "depth": 0
+    },
+    {
+      "term": "lär dig arabiska alfabetet 3-6",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "arabiska alfabetet",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka cigaretter",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "rökfri — sluta röka cigaretter",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "sluta röka",
+      "depth": 1
+    },
+    {
+      "term": "bolånekalkylator: lån & ränta",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "bolånekalkyl",
+      "depth": 0
+    },
+    {
+      "term": "ränta på ränta kalkylator",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "cv mall",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "cv mall",
+      "depth": 0
+    },
+    {
+      "term": "radoneye",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "ogräs",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "ogräs",
+      "depth": 0
+    },
+    {
+      "term": "båtkörkortet – förarintyg",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "båtkörkort",
+      "depth": 0
+    },
+    {
+      "term": "stretching & flexibility",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "virka: mönster & varvräknare",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "trummor",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "resedagbok & minnen: travelog",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "världsklocka: tidszoner & utc",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "tidszoner",
+      "depth": 0
+    },
+    {
+      "term": "qr kod",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "glutenfri",
+      "hits": 2,
+      "bestRank": 1,
+      "seed": "glutenfri",
+      "depth": 0
+    },
+    {
+      "term": "engelsk läsförståelse",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "läsförståelse",
+      "depth": 0
+    },
+    {
+      "term": "ägglossning",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "ägglossning",
+      "depth": 0
+    },
+    {
+      "term": "loopiva: lär dig virka",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "korsord",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "korsord",
+      "depth": 0
+    },
+    {
+      "term": "namnsdagar",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "namnsdagar",
+      "depth": 0
+    },
+    {
+      "term": "tipsrunda",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "tipsrunda",
+      "depth": 0
+    },
+    {
+      "term": "tipsrundan - gå & quizza",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "tipsrunda",
+      "depth": 0
+    },
+    {
+      "term": "periodiska systemet kemi",
+      "hits": 2,
+      "bestRank": 2,
+      "seed": "periodiska systemet",
+      "depth": 0
+    },
+    {
+      "term": "blodsocker",
+      "hits": 2,
+      "bestRank": 3,
+      "seed": "blodsocker",
+      "depth": 0
+    },
+    {
+      "term": "ränta-på-ränta-kalkylator",
+      "hits": 2,
+      "bestRank": 3,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "forks: dela notan & dricks",
+      "hits": 2,
+      "bestRank": 3,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "tidrapport",
+      "hits": 2,
+      "bestRank": 3,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "stitchory: sticka & virka",
+      "hits": 2,
+      "bestRank": 3,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov",
+      "hits": 2,
+      "bestRank": 4,
+      "seed": "teoriprov",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprovet – öva",
+      "hits": 2,
+      "bestRank": 4,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "let's settle up: dela notan",
+      "hits": 2,
+      "bestRank": 4,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "premom - ägglossningskalender",
+      "hits": 2,
+      "bestRank": 6,
+      "seed": "ägglossning",
+      "depth": 1
+    },
+    {
+      "term": "skyddsvakt",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "skyddsvakt",
+      "depth": 0
+    },
+    {
+      "term": "taxipro: taxiförarlegitimation",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "taxiförarlegitimation",
+      "depth": 0
+    },
+    {
+      "term": "matte åk 9",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "matte åk 9",
+      "depth": 0
+    },
+    {
+      "term": "svenska grammatik",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "svenska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "affärsengelska: lära sig språk",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "affärsengelska",
+      "depth": 0
+    },
+    {
+      "term": "mydailysleep - sömndagbok",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "sömndagbok",
+      "depth": 0
+    },
+    {
+      "term": "migrändagbok — migra",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "migrändagbok",
+      "depth": 0
+    },
+    {
+      "term": "meditation svenska",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "meditation svenska",
+      "depth": 0
+    },
+    {
+      "term": "hyresavtal, nda & testamente",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "testamente",
+      "depth": 0
+    },
+    {
+      "term": "personligt brev",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "personligt brev",
+      "depth": 0
+    },
+    {
+      "term": "trafikmärken",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "trafikmärken",
+      "depth": 0
+    },
+    {
+      "term": "laddstolpar",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "laddstolpar",
+      "depth": 0
+    },
+    {
+      "term": "bränsleförbrukning – drivedex",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "bränsleförbrukning",
+      "depth": 0
+    },
+    {
+      "term": "kaniner",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "kaniner",
+      "depth": 0
+    },
+    {
+      "term": "enkel yoga: hemmaträning",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "yoga hemma",
+      "depth": 0
+    },
+    {
+      "term": "stretching",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "stretching",
+      "depth": 0
+    },
+    {
+      "term": "crossfit",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "fotboll taktik",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "fotboll taktik",
+      "depth": 0
+    },
+    {
+      "term": "knit logic: stickning mönster",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "stickning mönster",
+      "depth": 0
+    },
+    {
+      "term": "yarnpal – virkning & stickning",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "videoredigering",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "videoredigering",
+      "depth": 0
+    },
+    {
+      "term": "musikteori",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "musikteori",
+      "depth": 0
+    },
+    {
+      "term": "jämför tidszoner - celeste",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "tidszoner",
+      "depth": 0
+    },
+    {
+      "term": "campingplatser",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "campingplatser",
+      "depth": 0
+    },
+    {
+      "term": "bibelläsning",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "bibelläsning",
+      "depth": 0
+    },
+    {
+      "term": "julkalendern: tusen år till julafton",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "excel-formler färdiga",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "excel formler",
+      "depth": 0
+    },
+    {
+      "term": "sveriges landskap",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "sveriges landskap",
+      "depth": 0
+    },
+    {
+      "term": "fiskeknopar",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "fiskeknopar",
+      "depth": 0
+    },
+    {
+      "term": "polisanmälan",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "polisanmälan",
+      "depth": 0
+    },
+    {
+      "term": "sömnlogg ai: guide & mätare",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "sömnlogg",
+      "depth": 0
+    },
+    {
+      "term": "belly balance: ibs & fodmap",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "ibs fodmap",
+      "depth": 0
+    },
+    {
+      "term": "procenträkning",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "procenträkning",
+      "depth": 0
+    },
+    {
+      "term": "franska: verb & konjugation l",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "franska verb",
+      "depth": 0
+    },
+    {
+      "term": "armeringsjärn bbs -",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "armering",
+      "depth": 0
+    },
+    {
+      "term": "minkörkort – moped am teori",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "moped am",
+      "depth": 0
+    },
+    {
+      "term": "trängselskatt",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "trängselskatt",
+      "depth": 0
+    },
+    {
+      "term": "gehörsträning: perfekt gehör",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "gehörsträning",
+      "depth": 0
+    },
+    {
+      "term": "skogsbruksplan",
+      "hits": 1,
+      "bestRank": 0,
+      "seed": "skogsbruksplan",
+      "depth": 0
+    },
+    {
+      "term": "bkort – körkortsteori",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "körkortsteori",
+      "depth": 0
+    },
+    {
+      "term": "teoriprov körkort 2026",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "teoriprov",
+      "depth": 1
+    },
+    {
+      "term": "teckenspråk lexikon pro",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "teckenspråk",
+      "depth": 1
+    },
+    {
+      "term": "affärsengelska: lära sig ord",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "affärsengelska",
+      "depth": 0
+    },
+    {
+      "term": "lär dig skriva japanska : hiragana",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "japanska hiragana",
+      "depth": 0
+    },
+    {
+      "term": "5000 uttryck - lära sig norska ordförråd gratis",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "lära sig norska",
+      "depth": 0
+    },
+    {
+      "term": "5000 uttryck - lära sig finska ordförråd gratis",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "lära sig finska",
+      "depth": 0
+    },
+    {
+      "term": "medicinpåminnelse: medephant",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "menskalender",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "bebis sömn & tracker - caro",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "bebis sömn",
+      "depth": 0
+    },
+    {
+      "term": "lifesum: kaloriräknare med ai",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "yazio: ai-kaloriräknare",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "stegräknare-widget - pedometer",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "stegräknare",
+      "depth": 1
+    },
+    {
+      "term": "stegräknare kaloriräknare app",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "stegräknare",
+      "depth": 1
+    },
+    {
+      "term": "sleeplog - sömndagbok och a...",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sömndagbok",
+      "depth": 0
+    },
+    {
+      "term": "calmgrid: migrändagbok",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "migrändagbok",
+      "depth": 0
+    },
+    {
+      "term": "hushållsbudget: famlyy",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "hushållsbudget",
+      "depth": 0
+    },
+    {
+      "term": "ecosense – radon monitoring",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "radon",
+      "depth": 1
+    },
+    {
+      "term": "heap: komposthjälpen",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "kompost",
+      "depth": 0
+    },
+    {
+      "term": "bird collection: ai-fågelguide",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "fågelguide",
+      "depth": 0
+    },
+    {
+      "term": "ta mc-körkort",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "mc körkort",
+      "depth": 0
+    },
+    {
+      "term": "körjournal gps bil drivestats",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "körjournal",
+      "depth": 1
+    },
+    {
+      "term": "petli: hundträning & community",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "hundmat - ät eller undvik",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "hundmat",
+      "depth": 0
+    },
+    {
+      "term": "surdeg: bröd & bak-tracker",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "surdeg",
+      "depth": 0
+    },
+    {
+      "term": "crossfit timer pro ai",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "crossfit",
+      "depth": 1
+    },
+    {
+      "term": "golf handicap",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "fairora: godnattsagor för barn",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "godnattsagor",
+      "depth": 1
+    },
+    {
+      "term": "skolschema & läxhjälp ai",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "läxhjälp",
+      "depth": 1
+    },
+    {
+      "term": "teckning & skiss ai - artsgen",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "cadence: lär dig musikteori",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "musikteori",
+      "depth": 0
+    },
+    {
+      "term": "drumknee 3d trummor - drums",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "trummor",
+      "depth": 1
+    },
+    {
+      "term": "schack - gratis brädspel",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "schack",
+      "depth": 1
+    },
+    {
+      "term": "schack offline: ajedrez",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "schack",
+      "depth": 1
+    },
+    {
+      "term": "schack timer+",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "schack",
+      "depth": 1
+    },
+    {
+      "term": "schack online +",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "schack",
+      "depth": 1
+    },
+    {
+      "term": "korsordshjälp +",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "korsord",
+      "depth": 1
+    },
+    {
+      "term": "learn ordsök korsord barn spel",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "korsord",
+      "depth": 1
+    },
+    {
+      "term": "sudoku a day - number puzzle",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku.com - tankespel",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "ace sudoku free",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku offline - offline games",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku friends - sudoku",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master™ klassisk soduko",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sven's sudokupad",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver app",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "koranen svenska: läs + lyssna",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "koranen svenska",
+      "depth": 0
+    },
+    {
+      "term": "julkalender 2025: 25 förvåning",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "cleu: radera, säkerhetskopiera",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "säkerhetskopiering",
+      "depth": 0
+    },
+    {
+      "term": "qr-kod generator & skapare",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "qr kod",
+      "depth": 1
+    },
+    {
+      "term": "flaggor quiz: gissa världens",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "flaggor quiz",
+      "depth": 0
+    },
+    {
+      "term": "länder, huvudstäder, flaggor",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "kända personer - historia quiz",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "historia quiz",
+      "depth": 0
+    },
+    {
+      "term": "sömnlogg baby: snoozybear",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "sömnlogg",
+      "depth": 0
+    },
+    {
+      "term": "emy  -  bäckenbottenträning",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "bäckenbottenträning",
+      "depth": 0
+    },
+    {
+      "term": "franska: verb & konjugation",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "franska verb",
+      "depth": 0
+    },
+    {
+      "term": "trängselskatt automatisk påminnelse",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "trängselskatt",
+      "depth": 0
+    },
+    {
+      "term": "musikalisk takt 3: notläsning",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "notläsning",
+      "depth": 0
+    },
+    {
+      "term": "intervaller pro: gehörsträning",
+      "hits": 1,
+      "bestRank": 1,
+      "seed": "gehörsträning",
+      "depth": 0
+    },
+    {
+      "term": "drivio: körkortsteori",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "körkortsteori",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet - prova på",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "kurs i affärsengelska - videokurs",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "affärsengelska",
+      "depth": 0
+    },
+    {
+      "term": "medicinpåminnelse - spåra",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "menskalender: menskoll & hälsa",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "ambrette: bebis sömn & mat",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "bebis sömn",
+      "depth": 0
+    },
+    {
+      "term": "fddb: ai kaloriräknare & diet",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "claru: migrändagbok & ai",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "migrändagbok",
+      "depth": 0
+    },
+    {
+      "term": "rök sluta röka cigaretter!",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sluta röka",
+      "depth": 1
+    },
+    {
+      "term": "quitty: sluta snusa & röka",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "breathly: andningsövningar",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "bird identifier: fågelguide",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "fågelguide",
+      "depth": 0
+    },
+    {
+      "term": "ta båtkörkort: förarintyg",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "båtkörkort",
+      "depth": 0
+    },
+    {
+      "term": "akvarium för barn 2+",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "akvarium",
+      "depth": 0
+    },
+    {
+      "term": "stretching & flexibility flow",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "stretching",
+      "depth": 1
+    },
+    {
+      "term": "intervals - crossfit timer",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "crossfit",
+      "depth": 1
+    },
+    {
+      "term": "snoozly: godnattsagor för barn",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "godnattsagor",
+      "depth": 1
+    },
+    {
+      "term": "ai matte hjälp: läxhjälp",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "knotly: stickning & virkning",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "schack online - spela och lär",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "schack",
+      "depth": 1
+    },
+    {
+      "term": "sudoku.com - classic sudoku",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "simple sudoku :) free",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku offline spel ingen wifi",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku friends - multiplayer",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master edition",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver: hint or solve",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "qrid: qr-kod generator & scan",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "qr kod",
+      "depth": 1
+    },
+    {
+      "term": "skanna qr-kod - skanner",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "qr kod",
+      "depth": 1
+    },
+    {
+      "term": "världens flaggor - quiz",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "flaggor quiz",
+      "depth": 0
+    },
+    {
+      "term": "little nap: bebisens sömnlogg",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "sömnlogg",
+      "depth": 0
+    },
+    {
+      "term": "ouchless - smärtdagbok tracker",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "smärtdagbok",
+      "depth": 0
+    },
+    {
+      "term": "kegel men: bäckenbottenträning",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "bäckenbottenträning",
+      "depth": 0
+    },
+    {
+      "term": "lär dig spanska verb - verbazo",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "spanska verb",
+      "depth": 0
+    },
+    {
+      "term": "conjuga: franska verb träning",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "franska verb",
+      "depth": 0
+    },
+    {
+      "term": "intervaller: gehörsträning",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "gehörsträning",
+      "depth": 0
+    },
+    {
+      "term": "stämma gitarr + ukulele & bas",
+      "hits": 1,
+      "bestRank": 2,
+      "seed": "stämma gitarr",
+      "depth": 0
+    },
+    {
+      "term": "körklar: körkortsteori 8 språk",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "körkortsteori",
+      "depth": 0
+    },
+    {
+      "term": "första hjälpen - röda korset",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "första hjälpen",
+      "depth": 0
+    },
+    {
+      "term": "medborgarskapsprov",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "medborgarskapsprov",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet - hpkampen",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "komplett morsekod: lär cw",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "medicinpåminnelse: pillbuddy",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "lullaby: vaggvisor bebis sömn",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "bebis sömn",
+      "depth": 0
+    },
+    {
+      "term": "ai-kaloriräknare: appediet",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "stegräknare: stegapp, promenad",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "lun: migrändagbok",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "migrändagbok",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka - kwit",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "breathmax: andningsövningar",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "frudini - hushållsbudget",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "hushållsbudget",
+      "depth": 0
+    },
+    {
+      "term": "cv mall: skapare & jobbansökan",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "cv mall",
+      "depth": 0
+    },
+    {
+      "term": "mc kortet",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "mc körkort",
+      "depth": 0
+    },
+    {
+      "term": "hundträning - hund spel",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "ridning stötfångare bil bil & rush sim",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "crustfolk: surdegsbak & kalkyl",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "surdeg",
+      "depth": 0
+    },
+    {
+      "term": "flow: stretching & flexibility",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "stretching",
+      "depth": 1
+    },
+    {
+      "term": "crossfit, inc.",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "crossfit",
+      "depth": 0
+    },
+    {
+      "term": "läxhjälp - solvery",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "trummor machine! - musik spel",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "schack - online och offline",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "schack",
+      "depth": 1
+    },
+    {
+      "term": "killer sudoku från sudoku.com",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku - offline sudoku puzzle",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master - brain games",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver realtime camera",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "packlistan - reseorganisatören",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "packlista",
+      "depth": 0
+    },
+    {
+      "term": "qr-kodläsare",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "skanna qr-kodtillverkare",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "qr kod",
+      "depth": 1
+    },
+    {
+      "term": "studyge-geografi quiz världen",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "geografi quiz",
+      "depth": 0
+    },
+    {
+      "term": "cephalo - huvudvärksdagbok",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "huvudvärksdagbok",
+      "depth": 0
+    },
+    {
+      "term": "gutlog: ibs & fodmap tracker",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "ibs fodmap",
+      "depth": 0
+    },
+    {
+      "term": "engelska grammatik träna: esl",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "tuner pro: stämma gitarr & bas",
+      "hits": 1,
+      "bestRank": 3,
+      "seed": "stämma gitarr",
+      "depth": 0
+    },
+    {
+      "term": "lär dig morsekod - morsable",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "doz: medicinpåminnelse",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "ai kaloriräknare: nutrilio",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "träningsdagbok: liftlog+",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka, snusfri - quitnic",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "bretho - andningsövningar",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "cv maker: skapa cv & mallar",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "cv mall",
+      "depth": 0
+    },
+    {
+      "term": "bigårdschef pro - biodling",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "biodling",
+      "depth": 0
+    },
+    {
+      "term": "hundträning: valp & tricks",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "hayhay: för häst & ridning",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "0-5 år gamla barnvisor på engelska top 100",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "läxhjälp matte - ai lösare",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "yarnal - stickning & virkning",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "varvräknare - sticka & virka",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "virkning",
+      "depth": 1
+    },
+    {
+      "term": "ar-teckning & skiss | drawtoo",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "korsord svenska - ordspel",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "korsord",
+      "depth": 1
+    },
+    {
+      "term": "sudoku - offline puzzle game",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master∙",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver ai: tips",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "qr-kod för iphone",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "qr code maker - skanna qr kod",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "qr kod",
+      "depth": 1
+    },
+    {
+      "term": "hur man förbättrar din engelska grammatik",
+      "hits": 1,
+      "bestRank": 4,
+      "seed": "engelska grammatik",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet 2,00",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "morsekit: morsekodsträning",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "life track-medicinpåminnelse",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "calbot: kaloriräknare & diet",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "ai-kaloriräknare och spårare",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "träningsdagbok gym tracker: fk",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka & snusa - rökfri",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "foga - andningsövningar",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "job cv mallar: skriv&ansöka",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "cv mall",
+      "depth": 0
+    },
+    {
+      "term": "minbiodling – biodling & logg",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "biodling",
+      "depth": 0
+    },
+    {
+      "term": "yeasta: surdegsspårare",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "surdeg",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor: barnbok läs högt",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "yepstr - barnvakt, läxhjälp mm",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "yarnie: virkning & stickning",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "virkning",
+      "depth": 0
+    },
+    {
+      "term": "varvräknare: virka & sticka",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "virkning",
+      "depth": 1
+    },
+    {
+      "term": "bil färg måleri och teckning spel",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "sudoku offline game",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master - number games",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku & solver!",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "europe bubbles: länder och huvudstäder i europa",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "huvudstäder",
+      "depth": 0
+    },
+    {
+      "term": "multiplikationstabellen lärande spel för barn",
+      "hits": 1,
+      "bestRank": 5,
+      "seed": "multiplikationstabellen",
+      "depth": 0
+    },
+    {
+      "term": "medloo: medicinpåminnelse",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "menskalender - ägglossning",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "fuelfam: kaloriräknare & ai",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "ai kaloriräknare och räknare.",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "träningsdagbok - workoutwise",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "poise: andningsövningar",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "andningsövningar",
+      "depth": 0
+    },
+    {
+      "term": "ränta på ränta - investia",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "häst ridning tracker - gallopa",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "ridning",
+      "depth": 0
+    },
+    {
+      "term": "golf handicap: track & plan",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "golf handicap",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor - berättelsebok",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "djur målarbok - måla teckningar",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "sudoku offline - classic",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master - offline puzzle",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver doku",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "qr-kodläsare, skanna streckkod",
+      "hits": 1,
+      "bestRank": 6,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet - ai coach",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "medtime - medicinpåminnelse...",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "menskalender & cykel: syana",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "menskalender",
+      "depth": 0
+    },
+    {
+      "term": "ai kaloriräknare: skanna mat",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "träningsdagbok: gym logg",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "stegräknare - promenad, hälsa",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "stegräknare",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka - quittr",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa, röka - nicoff",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "ränta-på-ränta-kalkyl",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "körjournal: driving logbook",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "everydoggy: hundträning",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "beatbox ringsignaler - bäst vokala trummor & beats",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "trummor",
+      "depth": 0
+    },
+    {
+      "term": "klassisk sudoku offline",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku master-crossword puzzle",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver - sukutututor",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "locolog - resedagbok & karta",
+      "hits": 1,
+      "bestRank": 7,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "kcal – kaloriräknare ai",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "ai kaloriräknare foto",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "träningsdagbok: healthbuddy",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "sluta röka - räknare",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "sluta röka",
+      "depth": 0
+    },
+    {
+      "term": "splitto - dela notan smidigt",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "dela nota",
+      "depth": 1
+    },
+    {
+      "term": "godog: hundträning",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "ai läxhjälp - mathgo",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "chesskid, schack för barn",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "schack",
+      "depth": 0
+    },
+    {
+      "term": "sudoku - sudoku offline",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku mastermind quest",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver - puzzle game",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "map my day! – resedagbok",
+      "hits": 1,
+      "bestRank": 8,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "jägarexamen: teori & prov",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "jägarexamen",
+      "depth": 0
+    },
+    {
+      "term": "högskoleprovet - få 2.00",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "högskoleprovet",
+      "depth": 0
+    },
+    {
+      "term": "pill daily: medicinpåminnelse",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "myfitnesspal: kaloriräknare",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "kaloriräknare",
+      "depth": 0
+    },
+    {
+      "term": "ai kaloriräknare – calk",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "kaloriräknare",
+      "depth": 1
+    },
+    {
+      "term": "träningsdagbok gym – gritlog",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "träningsdagbok",
+      "depth": 0
+    },
+    {
+      "term": "sluta snusa: prillor & snus",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "sluta snusa",
+      "depth": 0
+    },
+    {
+      "term": "mushroom id - svampguiden ai",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "svampguide",
+      "depth": 1
+    },
+    {
+      "term": "körjournal: km logg & resor",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "körjournal",
+      "depth": 0
+    },
+    {
+      "term": "hundeo - hundträning",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "hundträning",
+      "depth": 0
+    },
+    {
+      "term": "boxning träning: viktminskning",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "boxning",
+      "depth": 0
+    },
+    {
+      "term": "ai läxhjälp – fråga, lösare",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "läxhjälp",
+      "depth": 0
+    },
+    {
+      "term": "sudoku master for brains",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "sudoku solver2",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "sudoku",
+      "depth": 1
+    },
+    {
+      "term": "qr-kodläsare och qr-skanner+",
+      "hits": 1,
+      "bestRank": 9,
+      "seed": "qr kod",
+      "depth": 0
+    },
+    {
+      "term": "förarintyg båt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "förarintyg båt",
+      "depth": 0
+    },
+    {
+      "term": "kustskepparintyg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kustskepparintyg",
+      "depth": 0
+    },
+    {
+      "term": "vhf certifikat",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vhf certifikat",
+      "depth": 0
+    },
+    {
+      "term": "drönarkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "drönarkort",
+      "depth": 0
+    },
+    {
+      "term": "truckkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "truckkort",
+      "depth": 0
+    },
+    {
+      "term": "traverskort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "traverskort",
+      "depth": 0
+    },
+    {
+      "term": "hjullastare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hjullastare",
+      "depth": 0
+    },
+    {
+      "term": "motorsågskörkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "motorsågskörkort",
+      "depth": 0
+    },
+    {
+      "term": "esa utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "esa utbildning",
+      "depth": 0
+    },
+    {
+      "term": "liftutbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "liftutbildning",
+      "depth": 0
+    },
+    {
+      "term": "ställningsbyggnad",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ställningsbyggnad",
+      "depth": 0
+    },
+    {
+      "term": "fallskydd",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fallskydd",
+      "depth": 0
+    },
+    {
+      "term": "arbete på väg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arbete på väg",
+      "depth": 0
+    },
+    {
+      "term": "säkra lyft",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "säkra lyft",
+      "depth": 0
+    },
+    {
+      "term": "bam utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bam utbildning",
+      "depth": 0
+    },
+    {
+      "term": "hlr utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hlr utbildning",
+      "depth": 0
+    },
+    {
+      "term": "brandskyddsutbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "brandskyddsutbildning",
+      "depth": 0
+    },
+    {
+      "term": "livsmedelshygien",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "livsmedelshygien",
+      "depth": 0
+    },
+    {
+      "term": "egenkontroll livsmedel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "egenkontroll livsmedel",
+      "depth": 0
+    },
+    {
+      "term": "jaktledarutbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "jaktledarutbildning",
+      "depth": 0
+    },
+    {
+      "term": "skjutprov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skjutprov",
+      "depth": 0
+    },
+    {
+      "term": "vapenlicens",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vapenlicens",
+      "depth": 0
+    },
+    {
+      "term": "mönstring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "mönstring",
+      "depth": 0
+    },
+    {
+      "term": "värnplikt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "värnplikt",
+      "depth": 0
+    },
+    {
+      "term": "polistest",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "polistest",
+      "depth": 0
+    },
+    {
+      "term": "polishögskolan",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "polishögskolan",
+      "depth": 0
+    },
+    {
+      "term": "brandman test",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "brandman test",
+      "depth": 0
+    },
+    {
+      "term": "ambulanssjukvårdare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ambulanssjukvårdare",
+      "depth": 0
+    },
+    {
+      "term": "väktarutbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "väktarutbildning",
+      "depth": 0
+    },
+    {
+      "term": "ordningsvakt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ordningsvakt",
+      "depth": 0
+    },
+    {
+      "term": "kriminalvårdare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kriminalvårdare",
+      "depth": 0
+    },
+    {
+      "term": "tullinspektör",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tullinspektör",
+      "depth": 0
+    },
+    {
+      "term": "militär antagningsprov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "militär antagningsprov",
+      "depth": 0
+    },
+    {
+      "term": "taxiförarlegitimation",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "taxiförarlegitimation",
+      "depth": 0
+    },
+    {
+      "term": "yrkesförarkompetens",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "yrkesförarkompetens",
+      "depth": 0
+    },
+    {
+      "term": "hp matte",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hp matte",
+      "depth": 0
+    },
+    {
+      "term": "gymnasiematte",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gymnasiematte",
+      "depth": 0
+    },
+    {
+      "term": "matte åk 6",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "matte åk 6",
+      "depth": 0
+    },
+    {
+      "term": "glosor engelska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "glosor engelska",
+      "depth": 0
+    },
+    {
+      "term": "spanska glosor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "spanska glosor",
+      "depth": 0
+    },
+    {
+      "term": "tyska glosor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tyska glosor",
+      "depth": 0
+    },
+    {
+      "term": "franska glosor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "franska glosor",
+      "depth": 0
+    },
+    {
+      "term": "fysik formler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fysik formler",
+      "depth": 0
+    },
+    {
+      "term": "biologi celler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "biologi celler",
+      "depth": 0
+    },
+    {
+      "term": "uppsats mall",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "uppsats mall",
+      "depth": 0
+    },
+    {
+      "term": "källkritik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "källkritik",
+      "depth": 0
+    },
+    {
+      "term": "studieteknik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "studieteknik",
+      "depth": 0
+    },
+    {
+      "term": "plugga glosor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "plugga glosor",
+      "depth": 0
+    },
+    {
+      "term": "sfi svenska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sfi svenska",
+      "depth": 0
+    },
+    {
+      "term": "morsekod",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "morsekod",
+      "depth": 0
+    },
+    {
+      "term": "fonetiska alfabetet",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fonetiska alfabetet",
+      "depth": 0
+    },
+    {
+      "term": "engelska uttal",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "engelska uttal",
+      "depth": 0
+    },
+    {
+      "term": "affärsengelska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "affärsengelska",
+      "depth": 0
+    },
+    {
+      "term": "japanska hiragana",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "japanska hiragana",
+      "depth": 0
+    },
+    {
+      "term": "kinesiska tecken",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kinesiska tecken",
+      "depth": 0
+    },
+    {
+      "term": "arabiska alfabetet",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arabiska alfabetet",
+      "depth": 0
+    },
+    {
+      "term": "ryska kyrilliska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ryska kyrilliska",
+      "depth": 0
+    },
+    {
+      "term": "lära sig norska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lära sig norska",
+      "depth": 0
+    },
+    {
+      "term": "blodtryck dagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "blodtryck dagbok",
+      "depth": 0
+    },
+    {
+      "term": "medicinpåminnelse",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "medicinpåminnelse",
+      "depth": 0
+    },
+    {
+      "term": "graviditetskalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "graviditetskalender",
+      "depth": 0
+    },
+    {
+      "term": "amning logg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "amning logg",
+      "depth": 0
+    },
+    {
+      "term": "sömndagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sömndagbok",
+      "depth": 0
+    },
+    {
+      "term": "migrändagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "migrändagbok",
+      "depth": 0
+    },
+    {
+      "term": "diabetes dagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "diabetes dagbok",
+      "depth": 0
+    },
+    {
+      "term": "astma dagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "astma dagbok",
+      "depth": 0
+    },
+    {
+      "term": "ångest hjälp",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ångest hjälp",
+      "depth": 0
+    },
+    {
+      "term": "adhd verktyg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "adhd verktyg",
+      "depth": 0
+    },
+    {
+      "term": "dyslexi hjälp",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "dyslexi hjälp",
+      "depth": 0
+    },
+    {
+      "term": "bodelning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bodelning",
+      "depth": 0
+    },
+    {
+      "term": "arvskifte",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arvskifte",
+      "depth": 0
+    },
+    {
+      "term": "testamente",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "testamente",
+      "depth": 0
+    },
+    {
+      "term": "deklaration hjälp",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "deklaration hjälp",
+      "depth": 0
+    },
+    {
+      "term": "k4 blankett",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "k4 blankett",
+      "depth": 0
+    },
+    {
+      "term": "isk skatt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "isk skatt",
+      "depth": 0
+    },
+    {
+      "term": "fickpengar barn",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fickpengar barn",
+      "depth": 0
+    },
+    {
+      "term": "kuvertmetoden",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kuvertmetoden",
+      "depth": 0
+    },
+    {
+      "term": "bolånekalkyl",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bolånekalkyl",
+      "depth": 0
+    },
+    {
+      "term": "ränta på ränta",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ränta på ränta",
+      "depth": 0
+    },
+    {
+      "term": "sparkalkylator",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sparkalkylator",
+      "depth": 0
+    },
+    {
+      "term": "pension prognos",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "pension prognos",
+      "depth": 0
+    },
+    {
+      "term": "elavtal",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "elavtal",
+      "depth": 0
+    },
+    {
+      "term": "milersättning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "milersättning",
+      "depth": 0
+    },
+    {
+      "term": "reseavdrag",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "reseavdrag",
+      "depth": 0
+    },
+    {
+      "term": "traktamente",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "traktamente",
+      "depth": 0
+    },
+    {
+      "term": "kvittohantering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kvittohantering",
+      "depth": 0
+    },
+    {
+      "term": "dela nota",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "dela nota",
+      "depth": 0
+    },
+    {
+      "term": "skuldsanering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skuldsanering",
+      "depth": 0
+    },
+    {
+      "term": "budget student",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "budget student",
+      "depth": 0
+    },
+    {
+      "term": "anställningsintervju",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "anställningsintervju",
+      "depth": 0
+    },
+    {
+      "term": "löneförhandling",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "löneförhandling",
+      "depth": 0
+    },
+    {
+      "term": "arbetsrätt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arbetsrätt",
+      "depth": 0
+    },
+    {
+      "term": "kollektivavtal",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kollektivavtal",
+      "depth": 0
+    },
+    {
+      "term": "semesterdagar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "semesterdagar",
+      "depth": 0
+    },
+    {
+      "term": "föräldrapenning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "föräldrapenning",
+      "depth": 0
+    },
+    {
+      "term": "eget företag",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "eget företag",
+      "depth": 0
+    },
+    {
+      "term": "enskild firma",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "enskild firma",
+      "depth": 0
+    },
+    {
+      "term": "fakturamall",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fakturamall",
+      "depth": 0
+    },
+    {
+      "term": "momsdeklaration",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "momsdeklaration",
+      "depth": 0
+    },
+    {
+      "term": "bokföring enkelt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bokföring enkelt",
+      "depth": 0
+    },
+    {
+      "term": "f-skatt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "f-skatt",
+      "depth": 0
+    },
+    {
+      "term": "timrapport",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "timrapport",
+      "depth": 0
+    },
+    {
+      "term": "offertmall",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "offertmall",
+      "depth": 0
+    },
+    {
+      "term": "kakla badrum",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kakla badrum",
+      "depth": 0
+    },
+    {
+      "term": "måla om",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "måla om",
+      "depth": 0
+    },
+    {
+      "term": "tapetsera",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tapetsera",
+      "depth": 0
+    },
+    {
+      "term": "bygglov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bygglov",
+      "depth": 0
+    },
+    {
+      "term": "attefallshus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "attefallshus",
+      "depth": 0
+    },
+    {
+      "term": "elinstallation regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "elinstallation regler",
+      "depth": 0
+    },
+    {
+      "term": "vedeldning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vedeldning",
+      "depth": 0
+    },
+    {
+      "term": "värmepump",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "värmepump",
+      "depth": 0
+    },
+    {
+      "term": "isolering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "isolering",
+      "depth": 0
+    },
+    {
+      "term": "fuktmätning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fuktmätning",
+      "depth": 0
+    },
+    {
+      "term": "radon",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "radon",
+      "depth": 0
+    },
+    {
+      "term": "altanbygge",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "altanbygge",
+      "depth": 0
+    },
+    {
+      "term": "staket regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "staket regler",
+      "depth": 0
+    },
+    {
+      "term": "betongblandning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "betongblandning",
+      "depth": 0
+    },
+    {
+      "term": "skruvguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skruvguide",
+      "depth": 0
+    },
+    {
+      "term": "verktygsguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "verktygsguide",
+      "depth": 0
+    },
+    {
+      "term": "odla tomater",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "odla tomater",
+      "depth": 0
+    },
+    {
+      "term": "så frön",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "så frön",
+      "depth": 0
+    },
+    {
+      "term": "planteringskalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "planteringskalender",
+      "depth": 0
+    },
+    {
+      "term": "beskära äppelträd",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "beskära äppelträd",
+      "depth": 0
+    },
+    {
+      "term": "kompost",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kompost",
+      "depth": 0
+    },
+    {
+      "term": "gräsmatta skötsel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gräsmatta skötsel",
+      "depth": 0
+    },
+    {
+      "term": "växthus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "växthus",
+      "depth": 0
+    },
+    {
+      "term": "krukväxter skötsel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "krukväxter skötsel",
+      "depth": 0
+    },
+    {
+      "term": "höns hemma",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "höns hemma",
+      "depth": 0
+    },
+    {
+      "term": "svampguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "svampguide",
+      "depth": 0
+    },
+    {
+      "term": "fiskeguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fiskeguide",
+      "depth": 0
+    },
+    {
+      "term": "fiskeregler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fiskeregler",
+      "depth": 0
+    },
+    {
+      "term": "allemansrätten",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "allemansrätten",
+      "depth": 0
+    },
+    {
+      "term": "kartläsning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kartläsning",
+      "depth": 0
+    },
+    {
+      "term": "fågelguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fågelguide",
+      "depth": 0
+    },
+    {
+      "term": "växtguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "växtguide",
+      "depth": 0
+    },
+    {
+      "term": "djurspår",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "djurspår",
+      "depth": 0
+    },
+    {
+      "term": "lavinprognos",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lavinprognos",
+      "depth": 0
+    },
+    {
+      "term": "fjällvandring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fjällvandring",
+      "depth": 0
+    },
+    {
+      "term": "kanotleder",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kanotleder",
+      "depth": 0
+    },
+    {
+      "term": "besiktning bil",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "besiktning bil",
+      "depth": 0
+    },
+    {
+      "term": "däckbyte",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "däckbyte",
+      "depth": 0
+    },
+    {
+      "term": "husbil regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "husbil regler",
+      "depth": 0
+    },
+    {
+      "term": "husvagn vikt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "husvagn vikt",
+      "depth": 0
+    },
+    {
+      "term": "am kort moped",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "am kort moped",
+      "depth": 0
+    },
+    {
+      "term": "båtkörkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "båtkörkort",
+      "depth": 0
+    },
+    {
+      "term": "fordonsskatt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fordonsskatt",
+      "depth": 0
+    },
+    {
+      "term": "bilvärde",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bilvärde",
+      "depth": 0
+    },
+    {
+      "term": "servicebok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "servicebok",
+      "depth": 0
+    },
+    {
+      "term": "bränsleförbrukning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bränsleförbrukning",
+      "depth": 0
+    },
+    {
+      "term": "valpskola",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "valpskola",
+      "depth": 0
+    },
+    {
+      "term": "hundkommandon",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hundkommandon",
+      "depth": 0
+    },
+    {
+      "term": "kattbeteende",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kattbeteende",
+      "depth": 0
+    },
+    {
+      "term": "hästskötsel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hästskötsel",
+      "depth": 0
+    },
+    {
+      "term": "marsvin",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "marsvin",
+      "depth": 0
+    },
+    {
+      "term": "hundmat",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hundmat",
+      "depth": 0
+    },
+    {
+      "term": "fästingar hund",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fästingar hund",
+      "depth": 0
+    },
+    {
+      "term": "matsedel vecka",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "matsedel vecka",
+      "depth": 0
+    },
+    {
+      "term": "matlådor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "matlådor",
+      "depth": 0
+    },
+    {
+      "term": "receptsamling",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "receptsamling",
+      "depth": 0
+    },
+    {
+      "term": "bakning mått",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bakning mått",
+      "depth": 0
+    },
+    {
+      "term": "konservering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "konservering",
+      "depth": 0
+    },
+    {
+      "term": "ölbryggning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ölbryggning",
+      "depth": 0
+    },
+    {
+      "term": "vinprovning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vinprovning",
+      "depth": 0
+    },
+    {
+      "term": "grillguide",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "grillguide",
+      "depth": 0
+    },
+    {
+      "term": "viltrecept",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "viltrecept",
+      "depth": 0
+    },
+    {
+      "term": "veganskt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "veganskt",
+      "depth": 0
+    },
+    {
+      "term": "styrketräning program",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "styrketräning program",
+      "depth": 0
+    },
+    {
+      "term": "löpning nybörjare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "löpning nybörjare",
+      "depth": 0
+    },
+    {
+      "term": "maraton träning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "maraton träning",
+      "depth": 0
+    },
+    {
+      "term": "simning teknik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "simning teknik",
+      "depth": 0
+    },
+    {
+      "term": "cykling träning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "cykling träning",
+      "depth": 0
+    },
+    {
+      "term": "yoga hemma",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "yoga hemma",
+      "depth": 0
+    },
+    {
+      "term": "ishockey träning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ishockey träning",
+      "depth": 0
+    },
+    {
+      "term": "namn bebis",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "namn bebis",
+      "depth": 0
+    },
+    {
+      "term": "blöjlogg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "blöjlogg",
+      "depth": 0
+    },
+    {
+      "term": "barnsjukdomar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "barnsjukdomar",
+      "depth": 0
+    },
+    {
+      "term": "vaccinationsschema",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vaccinationsschema",
+      "depth": 0
+    },
+    {
+      "term": "barnvisor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "barnvisor",
+      "depth": 0
+    },
+    {
+      "term": "godnattsagor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "godnattsagor",
+      "depth": 0
+    },
+    {
+      "term": "pyssel barn",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "pyssel barn",
+      "depth": 0
+    },
+    {
+      "term": "tandborstning barn",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tandborstning barn",
+      "depth": 0
+    },
+    {
+      "term": "potträning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "potträning",
+      "depth": 0
+    },
+    {
+      "term": "skärmtid barn",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skärmtid barn",
+      "depth": 0
+    },
+    {
+      "term": "stickning mönster",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "stickning mönster",
+      "depth": 0
+    },
+    {
+      "term": "sömnad mått",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sömnad mått",
+      "depth": 0
+    },
+    {
+      "term": "broderi",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "broderi",
+      "depth": 0
+    },
+    {
+      "term": "keramik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "keramik",
+      "depth": 0
+    },
+    {
+      "term": "akvarell",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "akvarell",
+      "depth": 0
+    },
+    {
+      "term": "teckning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "teckning",
+      "depth": 0
+    },
+    {
+      "term": "foto komposition",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "foto komposition",
+      "depth": 0
+    },
+    {
+      "term": "gitarrackord",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gitarrackord",
+      "depth": 0
+    },
+    {
+      "term": "piano noter",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "piano noter",
+      "depth": 0
+    },
+    {
+      "term": "sångövningar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sångövningar",
+      "depth": 0
+    },
+    {
+      "term": "resedagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "resedagbok",
+      "depth": 0
+    },
+    {
+      "term": "tidszoner",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tidszoner",
+      "depth": 0
+    },
+    {
+      "term": "flygförsening ersättning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "flygförsening ersättning",
+      "depth": 0
+    },
+    {
+      "term": "tågresa europa",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tågresa europa",
+      "depth": 0
+    },
+    {
+      "term": "psalmer",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "psalmer",
+      "depth": 0
+    },
+    {
+      "term": "midsommar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "midsommar",
+      "depth": 0
+    },
+    {
+      "term": "julkalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "julkalender",
+      "depth": 0
+    },
+    {
+      "term": "excel formler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "excel formler",
+      "depth": 0
+    },
+    {
+      "term": "tangentbordsgenvägar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tangentbordsgenvägar",
+      "depth": 0
+    },
+    {
+      "term": "lösenordshantering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lösenordshantering",
+      "depth": 0
+    },
+    {
+      "term": "hemnätverk",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hemnätverk",
+      "depth": 0
+    },
+    {
+      "term": "säkerhetskopiering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "säkerhetskopiering",
+      "depth": 0
+    },
+    {
+      "term": "kodning nybörjare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kodning nybörjare",
+      "depth": 0
+    },
+    {
+      "term": "python övningar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "python övningar",
+      "depth": 0
+    },
+    {
+      "term": "frågesport svenska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "frågesport svenska",
+      "depth": 0
+    },
+    {
+      "term": "flaggor quiz",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "flaggor quiz",
+      "depth": 0
+    },
+    {
+      "term": "kungar sverige",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kungar sverige",
+      "depth": 0
+    },
+    {
+      "term": "entreprenadmaskiner utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "entreprenadmaskiner utbildning",
+      "depth": 0
+    },
+    {
+      "term": "grävmaskin utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "grävmaskin utbildning",
+      "depth": 0
+    },
+    {
+      "term": "mobilkran",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "mobilkran",
+      "depth": 0
+    },
+    {
+      "term": "lastbilskran",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lastbilskran",
+      "depth": 0
+    },
+    {
+      "term": "säker skogsentreprenör",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "säker skogsentreprenör",
+      "depth": 0
+    },
+    {
+      "term": "röjsågskörkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "röjsågskörkort",
+      "depth": 0
+    },
+    {
+      "term": "kranförarbevis",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kranförarbevis",
+      "depth": 0
+    },
+    {
+      "term": "travers utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "travers utbildning",
+      "depth": 0
+    },
+    {
+      "term": "asbest utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "asbest utbildning",
+      "depth": 0
+    },
+    {
+      "term": "kvartsdamm",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kvartsdamm",
+      "depth": 0
+    },
+    {
+      "term": "kylcertifikat",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kylcertifikat",
+      "depth": 0
+    },
+    {
+      "term": "elsäkerhet ese",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "elsäkerhet ese",
+      "depth": 0
+    },
+    {
+      "term": "auktoriserad elinstallatör",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "auktoriserad elinstallatör",
+      "depth": 0
+    },
+    {
+      "term": "behörighet el ab",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "behörighet el ab",
+      "depth": 0
+    },
+    {
+      "term": "svetslicens",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "svetslicens",
+      "depth": 0
+    },
+    {
+      "term": "iso svets",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "iso svets",
+      "depth": 0
+    },
+    {
+      "term": "certifierad besiktningsman",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "certifierad besiktningsman",
+      "depth": 0
+    },
+    {
+      "term": "energideklaration",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "energideklaration",
+      "depth": 0
+    },
+    {
+      "term": "ovk behörighet",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ovk behörighet",
+      "depth": 0
+    },
+    {
+      "term": "kontrollansvarig pbl",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kontrollansvarig pbl",
+      "depth": 0
+    },
+    {
+      "term": "byggarbetsmiljösamordnare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "byggarbetsmiljösamordnare",
+      "depth": 0
+    },
+    {
+      "term": "bas p bas u",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bas p bas u",
+      "depth": 0
+    },
+    {
+      "term": "skyddsombud utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skyddsombud utbildning",
+      "depth": 0
+    },
+    {
+      "term": "systematiskt arbetsmiljöarbete",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "systematiskt arbetsmiljöarbete",
+      "depth": 0
+    },
+    {
+      "term": "lyftteknik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lyftteknik",
+      "depth": 0
+    },
+    {
+      "term": "ergonomi arbetsplats",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ergonomi arbetsplats",
+      "depth": 0
+    },
+    {
+      "term": "kustskippare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kustskippare",
+      "depth": 0
+    },
+    {
+      "term": "utsjöskepparintyg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "utsjöskepparintyg",
+      "depth": 0
+    },
+    {
+      "term": "maskinistintyg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "maskinistintyg",
+      "depth": 0
+    },
+    {
+      "term": "radarintyg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "radarintyg",
+      "depth": 0
+    },
+    {
+      "term": "sjövett",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjövett",
+      "depth": 0
+    },
+    {
+      "term": "sjökort symboler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjökort symboler",
+      "depth": 0
+    },
+    {
+      "term": "lanternor regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lanternor regler",
+      "depth": 0
+    },
+    {
+      "term": "väjningsregler sjön",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "väjningsregler sjön",
+      "depth": 0
+    },
+    {
+      "term": "sjömanskap",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjömanskap",
+      "depth": 0
+    },
+    {
+      "term": "båtmotor service",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "båtmotor service",
+      "depth": 0
+    },
+    {
+      "term": "vinterförvaring båt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vinterförvaring båt",
+      "depth": 0
+    },
+    {
+      "term": "loggbok båt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "loggbok båt",
+      "depth": 0
+    },
+    {
+      "term": "ankring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ankring",
+      "depth": 0
+    },
+    {
+      "term": "jaktprov hund",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "jaktprov hund",
+      "depth": 0
+    },
+    {
+      "term": "eftersök",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "eftersök",
+      "depth": 0
+    },
+    {
+      "term": "viltkött stycka",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "viltkött stycka",
+      "depth": 0
+    },
+    {
+      "term": "älgjakt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "älgjakt",
+      "depth": 0
+    },
+    {
+      "term": "vildsvinsjakt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vildsvinsjakt",
+      "depth": 0
+    },
+    {
+      "term": "jakttider tabell",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "jakttider tabell",
+      "depth": 0
+    },
+    {
+      "term": "vapenvård",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vapenvård",
+      "depth": 0
+    },
+    {
+      "term": "ballistik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ballistik",
+      "depth": 0
+    },
+    {
+      "term": "flugfiske knutar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "flugfiske knutar",
+      "depth": 0
+    },
+    {
+      "term": "gösfiske",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gösfiske",
+      "depth": 0
+    },
+    {
+      "term": "isfiske säkerhet",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "isfiske säkerhet",
+      "depth": 0
+    },
+    {
+      "term": "vandringsleder sverige",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vandringsleder sverige",
+      "depth": 0
+    },
+    {
+      "term": "vindskydd bygga",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vindskydd bygga",
+      "depth": 0
+    },
+    {
+      "term": "överlevnadskunskap",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "överlevnadskunskap",
+      "depth": 0
+    },
+    {
+      "term": "väderkunskap moln",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "väderkunskap moln",
+      "depth": 0
+    },
+    {
+      "term": "amorteringskrav",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "amorteringskrav",
+      "depth": 0
+    },
+    {
+      "term": "kontantinsats",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kontantinsats",
+      "depth": 0
+    },
+    {
+      "term": "ränteavdrag",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ränteavdrag",
+      "depth": 0
+    },
+    {
+      "term": "reavinstskatt bostad",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "reavinstskatt bostad",
+      "depth": 0
+    },
+    {
+      "term": "flyttskatt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "flyttskatt",
+      "depth": 0
+    },
+    {
+      "term": "lagfart pantbrev",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lagfart pantbrev",
+      "depth": 0
+    },
+    {
+      "term": "nettolön kalkyl",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "nettolön kalkyl",
+      "depth": 0
+    },
+    {
+      "term": "skattetabell",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skattetabell",
+      "depth": 0
+    },
+    {
+      "term": "moms räkna",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "moms räkna",
+      "depth": 0
+    },
+    {
+      "term": "egenavgifter",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "egenavgifter",
+      "depth": 0
+    },
+    {
+      "term": "f-skatt kalkyl",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "f-skatt kalkyl",
+      "depth": 0
+    },
+    {
+      "term": "semesterlön beräkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "semesterlön beräkning",
+      "depth": 0
+    },
+    {
+      "term": "övertidsersättning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "övertidsersättning",
+      "depth": 0
+    },
+    {
+      "term": "föräldrapenning kalkyl",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "föräldrapenning kalkyl",
+      "depth": 0
+    },
+    {
+      "term": "sjukpenning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjukpenning",
+      "depth": 0
+    },
+    {
+      "term": "a-kassa ersättning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "a-kassa ersättning",
+      "depth": 0
+    },
+    {
+      "term": "tjänstepension",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tjänstepension",
+      "depth": 0
+    },
+    {
+      "term": "utdelning 3 12",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "utdelning 3 12",
+      "depth": 0
+    },
+    {
+      "term": "periodiseringsfond",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "periodiseringsfond",
+      "depth": 0
+    },
+    {
+      "term": "bostadsrätt stadgar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bostadsrätt stadgar",
+      "depth": 0
+    },
+    {
+      "term": "andrahandsuthyrning regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "andrahandsuthyrning regler",
+      "depth": 0
+    },
+    {
+      "term": "hyreslagen",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hyreslagen",
+      "depth": 0
+    },
+    {
+      "term": "besittningsskydd",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "besittningsskydd",
+      "depth": 0
+    },
+    {
+      "term": "störningar granne",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "störningar granne",
+      "depth": 0
+    },
+    {
+      "term": "boarea mätregler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "boarea mätregler",
+      "depth": 0
+    },
+    {
+      "term": "bygglov altan",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bygglov altan",
+      "depth": 0
+    },
+    {
+      "term": "attefallshus regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "attefallshus regler",
+      "depth": 0
+    },
+    {
+      "term": "strandskydd",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "strandskydd",
+      "depth": 0
+    },
+    {
+      "term": "servitut",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "servitut",
+      "depth": 0
+    },
+    {
+      "term": "fastighetsbeteckning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fastighetsbeteckning",
+      "depth": 0
+    },
+    {
+      "term": "radonmätning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "radonmätning",
+      "depth": 0
+    },
+    {
+      "term": "fukt i krypgrund",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fukt i krypgrund",
+      "depth": 0
+    },
+    {
+      "term": "värmepump dimensionering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "värmepump dimensionering",
+      "depth": 0
+    },
+    {
+      "term": "elförbrukning hus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "elförbrukning hus",
+      "depth": 0
+    },
+    {
+      "term": "solceller beräkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "solceller beräkning",
+      "depth": 0
+    },
+    {
+      "term": "timpris el",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "timpris el",
+      "depth": 0
+    },
+    {
+      "term": "framtidsfullmakt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "framtidsfullmakt",
+      "depth": 0
+    },
+    {
+      "term": "god man ansökan",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "god man ansökan",
+      "depth": 0
+    },
+    {
+      "term": "vårdnadstvist",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vårdnadstvist",
+      "depth": 0
+    },
+    {
+      "term": "underhållsbidrag beräkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "underhållsbidrag beräkning",
+      "depth": 0
+    },
+    {
+      "term": "samboavtal",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "samboavtal",
+      "depth": 0
+    },
+    {
+      "term": "äktenskapsförord",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "äktenskapsförord",
+      "depth": 0
+    },
+    {
+      "term": "kronofogden utmätning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kronofogden utmätning",
+      "depth": 0
+    },
+    {
+      "term": "konsumentköplagen",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "konsumentköplagen",
+      "depth": 0
+    },
+    {
+      "term": "ångerrätt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ångerrätt",
+      "depth": 0
+    },
+    {
+      "term": "reklamation",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "reklamation",
+      "depth": 0
+    },
+    {
+      "term": "arbetsrätt uppsägning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arbetsrätt uppsägning",
+      "depth": 0
+    },
+    {
+      "term": "las turordning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "las turordning",
+      "depth": 0
+    },
+    {
+      "term": "diskrimineringslagen",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "diskrimineringslagen",
+      "depth": 0
+    },
+    {
+      "term": "gdpr privatperson",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gdpr privatperson",
+      "depth": 0
+    },
+    {
+      "term": "målsägande rättegång",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "målsägande rättegång",
+      "depth": 0
+    },
+    {
+      "term": "blodtryckslogg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "blodtryckslogg",
+      "depth": 0
+    },
+    {
+      "term": "puls vilopuls",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "puls vilopuls",
+      "depth": 0
+    },
+    {
+      "term": "hrv mätning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hrv mätning",
+      "depth": 0
+    },
+    {
+      "term": "sömnlogg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sömnlogg",
+      "depth": 0
+    },
+    {
+      "term": "menscykel logg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "menscykel logg",
+      "depth": 0
+    },
+    {
+      "term": "amningslogg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "amningslogg",
+      "depth": 0
+    },
+    {
+      "term": "insulindos",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "insulindos",
+      "depth": 0
+    },
+    {
+      "term": "kolhydraträkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kolhydraträkning",
+      "depth": 0
+    },
+    {
+      "term": "gikt kost",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gikt kost",
+      "depth": 0
+    },
+    {
+      "term": "ibs fodmap",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ibs fodmap",
+      "depth": 0
+    },
+    {
+      "term": "laktosintolerans",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "laktosintolerans",
+      "depth": 0
+    },
+    {
+      "term": "allergikalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "allergikalender",
+      "depth": 0
+    },
+    {
+      "term": "vaccinationskort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vaccinationskort",
+      "depth": 0
+    },
+    {
+      "term": "medicinlista",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "medicinlista",
+      "depth": 0
+    },
+    {
+      "term": "bäckenbottenträning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bäckenbottenträning",
+      "depth": 0
+    },
+    {
+      "term": "sjukgymnastik övningar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjukgymnastik övningar",
+      "depth": 0
+    },
+    {
+      "term": "rehab knä",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "rehab knä",
+      "depth": 0
+    },
+    {
+      "term": "glosförhör",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "glosförhör",
+      "depth": 0
+    },
+    {
+      "term": "inläsning plugga",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "inläsning plugga",
+      "depth": 0
+    },
+    {
+      "term": "pomodoro studier",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "pomodoro studier",
+      "depth": 0
+    },
+    {
+      "term": "anteckningsteknik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "anteckningsteknik",
+      "depth": 0
+    },
+    {
+      "term": "tentaplugg",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tentaplugg",
+      "depth": 0
+    },
+    {
+      "term": "formelsamling fysik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "formelsamling fysik",
+      "depth": 0
+    },
+    {
+      "term": "formelsamling kemi",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "formelsamling kemi",
+      "depth": 0
+    },
+    {
+      "term": "derivator",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "derivator",
+      "depth": 0
+    },
+    {
+      "term": "integraler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "integraler",
+      "depth": 0
+    },
+    {
+      "term": "ekvationer träna",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ekvationer träna",
+      "depth": 0
+    },
+    {
+      "term": "spanska verb",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "spanska verb",
+      "depth": 0
+    },
+    {
+      "term": "tyska kasus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tyska kasus",
+      "depth": 0
+    },
+    {
+      "term": "franska verb",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "franska verb",
+      "depth": 0
+    },
+    {
+      "term": "latinska fraser",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "latinska fraser",
+      "depth": 0
+    },
+    {
+      "term": "referenshantering harvard",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "referenshantering harvard",
+      "depth": 0
+    },
+    {
+      "term": "uppsats struktur",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "uppsats struktur",
+      "depth": 0
+    },
+    {
+      "term": "virkesåtgång",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "virkesåtgång",
+      "depth": 0
+    },
+    {
+      "term": "takstolar beräkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "takstolar beräkning",
+      "depth": 0
+    },
+    {
+      "term": "betong blandning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "betong blandning",
+      "depth": 0
+    },
+    {
+      "term": "armering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "armering",
+      "depth": 0
+    },
+    {
+      "term": "dränering hus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "dränering hus",
+      "depth": 0
+    },
+    {
+      "term": "isolering tjocklek",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "isolering tjocklek",
+      "depth": 0
+    },
+    {
+      "term": "ventilation ftx",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ventilation ftx",
+      "depth": 0
+    },
+    {
+      "term": "elcentral säkringar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "elcentral säkringar",
+      "depth": 0
+    },
+    {
+      "term": "kabelareal",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kabelareal",
+      "depth": 0
+    },
+    {
+      "term": "rörschema vvs",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "rörschema vvs",
+      "depth": 0
+    },
+    {
+      "term": "golvvärme",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "golvvärme",
+      "depth": 0
+    },
+    {
+      "term": "fogning kakel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fogning kakel",
+      "depth": 0
+    },
+    {
+      "term": "spackling",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "spackling",
+      "depth": 0
+    },
+    {
+      "term": "slipa golv",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "slipa golv",
+      "depth": 0
+    },
+    {
+      "term": "byta fönster",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "byta fönster",
+      "depth": 0
+    },
+    {
+      "term": "renoveringsbudget",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "renoveringsbudget",
+      "depth": 0
+    },
+    {
+      "term": "verktygslista",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "verktygslista",
+      "depth": 0
+    },
+    {
+      "term": "skruvdimensioner",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skruvdimensioner",
+      "depth": 0
+    },
+    {
+      "term": "gängtabell",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gängtabell",
+      "depth": 0
+    },
+    {
+      "term": "motorcykel körkort a2",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "motorcykel körkort a2",
+      "depth": 0
+    },
+    {
+      "term": "moped am",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "moped am",
+      "depth": 0
+    },
+    {
+      "term": "traktorkort",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "traktorkort",
+      "depth": 0
+    },
+    {
+      "term": "släpvagnskalkyl",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "släpvagnskalkyl",
+      "depth": 0
+    },
+    {
+      "term": "totalvikt släp",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "totalvikt släp",
+      "depth": 0
+    },
+    {
+      "term": "lastsäkring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lastsäkring",
+      "depth": 0
+    },
+    {
+      "term": "kör- vilotider",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kör- vilotider",
+      "depth": 0
+    },
+    {
+      "term": "färdskrivare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "färdskrivare",
+      "depth": 0
+    },
+    {
+      "term": "dieselförbrukning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "dieselförbrukning",
+      "depth": 0
+    },
+    {
+      "term": "värdering bil",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "värdering bil",
+      "depth": 0
+    },
+    {
+      "term": "servicebok bil",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "servicebok bil",
+      "depth": 0
+    },
+    {
+      "term": "felkoder obd",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "felkoder obd",
+      "depth": 0
+    },
+    {
+      "term": "batteri laddning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "batteri laddning",
+      "depth": 0
+    },
+    {
+      "term": "vinterdäck regler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vinterdäck regler",
+      "depth": 0
+    },
+    {
+      "term": "lufttryck däck",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lufttryck däck",
+      "depth": 0
+    },
+    {
+      "term": "hovslagare intervall",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hovslagare intervall",
+      "depth": 0
+    },
+    {
+      "term": "foderstat häst",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "foderstat häst",
+      "depth": 0
+    },
+    {
+      "term": "ridlektion övningar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ridlektion övningar",
+      "depth": 0
+    },
+    {
+      "term": "hunddressyr kommandon",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "hunddressyr kommandon",
+      "depth": 0
+    },
+    {
+      "term": "agility banor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "agility banor",
+      "depth": 0
+    },
+    {
+      "term": "kattens signaler",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kattens signaler",
+      "depth": 0
+    },
+    {
+      "term": "akvarium vattenvärden",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "akvarium vattenvärden",
+      "depth": 0
+    },
+    {
+      "term": "reptilterrarium",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "reptilterrarium",
+      "depth": 0
+    },
+    {
+      "term": "höns hönshus",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "höns hönshus",
+      "depth": 0
+    },
+    {
+      "term": "biodling kupdagbok",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "biodling kupdagbok",
+      "depth": 0
+    },
+    {
+      "term": "fårskötsel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fårskötsel",
+      "depth": 0
+    },
+    {
+      "term": "kalvningskalender",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kalvningskalender",
+      "depth": 0
+    },
+    {
+      "term": "betesplanering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "betesplanering",
+      "depth": 0
+    },
+    {
+      "term": "växtskyddsmedel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "växtskyddsmedel",
+      "depth": 0
+    },
+    {
+      "term": "gödselgiva",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gödselgiva",
+      "depth": 0
+    },
+    {
+      "term": "jordanalys",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "jordanalys",
+      "depth": 0
+    },
+    {
+      "term": "surdegsschema",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "surdegsschema",
+      "depth": 0
+    },
+    {
+      "term": "degvätska bagarprocent",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "degvätska bagarprocent",
+      "depth": 0
+    },
+    {
+      "term": "jäsning temperatur",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "jäsning temperatur",
+      "depth": 0
+    },
+    {
+      "term": "ölbryggning recept",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ölbryggning recept",
+      "depth": 0
+    },
+    {
+      "term": "vinprovning anteckningar",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vinprovning anteckningar",
+      "depth": 0
+    },
+    {
+      "term": "ost lagring",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ost lagring",
+      "depth": 0
+    },
+    {
+      "term": "charkuteri saltning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "charkuteri saltning",
+      "depth": 0
+    },
+    {
+      "term": "sylta safta",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sylta safta",
+      "depth": 0
+    },
+    {
+      "term": "fermentering",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fermentering",
+      "depth": 0
+    },
+    {
+      "term": "grillning kärntemperatur",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "grillning kärntemperatur",
+      "depth": 0
+    },
+    {
+      "term": "sous vide tabell",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sous vide tabell",
+      "depth": 0
+    },
+    {
+      "term": "näringsberäkning recept",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "näringsberäkning recept",
+      "depth": 0
+    },
+    {
+      "term": "pianoskalor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "pianoskalor",
+      "depth": 0
+    },
+    {
+      "term": "gehörsträning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gehörsträning",
+      "depth": 0
+    },
+    {
+      "term": "metronom takt",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "metronom takt",
+      "depth": 0
+    },
+    {
+      "term": "trumkomp",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "trumkomp",
+      "depth": 0
+    },
+    {
+      "term": "musikteori intervall",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "musikteori intervall",
+      "depth": 0
+    },
+    {
+      "term": "bländare slutartid",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bländare slutartid",
+      "depth": 0
+    },
+    {
+      "term": "exponeringstriangel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "exponeringstriangel",
+      "depth": 0
+    },
+    {
+      "term": "skärpedjup beräkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skärpedjup beräkning",
+      "depth": 0
+    },
+    {
+      "term": "gyllene snittet komposition",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gyllene snittet komposition",
+      "depth": 0
+    },
+    {
+      "term": "färglära",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "färglära",
+      "depth": 0
+    },
+    {
+      "term": "akvarell teknik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "akvarell teknik",
+      "depth": 0
+    },
+    {
+      "term": "keramik glasyr",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "keramik glasyr",
+      "depth": 0
+    },
+    {
+      "term": "vävning mönster",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vävning mönster",
+      "depth": 0
+    },
+    {
+      "term": "broderi stygn",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "broderi stygn",
+      "depth": 0
+    },
+    {
+      "term": "träslöjd mått",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "träslöjd mått",
+      "depth": 0
+    },
+    {
+      "term": "undersköterska prov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "undersköterska prov",
+      "depth": 0
+    },
+    {
+      "term": "vårdbiträde utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vårdbiträde utbildning",
+      "depth": 0
+    },
+    {
+      "term": "delegering läkemedel",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "delegering läkemedel",
+      "depth": 0
+    },
+    {
+      "term": "personlig assistent utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "personlig assistent utbildning",
+      "depth": 0
+    },
+    {
+      "term": "barnskötare prov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "barnskötare prov",
+      "depth": 0
+    },
+    {
+      "term": "lärarlegitimation",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lärarlegitimation",
+      "depth": 0
+    },
+    {
+      "term": "socionomexamen",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "socionomexamen",
+      "depth": 0
+    },
+    {
+      "term": "psykologprogrammet antagning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "psykologprogrammet antagning",
+      "depth": 0
+    },
+    {
+      "term": "sjuksköterska legitimation",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjuksköterska legitimation",
+      "depth": 0
+    },
+    {
+      "term": "apotekstekniker",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "apotekstekniker",
+      "depth": 0
+    },
+    {
+      "term": "tandsköterska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "tandsköterska",
+      "depth": 0
+    },
+    {
+      "term": "röntgensjuksköterska",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "röntgensjuksköterska",
+      "depth": 0
+    },
+    {
+      "term": "ambulanssjukvårdare prov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "ambulanssjukvårdare prov",
+      "depth": 0
+    },
+    {
+      "term": "räddningstjänst antagning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "räddningstjänst antagning",
+      "depth": 0
+    },
+    {
+      "term": "sjöbefäl klass",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "sjöbefäl klass",
+      "depth": 0
+    },
+    {
+      "term": "lokförarutbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lokförarutbildning",
+      "depth": 0
+    },
+    {
+      "term": "flygledare antagning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "flygledare antagning",
+      "depth": 0
+    },
+    {
+      "term": "kabinpersonal utbildning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kabinpersonal utbildning",
+      "depth": 0
+    },
+    {
+      "term": "väktare prov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "väktare prov",
+      "depth": 0
+    },
+    {
+      "term": "larmoperatör",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "larmoperatör",
+      "depth": 0
+    },
+    {
+      "term": "säkerhetsprövning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "säkerhetsprövning",
+      "depth": 0
+    },
+    {
+      "term": "fastighetsmäklare prov",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fastighetsmäklare prov",
+      "depth": 0
+    },
+    {
+      "term": "försäkringsförmedlare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "försäkringsförmedlare",
+      "depth": 0
+    },
+    {
+      "term": "revisorsexamen",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "revisorsexamen",
+      "depth": 0
+    },
+    {
+      "term": "skatterådgivare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skatterådgivare",
+      "depth": 0
+    },
+    {
+      "term": "auktoriserad tolk",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "auktoriserad tolk",
+      "depth": 0
+    },
+    {
+      "term": "rättstolk",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "rättstolk",
+      "depth": 0
+    },
+    {
+      "term": "translator kammarkollegiet",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "translator kammarkollegiet",
+      "depth": 0
+    },
+    {
+      "term": "gallringsmall",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "gallringsmall",
+      "depth": 0
+    },
+    {
+      "term": "virkesprislista",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "virkesprislista",
+      "depth": 0
+    },
+    {
+      "term": "skogskubik beräkning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skogskubik beräkning",
+      "depth": 0
+    },
+    {
+      "term": "stamvolym",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "stamvolym",
+      "depth": 0
+    },
+    {
+      "term": "plantering skog",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "plantering skog",
+      "depth": 0
+    },
+    {
+      "term": "markberedning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "markberedning",
+      "depth": 0
+    },
+    {
+      "term": "avverkningsanmälan",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "avverkningsanmälan",
+      "depth": 0
+    },
+    {
+      "term": "skogsvårdslagen",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skogsvårdslagen",
+      "depth": 0
+    },
+    {
+      "term": "nyckelbiotoper",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "nyckelbiotoper",
+      "depth": 0
+    },
+    {
+      "term": "terrängtransport",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "terrängtransport",
+      "depth": 0
+    },
+    {
+      "term": "skotare",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "skotare",
+      "depth": 0
+    },
+    {
+      "term": "motorsåg underhåll",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "motorsåg underhåll",
+      "depth": 0
+    },
+    {
+      "term": "kedjeslipning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kedjeslipning",
+      "depth": 0
+    },
+    {
+      "term": "fällteknik träd",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "fällteknik träd",
+      "depth": 0
+    },
+    {
+      "term": "vedmått kubik",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "vedmått kubik",
+      "depth": 0
+    },
+    {
+      "term": "flisning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "flisning",
+      "depth": 0
+    },
+    {
+      "term": "lönestatistik yrke",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "lönestatistik yrke",
+      "depth": 0
+    },
+    {
+      "term": "kompetensprofil",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "kompetensprofil",
+      "depth": 0
+    },
+    {
+      "term": "medarbetarsamtal",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "medarbetarsamtal",
+      "depth": 0
+    },
+    {
+      "term": "referenstagning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "referenstagning",
+      "depth": 0
+    },
+    {
+      "term": "arbetsintervju frågor",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "arbetsintervju frågor",
+      "depth": 0
+    },
+    {
+      "term": "logiktest anställning",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "logiktest anställning",
+      "depth": 0
+    },
+    {
+      "term": "personlighetstest jobb",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "personlighetstest jobb",
+      "depth": 0
+    },
+    {
+      "term": "assessment center",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "assessment center",
+      "depth": 0
+    },
+    {
+      "term": "starta enskild firma",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "starta enskild firma",
+      "depth": 0
+    },
+    {
+      "term": "bokföring enskild firma",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "bokföring enskild firma",
+      "depth": 0
+    },
+    {
+      "term": "timrapport konsult",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "timrapport konsult",
+      "depth": 0
+    },
+    {
+      "term": "projektbudget",
+      "hits": 0,
+      "bestRank": 99,
+      "seed": "projektbudget",
+      "depth": 0
+    }
+  ],
+  "failed": [],
+  "sonderingsfel": [],
+  "cache": {
+    "hits": 1853,
+    "misses": 0,
+    "oldestAt": "2026-07-28T21:42:49.578Z",
+    "newestAt": "2026-07-29T23:45:49.767Z"
+  }
+}

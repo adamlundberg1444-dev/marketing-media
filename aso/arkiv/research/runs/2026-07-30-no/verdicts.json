@@ -1,0 +1,70 @@
+{
+  "niches": [
+    {
+      "name": "varme arbeider",
+      "verdict": "KANSKE",
+      "motivering": "Samma bild som den svenska heta arbeten-nischen: åtta appar, ingen med fäste (2 och 2 recensioner i toppen). Certifieringen kräver kurs med examination, och alla appar är gratis. Intressant först om betalviljan visar sig i Sverige.",
+      "byggbarhet": "Ja.",
+      "innehallskalla": "Norsk brandskyddsförenings regelverk.",
+      "betalvilja": "Obevisad — alla konkurrenter gratis.",
+      "risk43": "Låg.",
+      "konkurrentsvaghet": "Ingen app har fäste."
+    },
+    {
+      "name": "naaf pollenvarsel",
+      "verdict": "SKIPPA",
+      "motivering": "Pollenprognosen kommer från NAAF och kräver löpande datainhämtning från deras mätstationer. Inget vi kan äga."
+    },
+    {
+      "name": "skredvarsel",
+      "verdict": "SKIPPA",
+      "motivering": "Varsom är NVE:s officiella app. Skredvarsel är myndighetsdata med ansvarsfrågor."
+    },
+    {
+      "name": "jegerprøveneksamen",
+      "verdict": "SKIPPA",
+      "motivering": "Jegerappen har 5953 recensioner på 4,7. Nischen är tagen."
+    },
+    {
+      "name": "jegerprøven",
+      "verdict": "SKIPPA",
+      "motivering": "Samma kluster, samma dominerande app."
+    },
+    {
+      "name": "teoriprøven gratis",
+      "verdict": "SKIPPA",
+      "motivering": "Teoriprøven – bil har 1532 recensioner på 4,6. Körkortsteori är tagen i Norge också."
+    },
+    {
+      "name": "menstruasjonskalender gratis",
+      "verdict": "SKIPPA",
+      "motivering": "Flo har 21 776 recensioner och Clue 4343. Global kategori med enorma aktörer."
+    },
+    {
+      "name": "søvndagbok",
+      "verdict": "SKIPPA",
+      "motivering": "46 appar och ingen tydlig lucka. Sömndagbok är en global kategori."
+    },
+    {
+      "name": "matdagbok kalorier måltider",
+      "verdict": "SKIPPA",
+      "motivering": "Kaloriräkning är samma globala kategori som i Sverige, med AI-appar överallt."
+    },
+    {
+      "name": "gangetabellen",
+      "verdict": "SKIPPA",
+      "motivering": "Multiplikationstabeller har 30 appar och ledare med hundratals recensioner. Ingen språkfördel eftersom siffror är samma överallt."
+    },
+    {
+      "name": "hekling",
+      "verdict": "SKIPPA",
+      "motivering": "Virkning är en global kategori; YarnPal har 321 recensioner och Hobbii 170."
+    },
+    {
+      "name": "timeliste",
+      "verdict": "SKIPPA",
+      "motivering": "Samma nisch som Timmar, men på en marknad en femtedel så stor. Ta Sverige först."
+    }
+  ],
+  "forslag": null
+}
