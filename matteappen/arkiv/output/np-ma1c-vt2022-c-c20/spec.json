@@ -1,0 +1,405 @@
+{
+  "slug": "np-ma1c-vt2022-c-c20",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1c_vt2022_c",
+    "questionId": "c20",
+    "partId": "c20"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "tex": "(2x - 5)(x + 3) = 2x^2 - 9",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/2/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "(2x − 5)(x + 3) = 2x^2 − 9",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "2x^2 + 6x − 5x − 15 = 2x^2 − 9"
+    },
+    {
+      "text": "2x^2 + x − 15 = 2x^2 − 9",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x − 15 = −9",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x = −9 + 15"
+    },
+    {
+      "text": "x = 6",
+      "emphasis": true
+    },
+    {
+      "text": "x = 6",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 34.58,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.48
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 3.68
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.48,
+          "chars": [
+            4.48,
+            4.6338,
+            4.7877,
+            4.9415,
+            4.9877,
+            5.1415,
+            5.1877,
+            5.3415,
+            5.4954,
+            5.6492,
+            5.8031,
+            5.8492,
+            6.0031,
+            6.0492,
+            6.2031,
+            6.3569,
+            6.4031,
+            6.5569,
+            6.6031,
+            6.7569,
+            6.9108,
+            7.0646,
+            7.1108,
+            7.2646,
+            7.3108
+          ]
+        },
+        {
+          "start": 7.8646,
+          "chars": [
+            7.8646,
+            8.0185,
+            8.1723,
+            8.3262,
+            8.3723,
+            8.5262,
+            8.5723,
+            8.7262,
+            8.88,
+            8.9262,
+            9.08,
+            9.1262,
+            9.28,
+            9.4338,
+            9.48,
+            9.6338,
+            9.68,
+            9.8338,
+            9.9877,
+            10.0338,
+            10.1877,
+            10.2338,
+            10.3877,
+            10.5415,
+            10.6954,
+            10.7415,
+            10.8954,
+            10.9415
+          ]
+        },
+        {
+          "start": 11.4454,
+          "chars": [
+            11.4454,
+            11.5992,
+            11.7531,
+            11.9069,
+            11.9531,
+            12.1069,
+            12.1531,
+            12.3069,
+            12.3531,
+            12.5069,
+            12.5531,
+            12.7069,
+            12.8608,
+            12.9069,
+            13.0608,
+            13.1069,
+            13.2608,
+            13.4146,
+            13.5685,
+            13.6146,
+            13.7685,
+            13.8146
+          ]
+        },
+        {
+          "start": 14.4685,
+          "chars": [
+            14.4685,
+            14.6223,
+            14.6685,
+            14.8223,
+            14.8685,
+            15.0223,
+            15.1762,
+            15.2223,
+            15.3762,
+            15.4223,
+            15.5762
+          ]
+        },
+        {
+          "start": 16.23,
+          "chars": [
+            16.23,
+            16.3838,
+            16.43,
+            16.5838,
+            16.63,
+            16.7838,
+            16.9377,
+            16.9838,
+            17.1377,
+            17.1838,
+            17.3377
+          ]
+        },
+        {
+          "start": 17.8415,
+          "chars": [
+            17.8415,
+            17.9954,
+            18.0415,
+            18.1954,
+            18.2415
+          ]
+        },
+        {
+          "start": 18.7454,
+          "chars": [
+            18.7454,
+            18.8992,
+            18.9454,
+            19.0992,
+            19.1454
+          ]
+        },
+        {
+          "start": 19.8992,
+          "chars": [
+            19.8992,
+            20.0531,
+            20.2069,
+            20.3608,
+            20.5146,
+            20.6685,
+            20.7146,
+            20.8685,
+            21.0223,
+            21.1762,
+            21.2223,
+            21.3762,
+            21.53,
+            21.6838,
+            21.8377,
+            21.9915,
+            22.1454,
+            22.2992,
+            22.3454,
+            22.4992,
+            22.6531,
+            22.8069,
+            22.8531,
+            23.0069,
+            23.1608,
+            23.3146,
+            23.4685,
+            23.6223,
+            23.6685,
+            23.8223,
+            23.9762
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 24.48,
+          "end": 25.23,
+          "targets": [
+            {
+              "li": 2,
+              "from": 0,
+              "to": 2
+            }
+          ]
+        },
+        {
+          "start": 25.58,
+          "end": 26.33,
+          "targets": [
+            {
+              "li": 2,
+              "from": 15,
+              "to": 17
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [
+        {
+          "start": 27.18,
+          "end": 27.93,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                1,
+                2
+              ],
+              "to": [
+                9,
+                9
+              ],
+              "side": "over"
+            }
+          ]
+        },
+        {
+          "start": 28.28,
+          "end": 29.03,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                1,
+                2
+              ],
+              "to": [
+                13,
+                13
+              ],
+              "side": "over"
+            }
+          ]
+        },
+        {
+          "start": 29.38,
+          "end": 30.13,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                6,
+                6
+              ],
+              "to": [
+                9,
+                9
+              ],
+              "side": "under"
+            }
+          ]
+        },
+        {
+          "start": 30.48,
+          "end": 31.23,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                6,
+                6
+              ],
+              "to": [
+                13,
+                13
+              ],
+              "side": "under"
+            }
+          ]
+        }
+      ],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 1c",
+    "text2": "VT 2022 · fråga 20",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

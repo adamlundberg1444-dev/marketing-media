@@ -1,0 +1,291 @@
+{
+  "slug": "np-hs9-vt2019-b-b14",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2019_b",
+    "questionId": "b14",
+    "partId": "b14"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förenkla"
+      },
+      {
+        "text": "uttrycket"
+      },
+      {
+        "tex": "\\frac{6x + 3x}{6x - 3x}",
+        "display": false
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Täljare: 6x + 3x = 9x"
+    },
+    {
+      "text": "Nämnare: 6x - 3x = 3x"
+    },
+    {
+      "text": "\\frac{9x}{3x}"
+    },
+    {
+      "text": "x förkortas bort"
+    },
+    {
+      "text": "9/3 = 3"
+    },
+    {
+      "text": "3",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 25.062,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.8
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.97
+        },
+        {
+          "start": 1.97,
+          "end": 3.16
+        },
+        {
+          "start": 3.16,
+          "end": 3.42
+        },
+        {
+          "start": 3.42,
+          "end": 3.83
+        },
+        {
+          "start": 3.83,
+          "end": 4.14
+        },
+        {
+          "start": 4.14,
+          "end": 5
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.8,
+          "chars": [
+            5.8,
+            5.9538,
+            6.1077,
+            6.2615,
+            6.4154,
+            6.5692,
+            6.7231,
+            6.8769,
+            7.0308,
+            7.0769,
+            7.2308,
+            7.3846,
+            7.4308,
+            7.5846,
+            7.6308,
+            7.7846,
+            7.9385,
+            7.9846,
+            8.1385,
+            8.1846,
+            8.3385
+          ]
+        },
+        {
+          "start": 8.8423,
+          "chars": [
+            8.8423,
+            8.9962,
+            9.15,
+            9.3038,
+            9.4577,
+            9.6115,
+            9.7654,
+            9.9192,
+            10.0731,
+            10.1192,
+            10.2731,
+            10.4269,
+            10.4731,
+            10.6269,
+            10.6731,
+            10.8269,
+            10.9808,
+            11.0269,
+            11.1808,
+            11.2269,
+            11.3808
+          ]
+        },
+        {
+          "start": 11.8846,
+          "chars": [
+            11.8846,
+            12.0385,
+            12.1923,
+            12.3462,
+            12.5
+          ]
+        },
+        {
+          "start": 13.0038,
+          "chars": [
+            13.0038,
+            13.1577,
+            13.2038,
+            13.3577,
+            13.5115,
+            13.6654,
+            13.8192,
+            13.9731,
+            14.1269,
+            14.2808,
+            14.4346,
+            14.5885,
+            14.6346,
+            14.7885,
+            14.9423,
+            15.0962
+          ]
+        },
+        {
+          "start": 15.6,
+          "chars": [
+            15.6,
+            15.7538,
+            15.9077,
+            16.0615,
+            16.1077,
+            16.2615,
+            16.3077
+          ]
+        },
+        {
+          "start": 16.8115,
+          "chars": [
+            16.8115
+          ]
+        },
+        {
+          "start": 17.5654,
+          "chars": [
+            17.5654,
+            17.7192,
+            17.8731,
+            18.0269,
+            18.1808,
+            18.2269,
+            18.3808,
+            18.5346,
+            18.6885,
+            18.8423,
+            18.9962,
+            19.15,
+            19.1962,
+            19.35,
+            19.5038,
+            19.6577,
+            19.8115,
+            19.9654,
+            20.0115,
+            20.1654,
+            20.2115,
+            20.3654,
+            20.5192,
+            20.6731,
+            20.8269,
+            20.9808,
+            21.1346,
+            21.2885,
+            21.4423,
+            21.5962,
+            21.75,
+            21.9038,
+            22.0577
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Åk 9",
+    "text2": "VT 2019 · fråga 14",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

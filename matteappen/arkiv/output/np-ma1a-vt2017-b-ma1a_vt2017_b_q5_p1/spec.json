@@ -1,0 +1,712 @@
+{
+  "slug": "np-ma1a-vt2017-b-ma1a_vt2017_b_q5_p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_vt2017_b",
+    "questionId": "ma1a_vt2017_b_q5",
+    "partId": "b5"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kim"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "tillverka"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "öppen"
+      },
+      {
+        "text": "låda"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "papper."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kim"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "rektangulärt"
+      },
+      {
+        "text": "papper"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "mått"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "figuren."
+      },
+      {
+        "text": "Hon"
+      },
+      {
+        "text": "klipper"
+      },
+      {
+        "text": "bort"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "markerade"
+      },
+      {
+        "text": "hörnbitarna,"
+      },
+      {
+        "text": "viker"
+      },
+      {
+        "text": "upp"
+      },
+      {
+        "text": "sidorna"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "tejpar"
+      },
+      {
+        "text": "ihop"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "öppen"
+      },
+      {
+        "text": "låda."
+      },
+      {
+        "text": "Lådan"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": "0{,}5",
+        "display": false
+      },
+      {
+        "text": "dm"
+      },
+      {
+        "text": "hög."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "andel"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "rektangulära"
+      },
+      {
+        "text": "pappret"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "Kim"
+      },
+      {
+        "text": "klippt"
+      },
+      {
+        "text": "bort?"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Redovisa"
+      },
+      {
+        "text": "din"
+      },
+      {
+        "text": "lösning."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(2/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_vt2017_b_q5.imageset/ma1a_vt2017_b_q5.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Hörnbitar: kvadrater med sida 0,5"
+    },
+    {
+      "text": "En bit: 0,5 · 0,5 = 0,25 dm^2",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Fyra bitar: 4 · 0,25 = 1,0 dm^2",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Pappret: 3,0 · 1,5 = 4,5 dm^2",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Andel: 1,0/4,5 = 10/45 = 2/9 ≈ 0,22",
+      "emphasis": true
+    },
+    {
+      "text": "2/9 ≈ 0,22",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 55.75,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 24.5
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.42
+        },
+        {
+          "start": 1.42,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.29
+        },
+        {
+          "start": 2.29,
+          "end": 2.7
+        },
+        {
+          "start": 2.7,
+          "end": 3.06
+        },
+        {
+          "start": 3.06,
+          "end": 3.28
+        },
+        {
+          "start": 3.28,
+          "end": 4.09
+        },
+        {
+          "start": 4.09,
+          "end": 4.4
+        },
+        {
+          "start": 4.4,
+          "end": 4.71
+        },
+        {
+          "start": 4.71,
+          "end": 5.02
+        },
+        {
+          "start": 5.02,
+          "end": 5.78
+        },
+        {
+          "start": 5.78,
+          "end": 6.24
+        },
+        {
+          "start": 6.24,
+          "end": 6.55
+        },
+        {
+          "start": 6.55,
+          "end": 6.91
+        },
+        {
+          "start": 6.91,
+          "end": 7.37
+        },
+        {
+          "start": 7.37,
+          "end": 8.23
+        },
+        {
+          "start": 8.23,
+          "end": 8.54
+        },
+        {
+          "start": 8.54,
+          "end": 9.05
+        },
+        {
+          "start": 9.05,
+          "end": 9.41
+        },
+        {
+          "start": 9.41,
+          "end": 9.67
+        },
+        {
+          "start": 9.67,
+          "end": 10.28
+        },
+        {
+          "start": 10.28,
+          "end": 11.04
+        },
+        {
+          "start": 11.04,
+          "end": 11.45
+        },
+        {
+          "start": 11.45,
+          "end": 11.76
+        },
+        {
+          "start": 11.76,
+          "end": 12.27
+        },
+        {
+          "start": 12.27,
+          "end": 12.58
+        },
+        {
+          "start": 12.58,
+          "end": 13.04
+        },
+        {
+          "start": 13.04,
+          "end": 13.4
+        },
+        {
+          "start": 13.4,
+          "end": 13.76
+        },
+        {
+          "start": 13.76,
+          "end": 14.02
+        },
+        {
+          "start": 14.02,
+          "end": 14.43
+        },
+        {
+          "start": 14.43,
+          "end": 15.14
+        },
+        {
+          "start": 15.14,
+          "end": 15.55
+        },
+        {
+          "start": 15.55,
+          "end": 15.81
+        },
+        {
+          "start": 15.81,
+          "end": 16.34
+        },
+        {
+          "start": 16.34,
+          "end": 16.6
+        },
+        {
+          "start": 16.6,
+          "end": 17.26
+        },
+        {
+          "start": 17.26,
+          "end": 17.57
+        },
+        {
+          "start": 17.57,
+          "end": 17.93
+        },
+        {
+          "start": 17.93,
+          "end": 18.34
+        },
+        {
+          "start": 18.34,
+          "end": 18.6
+        },
+        {
+          "start": 18.6,
+          "end": 18.91
+        },
+        {
+          "start": 18.91,
+          "end": 19.67
+        },
+        {
+          "start": 19.67,
+          "end": 20.18
+        },
+        {
+          "start": 20.18,
+          "end": 20.49
+        },
+        {
+          "start": 20.49,
+          "end": 20.8
+        },
+        {
+          "start": 20.8,
+          "end": 21.26
+        },
+        {
+          "start": 21.26,
+          "end": 21.97
+        },
+        {
+          "start": 21.97,
+          "end": 22.53
+        },
+        {
+          "start": 22.53,
+          "end": 22.84
+        },
+        {
+          "start": 22.84,
+          "end": 23.7
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 24.5,
+          "chars": [
+            24.5,
+            24.6538,
+            24.8077,
+            24.9615,
+            25.1154,
+            25.2692,
+            25.4231,
+            25.5769,
+            25.7308,
+            25.8846,
+            26.0385,
+            26.0846,
+            26.2385,
+            26.3923,
+            26.5462,
+            26.7,
+            26.8538,
+            27.0077,
+            27.1615,
+            27.3154,
+            27.4692,
+            27.5154,
+            27.6692,
+            27.8231,
+            27.9769,
+            28.0231,
+            28.1769,
+            28.3308,
+            28.4846,
+            28.6385,
+            28.6846,
+            28.8385,
+            28.9923
+          ]
+        },
+        {
+          "start": 29.4962,
+          "chars": [
+            29.4962,
+            29.65,
+            29.8038,
+            29.85,
+            30.0038,
+            30.1577,
+            30.3115,
+            30.4654,
+            30.5115,
+            30.6654,
+            30.8192,
+            30.9731,
+            31.0192,
+            31.1731,
+            31.2192,
+            31.3731,
+            31.5269,
+            31.6808,
+            31.7269,
+            31.8808,
+            31.9269,
+            32.0808,
+            32.2346,
+            32.3885,
+            32.5423,
+            32.5885,
+            32.7423,
+            32.8962
+          ]
+        },
+        {
+          "start": 33.55,
+          "chars": [
+            33.55,
+            33.7038,
+            33.8577,
+            34.0115,
+            34.1654,
+            34.2115,
+            34.3654,
+            34.5192,
+            34.6731,
+            34.8269,
+            34.9808,
+            35.1346,
+            35.1808,
+            35.3346,
+            35.3808,
+            35.5346,
+            35.5808,
+            35.7346,
+            35.8885,
+            36.0423,
+            36.1962,
+            36.2423,
+            36.3962,
+            36.4423,
+            36.5962,
+            36.75,
+            36.9038,
+            36.95,
+            37.1038,
+            37.2577
+          ]
+        },
+        {
+          "start": 37.9115,
+          "chars": [
+            37.9115,
+            38.0654,
+            38.2192,
+            38.3731,
+            38.5269,
+            38.6808,
+            38.8346,
+            38.9885,
+            39.1423,
+            39.1885,
+            39.3423,
+            39.4962,
+            39.65,
+            39.6962,
+            39.85,
+            39.8962,
+            40.05,
+            40.2038,
+            40.3577,
+            40.4038,
+            40.5577,
+            40.6038,
+            40.7577,
+            40.9115,
+            41.0654,
+            41.1115,
+            41.2654,
+            41.4192
+          ]
+        },
+        {
+          "start": 42.0731,
+          "chars": [
+            42.0731,
+            42.2269,
+            42.3808,
+            42.5346,
+            42.6885,
+            42.8423,
+            42.9962,
+            43.0423,
+            43.1962,
+            43.35,
+            43.5038,
+            43.6577,
+            43.8115,
+            43.9654,
+            44.1192,
+            44.1654,
+            44.3192,
+            44.3654,
+            44.5192,
+            44.6731,
+            44.8269,
+            44.9808,
+            45.1346,
+            45.1808,
+            45.3346,
+            45.3808,
+            45.5346,
+            45.6885,
+            45.8423,
+            45.8885,
+            46.0423,
+            46.0885,
+            46.2423,
+            46.3962,
+            46.55
+          ]
+        },
+        {
+          "start": 47.0538,
+          "chars": [
+            47.0538,
+            47.2077,
+            47.3615,
+            47.5154,
+            47.5615,
+            47.7154,
+            47.7615,
+            47.9154,
+            48.0692,
+            48.2231
+          ]
+        },
+        {
+          "start": 48.9769,
+          "chars": [
+            48.9769,
+            49.1308,
+            49.2846,
+            49.4385,
+            49.5923,
+            49.7462,
+            49.7923,
+            49.9462,
+            50.1,
+            50.2538,
+            50.4077,
+            50.4538,
+            50.6077,
+            50.7615,
+            50.9154,
+            51.0692,
+            51.2231,
+            51.2692,
+            51.4231,
+            51.5769,
+            51.6231,
+            51.7769,
+            51.8231,
+            51.9769,
+            52.1308,
+            52.2846,
+            52.4385,
+            52.5923,
+            52.7462
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "VT 2017 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "compact": 2,
+    "padTop": 0,
+    "floor": 320
+  }
+}

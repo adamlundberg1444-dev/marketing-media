@@ -1,0 +1,61 @@
+{
+  "slug": "g25m1c2s3l1",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 1c",
+      "title": "Multiplikation av uttryck"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Varför multiplicera in i en parentes?",
+      "sub": "Tänk dig att vi köper tre lika kassar som var och en innehåller ett äpple och en banan. Vi kan räkna kasse för kasse eller frukt för frukt, men resultatet blir förstås detsamma.\n\nSamma idé använder vi i algebra. När ett tal eller en variabel ska multipliceras med en hel parentes behöver vi en regel som säger hur faktorn fördelas över parentesens termer."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Distributiva lagen",
+      "sub": "När en faktor står utanför en parentes multipliceras den med **varje** term inuti. Detta kallas **distributiva lagen**:\n\n\\[a(b + c) = ab + ac\\]\n\nTitta på \\(3(x + 4)\\). Faktorn \\(3\\) ska multipliceras både med \\(x\\) och med \\(4\\), inte bara med det första talet. Att bara multiplicera in i den ena termen är ett mycket vanligt fel."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Utveckla \\(3(x + 4)\\).",
+      "steps": [
+        "Multiplicera faktorn med första termen: \\(3 \\cdot x = 3x\\).",
+        "Multiplicera faktorn med andra termen: \\(3 \\cdot 4 = 12\\).",
+        "Skriv produkterna efter varandra med rätt tecken."
+      ],
+      "result": "\\(3(x + 4) = 3x + 12\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Utveckla \\(5(x + 2)\\).",
+      "options": [
+        "\\(5x + 10\\)",
+        "\\(5x + 2\\)",
+        "\\(x + 10\\)",
+        "\\(7x\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Utveckla \\(5(x + 2)\\).",
+      "options": [
+        "\\(5x + 10\\)",
+        "\\(5x + 2\\)",
+        "\\(x + 10\\)",
+        "\\(7x\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

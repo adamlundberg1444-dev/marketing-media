@@ -1,0 +1,326 @@
+{
+  "slug": "np-ma1a-vt2017-b-ma1a_vt2017_b_q2_p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_vt2017_b",
+    "questionId": "ma1a_vt2017_b_q2",
+    "partId": "b2"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "tex": "4x + 17 = 9",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "x =",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "4x + 17 = 9"
+    },
+    {
+      "text": "Ta bort 17 från båda led:"
+    },
+    {
+      "text": "4x = 9 − 17 = −8",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Dela båda led med 4:"
+    },
+    {
+      "text": "x = −8/4 = −2",
+      "emphasis": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Kolla: 4 · (−2) + 17 = −8 + 17 = 9"
+    },
+    {
+      "text": "x = −2",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 29.115,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.58
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.78
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 3.58,
+          "chars": [
+            3.58,
+            3.7338,
+            3.8877,
+            3.9338,
+            4.0877,
+            4.1338,
+            4.2877,
+            4.4415,
+            4.4877,
+            4.6415,
+            4.6877
+          ]
+        },
+        {
+          "start": 5.1915,
+          "chars": [
+            5.1915,
+            5.3454,
+            5.4992,
+            5.5454,
+            5.6992,
+            5.8531,
+            6.0069,
+            6.1608,
+            6.2069,
+            6.3608,
+            6.5146,
+            6.5608,
+            6.7146,
+            6.8685,
+            7.0223,
+            7.1762,
+            7.2223,
+            7.3762,
+            7.53,
+            7.6838,
+            7.8377,
+            7.8838,
+            8.0377,
+            8.1915,
+            8.3454
+          ]
+        },
+        {
+          "start": 8.8492,
+          "chars": [
+            8.8492,
+            9.0031,
+            9.1569,
+            9.2031,
+            9.3569,
+            9.4031,
+            9.5569,
+            9.6031,
+            9.7569,
+            9.8031,
+            9.9569,
+            10.1108,
+            10.1569,
+            10.3108,
+            10.3569,
+            10.5108
+          ]
+        },
+        {
+          "start": 11.1646,
+          "chars": [
+            11.1646,
+            11.3185,
+            11.4723,
+            11.6262,
+            11.78,
+            11.8262,
+            11.98,
+            12.1338,
+            12.2877,
+            12.4415,
+            12.4877,
+            12.6415,
+            12.7954,
+            12.9492,
+            12.9954,
+            13.1492,
+            13.3031,
+            13.4569,
+            13.5031,
+            13.6569
+          ]
+        },
+        {
+          "start": 14.1608,
+          "chars": [
+            14.1608,
+            14.3146,
+            14.3608,
+            14.5146,
+            14.5608,
+            14.7146,
+            14.8685,
+            15.0223,
+            15.1762,
+            15.2223,
+            15.3762,
+            15.4223,
+            15.5762
+          ]
+        },
+        {
+          "start": 16.33,
+          "chars": [
+            16.33,
+            16.4838,
+            16.6377,
+            16.7915,
+            16.9454,
+            17.0992,
+            17.2531,
+            17.2992,
+            17.4531,
+            17.4992,
+            17.6531,
+            17.6992,
+            17.8531,
+            18.0069,
+            18.1608,
+            18.3146,
+            18.3608,
+            18.5146,
+            18.5608,
+            18.7146,
+            18.8685,
+            18.9146,
+            19.0685,
+            19.1146,
+            19.2685,
+            19.4223,
+            19.4685,
+            19.6223,
+            19.6685,
+            19.8223,
+            19.9762,
+            20.0223,
+            20.1762,
+            20.2223
+          ]
+        },
+        {
+          "start": 20.7262,
+          "chars": [
+            20.7262,
+            20.88,
+            20.9262,
+            21.08,
+            21.1262,
+            21.28
+          ]
+        },
+        {
+          "start": 22.0338,
+          "chars": [
+            22.0338,
+            22.1877,
+            22.3415,
+            22.4954,
+            22.6492,
+            22.8031,
+            22.8492,
+            23.0031,
+            23.1569,
+            23.3108,
+            23.3569,
+            23.5108,
+            23.6646,
+            23.8185,
+            23.9723,
+            24.1262,
+            24.28,
+            24.4338,
+            24.48,
+            24.6338,
+            24.7877,
+            24.9415,
+            24.9877,
+            25.1415,
+            25.2954,
+            25.4492,
+            25.6031,
+            25.7569,
+            25.8031,
+            25.9569,
+            26.1108
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "VT 2017 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

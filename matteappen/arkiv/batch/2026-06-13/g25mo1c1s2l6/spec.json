@@ -1,0 +1,61 @@
+{
+  "slug": "g25mo1c1s2l6",
+  "theme": "matematik3",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nfortsättning nivå 1c",
+      "title": "Dividera rationella uttryck"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Från multiplikation till division",
+      "sub": "Förra lektionen multiplicerade vi rationella uttryck. Nu dividerar vi dem, och knepet är detsamma som för vanliga bråk: vi gör om divisionen till en multiplikation.\n\nMed tal vet vi att \\(\\frac{2}{3}\\div\\frac{4}{5}=\\frac{2}{3}\\cdot\\frac{5}{4}\\). Vi vänder på bråket vi delar med, och byter delat mot gånger. Exakt samma idé gäller när bråken innehåller \\(x\\)."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Regeln för division",
+      "sub": "För att **dividera** med ett rationellt uttryck multiplicerar vi med dess **inverterade** bråk, alltså bråket vänt upp och ner:\n\n\\[\\frac{a}{b}\\div\\frac{c}{d}=\\frac{a}{b}\\cdot\\frac{d}{c}=\\frac{a\\cdot d}{b\\cdot c}\\]\n\nI \\(\\frac{x}{4}\\div\\frac{2}{5}\\) vänder vi på det andra bråket och får \\(\\frac{x}{4}\\cdot\\frac{5}{2}=\\frac{5x}{8}\\)."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Beräkna \\(\\frac{x}{4}\\div\\frac{2}{5}\\).",
+      "steps": [
+        "Vänd på bråket vi delar med: \\(\\frac{2}{5}\\) blir \\(\\frac{5}{2}\\).",
+        "Byt division mot multiplikation: \\(\\frac{x}{4}\\cdot\\frac{5}{2}\\).",
+        "Multiplicera rakt över: \\(\\frac{x\\cdot 5}{4\\cdot 2}=\\frac{5x}{8}\\)."
+      ],
+      "result": "\\(\\frac{x}{4}\\div\\frac{2}{5}=\\frac{5x}{8}\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Beräkna \\(\\frac{x}{3}\\div\\frac{5}{2}\\).",
+      "options": [
+        "\\(\\frac{2x}{15}\\)",
+        "\\(\\frac{5x}{6}\\)",
+        "\\(\\frac{15}{2x}\\)",
+        "\\(\\frac{2}{15}\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Beräkna \\(\\frac{x}{3}\\div\\frac{5}{2}\\).",
+      "options": [
+        "\\(\\frac{2x}{15}\\)",
+        "\\(\\frac{5x}{6}\\)",
+        "\\(\\frac{15}{2x}\\)",
+        "\\(\\frac{2}{15}\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

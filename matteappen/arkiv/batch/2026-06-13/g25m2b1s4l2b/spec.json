@@ -1,0 +1,62 @@
+{
+  "slug": "g25m2b1s4l2b",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2b",
+      "title": "Kvadreringsreglerna"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Att kvadrera en parentes",
+      "sub": "Förra lektionen mötte vi konjugatpar, där mellantermerna tog ut varandra. Nu tittar vi på vad som händer när vi kvadrerar en parentes, alltså multiplicerar den med sig själv.\n\nEn vanlig genväg som lockar är att skriva \\((x+3)^2 = x^2 + 9\\). Det är fel. Vi får inte glömma en term i mitten, och i den här lektionen ser vi varför."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Första kvadreringsregeln",
+      "sub": "Att kvadrera en summa betyder \\((a+b)^2 = (a+b)(a+b)\\). Multiplicerar vi ut får vi en färdig regel:\n\n\\[(a+b)^2 = a^2 + 2ab + b^2\\]\n\nSvaret består av tre delar: första termen i kvadrat, dubbla produkten av termerna, och andra termen i kvadrat. Det är **mittentermen** \\(2ab\\) som lätt glöms bort."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Utveckla \\((x+3)^2\\).",
+      "steps": [
+        "Här är \\(a = x\\) och \\(b = 3\\).",
+        "Kvadrera första termen: \\(a^2 = x^2\\).",
+        "Dubbla produkten: \\(2ab = 2 \\cdot x \\cdot 3 = 6x\\).",
+        "Kvadrera andra termen: \\(b^2 = 3^2 = 9\\)."
+      ],
+      "result": "\\((x+3)^2 = x^2 + 6x + 9\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Vad blir \\((x+5)^2\\)?",
+      "options": [
+        "\\(x^2 + 10x + 25\\)",
+        "\\(x^2 + 25\\)",
+        "\\(x^2 + 5x + 25\\)",
+        "\\(x^2 + 10x + 10\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Vad blir \\((x+5)^2\\)?",
+      "options": [
+        "\\(x^2 + 10x + 25\\)",
+        "\\(x^2 + 25\\)",
+        "\\(x^2 + 5x + 25\\)",
+        "\\(x^2 + 10x + 10\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

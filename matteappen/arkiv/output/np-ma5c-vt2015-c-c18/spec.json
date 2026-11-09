@@ -1,0 +1,365 @@
+{
+  "slug": "np-ma5c-vt2015-c-c18",
+  "video": true,
+  "questionRef": {
+    "exam": "ma5c_vt2015_c",
+    "questionId": "c18",
+    "partId": "c18"
+  },
+  "concept": {
+    "label": "Kongruens",
+    "tex": "a \\equiv b \\pmod{n}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Visa"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": "43^n - 1",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "delbart"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "6"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "alla"
+      },
+      {
+        "text": "heltal"
+      },
+      {
+        "tex": "n > 0",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/2/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "43 = 7 · 6 + 1, rest 1"
+    },
+    {
+      "text": "Rester följer med i produkt"
+    },
+    {
+      "text": "43^n har också rest 1"
+    },
+    {
+      "text": "43^n - 1 har rest 0"
+    },
+    {
+      "text": "Rest 0, alltså delbart",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 31.981,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.7
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.16
+        },
+        {
+          "start": 1.16,
+          "end": 1.47
+        },
+        {
+          "start": 1.47,
+          "end": 2.3
+        },
+        {
+          "start": 2.3,
+          "end": 2.56
+        },
+        {
+          "start": 2.56,
+          "end": 3.07
+        },
+        {
+          "start": 3.07,
+          "end": 3.38
+        },
+        {
+          "start": 3.38,
+          "end": 3.6
+        },
+        {
+          "start": 3.6,
+          "end": 3.91
+        },
+        {
+          "start": 3.91,
+          "end": 4.27
+        },
+        {
+          "start": 4.27,
+          "end": 4.73
+        },
+        {
+          "start": 4.73,
+          "end": 5.38
+        },
+        {
+          "start": 5.38,
+          "end": 5.9
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 8.3,
+          "chars": [
+            8.3,
+            8.4538,
+            8.6077,
+            8.6538,
+            8.8077,
+            8.8538,
+            9.0077,
+            9.0538,
+            9.2077,
+            9.2538,
+            9.4077,
+            9.4538,
+            9.6077,
+            9.6538,
+            9.8077,
+            9.9615,
+            10.0077,
+            10.1615,
+            10.3154,
+            10.4692,
+            10.6231,
+            10.6692
+          ]
+        },
+        {
+          "start": 11.1731,
+          "chars": [
+            11.1731,
+            11.3269,
+            11.4808,
+            11.6346,
+            11.7885,
+            11.9423,
+            12.0962,
+            12.1423,
+            12.2962,
+            12.45,
+            12.6038,
+            12.7577,
+            12.9115,
+            13.0654,
+            13.1115,
+            13.2654,
+            13.4192,
+            13.5731,
+            13.6192,
+            13.7731,
+            13.8192,
+            13.9731,
+            14.1269,
+            14.2808,
+            14.4346,
+            14.5885,
+            14.7423
+          ]
+        },
+        {
+          "start": 15.2462,
+          "chars": [
+            15.2462,
+            15.4,
+            15.5538,
+            15.7077,
+            15.7538,
+            15.9077,
+            16.0615,
+            16.2154,
+            16.2615,
+            16.4154,
+            16.5692,
+            16.7231,
+            16.8769,
+            17.0308,
+            17.0769,
+            17.2308,
+            17.3846,
+            17.5385,
+            17.6923,
+            17.7385
+          ]
+        },
+        {
+          "start": 18.2423,
+          "chars": [
+            18.2423,
+            18.3962,
+            18.55,
+            18.7038,
+            18.75,
+            18.9038,
+            18.95,
+            19.1038,
+            19.15,
+            19.3038,
+            19.4577,
+            19.6115,
+            19.6577,
+            19.8115,
+            19.9654,
+            20.1192,
+            20.2731,
+            20.3192
+          ]
+        },
+        {
+          "start": 20.8231,
+          "chars": [
+            20.8231,
+            20.9769,
+            21.1308,
+            21.2846,
+            21.4385,
+            21.4846,
+            21.6385,
+            21.7923,
+            21.8385,
+            21.9923,
+            22.1462,
+            22.3,
+            22.4538,
+            22.6077,
+            22.7615,
+            22.8077,
+            22.9615,
+            23.1154,
+            23.2692,
+            23.4231,
+            23.5769,
+            23.7308
+          ]
+        },
+        {
+          "start": 24.4846,
+          "chars": [
+            24.4846,
+            24.6385,
+            24.7923,
+            24.9462,
+            25.1,
+            25.1462,
+            25.3,
+            25.4538,
+            25.6077,
+            25.7615,
+            25.9154,
+            26.0692,
+            26.1154,
+            26.2692,
+            26.4231,
+            26.5769,
+            26.7308,
+            26.8846,
+            26.9308,
+            27.0846,
+            27.1308,
+            27.2846,
+            27.4385,
+            27.5923,
+            27.7462,
+            27.9,
+            28.0538,
+            28.2077,
+            28.3615,
+            28.5154,
+            28.6692,
+            28.8231,
+            28.9769
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 6.7,
+        "end": 7.8,
+        "hideAt": 14.7
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte fördjupning",
+    "text2": "VT 2015 · fråga 18",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

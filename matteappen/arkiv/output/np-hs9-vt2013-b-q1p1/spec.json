@@ -1,0 +1,284 @@
+{
+  "slug": "np-hs9-vt2013-b-q1p1",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2013_b",
+    "questionId": "q1",
+    "partId": "q1p1"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Beräkna"
+      },
+      {
+        "tex": "2{,}35 - 0{,}5",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "2,35 − 0,5",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "0,5 = 0,50",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "0,50 = 0,35 + 0,15",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "2,35 − 0,35 = 2",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "2 − 0,15 = 1,85",
+      "pauseAfter": 0.5,
+      "emphasis": true
+    },
+    {
+      "text": "1,85 + 0,5 = 2,35"
+    },
+    {
+      "text": "1,85",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 24.722,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.06
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 2.26
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 3.06,
+          "chars": [
+            3.06,
+            3.2138,
+            3.3677,
+            3.5215,
+            3.6754,
+            3.7215,
+            3.8754,
+            3.9215,
+            4.0754,
+            4.2292
+          ]
+        },
+        {
+          "start": 4.7831,
+          "chars": [
+            4.7831,
+            4.9369,
+            5.0908,
+            5.2446,
+            5.2908,
+            5.4446,
+            5.4908,
+            5.6446,
+            5.7985,
+            5.9523
+          ]
+        },
+        {
+          "start": 6.6062,
+          "chars": [
+            6.6062,
+            6.76,
+            6.9138,
+            7.0677,
+            7.2215,
+            7.2677,
+            7.4215,
+            7.4677,
+            7.6215,
+            7.7754,
+            7.9292,
+            8.0831,
+            8.1292,
+            8.2831,
+            8.3292,
+            8.4831,
+            8.6369,
+            8.7908
+          ]
+        },
+        {
+          "start": 9.4446,
+          "chars": [
+            9.4446,
+            9.5985,
+            9.7523,
+            9.9062,
+            10.06,
+            10.1062,
+            10.26,
+            10.3062,
+            10.46,
+            10.6138,
+            10.7677,
+            10.9215,
+            10.9677,
+            11.1215,
+            11.1677
+          ]
+        },
+        {
+          "start": 11.8215,
+          "chars": [
+            11.8215,
+            11.9754,
+            12.0215,
+            12.1754,
+            12.2215,
+            12.3754,
+            12.5292,
+            12.6831,
+            12.8369,
+            12.8831,
+            13.0369,
+            13.0831,
+            13.2369,
+            13.3908,
+            13.5446
+          ]
+        },
+        {
+          "start": 14.1985,
+          "chars": [
+            14.1985,
+            14.3523,
+            14.5062,
+            14.66,
+            14.8138,
+            14.86,
+            15.0138,
+            15.06,
+            15.2138,
+            15.3677,
+            15.5215,
+            15.5677,
+            15.7215,
+            15.7677,
+            15.9215,
+            16.0754,
+            16.2292
+          ]
+        },
+        {
+          "start": 16.7331,
+          "chars": [
+            16.7331,
+            16.8869,
+            17.0408,
+            17.1946
+          ]
+        },
+        {
+          "start": 17.9485,
+          "chars": [
+            17.9485,
+            18.1023,
+            18.2562,
+            18.41,
+            18.5638,
+            18.7177,
+            18.7638,
+            18.9177,
+            19.0715,
+            19.2254,
+            19.3792,
+            19.4254,
+            19.5792,
+            19.7331,
+            19.8869,
+            20.0408,
+            20.1946,
+            20.2408,
+            20.3946,
+            20.5485,
+            20.5946,
+            20.7485,
+            20.7946,
+            20.9485,
+            21.1023,
+            21.2562,
+            21.41,
+            21.5638,
+            21.7177
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2013 · fråga 1",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

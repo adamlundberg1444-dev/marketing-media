@@ -1,0 +1,367 @@
+{
+  "slug": "np-ma1c-ht2014-b-b5",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1c_ht2014_b",
+    "questionId": "b5",
+    "partId": "b5"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Variabeln"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "står"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "tal."
+      },
+      {
+        "text": "Skriv"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "uttryck"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "annat"
+      },
+      {
+        "text": "tal"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "5"
+      },
+      {
+        "text": "mer"
+      },
+      {
+        "text": "än"
+      },
+      {
+        "text": "hälften"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "talet"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{x}{2}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "\\frac{x}{2} + 5",
+      "emphasis": true,
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x = 8",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "\\frac{8}{2} + 5 = 4 + 5 = 9"
+    },
+    {
+      "text": "0,5x + 5",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 24.377,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 10.3
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.41
+        },
+        {
+          "start": 1.41,
+          "end": 1.82
+        },
+        {
+          "start": 1.82,
+          "end": 2.18
+        },
+        {
+          "start": 2.18,
+          "end": 2.49
+        },
+        {
+          "start": 2.49,
+          "end": 2.8
+        },
+        {
+          "start": 2.8,
+          "end": 3.46
+        },
+        {
+          "start": 3.46,
+          "end": 3.87
+        },
+        {
+          "start": 3.87,
+          "end": 4.18
+        },
+        {
+          "start": 4.18,
+          "end": 4.69
+        },
+        {
+          "start": 4.69,
+          "end": 5
+        },
+        {
+          "start": 5,
+          "end": 5.31
+        },
+        {
+          "start": 5.31,
+          "end": 5.72
+        },
+        {
+          "start": 5.72,
+          "end": 6.03
+        },
+        {
+          "start": 6.03,
+          "end": 6.34
+        },
+        {
+          "start": 6.34,
+          "end": 6.6
+        },
+        {
+          "start": 6.6,
+          "end": 6.82
+        },
+        {
+          "start": 6.82,
+          "end": 7.13
+        },
+        {
+          "start": 7.13,
+          "end": 7.39
+        },
+        {
+          "start": 7.39,
+          "end": 7.9
+        },
+        {
+          "start": 7.9,
+          "end": 8.16
+        },
+        {
+          "start": 8.16,
+          "end": 8.57
+        },
+        {
+          "start": 8.57,
+          "end": 8.98
+        },
+        {
+          "start": 8.98,
+          "end": 9.5
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10.3,
+          "chars": [
+            10.3,
+            10.4538,
+            10.6077
+          ]
+        },
+        {
+          "start": 11.2615,
+          "chars": [
+            11.2615,
+            11.4154,
+            11.5692,
+            11.7231,
+            11.7692,
+            11.9231,
+            11.9692
+          ]
+        },
+        {
+          "start": 12.6231,
+          "chars": [
+            12.6231,
+            12.7769,
+            12.8231,
+            12.9769,
+            13.0231
+          ]
+        },
+        {
+          "start": 13.5769,
+          "chars": [
+            13.5769,
+            13.7308,
+            13.8846,
+            14.0385,
+            14.0846,
+            14.2385,
+            14.2846,
+            14.4385,
+            14.4846,
+            14.6385,
+            14.6846,
+            14.8385,
+            14.8846,
+            15.0385,
+            15.0846,
+            15.2385,
+            15.2846,
+            15.4385,
+            15.4846
+          ]
+        },
+        {
+          "start": 15.9885,
+          "chars": [
+            15.9885,
+            16.1423,
+            16.2962,
+            16.45,
+            16.6038,
+            16.65,
+            16.8038,
+            16.85
+          ]
+        },
+        {
+          "start": 17.6038,
+          "chars": [
+            17.6038,
+            17.7577,
+            17.9115,
+            18.0654,
+            18.2192,
+            18.2654,
+            18.4192,
+            18.5731,
+            18.7269,
+            18.8808,
+            19.0346,
+            19.0808,
+            19.2346,
+            19.3885,
+            19.4346,
+            19.5885,
+            19.6346,
+            19.7885,
+            19.9423,
+            20.0962,
+            20.25,
+            20.4038,
+            20.45,
+            20.6038,
+            20.7577,
+            20.9115,
+            21.0654,
+            21.2192,
+            21.3731
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1c",
+    "text2": "HT 2014 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

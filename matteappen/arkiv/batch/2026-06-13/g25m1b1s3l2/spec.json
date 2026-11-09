@@ -1,0 +1,62 @@
+{
+  "slug": "g25m1b1s3l2",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 1b",
+      "title": "Linjära ekvationer"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad är en ekvation?",
+      "sub": "Förra lektionen skrev vi uttryck med variabler. Nu går vi vidare och sätter ett **likhetstecken** mellan två uttryck. En **ekvation** är ett påstående om att två uttryck är lika stora, till exempel \\(x + 3 = 8\\).\n\nBokstaven \\(x\\) står för ett okänt tal. Att **lösa** ekvationen betyder att hitta det värde på \\(x\\) som gör att vänsterledet och högerledet blir exakt lika. Här ser vi snabbt att \\(x = 5\\), eftersom \\(5 + 3 = 8\\).",
+      "subSize": 38
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Balansmetoden",
+      "sub": "Tänk dig en balansvåg som väger lika på båda sidor. Likhetstecknet fungerar likadant: vänsterledet och högerledet väger lika mycket.\n\nSå länge vi gör **exakt samma sak med båda leden** förblir vågen i balans. Vi kan addera samma tal till båda sidor, subtrahera samma tal, eller dividera båda sidor med samma tal. Det är hela idén bakom att lösa ekvationer: vi skalar bort allt runt \\(x\\) tills variabeln står ensam kvar."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Lös ekvationen \\(x + 5 = 12\\).",
+      "steps": [
+        "Vi vill ha \\(x\\) ensamt, så vi tar bort \\(5\\) från vänsterledet.",
+        "För att hålla balansen subtraherar vi \\(5\\) från båda leden: \\(x + 5 - 5 = 12 - 5\\).",
+        "Vänsterledet blir \\(x\\) och högerledet blir \\(7\\)."
+      ],
+      "result": "\\(x = 7\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Lös ekvationen \\(x + 8 = 20\\).",
+      "options": [
+        "\\(x = 12\\)",
+        "\\(x = 28\\)",
+        "\\(x = 8\\)",
+        "\\(x = 160\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Lös ekvationen \\(x + 8 = 20\\).",
+      "options": [
+        "\\(x = 12\\)",
+        "\\(x = 28\\)",
+        "\\(x = 8\\)",
+        "\\(x = 160\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "np-ma2a-ht2014-c-ma2a_ht2014_c_q11_b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_ht2014_c",
+    "questionId": "ma2a_ht2014_c_q11",
+    "partId": "ma2a_ht2014_c_q11_b"
+  },
+  "concept": {
+    "label": "Nollproduktmetoden",
+    "tex": "ab = 0 \\;\\Rightarrow\\; a = 0 \\;\\text{ eller }\\; b = 0"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "algebraisk"
+      },
+      {
+        "text": "metod."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "(x - 4)^2 = 2(x - 4)",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/2/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Dela inte med (x - 4)"
+    },
+    {
+      "text": "Sätt t = x - 4"
+    },
+    {
+      "text": "t^2 = 2t"
+    },
+    {
+      "text": "t^2 − 2t = 0"
+    },
+    {
+      "text": "t(t − 2) = 0"
+    },
+    {
+      "text": "t = 0 ger x = 4"
+    },
+    {
+      "text": "t = 2 ger x = 6"
+    },
+    {
+      "text": "x_1 = 4, x_2 = 6",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 30.781,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.85
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.08
+        },
+        {
+          "start": 2.08,
+          "end": 2.74
+        },
+        {
+          "start": 2.74,
+          "end": 3.5
+        },
+        {
+          "start": 3.5,
+          "end": 5.05
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.45,
+          "chars": [
+            7.45,
+            7.6038,
+            7.7577,
+            7.9115,
+            8.0654,
+            8.1115,
+            8.2654,
+            8.4192,
+            8.5731,
+            8.7269,
+            8.7731,
+            8.9269,
+            9.0808,
+            9.2346,
+            9.2808,
+            9.4346,
+            9.5885,
+            9.6346,
+            9.7885,
+            9.8346,
+            9.9885
+          ]
+        },
+        {
+          "start": 10.4923,
+          "chars": [
+            10.4923,
+            10.6462,
+            10.8,
+            10.9538,
+            11.1077,
+            11.1538,
+            11.3077,
+            11.3538,
+            11.5077,
+            11.5538,
+            11.7077,
+            11.7538,
+            11.9077,
+            11.9538
+          ]
+        },
+        {
+          "start": 12.4577,
+          "chars": [
+            12.4577,
+            12.6115,
+            12.7654,
+            12.8115,
+            12.9654,
+            13.0115,
+            13.1654
+          ]
+        },
+        {
+          "start": 13.6692,
+          "chars": [
+            13.6692,
+            13.8231,
+            13.9769,
+            14.0231,
+            14.1769,
+            14.2231,
+            14.3769,
+            14.5308,
+            14.5769,
+            14.7308,
+            14.7769
+          ]
+        },
+        {
+          "start": 15.2808,
+          "chars": [
+            15.2808,
+            15.4346,
+            15.5885,
+            15.7423,
+            15.7885,
+            15.9423,
+            15.9885,
+            16.1423,
+            16.2962,
+            16.3423,
+            16.4962,
+            16.5423
+          ]
+        },
+        {
+          "start": 17.0462,
+          "chars": [
+            17.0462,
+            17.2,
+            17.2462,
+            17.4,
+            17.4462,
+            17.6,
+            17.6462,
+            17.8,
+            17.9538,
+            18.1077,
+            18.1538,
+            18.3077,
+            18.3538,
+            18.5077,
+            18.5538
+          ]
+        },
+        {
+          "start": 19.0577,
+          "chars": [
+            19.0577,
+            19.2115,
+            19.2577,
+            19.4115,
+            19.4577,
+            19.6115,
+            19.6577,
+            19.8115,
+            19.9654,
+            20.1192,
+            20.1654,
+            20.3192,
+            20.3654,
+            20.5192,
+            20.5654
+          ]
+        },
+        {
+          "start": 21.0692,
+          "chars": [
+            21.0692,
+            21.2231,
+            21.3769,
+            21.4231,
+            21.5769,
+            21.6231,
+            21.7769,
+            21.9308,
+            21.9769,
+            22.1308,
+            22.2846,
+            22.3308,
+            22.4846,
+            22.5308
+          ]
+        },
+        {
+          "start": 23.2846,
+          "chars": [
+            23.2846,
+            23.4385,
+            23.5923,
+            23.7462,
+            23.9,
+            23.9462,
+            24.1,
+            24.2538,
+            24.4077,
+            24.5615,
+            24.7154,
+            24.8692,
+            24.9154,
+            25.0692,
+            25.2231,
+            25.3769,
+            25.5308,
+            25.6846,
+            25.7308,
+            25.8846,
+            25.9308,
+            26.0846,
+            26.2385,
+            26.3923,
+            26.5462,
+            26.7,
+            26.8538,
+            27.0077,
+            27.1615,
+            27.3154,
+            27.4692,
+            27.6231,
+            27.7769
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5.85,
+        "end": 6.95,
+        "hideAt": 13.85
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2a",
+    "text2": "HT 2014 · fråga 11",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

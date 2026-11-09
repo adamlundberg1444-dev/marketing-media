@@ -1,0 +1,28 @@
+{
+  "slug": "talfoljder_7",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "theme": "fragahook",
+      "title": "Vilket tal kommer härnäst?",
+      "sub": "Hittar du mönstret? 🔢"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Talföljd",
+      "title": "**13, 11, 9, 7, ?**",
+      "options": [
+        "7",
+        "8",
+        "5",
+        "4"
+      ],
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

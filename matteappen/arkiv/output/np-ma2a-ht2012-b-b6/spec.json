@@ -1,0 +1,352 @@
+{
+  "slug": "np-ma2a-ht2012-b-b6",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_ht2012_b",
+    "questionId": "b6",
+    "partId": "b6"
+  },
+  "concept": {
+    "label": "Konjugatregeln",
+    "tex": "(a+b)(a-b) = a^2 - b^2"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Ange"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "uttryck"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "stå"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "parentesen"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "likheten"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "gälla."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " x^2 - 16 = (x - 4) \\cdot (\\quad) ",
+        "display": true
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "x^2 - 16 = a^2 - b^2"
+    },
+    {
+      "text": "16 = 4^2, alltså b = 4"
+    },
+    {
+      "text": "(x + 4)(x - 4)"
+    },
+    {
+      "text": "Faktorerna får byta plats"
+    },
+    {
+      "text": "x + 4",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 29.665,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 8.63
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.16
+        },
+        {
+          "start": 1.16,
+          "end": 1.47
+        },
+        {
+          "start": 1.47,
+          "end": 1.98
+        },
+        {
+          "start": 1.98,
+          "end": 2.29
+        },
+        {
+          "start": 2.29,
+          "end": 2.6
+        },
+        {
+          "start": 2.6,
+          "end": 2.91
+        },
+        {
+          "start": 2.91,
+          "end": 3.13
+        },
+        {
+          "start": 3.13,
+          "end": 3.79
+        },
+        {
+          "start": 3.79,
+          "end": 4.1
+        },
+        {
+          "start": 4.1,
+          "end": 4.41
+        },
+        {
+          "start": 4.41,
+          "end": 4.97
+        },
+        {
+          "start": 4.97,
+          "end": 5.28
+        },
+        {
+          "start": 5.28,
+          "end": 6.04
+        },
+        {
+          "start": 6.04,
+          "end": 7.83
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10.23,
+          "chars": [
+            10.23,
+            10.3838,
+            10.5377,
+            10.5838,
+            10.7377,
+            10.7838,
+            10.9377,
+            11.0915,
+            11.1377,
+            11.2915,
+            11.3377,
+            11.4915,
+            11.6454,
+            11.6915,
+            11.8454,
+            11.8915,
+            12.0454
+          ]
+        },
+        {
+          "start": 12.5492,
+          "chars": [
+            12.5492,
+            12.7031,
+            12.8569,
+            12.9031,
+            13.0569,
+            13.1031,
+            13.2569,
+            13.4108,
+            13.5646,
+            13.6108,
+            13.7646,
+            13.9185,
+            14.0723,
+            14.2262,
+            14.38,
+            14.5338,
+            14.58,
+            14.7338,
+            14.78,
+            14.9338,
+            14.98
+          ]
+        },
+        {
+          "start": 15.4838,
+          "chars": [
+            15.4838,
+            15.6377,
+            15.7915,
+            15.8377,
+            15.9915,
+            16.0377,
+            16.1915,
+            16.3454,
+            16.4992,
+            16.6531,
+            16.6992,
+            16.8531,
+            16.8992,
+            17.0531
+          ]
+        },
+        {
+          "start": 17.5569,
+          "chars": [
+            17.5569,
+            17.7108,
+            17.8646,
+            18.0185,
+            18.1723,
+            18.3262,
+            18.48,
+            18.6338,
+            18.7877,
+            18.9415,
+            19.0954,
+            19.1415,
+            19.2954,
+            19.4492,
+            19.6031,
+            19.6492,
+            19.8031,
+            19.9569,
+            20.1108,
+            20.2646,
+            20.3108,
+            20.4646,
+            20.6185,
+            20.7723,
+            20.9262
+          ]
+        },
+        {
+          "start": 21.43,
+          "chars": [
+            21.43,
+            21.5838,
+            21.63,
+            21.7838,
+            21.83
+          ]
+        },
+        {
+          "start": 22.5838,
+          "chars": [
+            22.5838,
+            22.7377,
+            22.8915,
+            23.0454,
+            23.1992,
+            23.3531,
+            23.3992,
+            23.5531,
+            23.7069,
+            23.8608,
+            23.9069,
+            24.0608,
+            24.2146,
+            24.3685,
+            24.5223,
+            24.6762,
+            24.83,
+            24.9838,
+            25.03,
+            25.1838,
+            25.3377,
+            25.4915,
+            25.5377,
+            25.6915,
+            25.8454,
+            25.9992,
+            26.1531,
+            26.3069,
+            26.3531,
+            26.5069,
+            26.6608
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 8.63,
+        "end": 9.73,
+        "hideAt": 16.63
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2a",
+    "text2": "HT 2012 · fråga 6",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

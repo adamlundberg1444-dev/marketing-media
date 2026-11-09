@@ -1,0 +1,368 @@
+{
+  "slug": "np-hs9-vt2016-b-b7",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2016_b",
+    "questionId": "q7",
+    "partId": "b7"
+  },
+  "concept": {
+    "label": "Andel och det hela",
+    "tex": "\\text{delen} = \\text{andel} \\cdot \\text{det hela}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "20"
+      },
+      {
+        "text": "%"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "tal"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "30."
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "talet?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "20 % \\to 30",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "10 % \\to \\frac{30}{2} = 15",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "100 % \\to 15 \\cdot 10 = 150",
+      "pauseAfter": 0.5,
+      "emphasis": true
+    },
+    {
+      "text": "0,20 \\cdot x = 30",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "x = \\frac{30}{0,20}"
+    },
+    {
+      "text": "x = \\frac{300}{2} = 150"
+    },
+    {
+      "text": "0,20 \\cdot 150 = 30"
+    },
+    {
+      "text": "150",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 29.856,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.31
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.06
+        },
+        {
+          "start": 1.06,
+          "end": 1.28
+        },
+        {
+          "start": 1.28,
+          "end": 1.54
+        },
+        {
+          "start": 1.54,
+          "end": 1.85
+        },
+        {
+          "start": 1.85,
+          "end": 2.16
+        },
+        {
+          "start": 2.16,
+          "end": 2.42
+        },
+        {
+          "start": 2.42,
+          "end": 3.03
+        },
+        {
+          "start": 3.03,
+          "end": 3.49
+        },
+        {
+          "start": 3.49,
+          "end": 3.75
+        },
+        {
+          "start": 3.75,
+          "end": 4.51
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.91,
+          "chars": [
+            6.91,
+            7.0638,
+            7.2177,
+            7.2638,
+            7.4177,
+            7.4638,
+            7.6177,
+            7.6638,
+            7.8177
+          ]
+        },
+        {
+          "start": 8.3715,
+          "chars": [
+            8.3715,
+            8.5254,
+            8.6792,
+            8.7254,
+            8.8792,
+            8.9254,
+            9.0792,
+            9.1254,
+            9.2792,
+            9.4331,
+            9.5869,
+            9.7408,
+            9.7869,
+            9.9408,
+            9.9869,
+            10.1408
+          ]
+        },
+        {
+          "start": 10.7946,
+          "chars": [
+            10.7946,
+            10.9485,
+            11.1023,
+            11.2562,
+            11.3023,
+            11.4562,
+            11.5023,
+            11.6562,
+            11.7023,
+            11.8562,
+            12.01,
+            12.0562,
+            12.21,
+            12.2562,
+            12.41,
+            12.5638,
+            12.61,
+            12.7638,
+            12.81,
+            12.9638,
+            13.1177
+          ]
+        },
+        {
+          "start": 13.7715,
+          "chars": [
+            13.7715,
+            13.9254,
+            14.0792,
+            14.2331,
+            14.3869,
+            14.4331,
+            14.5869,
+            14.6331,
+            14.7869,
+            14.8331,
+            14.9869,
+            15.0331,
+            15.1869
+          ]
+        },
+        {
+          "start": 15.7408,
+          "chars": [
+            15.7408,
+            15.8946,
+            15.9408,
+            16.0946,
+            16.1408,
+            16.2946,
+            16.4485,
+            16.6023,
+            16.7562,
+            16.91,
+            17.0638
+          ]
+        },
+        {
+          "start": 17.5677,
+          "chars": [
+            17.5677,
+            17.7215,
+            17.7677,
+            17.9215,
+            17.9677,
+            18.1215,
+            18.2754,
+            18.4292,
+            18.5831,
+            18.7369,
+            18.7831,
+            18.9369,
+            18.9831,
+            19.1369,
+            19.2908
+          ]
+        },
+        {
+          "start": 19.7946,
+          "chars": [
+            19.7946,
+            19.9485,
+            20.1023,
+            20.2562,
+            20.41,
+            20.4562,
+            20.61,
+            20.6562,
+            20.81,
+            20.9638,
+            21.1177,
+            21.1638,
+            21.3177,
+            21.3638,
+            21.5177
+          ]
+        },
+        {
+          "start": 22.0215,
+          "chars": [
+            22.0215,
+            22.1754,
+            22.3292
+          ]
+        },
+        {
+          "start": 23.0831,
+          "chars": [
+            23.0831,
+            23.2369,
+            23.3908,
+            23.5446,
+            23.6985,
+            23.8523,
+            23.8985,
+            24.0523,
+            24.2062,
+            24.36,
+            24.5138,
+            24.56,
+            24.7138,
+            24.8677,
+            25.0215,
+            25.1754,
+            25.3292,
+            25.3754,
+            25.5292,
+            25.6831,
+            25.7292,
+            25.8831,
+            25.9292,
+            26.0831,
+            26.2369,
+            26.3908,
+            26.5446,
+            26.6985,
+            26.8523
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5.31,
+        "end": 6.41,
+        "hideAt": 13.31
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2016 · fråga 7",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "slug": "np-ma2c-vt2022-b-b6b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2c_vt2022_b",
+    "questionId": "b6",
+    "partId": "b6b"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "svara"
+      },
+      {
+        "text": "exakt"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "enklaste"
+      },
+      {
+        "text": "form."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "3 - \\sqrt{\\sqrt{2x - 5}} = 0",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "x =",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "roten ur roten ur (2x − 5) = 3"
+    },
+    {
+      "text": "Kvadrera: roten ur (2x − 5) = 9",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Kvadrera igen: 2x − 5 = 81"
+    },
+    {
+      "text": "2x = 86"
+    },
+    {
+      "text": "x = 43",
+      "emphasis": true
+    },
+    {
+      "text": "2·43 − 5 = 86 − 5 = 81 ger 3"
+    },
+    {
+      "text": "x = 43",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 33.397,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.42
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.08
+        },
+        {
+          "start": 2.08,
+          "end": 2.49
+        },
+        {
+          "start": 2.49,
+          "end": 2.9
+        },
+        {
+          "start": 2.9,
+          "end": 3.16
+        },
+        {
+          "start": 3.16,
+          "end": 3.72
+        },
+        {
+          "start": 3.72,
+          "end": 4.43
+        },
+        {
+          "start": 4.43,
+          "end": 5.62
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.42,
+          "chars": [
+            6.42,
+            6.5738,
+            6.7277,
+            6.8815,
+            7.0354,
+            7.1892,
+            7.2354,
+            7.3892,
+            7.5431,
+            7.5892,
+            7.7431,
+            7.8969,
+            8.0508,
+            8.2046,
+            8.3585,
+            8.4046,
+            8.5585,
+            8.7123,
+            8.7585,
+            8.9123,
+            9.0662,
+            9.22,
+            9.2662,
+            9.42,
+            9.4662,
+            9.62,
+            9.7738,
+            9.82,
+            9.9738,
+            10.02
+          ]
+        },
+        {
+          "start": 10.5238,
+          "chars": [
+            10.5238,
+            10.6777,
+            10.8315,
+            10.9854,
+            11.1392,
+            11.2931,
+            11.4469,
+            11.6008,
+            11.7546,
+            11.9085,
+            11.9546,
+            12.1085,
+            12.2623,
+            12.4162,
+            12.57,
+            12.7238,
+            12.77,
+            12.9238,
+            13.0777,
+            13.1238,
+            13.2777,
+            13.4315,
+            13.5854,
+            13.6315,
+            13.7854,
+            13.8315,
+            13.9854,
+            14.1392,
+            14.1854,
+            14.3392,
+            14.3854
+          ]
+        },
+        {
+          "start": 15.0392,
+          "chars": [
+            15.0392,
+            15.1931,
+            15.3469,
+            15.5008,
+            15.6546,
+            15.8085,
+            15.9623,
+            16.1162,
+            16.27,
+            16.3162,
+            16.47,
+            16.6238,
+            16.7777,
+            16.9315,
+            17.0854,
+            17.1315,
+            17.2854,
+            17.4392,
+            17.4854,
+            17.6392,
+            17.6854,
+            17.8392,
+            17.8854,
+            18.0392,
+            18.0854,
+            18.2392
+          ]
+        },
+        {
+          "start": 18.7431,
+          "chars": [
+            18.7431,
+            18.8969,
+            19.0508,
+            19.0969,
+            19.2508,
+            19.2969,
+            19.4508
+          ]
+        },
+        {
+          "start": 19.9546,
+          "chars": [
+            19.9546,
+            20.1085,
+            20.1546,
+            20.3085,
+            20.3546,
+            20.5085
+          ]
+        },
+        {
+          "start": 21.0123,
+          "chars": [
+            21.0123,
+            21.1662,
+            21.32,
+            21.4738,
+            21.6277,
+            21.6738,
+            21.8277,
+            21.8738,
+            22.0277,
+            22.0738,
+            22.2277,
+            22.2738,
+            22.4277,
+            22.5815,
+            22.6277,
+            22.7815,
+            22.8277,
+            22.9815,
+            23.0277,
+            23.1815,
+            23.2277,
+            23.3815,
+            23.5354,
+            23.5815,
+            23.7354,
+            23.8892,
+            24.0431,
+            24.0892
+          ]
+        },
+        {
+          "start": 24.5931,
+          "chars": [
+            24.5931,
+            24.7469,
+            24.7931,
+            24.9469,
+            24.9931,
+            25.1469
+          ]
+        },
+        {
+          "start": 25.9008,
+          "chars": [
+            25.9008,
+            26.0546,
+            26.2085,
+            26.3623,
+            26.5162,
+            26.5623,
+            26.7162,
+            26.87,
+            27.0238,
+            27.1777,
+            27.3315,
+            27.4854,
+            27.5315,
+            27.6854,
+            27.8392,
+            27.9931,
+            28.1469,
+            28.3008,
+            28.3469,
+            28.5008,
+            28.5469,
+            28.7008,
+            28.8546,
+            29.0085,
+            29.1623,
+            29.3162,
+            29.47,
+            29.6238,
+            29.7777,
+            29.9315,
+            30.0854,
+            30.2392,
+            30.3931
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2c",
+    "text2": "VT 2022 · fråga 6",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

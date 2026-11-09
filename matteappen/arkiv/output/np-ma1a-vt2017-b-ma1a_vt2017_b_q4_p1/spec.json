@@ -1,0 +1,534 @@
+{
+  "slug": "np-ma1a-vt2017-b-ma1a_vt2017_b_q4_p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_vt2017_b",
+    "questionId": "ma1a_vt2017_b_q4",
+    "partId": "b4"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Saften"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "flaskan"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "blandas"
+      },
+      {
+        "text": "1"
+      },
+      {
+        "text": "+"
+      },
+      {
+        "text": "4."
+      },
+      {
+        "text": "Det"
+      },
+      {
+        "text": "betyder"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "man"
+      },
+      {
+        "text": "blandar"
+      },
+      {
+        "text": "1"
+      },
+      {
+        "text": "del"
+      },
+      {
+        "text": "saft"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "4"
+      },
+      {
+        "text": "delar"
+      },
+      {
+        "text": "vatten"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "glas."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "blandade"
+      },
+      {
+        "text": "drycken"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "glaset"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "vatten?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_vt2017_b_q4.imageset/ma1a_vt2017_b_q4.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "1 del saft + 4 delar vatten"
+    },
+    {
+      "text": "Totalt: 1 + 4 = 5 delar",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Vatten: 4 av 5 delar = 4/5",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "4/5 = 0,80 = 80 %"
+    },
+    {
+      "text": "80 % av drycken är vatten",
+      "emphasis": true
+    },
+    {
+      "text": "80 %",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 40.087,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 14.71
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.48
+        },
+        {
+          "start": 1.48,
+          "end": 1.99
+        },
+        {
+          "start": 1.99,
+          "end": 2.3
+        },
+        {
+          "start": 2.3,
+          "end": 2.81
+        },
+        {
+          "start": 2.81,
+          "end": 3.03
+        },
+        {
+          "start": 3.03,
+          "end": 3.25
+        },
+        {
+          "start": 3.25,
+          "end": 3.81
+        },
+        {
+          "start": 3.81,
+          "end": 4.12
+        },
+        {
+          "start": 4.12,
+          "end": 4.63
+        },
+        {
+          "start": 4.63,
+          "end": 4.94
+        },
+        {
+          "start": 4.94,
+          "end": 5.25
+        },
+        {
+          "start": 5.25,
+          "end": 5.76
+        },
+        {
+          "start": 5.76,
+          "end": 5.98
+        },
+        {
+          "start": 5.98,
+          "end": 6.29
+        },
+        {
+          "start": 6.29,
+          "end": 6.65
+        },
+        {
+          "start": 6.65,
+          "end": 6.96
+        },
+        {
+          "start": 6.96,
+          "end": 7.18
+        },
+        {
+          "start": 7.18,
+          "end": 7.59
+        },
+        {
+          "start": 7.59,
+          "end": 8.05
+        },
+        {
+          "start": 8.05,
+          "end": 8.27
+        },
+        {
+          "start": 8.27,
+          "end": 8.58
+        },
+        {
+          "start": 8.58,
+          "end": 9.29
+        },
+        {
+          "start": 9.29,
+          "end": 9.6
+        },
+        {
+          "start": 9.6,
+          "end": 10.01
+        },
+        {
+          "start": 10.01,
+          "end": 10.52
+        },
+        {
+          "start": 10.52,
+          "end": 10.78
+        },
+        {
+          "start": 10.78,
+          "end": 11.09
+        },
+        {
+          "start": 11.09,
+          "end": 11.65
+        },
+        {
+          "start": 11.65,
+          "end": 12.16
+        },
+        {
+          "start": 12.16,
+          "end": 12.38
+        },
+        {
+          "start": 12.38,
+          "end": 12.84
+        },
+        {
+          "start": 12.84,
+          "end": 13.1
+        },
+        {
+          "start": 13.1,
+          "end": 13.91
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 14.71,
+          "chars": [
+            14.71,
+            14.8638,
+            14.91,
+            15.0638,
+            15.2177,
+            15.3715,
+            15.4177,
+            15.5715,
+            15.7254,
+            15.8792,
+            16.0331,
+            16.0792,
+            16.2331,
+            16.2792,
+            16.4331,
+            16.4792,
+            16.6331,
+            16.7869,
+            16.9408,
+            17.0946,
+            17.2485,
+            17.2946,
+            17.4485,
+            17.6023,
+            17.7562,
+            17.91,
+            18.0638
+          ]
+        },
+        {
+          "start": 18.5677,
+          "chars": [
+            18.5677,
+            18.7215,
+            18.8754,
+            19.0292,
+            19.1831,
+            19.3369,
+            19.4908,
+            19.6446,
+            19.6908,
+            19.8446,
+            19.8908,
+            20.0446,
+            20.0908,
+            20.2446,
+            20.2908,
+            20.4446,
+            20.4908,
+            20.6446,
+            20.6908,
+            20.8446,
+            20.9985,
+            21.1523,
+            21.3062
+          ]
+        },
+        {
+          "start": 21.96,
+          "chars": [
+            21.96,
+            22.1138,
+            22.2677,
+            22.4215,
+            22.5754,
+            22.7292,
+            22.8831,
+            23.0369,
+            23.0831,
+            23.2369,
+            23.2831,
+            23.4369,
+            23.5908,
+            23.6369,
+            23.7908,
+            23.8369,
+            23.9908,
+            24.1446,
+            24.2985,
+            24.4523,
+            24.6062,
+            24.6523,
+            24.8062,
+            24.8523,
+            25.0062,
+            25.16
+          ]
+        },
+        {
+          "start": 25.8138,
+          "chars": [
+            25.8138,
+            25.9677,
+            26.1215,
+            26.2754,
+            26.3215,
+            26.4754,
+            26.5215,
+            26.6754,
+            26.8292,
+            26.9831,
+            27.1369,
+            27.1831,
+            27.3369,
+            27.3831,
+            27.5369,
+            27.6908,
+            27.7369
+          ]
+        },
+        {
+          "start": 28.2408,
+          "chars": [
+            28.2408,
+            28.3946,
+            28.5485,
+            28.5946,
+            28.7485,
+            28.7946,
+            28.9485,
+            29.1023,
+            29.1485,
+            29.3023,
+            29.4562,
+            29.61,
+            29.7638,
+            29.9177,
+            30.0715,
+            30.2254,
+            30.2715,
+            30.4254,
+            30.5792,
+            30.6254,
+            30.7792,
+            30.9331,
+            31.0869,
+            31.2408,
+            31.3946
+          ]
+        },
+        {
+          "start": 31.8985,
+          "chars": [
+            31.8985,
+            32.0523,
+            32.2062,
+            32.2523
+          ]
+        },
+        {
+          "start": 33.0062,
+          "chars": [
+            33.0062,
+            33.16,
+            33.3138,
+            33.4677,
+            33.6215,
+            33.7754,
+            33.8215,
+            33.9754,
+            34.1292,
+            34.2831,
+            34.3292,
+            34.4831,
+            34.6369,
+            34.7908,
+            34.9446,
+            35.0985,
+            35.2523,
+            35.4062,
+            35.4523,
+            35.6062,
+            35.76,
+            35.9138,
+            35.96,
+            36.1138,
+            36.2677,
+            36.4215,
+            36.5754,
+            36.7292,
+            36.7754,
+            36.9292,
+            37.0831
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "VT 2017 · fråga 4",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "slug": "np-ma1c-vt2022-b-b13",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1c_vt2022_b",
+    "questionId": "b13",
+    "partId": "b13"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": "f(x) = 2x - 4",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "g(x) = 3x + 1",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": "f(g(2))",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar: \\(f(g(2)) =\\)",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Räkna inifrån och ut!"
+    },
+    {
+      "text": "g(2) = 3 · 2 + 1 = 6 + 1 = 7",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Sätt in 7 i f:"
+    },
+    {
+      "text": "f(7) = 2 · 7 − 4 = 14 − 4 = 10",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "f(g(2)) = 10",
+      "emphasis": true
+    },
+    {
+      "text": "10",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 27.731,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.4
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.93
+        },
+        {
+          "start": 1.93,
+          "end": 2.24
+        },
+        {
+          "start": 2.24,
+          "end": 3.37
+        },
+        {
+          "start": 3.37,
+          "end": 3.83
+        },
+        {
+          "start": 3.83,
+          "end": 4.6
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.4,
+          "chars": [
+            5.4,
+            5.5538,
+            5.7077,
+            5.8615,
+            6.0154,
+            6.1692,
+            6.2154,
+            6.3692,
+            6.5231,
+            6.6769,
+            6.8308,
+            6.9846,
+            7.1385,
+            7.2923,
+            7.3385,
+            7.4923,
+            7.6462,
+            7.8,
+            7.8462,
+            8,
+            8.1538
+          ]
+        },
+        {
+          "start": 8.6577,
+          "chars": [
+            8.6577,
+            8.8115,
+            8.9654,
+            9.1192,
+            9.2731,
+            9.3192,
+            9.4731,
+            9.5192,
+            9.6731,
+            9.7192,
+            9.8731,
+            9.9192,
+            10.0731,
+            10.1192,
+            10.2731,
+            10.3192,
+            10.4731,
+            10.5192,
+            10.6731,
+            10.7192,
+            10.8731,
+            10.9192,
+            11.0731,
+            11.1192,
+            11.2731,
+            11.3192,
+            11.4731,
+            11.5192
+          ]
+        },
+        {
+          "start": 12.1731,
+          "chars": [
+            12.1731,
+            12.3269,
+            12.4808,
+            12.6346,
+            12.7885,
+            12.8346,
+            12.9885,
+            13.1423,
+            13.1885,
+            13.3423,
+            13.3885,
+            13.5423,
+            13.5885,
+            13.7423
+          ]
+        },
+        {
+          "start": 14.2462,
+          "chars": [
+            14.2462,
+            14.4,
+            14.5538,
+            14.7077,
+            14.8615,
+            14.9077,
+            15.0615,
+            15.1077,
+            15.2615,
+            15.3077,
+            15.4615,
+            15.5077,
+            15.6615,
+            15.7077,
+            15.8615,
+            15.9077,
+            16.0615,
+            16.1077,
+            16.2615,
+            16.3077,
+            16.4615,
+            16.6154,
+            16.6615,
+            16.8154,
+            16.8615,
+            17.0154,
+            17.0615,
+            17.2154,
+            17.2615,
+            17.4154
+          ]
+        },
+        {
+          "start": 18.0692,
+          "chars": [
+            18.0692,
+            18.2231,
+            18.3769,
+            18.5308,
+            18.6846,
+            18.8385,
+            18.9923,
+            19.1462,
+            19.1923,
+            19.3462,
+            19.3923,
+            19.5462
+          ]
+        },
+        {
+          "start": 20.05,
+          "chars": [
+            20.05,
+            20.2038
+          ]
+        },
+        {
+          "start": 20.9577,
+          "chars": [
+            20.9577,
+            21.1115,
+            21.2654,
+            21.4192,
+            21.5731,
+            21.6192,
+            21.7731,
+            21.9269,
+            22.0808,
+            22.2346,
+            22.3885,
+            22.4346,
+            22.5885,
+            22.7423,
+            22.7885,
+            22.9423,
+            22.9885,
+            23.1423,
+            23.2962,
+            23.45,
+            23.6038,
+            23.7577,
+            23.8038,
+            23.9577,
+            24.1115,
+            24.2654,
+            24.4192,
+            24.5731,
+            24.7269
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte nivå 1c",
+    "text2": "VT 2022 · fråga 13",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

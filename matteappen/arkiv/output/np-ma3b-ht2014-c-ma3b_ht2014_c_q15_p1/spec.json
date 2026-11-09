@@ -1,0 +1,401 @@
+{
+  "slug": "np-ma3b-ht2014-c-ma3b_ht2014_c_q15_p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_ht2014_c",
+    "questionId": "ma3b_ht2014_c_q15",
+    "partId": "ma3b_ht2014_c_q15_p1"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "måste"
+      },
+      {
+        "text": "gälla"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "linjen"
+      },
+      {
+        "tex": "y = f(x)",
+        "display": false
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "tangera"
+      },
+      {
+        "text": "kurvan"
+      },
+      {
+        "tex": "y = g(x)",
+        "display": false
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "punkt"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "tex": "x = a",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/2)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "x = a",
+      "pauseAfter": 0.4
+    },
+    {
+      "graph": {
+        "fns": [
+          {
+            "expr": "0.25*x^2 - 1",
+            "label": "g(x)"
+          },
+          {
+            "expr": "x - 2",
+            "label": "f(x)"
+          }
+        ],
+        "x": [
+          -3,
+          4
+        ],
+        "y": [
+          -3,
+          4
+        ],
+        "side": "right",
+        "width": 380,
+        "height": 260
+      }
+    },
+    {
+      "text": "f(a) = g(a)",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "f'(a) = g'(a)",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "f(a) = g(a), f'(a) = g'(a)",
+      "emphasis": true
+    },
+    {
+      "text": "f(a) = g(a), f'(a) = g'(a)",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 32.158,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 9.17
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.93
+        },
+        {
+          "start": 1.93,
+          "end": 2.24
+        },
+        {
+          "start": 2.24,
+          "end": 2.55
+        },
+        {
+          "start": 2.55,
+          "end": 3.01
+        },
+        {
+          "start": 3.01,
+          "end": 3.84
+        },
+        {
+          "start": 3.84,
+          "end": 4.15
+        },
+        {
+          "start": 4.15,
+          "end": 4.66
+        },
+        {
+          "start": 4.66,
+          "end": 5.12
+        },
+        {
+          "start": 5.12,
+          "end": 5.95
+        },
+        {
+          "start": 5.95,
+          "end": 6.17
+        },
+        {
+          "start": 6.17,
+          "end": 6.48
+        },
+        {
+          "start": 6.48,
+          "end": 6.89
+        },
+        {
+          "start": 6.89,
+          "end": 7.2
+        },
+        {
+          "start": 7.2,
+          "end": 7.85
+        },
+        {
+          "start": 7.85,
+          "end": 8.37
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 9.17,
+          "chars": [
+            9.17,
+            9.3238,
+            9.37,
+            9.5238,
+            9.57
+          ]
+        },
+        {
+          "start": 10.1238,
+          "chars": [
+            10.1238,
+            12.2777
+          ]
+        },
+        {
+          "start": 12.6277,
+          "chars": [
+            12.6277,
+            12.7815,
+            12.9354,
+            13.0892,
+            13.2431,
+            13.2892,
+            13.4431,
+            13.4892,
+            13.6431,
+            13.7969,
+            13.9508
+          ]
+        },
+        {
+          "start": 14.5046,
+          "chars": [
+            14.5046,
+            14.6585,
+            14.8123,
+            14.9662,
+            15.12,
+            15.2738,
+            15.32,
+            15.4738,
+            15.52,
+            15.6738,
+            15.8277,
+            15.9815,
+            16.1354
+          ]
+        },
+        {
+          "start": 16.7892,
+          "chars": [
+            16.7892,
+            16.9431,
+            17.0969,
+            17.2508,
+            17.4046,
+            17.4508,
+            17.6046,
+            17.6508,
+            17.8046,
+            17.9585,
+            18.1123,
+            18.2662,
+            18.42,
+            18.4662,
+            18.62,
+            18.7738,
+            18.9277,
+            19.0815,
+            19.2354,
+            19.2815,
+            19.4354,
+            19.4815,
+            19.6354,
+            19.7892,
+            19.9431,
+            20.0969
+          ]
+        },
+        {
+          "start": 20.6008,
+          "chars": [
+            20.6008,
+            20.7546,
+            20.9085,
+            21.0623,
+            21.2162,
+            21.2623,
+            21.4162,
+            21.4623,
+            21.6162,
+            21.77,
+            21.9238,
+            22.0777,
+            22.2315,
+            22.2777,
+            22.4315,
+            22.5854,
+            22.7392,
+            22.8931,
+            23.0469,
+            23.0931,
+            23.2469,
+            23.2931,
+            23.4469,
+            23.6008,
+            23.7546,
+            23.9085
+          ]
+        },
+        {
+          "start": 24.6623,
+          "chars": [
+            24.6623,
+            24.8162,
+            24.97,
+            25.1238,
+            25.2777,
+            25.3238,
+            25.4777,
+            25.6315,
+            25.7854,
+            25.9392,
+            26.0931,
+            26.2469,
+            26.2931,
+            26.4469,
+            26.6008,
+            26.7546,
+            26.9085,
+            27.0623,
+            27.1085,
+            27.2623,
+            27.3085,
+            27.4623,
+            27.6162,
+            27.77,
+            27.9238,
+            28.0777,
+            28.2315,
+            28.3854,
+            28.5392,
+            28.6931,
+            28.8469,
+            29.0008,
+            29.1546
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte fortsättning 1b",
+    "text2": "HT 2014 · fråga 15",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

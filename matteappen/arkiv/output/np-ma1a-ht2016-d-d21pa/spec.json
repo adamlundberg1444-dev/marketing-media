@@ -1,0 +1,535 @@
+{
+  "slug": "np-ma1a-ht2016-d-d21pa",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_ht2016_d",
+    "questionId": "d21",
+    "partId": "d21a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Diagrammet"
+      },
+      {
+        "text": "visar"
+      },
+      {
+        "text": "antalet"
+      },
+      {
+        "text": "miljarder"
+      },
+      {
+        "text": "mejl"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "genomsnitt"
+      },
+      {
+        "text": "skickas"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "världen"
+      },
+      {
+        "text": "varje"
+      },
+      {
+        "text": "dag."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Av"
+      },
+      {
+        "text": "alla"
+      },
+      {
+        "text": "mejl"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "skickas"
+      },
+      {
+        "text": "uppskattas"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "cirka"
+      },
+      {
+        "text": "82"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "spam"
+      },
+      {
+        "text": "(oönskade"
+      },
+      {
+        "text": "mejl)."
+      },
+      {
+        "text": "Ungefär"
+      },
+      {
+        "text": "hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "spam"
+      },
+      {
+        "text": "skickades"
+      },
+      {
+        "text": "under"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "dag"
+      },
+      {
+        "text": "år"
+      },
+      {
+        "text": "2010?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(2/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_ht2016_d_q21.imageset/ma1a_ht2016_d_q21.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Avläst 2010: ca 190 miljarder mejl",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "82 % = 0,82"
+    },
+    {
+      "text": "Spam: 0,82 · 190 ≈ 156"
+    },
+    {
+      "text": "≈ 156 miljarder spam per dag",
+      "emphasis": true
+    },
+    {
+      "text": "≈ 156 miljarder",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 41.74,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 17.74
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.46
+        },
+        {
+          "start": 1.46,
+          "end": 1.87
+        },
+        {
+          "start": 1.87,
+          "end": 2.38
+        },
+        {
+          "start": 2.38,
+          "end": 2.99
+        },
+        {
+          "start": 2.99,
+          "end": 3.35
+        },
+        {
+          "start": 3.35,
+          "end": 3.66
+        },
+        {
+          "start": 3.66,
+          "end": 3.88
+        },
+        {
+          "start": 3.88,
+          "end": 4.54
+        },
+        {
+          "start": 4.54,
+          "end": 5.05
+        },
+        {
+          "start": 5.05,
+          "end": 5.27
+        },
+        {
+          "start": 5.27,
+          "end": 5.78
+        },
+        {
+          "start": 5.78,
+          "end": 6.19
+        },
+        {
+          "start": 6.19,
+          "end": 6.85
+        },
+        {
+          "start": 6.85,
+          "end": 7.11
+        },
+        {
+          "start": 7.11,
+          "end": 7.47
+        },
+        {
+          "start": 7.47,
+          "end": 7.83
+        },
+        {
+          "start": 7.83,
+          "end": 8.14
+        },
+        {
+          "start": 8.14,
+          "end": 8.65
+        },
+        {
+          "start": 8.65,
+          "end": 9.31
+        },
+        {
+          "start": 9.31,
+          "end": 9.62
+        },
+        {
+          "start": 9.62,
+          "end": 10.03
+        },
+        {
+          "start": 10.03,
+          "end": 10.29
+        },
+        {
+          "start": 10.29,
+          "end": 10.8
+        },
+        {
+          "start": 10.8,
+          "end": 11.06
+        },
+        {
+          "start": 11.06,
+          "end": 11.42
+        },
+        {
+          "start": 11.42,
+          "end": 12.03
+        },
+        {
+          "start": 12.03,
+          "end": 12.79
+        },
+        {
+          "start": 12.79,
+          "end": 13.3
+        },
+        {
+          "start": 13.3,
+          "end": 13.61
+        },
+        {
+          "start": 13.61,
+          "end": 14.02
+        },
+        {
+          "start": 14.02,
+          "end": 14.38
+        },
+        {
+          "start": 14.38,
+          "end": 14.99
+        },
+        {
+          "start": 14.99,
+          "end": 15.4
+        },
+        {
+          "start": 15.4,
+          "end": 15.66
+        },
+        {
+          "start": 15.66,
+          "end": 15.97
+        },
+        {
+          "start": 15.97,
+          "end": 16.23
+        },
+        {
+          "start": 16.23,
+          "end": 16.94
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 17.74,
+          "chars": [
+            17.74,
+            17.8938,
+            18.0477,
+            18.2015,
+            18.3554,
+            18.5092,
+            18.6631,
+            18.7092,
+            18.8631,
+            19.0169,
+            19.1708,
+            19.3246,
+            19.4785,
+            19.5246,
+            19.6785,
+            19.8323,
+            19.8785,
+            20.0323,
+            20.1862,
+            20.34,
+            20.3862,
+            20.54,
+            20.6938,
+            20.8477,
+            21.0015,
+            21.1554,
+            21.3092,
+            21.4631,
+            21.6169,
+            21.7708,
+            21.8169,
+            21.9708,
+            22.1246,
+            22.2785
+          ]
+        },
+        {
+          "start": 22.9323,
+          "chars": [
+            22.9323,
+            23.0862,
+            23.24,
+            23.2862,
+            23.44,
+            23.4862,
+            23.64,
+            23.6862,
+            23.84,
+            23.9938,
+            24.1477
+          ]
+        },
+        {
+          "start": 24.6515,
+          "chars": [
+            24.6515,
+            24.8054,
+            24.9592,
+            25.1131,
+            25.2669,
+            25.4208,
+            25.4669,
+            25.6208,
+            25.7746,
+            25.9285,
+            26.0823,
+            26.1285,
+            26.2823,
+            26.3285,
+            26.4823,
+            26.6362,
+            26.79,
+            26.8362,
+            26.99,
+            27.0362,
+            27.19,
+            27.3438
+          ]
+        },
+        {
+          "start": 27.8477,
+          "chars": [
+            27.8477,
+            28.0015,
+            28.0477,
+            28.2015,
+            28.3554,
+            28.5092,
+            28.5554,
+            28.7092,
+            28.8631,
+            29.0169,
+            29.1708,
+            29.3246,
+            29.4785,
+            29.6323,
+            29.7862,
+            29.94,
+            29.9862,
+            30.14,
+            30.2938,
+            30.4477,
+            30.6015,
+            30.6477,
+            30.8015,
+            30.9554,
+            31.1092,
+            31.1554,
+            31.3092,
+            31.4631
+          ]
+        },
+        {
+          "start": 31.9669,
+          "chars": [
+            31.9669,
+            32.1208,
+            32.1669,
+            32.3208,
+            32.4746,
+            32.6285,
+            32.6746,
+            32.8285,
+            32.9823,
+            33.1362,
+            33.29,
+            33.4438,
+            33.5977,
+            33.7515,
+            33.9054
+          ]
+        },
+        {
+          "start": 34.6592,
+          "chars": [
+            34.6592,
+            34.8131,
+            34.9669,
+            35.1208,
+            35.2746,
+            35.4285,
+            35.4746,
+            35.6285,
+            35.7823,
+            35.9362,
+            35.9823,
+            36.1362,
+            36.29,
+            36.4438,
+            36.5977,
+            36.7515,
+            36.9054,
+            37.0592,
+            37.1054,
+            37.2592,
+            37.4131,
+            37.5669,
+            37.6131,
+            37.7669,
+            37.9208,
+            38.0746,
+            38.2285,
+            38.3823,
+            38.4285,
+            38.5823,
+            38.7362
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "HT 2016 · fråga 21",
+    "seconds": 3
+  },
+  "layout": {
+    "compact": 1,
+    "padTop": 0,
+    "floor": 320
+  }
+}

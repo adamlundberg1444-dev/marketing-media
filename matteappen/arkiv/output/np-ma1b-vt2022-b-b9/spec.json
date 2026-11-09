@@ -1,0 +1,309 @@
+{
+  "slug": "np-ma1b-vt2022-b-b9",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1b_vt2022_b",
+    "questionId": "b9",
+    "partId": "b9"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "olikheten"
+      },
+      {
+        "tex": "-4x - 10 < 90",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "−4x − 10 < 90"
+    },
+    {
+      "text": "Lägg till 10 i båda led:"
+    },
+    {
+      "text": "−4x < 100",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Dela med −4, vänd tecknet!"
+    },
+    {
+      "text": "x > −25",
+      "emphasis": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Minustal vänder < till >"
+    },
+    {
+      "text": "x > −25",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 27.969,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.65
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.72
+        },
+        {
+          "start": 1.72,
+          "end": 2.85
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 3.65,
+          "chars": [
+            3.65,
+            3.8038,
+            3.9577,
+            4.1115,
+            4.1577,
+            4.3115,
+            4.3577,
+            4.5115,
+            4.6654,
+            4.7115,
+            4.8654,
+            4.9115,
+            5.0654
+          ]
+        },
+        {
+          "start": 5.5692,
+          "chars": [
+            5.5692,
+            5.7231,
+            5.8769,
+            6.0308,
+            6.1846,
+            6.2308,
+            6.3846,
+            6.5385,
+            6.6923,
+            6.8462,
+            6.8923,
+            7.0462,
+            7.2,
+            7.2462,
+            7.4,
+            7.4462,
+            7.6,
+            7.7538,
+            7.9077,
+            8.0615,
+            8.1077,
+            8.2615,
+            8.4154,
+            8.5692
+          ]
+        },
+        {
+          "start": 9.0731,
+          "chars": [
+            9.0731,
+            9.2269,
+            9.3808,
+            9.5346,
+            9.5808,
+            9.7346,
+            9.7808,
+            9.9346,
+            10.0885
+          ]
+        },
+        {
+          "start": 10.7423,
+          "chars": [
+            10.7423,
+            10.8962,
+            11.05,
+            11.2038,
+            11.3577,
+            11.4038,
+            11.5577,
+            11.7115,
+            11.8654,
+            11.9115,
+            12.0654,
+            12.2192,
+            12.3731,
+            12.4192,
+            12.5731,
+            12.7269,
+            12.8808,
+            13.0346,
+            13.0808,
+            13.2346,
+            13.3885,
+            13.5423,
+            13.6962,
+            13.85,
+            14.0038,
+            14.1577
+          ]
+        },
+        {
+          "start": 14.6615,
+          "chars": [
+            14.6615,
+            14.8154,
+            14.8615,
+            15.0154,
+            15.0615,
+            15.2154,
+            15.3692
+          ]
+        },
+        {
+          "start": 16.1231,
+          "chars": [
+            16.1231,
+            16.2769,
+            16.4308,
+            16.5846,
+            16.7385,
+            16.8923,
+            17.0462,
+            17.2,
+            17.3538,
+            17.4,
+            17.5538,
+            17.7077,
+            17.8615,
+            18.0154,
+            18.1692,
+            18.3231,
+            18.3692,
+            18.5231,
+            18.5692,
+            18.7231,
+            18.8769,
+            19.0308,
+            19.1846,
+            19.2308
+          ]
+        },
+        {
+          "start": 19.7346,
+          "chars": [
+            19.7346,
+            19.8885,
+            19.9346,
+            20.0885,
+            20.1346,
+            20.2885,
+            20.4423
+          ]
+        },
+        {
+          "start": 21.1962,
+          "chars": [
+            21.1962,
+            21.35,
+            21.5038,
+            21.6577,
+            21.8115,
+            21.8577,
+            22.0115,
+            22.1654,
+            22.3192,
+            22.4731,
+            22.6269,
+            22.6731,
+            22.8269,
+            22.9808,
+            23.0269,
+            23.1808,
+            23.2269,
+            23.3808,
+            23.5346,
+            23.6885,
+            23.8423,
+            23.9962,
+            24.0423,
+            24.1962,
+            24.35,
+            24.5038,
+            24.6577,
+            24.8115,
+            24.9654
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 1b",
+    "text2": "VT 2022 · fråga 9",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

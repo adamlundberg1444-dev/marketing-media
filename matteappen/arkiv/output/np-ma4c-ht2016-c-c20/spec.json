@@ -1,0 +1,335 @@
+{
+  "slug": "np-ma4c-ht2016-c-c20",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_ht2016_c",
+    "questionId": "c20",
+    "partId": "c20"
+  },
+  "concept": {
+    "label": "Dubbla vinkeln",
+    "tex": "\\sin 2v = 2\\sin v \\cos v"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": "\\sin 4v",
+        "display": false
+      },
+      {
+        "text": "om"
+      },
+      {
+        "tex": "\\cos 2v = 0{,}6",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/2)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "sin 4v = 2 sin 2v cos 2v"
+    },
+    {
+      "text": "sin^2 2v = 1 - 0,6^2 = 1 - 0,36 = 0,64"
+    },
+    {
+      "text": "sin 2v = ± 0,8"
+    },
+    {
+      "text": "Kvadranten är okänd"
+    },
+    {
+      "text": "2 · (±0,8) · 0,6"
+    },
+    {
+      "text": "\\sin 4v = ± 0,96",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 30.614,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.26
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.79
+        },
+        {
+          "start": 1.79,
+          "end": 2.05
+        },
+        {
+          "start": 2.05,
+          "end": 2.94
+        },
+        {
+          "start": 2.94,
+          "end": 3.46
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.86,
+          "chars": [
+            5.86,
+            6.0138,
+            6.1677,
+            6.3215,
+            6.3677,
+            6.5215,
+            6.6754,
+            6.7215,
+            6.8754,
+            6.9215,
+            7.0754,
+            7.1215,
+            7.2754,
+            7.4292,
+            7.5831,
+            7.6292,
+            7.7831,
+            7.9369,
+            7.9831,
+            8.1369,
+            8.2908,
+            8.4446,
+            8.4908,
+            8.6446
+          ]
+        },
+        {
+          "start": 9.1485,
+          "chars": [
+            9.1485,
+            9.3023,
+            9.4562,
+            9.61,
+            9.7638,
+            9.81,
+            9.9638,
+            10.1177,
+            10.1638,
+            10.3177,
+            10.3638,
+            10.5177,
+            10.5638,
+            10.7177,
+            10.7638,
+            10.9177,
+            11.0715,
+            11.2254,
+            11.3792,
+            11.4254,
+            11.5792,
+            11.6254,
+            11.7792,
+            11.8254,
+            11.9792,
+            12.0254,
+            12.1792,
+            12.3331,
+            12.4869,
+            12.6408,
+            12.6869,
+            12.8408,
+            12.8869,
+            13.0408,
+            13.1946,
+            13.3485
+          ]
+        },
+        {
+          "start": 13.8523,
+          "chars": [
+            13.8523,
+            14.0062,
+            14.16,
+            14.3138,
+            14.36,
+            14.5138,
+            14.6677,
+            14.7138,
+            14.8677,
+            14.9138,
+            15.0677,
+            15.1138,
+            15.2677,
+            15.4215
+          ]
+        },
+        {
+          "start": 15.9254,
+          "chars": [
+            15.9254,
+            16.0792,
+            16.2331,
+            16.3869,
+            16.5408,
+            16.6946,
+            16.8485,
+            17.0023,
+            17.1562,
+            17.31,
+            17.4638,
+            17.51,
+            17.6638,
+            17.8177,
+            17.8638,
+            18.0177,
+            18.1715,
+            18.3254,
+            18.4792
+          ]
+        },
+        {
+          "start": 18.9831,
+          "chars": [
+            18.9831,
+            19.1369,
+            19.1831,
+            19.3369,
+            19.3831,
+            19.5369,
+            19.6908,
+            19.8446,
+            19.9985,
+            20.1523,
+            20.3062,
+            20.3523,
+            20.5062,
+            20.5523,
+            20.7062,
+            20.86
+          ]
+        },
+        {
+          "start": 21.3638,
+          "chars": [
+            21.3638,
+            21.5177,
+            21.6715,
+            21.8254,
+            21.8715,
+            22.0254,
+            22.1792,
+            22.2254,
+            22.3792,
+            22.4254,
+            22.5792,
+            22.6254,
+            22.7792,
+            22.9331,
+            23.0869
+          ]
+        },
+        {
+          "start": 23.8408,
+          "chars": [
+            23.8408,
+            23.9946,
+            24.1485,
+            24.3023,
+            24.4562,
+            24.61,
+            24.6562,
+            24.81,
+            24.9638,
+            25.1177,
+            25.2715,
+            25.3177,
+            25.4715,
+            25.6254,
+            25.7792,
+            25.9331,
+            26.0869,
+            26.1331,
+            26.2869,
+            26.4408,
+            26.4869,
+            26.6408,
+            26.6869,
+            26.8408,
+            26.9946,
+            27.1485,
+            27.3023,
+            27.4562,
+            27.61
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 4.26,
+        "end": 5.36,
+        "hideAt": 12.26
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte fortsättning 2",
+    "text2": "HT 2016 · fråga 20",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

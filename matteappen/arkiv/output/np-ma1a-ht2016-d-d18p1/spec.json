@@ -1,0 +1,438 @@
+{
+  "slug": "np-ma1a-ht2016-d-d18p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_ht2016_d",
+    "questionId": "d18",
+    "partId": "d18"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Jeansstorlekar"
+      },
+      {
+        "text": "anges"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "hela"
+      },
+      {
+        "text": "tum."
+      },
+      {
+        "text": "1"
+      },
+      {
+        "text": "tum"
+      },
+      {
+        "text": "motsvarar"
+      },
+      {
+        "text": "2,54"
+      },
+      {
+        "text": "cm."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Joseph"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "midjemåttet"
+      },
+      {
+        "text": "74"
+      },
+      {
+        "text": "cm."
+      },
+      {
+        "text": "Vilken"
+      },
+      {
+        "text": "tumstorlek"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "jeans"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "han"
+      },
+      {
+        "text": "välja?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(2/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "1 tum = 2,54 cm"
+    },
+    {
+      "text": "74/2,54 ≈ 29,1 tum",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Hela tum: närmast är 29"
+    },
+    {
+      "text": "Kolla: 29 · 2,54 = 73,66 cm",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Han väljer storlek 29",
+      "emphasis": true
+    },
+    {
+      "text": "29 tum",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 36.132,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 11.74
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.66
+        },
+        {
+          "start": 1.66,
+          "end": 2.07
+        },
+        {
+          "start": 2.07,
+          "end": 2.29
+        },
+        {
+          "start": 2.29,
+          "end": 2.65
+        },
+        {
+          "start": 2.65,
+          "end": 3.31
+        },
+        {
+          "start": 3.31,
+          "end": 3.53
+        },
+        {
+          "start": 3.53,
+          "end": 3.84
+        },
+        {
+          "start": 3.84,
+          "end": 4.45
+        },
+        {
+          "start": 4.45,
+          "end": 4.81
+        },
+        {
+          "start": 4.81,
+          "end": 5.42
+        },
+        {
+          "start": 5.42,
+          "end": 5.88
+        },
+        {
+          "start": 5.88,
+          "end": 6.19
+        },
+        {
+          "start": 6.19,
+          "end": 6.9
+        },
+        {
+          "start": 6.9,
+          "end": 7.16
+        },
+        {
+          "start": 7.16,
+          "end": 7.77
+        },
+        {
+          "start": 7.77,
+          "end": 8.23
+        },
+        {
+          "start": 8.23,
+          "end": 8.89
+        },
+        {
+          "start": 8.89,
+          "end": 9.15
+        },
+        {
+          "start": 9.15,
+          "end": 9.56
+        },
+        {
+          "start": 9.56,
+          "end": 9.87
+        },
+        {
+          "start": 9.87,
+          "end": 10.18
+        },
+        {
+          "start": 10.18,
+          "end": 10.94
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.74,
+          "chars": [
+            11.74,
+            11.8938,
+            11.94,
+            12.0938,
+            12.2477,
+            12.4015,
+            12.4477,
+            12.6015,
+            12.6477,
+            12.8015,
+            12.9554,
+            13.1092,
+            13.2631,
+            13.3092,
+            13.4631
+          ]
+        },
+        {
+          "start": 13.9669,
+          "chars": [
+            13.9669,
+            14.1208,
+            14.2746,
+            14.4285,
+            14.5823,
+            14.7362,
+            14.89,
+            15.0438,
+            15.09,
+            15.2438,
+            15.29,
+            15.4438,
+            15.5977,
+            15.7515,
+            15.9054,
+            15.9515,
+            16.1054,
+            16.2592
+          ]
+        },
+        {
+          "start": 16.9131,
+          "chars": [
+            16.9131,
+            17.0669,
+            17.2208,
+            17.3746,
+            17.5285,
+            17.5746,
+            17.7285,
+            17.8823,
+            18.0362,
+            18.19,
+            18.2362,
+            18.39,
+            18.5438,
+            18.6977,
+            18.8515,
+            19.0054,
+            19.1592,
+            19.3131,
+            19.3592,
+            19.5131,
+            19.6669,
+            19.7131,
+            19.8669
+          ]
+        },
+        {
+          "start": 20.3708,
+          "chars": [
+            20.3708,
+            20.5246,
+            20.6785,
+            20.8323,
+            20.9862,
+            21.14,
+            21.2938,
+            21.34,
+            21.4938,
+            21.6477,
+            21.6938,
+            21.8477,
+            21.8938,
+            22.0477,
+            22.2015,
+            22.3554,
+            22.5092,
+            22.5554,
+            22.7092,
+            22.7554,
+            22.9092,
+            23.0631,
+            23.2169,
+            23.3708,
+            23.5246,
+            23.5708,
+            23.7246
+          ]
+        },
+        {
+          "start": 24.3785,
+          "chars": [
+            24.3785,
+            24.5323,
+            24.6862,
+            24.84,
+            24.8862,
+            25.04,
+            25.1938,
+            25.3477,
+            25.5015,
+            25.6554,
+            25.8092,
+            25.8554,
+            26.0092,
+            26.1631,
+            26.3169,
+            26.4708,
+            26.6246,
+            26.7785,
+            26.9323,
+            26.9785,
+            27.1323
+          ]
+        },
+        {
+          "start": 27.6362,
+          "chars": [
+            27.6362,
+            27.79,
+            27.9438,
+            27.99,
+            28.1438,
+            28.2977
+          ]
+        },
+        {
+          "start": 29.0515,
+          "chars": [
+            29.0515,
+            29.2054,
+            29.3592,
+            29.5131,
+            29.6669,
+            29.8208,
+            29.8669,
+            30.0208,
+            30.1746,
+            30.3285,
+            30.3746,
+            30.5285,
+            30.6823,
+            30.8362,
+            30.99,
+            31.1438,
+            31.2977,
+            31.4515,
+            31.4977,
+            31.6515,
+            31.8054,
+            31.9592,
+            32.0054,
+            32.1592,
+            32.3131,
+            32.4669,
+            32.6208,
+            32.7746,
+            32.8208,
+            32.9746,
+            33.1285
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "HT 2016 · fråga 18",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

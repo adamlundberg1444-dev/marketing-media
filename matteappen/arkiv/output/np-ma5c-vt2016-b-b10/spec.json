@@ -1,0 +1,383 @@
+{
+  "slug": "np-ma5c-vt2016-b-b10",
+  "video": true,
+  "questionRef": {
+    "exam": "ma5c_vt2016_b",
+    "questionId": "b10",
+    "partId": "b10"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bestäm"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "minsta"
+      },
+      {
+        "text": "positiva"
+      },
+      {
+        "text": "heltalet"
+      },
+      {
+        "tex": "n",
+        "display": false
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "tex": "n!",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "delbart"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "tex": "3^8",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "n! ska bära åtta treor"
+    },
+    {
+      "text": "Var tredje tal ger en trea"
+    },
+    {
+      "text": "Multipler av 9 ger två"
+    },
+    {
+      "text": "n = 17: 5 + 1 = 6, för lite"
+    },
+    {
+      "text": "n = 18: 6 + 2 = 8"
+    },
+    {
+      "text": "18",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 31.576,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 7.73
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.57
+        },
+        {
+          "start": 1.57,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.59
+        },
+        {
+          "start": 2.59,
+          "end": 3.15
+        },
+        {
+          "start": 3.15,
+          "end": 3.56
+        },
+        {
+          "start": 3.56,
+          "end": 3.87
+        },
+        {
+          "start": 3.87,
+          "end": 4.33
+        },
+        {
+          "start": 4.33,
+          "end": 4.8
+        },
+        {
+          "start": 4.8,
+          "end": 5.06
+        },
+        {
+          "start": 5.06,
+          "end": 5.57
+        },
+        {
+          "start": 5.57,
+          "end": 5.88
+        },
+        {
+          "start": 5.88,
+          "end": 6.41
+        },
+        {
+          "start": 6.41,
+          "end": 6.93
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.73,
+          "chars": [
+            7.73,
+            7.8838,
+            8.0377,
+            8.0838,
+            8.2377,
+            8.3915,
+            8.5454,
+            8.5915,
+            8.7454,
+            8.8992,
+            9.0531,
+            9.2069,
+            9.2531,
+            9.4069,
+            9.5608,
+            9.7146,
+            9.8685,
+            9.9146,
+            10.0685,
+            10.2223,
+            10.3762,
+            10.53
+          ]
+        },
+        {
+          "start": 11.0338,
+          "chars": [
+            11.0338,
+            11.1877,
+            11.3415,
+            11.4954,
+            11.5415,
+            11.6954,
+            11.8492,
+            12.0031,
+            12.1569,
+            12.3108,
+            12.4646,
+            12.5108,
+            12.6646,
+            12.8185,
+            12.9723,
+            13.0185,
+            13.1723,
+            13.3262,
+            13.48,
+            13.5262,
+            13.68,
+            13.8338,
+            13.88,
+            14.0338,
+            14.1877,
+            14.3415
+          ]
+        },
+        {
+          "start": 14.8454,
+          "chars": [
+            14.8454,
+            14.9992,
+            15.1531,
+            15.3069,
+            15.4608,
+            15.6146,
+            15.7685,
+            15.9223,
+            16.0762,
+            16.23,
+            16.2762,
+            16.43,
+            16.5838,
+            16.63,
+            16.7838,
+            16.83,
+            16.9838,
+            17.1377,
+            17.2915,
+            17.3377,
+            17.4915,
+            17.6454
+          ]
+        },
+        {
+          "start": 18.1492,
+          "chars": [
+            18.1492,
+            18.3031,
+            18.3492,
+            18.5031,
+            18.5492,
+            18.7031,
+            18.8569,
+            19.0108,
+            19.0569,
+            19.2108,
+            19.2569,
+            19.4108,
+            19.4569,
+            19.6108,
+            19.6569,
+            19.8108,
+            19.8569,
+            20.0108,
+            20.1646,
+            20.2108,
+            20.3646,
+            20.5185,
+            20.6723,
+            20.7185,
+            20.8723,
+            21.0262,
+            21.18
+          ]
+        },
+        {
+          "start": 21.6838,
+          "chars": [
+            21.6838,
+            21.8377,
+            21.8838,
+            22.0377,
+            22.0838,
+            22.2377,
+            22.3915,
+            22.5454,
+            22.5915,
+            22.7454,
+            22.7915,
+            22.9454,
+            22.9915,
+            23.1454,
+            23.1915,
+            23.3454,
+            23.3915
+          ]
+        },
+        {
+          "start": 23.8954,
+          "chars": [
+            23.8954,
+            24.0492
+          ]
+        },
+        {
+          "start": 24.8031,
+          "chars": [
+            24.8031,
+            24.9569,
+            25.1108,
+            25.2646,
+            25.4185,
+            25.4646,
+            25.6185,
+            25.7723,
+            25.9262,
+            26.08,
+            26.2338,
+            26.28,
+            26.4338,
+            26.5877,
+            26.6338,
+            26.7877,
+            26.8338,
+            26.9877,
+            27.1415,
+            27.2954,
+            27.4492,
+            27.6031,
+            27.6492,
+            27.8031,
+            27.9569,
+            28.1108,
+            28.2646,
+            28.4185,
+            28.5723
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte fördjupning",
+    "text2": "VT 2016 · fråga 10",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

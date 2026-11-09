@@ -1,0 +1,323 @@
+{
+  "slug": "np-ma4c-vt2017-b-b1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_vt2017_b",
+    "questionId": "b1",
+    "partId": "b1"
+  },
+  "concept": {
+    "label": "Radianer och grader",
+    "tex": "\\pi\\ \\text{rad} = 180^\\circ"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "grader"
+      },
+      {
+        "text": "motsvarar"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "tex": "\\dfrac{\\pi}{8}",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "figure": {
+        "points": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            -1,
+            0
+          ]
+        ],
+        "circle": {
+          "c": [
+            0,
+            0
+          ],
+          "r": 1,
+          "center": true
+        },
+        "angles": [
+          {
+            "at": 1,
+            "text": "π = 180°"
+          }
+        ],
+        "width": 520,
+        "height": 370
+      },
+      "pauseAfter": 0.4,
+      "graph": {
+        "figure": {
+          "points": [
+            [
+              1,
+              0
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              -1,
+              0
+            ]
+          ],
+          "circle": {
+            "c": [
+              0,
+              0
+            ],
+            "r": 1,
+            "center": true
+          },
+          "angles": [
+            {
+              "at": 1,
+              "text": "π = 180°"
+            }
+          ],
+          "width": 520,
+          "height": 370
+        },
+        "width": 520,
+        "height": 370
+      }
+    },
+    {
+      "text": "\\pi = 180°",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "\\frac{\\pi}{8} = \\frac{180°}{8}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "= 22,5°",
+      "emphasis": true
+    },
+    {
+      "text": "22,5°",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 22.199,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.83
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.98
+        },
+        {
+          "start": 1.98,
+          "end": 2.59
+        },
+        {
+          "start": 2.59,
+          "end": 3.1
+        },
+        {
+          "start": 3.1,
+          "end": 3.51
+        },
+        {
+          "start": 3.51,
+          "end": 4.03
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.43,
+          "chars": [
+            6.43,
+            8.5838
+          ]
+        },
+        {
+          "start": 8.9838,
+          "chars": [
+            8.9838,
+            9.1377,
+            9.1838,
+            9.3377,
+            9.3838,
+            9.5377,
+            9.6915,
+            9.8454
+          ]
+        },
+        {
+          "start": 10.3992,
+          "chars": [
+            10.3992,
+            10.5531,
+            10.7069,
+            10.8608,
+            10.9069,
+            11.0608,
+            11.1069,
+            11.2608,
+            11.4146,
+            11.5685,
+            11.7223,
+            11.8762
+          ]
+        },
+        {
+          "start": 12.43,
+          "chars": [
+            12.43,
+            12.5838,
+            12.63,
+            12.7838,
+            12.9377,
+            13.0915,
+            13.2454
+          ]
+        },
+        {
+          "start": 13.7492,
+          "chars": [
+            13.7492,
+            13.9031,
+            14.0569,
+            14.2108,
+            14.3646
+          ]
+        },
+        {
+          "start": 15.1185,
+          "chars": [
+            15.1185,
+            15.2723,
+            15.4262,
+            15.58,
+            15.7338,
+            15.8877,
+            15.9338,
+            16.0877,
+            16.2415,
+            16.3954,
+            16.4415,
+            16.5954,
+            16.7492,
+            16.9031,
+            17.0569,
+            17.2108,
+            17.3646,
+            17.5185,
+            17.5646,
+            17.7185,
+            17.8723,
+            18.0262,
+            18.0723,
+            18.2262,
+            18.38,
+            18.5338,
+            18.6877,
+            18.8415,
+            18.8877,
+            19.0415,
+            19.1954
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 4.83,
+        "end": 5.93,
+        "hideAt": 12.83
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 2",
+    "text2": "VT 2017 · fråga 1",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "slug": "np-ma3b-vt2017-b-b2",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_vt2017_b",
+    "questionId": "b2",
+    "partId": "b2"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Diagrammet"
+      },
+      {
+        "text": "visar"
+      },
+      {
+        "text": "antalet"
+      },
+      {
+        "text": "nyckelpigor"
+      },
+      {
+        "text": "per"
+      },
+      {
+        "text": "kvadratmeter"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "äng"
+      },
+      {
+        "text": "under"
+      },
+      {
+        "text": "några"
+      },
+      {
+        "text": "dagar"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "juni"
+      },
+      {
+        "text": "månad."
+      },
+      {
+        "text": "Mätningarna"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "utförda"
+      },
+      {
+        "text": "klockan"
+      },
+      {
+        "text": "12.00"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "aktuella"
+      },
+      {
+        "text": "dagarna."
+      },
+      {
+        "text": "Ett"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "alternativen"
+      },
+      {
+        "text": "A–E"
+      },
+      {
+        "text": "anger"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "tidsperiod"
+      },
+      {
+        "text": "när"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "genomsnittliga"
+      },
+      {
+        "text": "förändringshastigheten"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "antalet"
+      },
+      {
+        "text": "nyckelpigor"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "störst."
+      },
+      {
+        "text": "Vilket?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/Matematik 3b/VT 2017/np_ma3b_vt2017_b_q2.imageset/Skärmavbild 2026-05-28 kl. 19.53.32.png",
+    "imageMax": 420,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{y_2 − y_1}{x_2 − x_1}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "x_2 − x_1 = 1 dag",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "4-5 juni: 12 − 5 = 7"
+    },
+    {
+      "text": "7-8 juni: 25 − 15 = 10",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "10-12 juni: \\frac{20 − 30}{2} = \\frac{−10}{2} = −5",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "7-8 juni: 10 per dag",
+      "emphasis": true
+    },
+    {
+      "text": "B: 7-8 juni",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 50.651,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 21.87
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.46
+        },
+        {
+          "start": 1.46,
+          "end": 1.87
+        },
+        {
+          "start": 1.87,
+          "end": 2.38
+        },
+        {
+          "start": 2.38,
+          "end": 3.09
+        },
+        {
+          "start": 3.09,
+          "end": 3.4
+        },
+        {
+          "start": 3.4,
+          "end": 4.16
+        },
+        {
+          "start": 4.16,
+          "end": 4.42
+        },
+        {
+          "start": 4.42,
+          "end": 4.68
+        },
+        {
+          "start": 4.68,
+          "end": 4.99
+        },
+        {
+          "start": 4.99,
+          "end": 5.4
+        },
+        {
+          "start": 5.4,
+          "end": 5.81
+        },
+        {
+          "start": 5.81,
+          "end": 6.22
+        },
+        {
+          "start": 6.22,
+          "end": 6.44
+        },
+        {
+          "start": 6.44,
+          "end": 6.8
+        },
+        {
+          "start": 6.8,
+          "end": 7.56
+        },
+        {
+          "start": 7.56,
+          "end": 8.27
+        },
+        {
+          "start": 8.27,
+          "end": 8.53
+        },
+        {
+          "start": 8.53,
+          "end": 9.04
+        },
+        {
+          "start": 9.04,
+          "end": 9.55
+        },
+        {
+          "start": 9.55,
+          "end": 9.96
+        },
+        {
+          "start": 9.96,
+          "end": 10.22
+        },
+        {
+          "start": 10.22,
+          "end": 10.78
+        },
+        {
+          "start": 10.78,
+          "end": 11.64
+        },
+        {
+          "start": 11.64,
+          "end": 11.95
+        },
+        {
+          "start": 11.95,
+          "end": 12.21
+        },
+        {
+          "start": 12.21,
+          "end": 12.97
+        },
+        {
+          "start": 12.97,
+          "end": 13.28
+        },
+        {
+          "start": 13.28,
+          "end": 13.69
+        },
+        {
+          "start": 13.69,
+          "end": 14
+        },
+        {
+          "start": 14,
+          "end": 14.66
+        },
+        {
+          "start": 14.66,
+          "end": 14.97
+        },
+        {
+          "start": 14.97,
+          "end": 15.28
+        },
+        {
+          "start": 15.28,
+          "end": 16.14
+        },
+        {
+          "start": 16.14,
+          "end": 17.4
+        },
+        {
+          "start": 17.4,
+          "end": 17.66
+        },
+        {
+          "start": 17.66,
+          "end": 18.17
+        },
+        {
+          "start": 18.17,
+          "end": 18.88
+        },
+        {
+          "start": 18.88,
+          "end": 19.14
+        },
+        {
+          "start": 19.14,
+          "end": 19.45
+        },
+        {
+          "start": 19.45,
+          "end": 20.26
+        },
+        {
+          "start": 20.26,
+          "end": 21.07
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 21.87,
+          "chars": [
+            21.87,
+            22.0238,
+            22.1777,
+            22.2238,
+            22.3777,
+            22.4238,
+            22.5777,
+            22.7315,
+            22.8854,
+            23.0392,
+            23.1931,
+            23.2392,
+            23.3931,
+            23.4392,
+            23.5931
+          ]
+        },
+        {
+          "start": 24.1469,
+          "chars": [
+            24.1469,
+            24.3008,
+            24.4546,
+            24.5008,
+            24.6546,
+            24.7008,
+            24.8546,
+            25.0085,
+            25.0546,
+            25.2085,
+            25.2546,
+            25.4085,
+            25.4546,
+            25.6085,
+            25.7623
+          ]
+        },
+        {
+          "start": 26.3162,
+          "chars": [
+            26.3162,
+            26.47,
+            26.6238,
+            26.7777,
+            26.8238,
+            26.9777,
+            27.1315,
+            27.2854,
+            27.4392,
+            27.5931,
+            27.6392,
+            27.7931,
+            27.9469,
+            27.9931,
+            28.1469,
+            28.1931,
+            28.3469,
+            28.3931,
+            28.5469,
+            28.5931
+          ]
+        },
+        {
+          "start": 29.0969,
+          "chars": [
+            29.0969,
+            29.2508,
+            29.4046,
+            29.5585,
+            29.6046,
+            29.7585,
+            29.9123,
+            30.0662,
+            30.22,
+            30.3738,
+            30.42,
+            30.5738,
+            30.7277,
+            30.7738,
+            30.9277,
+            30.9738,
+            31.1277,
+            31.2815,
+            31.3277,
+            31.4815,
+            31.5277,
+            31.6815
+          ]
+        },
+        {
+          "start": 32.2354,
+          "chars": [
+            32.2354,
+            32.3892,
+            32.5431,
+            32.6969,
+            32.8508,
+            33.0046,
+            33.0508,
+            33.2046,
+            33.3585,
+            33.5123,
+            33.6662,
+            33.82,
+            33.8662,
+            34.02,
+            34.1738,
+            34.22,
+            34.3738,
+            34.42,
+            34.5738,
+            34.7277,
+            34.8815,
+            35.0354,
+            35.0815,
+            35.2354,
+            35.2815,
+            35.4354,
+            35.5892,
+            35.7431,
+            35.8969,
+            36.0508,
+            36.0969,
+            36.2508,
+            36.2969,
+            36.4508
+          ]
+        },
+        {
+          "start": 37.0046,
+          "chars": [
+            37.0046,
+            37.1585,
+            37.3123,
+            37.4662,
+            37.5123,
+            37.6662,
+            37.82,
+            37.9738,
+            38.1277,
+            38.2815,
+            38.3277,
+            38.4815,
+            38.6354,
+            38.6815,
+            38.8354,
+            38.9892,
+            39.1431,
+            39.1892,
+            39.3431,
+            39.4969
+          ]
+        },
+        {
+          "start": 40.0008,
+          "chars": [
+            40.0008,
+            40.1546,
+            40.3085,
+            40.3546,
+            40.5085,
+            40.6623,
+            40.8162,
+            40.8623,
+            41.0162,
+            41.17,
+            41.3238
+          ]
+        },
+        {
+          "start": 42.0777,
+          "chars": [
+            42.0777,
+            42.2315,
+            42.3854,
+            42.5392,
+            42.6931,
+            42.8469,
+            42.8931,
+            43.0469,
+            43.2008,
+            43.3546,
+            43.5085,
+            43.5546,
+            43.7085,
+            43.8623,
+            44.0162,
+            44.17,
+            44.3238,
+            44.37,
+            44.5238,
+            44.6777,
+            44.7238,
+            44.8777,
+            44.9238,
+            45.0777,
+            45.2315,
+            45.3854,
+            45.5392,
+            45.6931,
+            45.8469
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 46.351,
+          "end": 46.951,
+          "targets": [
+            {
+              "w": 32
+            },
+            {
+              "w": 33
+            }
+          ]
+        },
+        {
+          "start": 47.251,
+          "end": 47.851,
+          "targets": [
+            {
+              "w": 18
+            },
+            {
+              "w": 19
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1b",
+    "text2": "VT 2017 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "compact": 1,
+    "imageMax": 420,
+    "padTop": 0,
+    "floor": 320
+  }
+}

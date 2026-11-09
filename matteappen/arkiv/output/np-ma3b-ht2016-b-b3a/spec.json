@@ -1,0 +1,398 @@
+{
+  "slug": "np-ma3b-ht2016-b-b3a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_ht2016_b",
+    "questionId": "b3",
+    "partId": "b3a"
+  },
+  "concept": {
+    "label": "Talet e",
+    "tex": "e \\approx 2{,}718\\ldots"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "För"
+      },
+      {
+        "text": "funktionen"
+      },
+      {
+        "tex": "f",
+        "display": false
+      },
+      {
+        "text": "gäller"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": "f(x) = \\mathrm{e}^{4x}",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "närmevärde"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "tex": "f(0{,}25)",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Svara"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "decimal."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "f(0,25) ≈",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "f(0,25) = e^{4 · 0,25}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "4 · 0,25 = 1",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "f(0,25) = e^1 = e",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "e ≈ 2,718...",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "f(0,25) ≈ 2,7",
+      "emphasis": true
+    },
+    {
+      "text": "2,7",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 32.638,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 10.2
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.18
+        },
+        {
+          "start": 2.18,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.95
+        },
+        {
+          "start": 2.95,
+          "end": 3.96
+        },
+        {
+          "start": 3.96,
+          "end": 4.48
+        },
+        {
+          "start": 4.48,
+          "end": 4.94
+        },
+        {
+          "start": 4.94,
+          "end": 5.25
+        },
+        {
+          "start": 5.25,
+          "end": 5.91
+        },
+        {
+          "start": 5.91,
+          "end": 6.27
+        },
+        {
+          "start": 6.27,
+          "end": 7.04
+        },
+        {
+          "start": 7.04,
+          "end": 7.56
+        },
+        {
+          "start": 7.56,
+          "end": 7.97
+        },
+        {
+          "start": 7.97,
+          "end": 8.28
+        },
+        {
+          "start": 8.28,
+          "end": 8.54
+        },
+        {
+          "start": 8.54,
+          "end": 9.4
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.8,
+          "chars": [
+            11.8,
+            11.9538,
+            12.1077,
+            12.2615,
+            12.4154,
+            12.5692,
+            12.7231,
+            12.8769,
+            12.9231,
+            13.0769,
+            13.1231,
+            13.2769,
+            13.4308,
+            13.4769,
+            13.6308,
+            13.6769,
+            13.8308,
+            13.9846,
+            14.1385
+          ]
+        },
+        {
+          "start": 14.6923,
+          "chars": [
+            14.6923,
+            14.8462,
+            14.8923,
+            15.0462,
+            15.0923,
+            15.2462,
+            15.4,
+            15.5538,
+            15.7077,
+            15.7538,
+            15.9077,
+            15.9538
+          ]
+        },
+        {
+          "start": 16.5077,
+          "chars": [
+            16.5077,
+            16.6615,
+            16.8154,
+            16.9692,
+            17.1231,
+            17.2769,
+            17.4308,
+            17.5846,
+            17.6308,
+            17.7846,
+            17.8308,
+            17.9846,
+            18.1385,
+            18.1846,
+            18.3385,
+            18.3846
+          ]
+        },
+        {
+          "start": 19.0385,
+          "chars": [
+            19.0385,
+            19.1923,
+            19.2385,
+            19.3923,
+            19.4385,
+            19.5923,
+            19.7462,
+            19.9,
+            20.0538,
+            20.2077,
+            20.3615,
+            20.5154
+          ]
+        },
+        {
+          "start": 21.0692,
+          "chars": [
+            21.0692,
+            21.2231,
+            21.3769,
+            21.5308,
+            21.6846,
+            21.8385,
+            21.9923,
+            22.1462,
+            22.1923,
+            22.3462,
+            22.3923,
+            22.5462,
+            22.7
+          ]
+        },
+        {
+          "start": 23.2038,
+          "chars": [
+            23.2038,
+            23.3577,
+            23.5115
+          ]
+        },
+        {
+          "start": 24.2654,
+          "chars": [
+            24.2654,
+            24.4192,
+            24.5731,
+            24.7269,
+            24.8808,
+            25.0346,
+            25.0808,
+            25.2346,
+            25.3885,
+            25.5423,
+            25.6962,
+            25.7423,
+            25.8962,
+            26.05,
+            26.2038,
+            26.3577,
+            26.5115,
+            26.5577,
+            26.7115,
+            26.8654,
+            26.9115,
+            27.0654,
+            27.1115,
+            27.2654,
+            27.4192,
+            27.5731,
+            27.7269,
+            27.8808,
+            28.0346
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 10.2,
+        "end": 11.3,
+        "hideAt": 18.2
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [
+        {
+          "start": 28.538,
+          "end": 29.288,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                11,
+                11
+              ],
+              "to": [
+                15,
+                18
+              ],
+              "side": "over"
+            }
+          ]
+        }
+      ],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1b",
+    "text2": "HT 2016 · fråga 3",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "np-ma2b-ht2014-b-b5b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2b_ht2014_b",
+    "questionId": "b5",
+    "partId": "b5b"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " 3^x = 10^{\\lg 3} \\cdot 10^{\\lg 3} ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "10^{lg a} = a"
+    },
+    {
+      "text": "10^{lg 3} = 3"
+    },
+    {
+      "text": "3 · 3 = 9 = 3^2"
+    },
+    {
+      "text": "3^x = 3^2"
+    },
+    {
+      "text": "x = 2",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 18.905,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.47
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 2.12
+        },
+        {
+          "start": 2.12,
+          "end": 3.67
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.47,
+          "chars": [
+            4.47,
+            4.6238,
+            4.7777,
+            4.9315,
+            5.0854,
+            5.1315,
+            5.2854,
+            5.3315,
+            5.4854,
+            5.5315
+          ]
+        },
+        {
+          "start": 6.0354,
+          "chars": [
+            6.0354,
+            6.1892,
+            6.3431,
+            6.4969,
+            6.6508,
+            6.6969,
+            6.8508,
+            6.8969,
+            7.0508,
+            7.0969
+          ]
+        },
+        {
+          "start": 7.6008,
+          "chars": [
+            7.6008,
+            7.7546,
+            7.8008,
+            7.9546,
+            8.0008,
+            8.1546,
+            8.2008,
+            8.3546,
+            8.4008,
+            8.5546,
+            8.6008,
+            8.7546,
+            8.8008,
+            8.9546
+          ]
+        },
+        {
+          "start": 9.4585,
+          "chars": [
+            9.4585,
+            9.6123,
+            9.7662,
+            9.8123,
+            9.9662,
+            10.0123,
+            10.1662
+          ]
+        },
+        {
+          "start": 10.67,
+          "chars": [
+            10.67,
+            10.8238,
+            10.87,
+            11.0238,
+            11.07
+          ]
+        },
+        {
+          "start": 11.8238,
+          "chars": [
+            11.8238,
+            11.9777,
+            12.1315,
+            12.2854,
+            12.4392,
+            12.5931,
+            12.6392,
+            12.7931,
+            12.9469,
+            13.1008,
+            13.1469,
+            13.3008,
+            13.4546,
+            13.6085,
+            13.7623,
+            13.9162,
+            14.07,
+            14.2238,
+            14.27,
+            14.4238,
+            14.5777,
+            14.7315,
+            14.7777,
+            14.9315,
+            15.0854,
+            15.2392,
+            15.3931,
+            15.5469,
+            15.5931,
+            15.7469,
+            15.9008
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2b",
+    "text2": "HT 2014 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

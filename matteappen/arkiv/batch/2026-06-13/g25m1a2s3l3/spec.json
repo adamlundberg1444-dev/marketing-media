@@ -1,0 +1,61 @@
+{
+  "slug": "g25m1a2s3l3",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 1a",
+      "title": "Lösa ut ur formler"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad betyder det att lösa ut en variabel?",
+      "sub": "Förut satte vi in värden i färdiga formler och skrev egna. Nu vänder vi på en formel så att en **annan** variabel står ensam.\n\nTänk på arean av en rektangel, \\(A = b \\cdot h\\). Känner vi arean och basen men söker höjden, vill vi ha en formel där \\(h\\) står ensamt till vänster. Att skriva om formeln på det sättet kallas att **lösa ut** \\(h\\)."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Samma metod som vid ekvationer",
+      "sub": "Att lösa ut en variabel bygger på **balansmetoden** från ekvationslösning. Gör vi samma sak med båda led behåller likheten sitt värde.\n\nSkillnaden mot vanlig ekvationslösning är att vi nu räknar med bokstäver i stället för tal. Målet är ändå detsamma: få den sökta variabeln ensam på ena sidan genom att flytta bort allt annat, steg för steg."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Lös ut höjden \\(h\\) ur formeln \\(A = b \\cdot h\\).",
+      "steps": [
+        "Variabeln \\(h\\) är multiplicerad med \\(b\\). För att få \\(h\\) ensamt delar vi bort \\(b\\).",
+        "Vi dividerar båda led med \\(b\\): \\(\\frac{A}{b} = \\frac{b \\cdot h}{b}\\).",
+        "I högerledet förkortas \\(b\\) bort, kvar blir bara \\(h\\)."
+      ],
+      "result": "\\(h = \\frac{A}{b}\\). Nu kan vi räkna ut höjden direkt ur arean och basen."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Lös ut basen \\(b\\) ur \\(A = b \\cdot h\\).",
+      "options": [
+        "\\(b = \\frac{A}{h}\\)",
+        "\\(b = A \\cdot h\\)",
+        "\\(b = \\frac{h}{A}\\)",
+        "\\(b = A - h\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Lös ut basen \\(b\\) ur \\(A = b \\cdot h\\).",
+      "options": [
+        "\\(b = \\frac{A}{h}\\)",
+        "\\(b = A \\cdot h\\)",
+        "\\(b = \\frac{h}{A}\\)",
+        "\\(b = A - h\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

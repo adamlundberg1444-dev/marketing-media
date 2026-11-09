@@ -1,0 +1,304 @@
+{
+  "slug": "np-ma4c-vt2016-b-b8b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_vt2016_b",
+    "questionId": "b8",
+    "partId": "b8b"
+  },
+  "concept": {
+    "label": "Produktregeln",
+    "tex": "(f \\cdot g)' = f'g + fg'"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Derivera"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " g(x) = \\frac{e^x}{x} ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "täljare: e^x, derivata e^x"
+    },
+    {
+      "text": "nämnare: x, derivata 1"
+    },
+    {
+      "text": "Kvotregeln: \\frac{x · e^x - e^x · 1}{x^2}"
+    },
+    {
+      "text": "Ordningen avgör tecknet"
+    },
+    {
+      "text": "g'(x) = \\frac{xe^x - e^x}{x^2}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 30.078,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.29
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 2.49
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.89,
+          "chars": [
+            4.89,
+            5.0438,
+            5.1977,
+            5.3515,
+            5.5054,
+            5.6592,
+            5.8131,
+            5.9669,
+            6.1208,
+            6.1669,
+            6.3208,
+            6.4746,
+            6.6285,
+            6.6746,
+            6.8285,
+            6.9823,
+            7.1362,
+            7.29,
+            7.4438,
+            7.5977,
+            7.7515,
+            7.9054,
+            7.9515,
+            8.1054
+          ]
+        },
+        {
+          "start": 8.6092,
+          "chars": [
+            8.6092,
+            8.7631,
+            8.9169,
+            9.0708,
+            9.2246,
+            9.3785,
+            9.5323,
+            9.6862,
+            9.84,
+            9.8862,
+            10.04,
+            10.1938,
+            10.24,
+            10.3938,
+            10.5477,
+            10.7015,
+            10.8554,
+            11.0092,
+            11.1631,
+            11.3169,
+            11.4708,
+            11.5169
+          ]
+        },
+        {
+          "start": 12.0208,
+          "chars": [
+            12.0208,
+            12.1746,
+            12.3285,
+            12.4823,
+            12.6362,
+            12.79,
+            12.9438,
+            13.0977,
+            13.2515,
+            13.4054,
+            13.5592,
+            13.7131,
+            13.7592,
+            13.9131,
+            13.9592,
+            14.1131,
+            14.1592,
+            14.3131,
+            14.4669,
+            14.5131,
+            14.6669,
+            14.7131,
+            14.8669,
+            15.0208,
+            15.0669,
+            15.2208,
+            15.2669,
+            15.4208,
+            15.5746,
+            15.7285
+          ]
+        },
+        {
+          "start": 16.2323,
+          "chars": [
+            16.2323,
+            16.3862,
+            16.54,
+            16.6938,
+            16.8477,
+            17.0015,
+            17.1554,
+            17.3092,
+            17.4631,
+            17.6169,
+            17.6631,
+            17.8169,
+            17.9708,
+            18.1246,
+            18.2785,
+            18.4323,
+            18.4785,
+            18.6323,
+            18.7862,
+            18.94,
+            19.0938,
+            19.2477,
+            19.4015
+          ]
+        },
+        {
+          "start": 19.9054,
+          "chars": [
+            19.9054,
+            20.0592,
+            20.2131,
+            20.3669,
+            20.5208,
+            20.6746,
+            20.7208,
+            20.8746,
+            20.9208,
+            21.0746,
+            21.2285,
+            21.3823,
+            21.4285,
+            21.5823,
+            21.6285,
+            21.7823,
+            21.9362,
+            22.09,
+            22.2438
+          ]
+        },
+        {
+          "start": 22.9977,
+          "chars": [
+            22.9977,
+            23.1515,
+            23.3054,
+            23.4592,
+            23.6131,
+            23.7669,
+            23.8131,
+            23.9669,
+            24.1208,
+            24.2746,
+            24.3208,
+            24.4746,
+            24.6285,
+            24.7823,
+            24.9362,
+            25.09,
+            25.2438,
+            25.3977,
+            25.4438,
+            25.5977,
+            25.7515,
+            25.9054,
+            25.9515,
+            26.1054,
+            26.2592,
+            26.4131,
+            26.5669,
+            26.7208,
+            26.7669,
+            26.9208,
+            27.0746
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 3.29,
+        "end": 4.39,
+        "hideAt": 11.29
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte fortsättning 2",
+    "text2": "VT 2016 · fråga 8",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "slug": "np-ma4c-vt2017-b-b2a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_vt2017_b",
+    "questionId": "b2",
+    "partId": "b2a"
+  },
+  "concept": {
+    "label": "Kedjeregeln",
+    "tex": "f(g(x))' = f'(g(x)) \\cdot g'(x)"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Derivera."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "f(x) = \\cos 3x",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "f'(x) =",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Yttre: cos ger -sin"
+    },
+    {
+      "text": "Inre: 3x ger 3"
+    },
+    {
+      "text": "f'(x) = -sin 3x · 3"
+    },
+    {
+      "text": "Tappa varken minus eller 3"
+    },
+    {
+      "text": "f'(x) = -3\\sin 3x",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 26.356,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.46
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.71
+        },
+        {
+          "start": 1.71,
+          "end": 2.66
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.06,
+          "chars": [
+            5.06,
+            5.2138,
+            5.3677,
+            5.5215,
+            5.6754,
+            5.8292,
+            5.9831,
+            6.0292,
+            6.1831,
+            6.3369,
+            6.4908,
+            6.5369,
+            6.6908,
+            6.8446,
+            6.9985,
+            7.0446,
+            7.1985,
+            7.3523,
+            7.5062
+          ]
+        },
+        {
+          "start": 8.01,
+          "chars": [
+            8.01,
+            8.1638,
+            8.3177,
+            8.4715,
+            8.6254,
+            8.7792,
+            8.8254,
+            8.9792,
+            9.1331,
+            9.1792,
+            9.3331,
+            9.4869,
+            9.6408,
+            9.6869
+          ]
+        },
+        {
+          "start": 10.1908,
+          "chars": [
+            10.1908,
+            10.3446,
+            10.4985,
+            10.6523,
+            10.8062,
+            10.96,
+            11.0062,
+            11.16,
+            11.2062,
+            11.36,
+            11.5138,
+            11.6677,
+            11.8215,
+            11.8677,
+            12.0215,
+            12.1754,
+            12.2215,
+            12.3754,
+            12.4215
+          ]
+        },
+        {
+          "start": 12.9254,
+          "chars": [
+            12.9254,
+            13.0792,
+            13.2331,
+            13.3869,
+            13.5408,
+            13.6946,
+            13.7408,
+            13.8946,
+            14.0485,
+            14.2023,
+            14.3562,
+            14.51,
+            14.6638,
+            14.71,
+            14.8638,
+            15.0177,
+            15.1715,
+            15.3254,
+            15.4792,
+            15.5254,
+            15.6792,
+            15.8331,
+            15.9869,
+            16.1408,
+            16.2946,
+            16.3408
+          ]
+        },
+        {
+          "start": 16.8446,
+          "chars": [
+            16.8446,
+            16.9985,
+            17.1523,
+            17.3062,
+            17.46,
+            17.6138,
+            17.66,
+            17.8138,
+            17.86,
+            18.0138,
+            18.1677,
+            18.3215,
+            18.4754,
+            18.6292,
+            18.6754,
+            18.8292
+          ]
+        },
+        {
+          "start": 19.5831,
+          "chars": [
+            19.5831,
+            19.7369,
+            19.8908,
+            20.0446,
+            20.1985,
+            20.2446,
+            20.3985,
+            20.5523,
+            20.7062,
+            20.86,
+            21.0138,
+            21.06,
+            21.2138,
+            21.3677,
+            21.4138,
+            21.5677,
+            21.6138,
+            21.7677,
+            21.9215,
+            22.0754,
+            22.2292,
+            22.3831,
+            22.4292,
+            22.5831,
+            22.7369,
+            22.8908,
+            23.0446,
+            23.1985,
+            23.3523
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 3.46,
+        "end": 4.56,
+        "hideAt": 11.46
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 2",
+    "text2": "VT 2017 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

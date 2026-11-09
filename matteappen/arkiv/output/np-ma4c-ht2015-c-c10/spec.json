@@ -1,0 +1,338 @@
+{
+  "slug": "np-ma4c-ht2015-c-c10",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_ht2015_c",
+    "questionId": "c10",
+    "partId": "c10"
+  },
+  "concept": {
+    "label": "Trigonometriska ettan",
+    "tex": "\\sin^2 v + \\cos^2 v = 1"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "tex": "\\sin 3x = \\dfrac{1}{2}",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Svara"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "grader."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(2/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "sin 30° = 0,5"
+    },
+    {
+      "text": "3x = 30° + n · 360°"
+    },
+    {
+      "text": "3x = 150° + n · 360°"
+    },
+    {
+      "text": "x = 10° + n · 120°"
+    },
+    {
+      "text": "x = 50° + n · 120°"
+    },
+    {
+      "text": "10°+n·120°, 50°+n·120°",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 30.714,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.36
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.6
+        },
+        {
+          "start": 2.6,
+          "end": 3.12
+        },
+        {
+          "start": 3.12,
+          "end": 3.53
+        },
+        {
+          "start": 3.53,
+          "end": 3.75
+        },
+        {
+          "start": 3.75,
+          "end": 4.56
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.96,
+          "chars": [
+            6.96,
+            7.1138,
+            7.2677,
+            7.4215,
+            7.4677,
+            7.6215,
+            7.7754,
+            7.9292,
+            7.9754,
+            8.1292,
+            8.1754,
+            8.3292,
+            8.4831
+          ]
+        },
+        {
+          "start": 8.9869,
+          "chars": [
+            8.9869,
+            9.1408,
+            9.2946,
+            9.3408,
+            9.4946,
+            9.5408,
+            9.6946,
+            9.8485,
+            10.0023,
+            10.0485,
+            10.2023,
+            10.2485,
+            10.4023,
+            10.4485,
+            10.6023,
+            10.6485,
+            10.8023,
+            10.9562,
+            11.11
+          ]
+        },
+        {
+          "start": 11.6138,
+          "chars": [
+            11.6138,
+            11.7677,
+            11.9215,
+            11.9677,
+            12.1215,
+            12.1677,
+            12.3215,
+            12.4754,
+            12.6292,
+            12.7831,
+            12.8292,
+            12.9831,
+            13.0292,
+            13.1831,
+            13.2292,
+            13.3831,
+            13.4292,
+            13.5831,
+            13.7369,
+            13.8908
+          ]
+        },
+        {
+          "start": 14.3946,
+          "chars": [
+            14.3946,
+            14.5485,
+            14.5946,
+            14.7485,
+            14.7946,
+            14.9485,
+            15.1023,
+            15.2562,
+            15.3023,
+            15.4562,
+            15.5023,
+            15.6562,
+            15.7023,
+            15.8562,
+            15.9023,
+            16.0562,
+            16.21,
+            16.3638
+          ]
+        },
+        {
+          "start": 16.8677,
+          "chars": [
+            16.8677,
+            17.0215,
+            17.0677,
+            17.2215,
+            17.2677,
+            17.4215,
+            17.5754,
+            17.7292,
+            17.7754,
+            17.9292,
+            17.9754,
+            18.1292,
+            18.1754,
+            18.3292,
+            18.3754,
+            18.5292,
+            18.6831,
+            18.8369
+          ]
+        },
+        {
+          "start": 19.3408,
+          "chars": [
+            19.3408,
+            19.4946,
+            19.6485,
+            19.8023,
+            19.9562,
+            20.11,
+            20.2638,
+            20.4177,
+            20.5715,
+            20.7254,
+            20.8792,
+            21.0331,
+            21.0792,
+            21.2331,
+            21.3869,
+            21.5408,
+            21.6946,
+            21.8485,
+            22.0023,
+            22.1562,
+            22.31,
+            22.4638
+          ]
+        },
+        {
+          "start": 23.2177,
+          "chars": [
+            23.2177,
+            23.3715,
+            23.5254,
+            23.6792,
+            23.8331,
+            23.8792,
+            24.0331,
+            24.1869,
+            24.3408,
+            24.4946,
+            24.6485,
+            24.8023,
+            24.8485,
+            25.0023,
+            25.1562,
+            25.31,
+            25.4638,
+            25.6177,
+            25.6638,
+            25.8177,
+            25.8638,
+            26.0177,
+            26.1715,
+            26.3254,
+            26.4792,
+            26.6331,
+            26.7869,
+            26.9408,
+            27.0946,
+            27.2485,
+            27.4023,
+            27.5562,
+            27.71
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5.36,
+        "end": 6.46,
+        "hideAt": 13.36
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte fortsättning 2",
+    "text2": "HT 2015 · fråga 10",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

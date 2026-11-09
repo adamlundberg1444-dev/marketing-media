@@ -1,0 +1,370 @@
+{
+  "slug": "np-hs9-vt2017-b-b8",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2017_b",
+    "questionId": "b8",
+    "partId": "b8"
+  },
+  "concept": {
+    "label": "Triangelns vinkelsumma",
+    "tex": "v_1 + v_2 + v_3 = 180^\\circ"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "tex": "v",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/hs9_vt2017_b_q8.imageset/hs9_vt2017_b_q8.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "180° − 60°",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "= 120°",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "20° + 120° + v = 180°",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "140° + v = 180°",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "v = 180° − 140° = 40°",
+      "emphasis": true
+    },
+    {
+      "text": "40°",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 37.139,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.97
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.47
+        },
+        {
+          "start": 1.47,
+          "end": 1.73
+        },
+        {
+          "start": 1.73,
+          "end": 2.24
+        },
+        {
+          "start": 2.24,
+          "end": 2.65
+        },
+        {
+          "start": 2.65,
+          "end": 3.17
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.57,
+          "chars": [
+            5.57,
+            5.7238,
+            5.8777,
+            6.0315,
+            6.1854,
+            6.2315,
+            6.3854,
+            6.4315,
+            6.5854,
+            6.7392
+          ]
+        },
+        {
+          "start": 7.2931,
+          "chars": [
+            7.2931,
+            7.4469,
+            7.4931,
+            7.6469,
+            7.8008,
+            7.9546
+          ]
+        },
+        {
+          "start": 8.6085,
+          "chars": [
+            8.6085,
+            8.7623,
+            8.9162,
+            9.07,
+            9.1162,
+            9.27,
+            9.3162,
+            9.47,
+            9.6238,
+            9.7777,
+            9.9315,
+            9.9777,
+            10.1315,
+            10.1777,
+            10.3315,
+            10.3777,
+            10.5315,
+            10.5777,
+            10.7315,
+            10.8854,
+            11.0392
+          ]
+        },
+        {
+          "start": 11.6931,
+          "chars": [
+            11.6931,
+            11.8469,
+            12.0008,
+            12.1546,
+            12.3085,
+            12.3546,
+            12.5085,
+            12.5546,
+            12.7085,
+            12.7546,
+            12.9085,
+            12.9546,
+            13.1085,
+            13.2623,
+            13.4162
+          ]
+        },
+        {
+          "start": 13.97,
+          "chars": [
+            13.97,
+            14.1238,
+            14.17,
+            14.3238,
+            14.37,
+            14.5238,
+            14.6777,
+            14.8315,
+            14.9854,
+            15.0315,
+            15.1854,
+            15.2315,
+            15.3854,
+            15.5392,
+            15.6931,
+            15.8469,
+            15.8931,
+            16.0469,
+            16.0931,
+            16.2469,
+            16.4008
+          ]
+        },
+        {
+          "start": 16.9046,
+          "chars": [
+            16.9046,
+            17.0585,
+            17.2123
+          ]
+        },
+        {
+          "start": 17.9662,
+          "chars": [
+            17.9662,
+            18.12,
+            18.2738,
+            18.4277,
+            18.5815,
+            18.6277,
+            18.7815,
+            18.9354,
+            19.0892,
+            19.2431,
+            19.3969,
+            19.4431,
+            19.5969,
+            19.7508,
+            19.7969,
+            19.9508,
+            19.9969,
+            20.1508,
+            20.3046,
+            20.4585,
+            20.6123,
+            20.7662,
+            20.8123,
+            20.9662,
+            21.12,
+            21.2738,
+            21.4277,
+            21.5815,
+            21.7354
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 3.97,
+        "end": 5.07,
+        "hideAt": 11.97
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 22.239,
+          "end": 22.989,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.053,
+                  0.668
+                ],
+                [
+                  0.985,
+                  0.014
+                ]
+              ],
+              "color": "red",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 23.339,
+          "end": 24.089,
+          "targets": [
+            {
+              "circle": [
+                0.629,
+                0.265
+              ],
+              "r": 0.05,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 24.939,
+          "end": 25.689,
+          "targets": [
+            {
+              "circle": [
+                0.167,
+                0.627
+              ],
+              "r": 0.05,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.039,
+          "end": 26.789,
+          "targets": [
+            {
+              "circle": [
+                0.841,
+                0.674
+              ],
+              "r": 0.05,
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 27.639,
+          "end": 30.639
+        },
+        {
+          "start": 31.139,
+          "end": 34.139
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2017 · fråga 8",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

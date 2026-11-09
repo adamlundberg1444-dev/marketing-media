@@ -1,0 +1,61 @@
+{
+  "slug": "g25m1c2s3l2",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 1c",
+      "title": "Faktorisera"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad betyder att faktorisera?",
+      "sub": "I förra lektionen multiplicerade vi in en faktor i en parentes, till exempel \\(3(x + 4) = 3x + 12\\). Nu går vi åt andra hållet.\n\nAtt **faktorisera** betyder att skriva om en summa som en **produkt**. Vi letar efter en gemensam faktor som finns i alla termer och flyttar ut den framför en parentes. Faktorisering är alltså motsatsen till att multiplicera ut."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Att bryta ut en gemensam faktor",
+      "sub": "Om varje term innehåller samma faktor kan vi **bryta ut** den. Regeln är distributiva lagen baklänges:\n\n\\[ab + ac = a(b + c)\\]\n\nI \\(6x + 9\\) finns talet \\(3\\) i båda termerna, eftersom \\(6x = 3 \\cdot 2x\\) och \\(9 = 3 \\cdot 3\\). Vi skriver \\(3\\) framför parentesen och delar varje term med \\(3\\)."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Faktorisera \\(6x + 9\\).",
+      "steps": [
+        "Hitta en gemensam faktor. Både \\(6\\) och \\(9\\) är delbara med \\(3\\).",
+        "Dela varje term med \\(3\\): \\(6x : 3 = 2x\\) och \\(9 : 3 = 3\\).",
+        "Skriv faktorn framför parentesen med resterna inuti."
+      ],
+      "result": "\\(6x + 9 = 3(2x + 3)\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Faktorisera \\(8x + 12\\).",
+      "options": [
+        "\\(4(2x + 3)\\)",
+        "\\(4(2x + 12)\\)",
+        "\\(2(4x + 6)\\)",
+        "\\(8(x + 12)\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Faktorisera \\(8x + 12\\).",
+      "options": [
+        "\\(4(2x + 3)\\)",
+        "\\(4(2x + 12)\\)",
+        "\\(2(4x + 6)\\)",
+        "\\(8(x + 12)\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

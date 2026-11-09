@@ -1,0 +1,62 @@
+{
+  "slug": "g25m2a1s3l3",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2a",
+      "title": "Additionsmetoden"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Varför en metod till?",
+      "sub": "Förra lektionen löste vi ekvationssystem med substitution. Den är smidig när en variabel står ensam, men i ett system som \\(3x + 2y = 7\\) och \\(5x - 2y = 1\\) skulle vi tvingas lösa ut en variabel och få bråk på vägen.\n\nNu lär vi oss **additionsmetoden**. Idén är att lägga ihop de två ekvationerna så att den ena variabeln tar ut sig själv. Då blir en obekant kvar, precis som med substitution."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Idén: addera bort en variabel",
+      "sub": "Ekvationerna i ett system är båda sanna samtidigt. Då får vi lägga ihop dem led för led: vänsterled plus vänsterled blir lika med högerled plus högerled.\n\nKnepet är att passa på när en variabel har **motsatta tecken** i de två ekvationerna. Står det \\(+2y\\) i den ena och \\(-2y\\) i den andra, försvinner \\(y\\) helt när vi adderar, eftersom \\(2y + (-2y) = 0\\)."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Lös systemet \\(x + y = 7\\) och \\(x - y = 3\\).",
+      "steps": [
+        "Termen \\(y\\) har motsatta tecken: \\(+y\\) i den första och \\(-y\\) i den andra.",
+        "Addera leden: \\((x + y) + (x - y) = 7 + 3\\), vilket ger \\(2x = 10\\).",
+        "Lös ut \\(x\\): \\(x = 5\\).",
+        "Sätt in \\(x = 5\\) i \\(x + y = 7\\): \\(5 + y = 7\\), så \\(y = 2\\)."
+      ],
+      "result": "Lösningen är \\(x = 5\\) och \\(y = 2\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Vi adderar ekvationerna \\(2x + y = 8\\) och \\(3x - y = 7\\) led för led. Vilken ekvation får vi?",
+      "options": [
+        "\\(5x = 15\\)",
+        "\\(5x + 2y = 15\\)",
+        "\\(6x = 15\\)",
+        "\\(x = 1\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Vi adderar ekvationerna \\(2x + y = 8\\) och \\(3x - y = 7\\) led för led. Vilken ekvation får vi?",
+      "options": [
+        "\\(5x = 15\\)",
+        "\\(5x + 2y = 15\\)",
+        "\\(6x = 15\\)",
+        "\\(x = 1\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

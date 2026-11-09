@@ -1,0 +1,448 @@
+{
+  "slug": "np-ma3c-ht2012-d-ma3c_ht2012_d_q21_pa",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3c_ht2012_d",
+    "questionId": "ma3c_ht2012_d_q21",
+    "partId": "ma3c_ht2012_d_q21_pa"
+  },
+  "concept": {
+    "label": "Derivatan av e och ln",
+    "tex": "(e^{kx})' = ke^{kx} \\qquad (\\ln x)' = \\frac{1}{x}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Är"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "påstående"
+      },
+      {
+        "text": "korrekt?"
+      },
+      {
+        "text": "Motivera"
+      },
+      {
+        "text": "ditt"
+      },
+      {
+        "text": "svar."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " F(x) = 3e^x ",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "primitiv"
+      },
+      {
+        "text": "funktion"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "tex": " f(x) = e^{3x} ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "F(x) = 3e^x"
+    },
+    {
+      "text": "F'(x) = 3e^x",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "f(x) = e^{3x}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "3e^1 = 3 · 2,72 ≈ 8,15"
+    },
+    {
+      "text": "e^{3 · 1} = e^3 ≈ 20,09",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "G(x) = \\frac{1}{3}e^{3x}"
+    },
+    {
+      "text": "G'(x) = \\frac{1}{3} · 3e^{3x}"
+    },
+    {
+      "text": "G'(x) = e^{3x}",
+      "emphasis": true
+    },
+    {
+      "text": "Nej, F'(x) = 3e^x, inte e^{3x}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 40.672,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 9.78
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.06
+        },
+        {
+          "start": 1.06,
+          "end": 1.62
+        },
+        {
+          "start": 1.62,
+          "end": 2.23
+        },
+        {
+          "start": 2.23,
+          "end": 3.09
+        },
+        {
+          "start": 3.09,
+          "end": 3.65
+        },
+        {
+          "start": 3.65,
+          "end": 4.01
+        },
+        {
+          "start": 4.01,
+          "end": 4.72
+        },
+        {
+          "start": 4.72,
+          "end": 5.85
+        },
+        {
+          "start": 5.85,
+          "end": 6.11
+        },
+        {
+          "start": 6.11,
+          "end": 6.37
+        },
+        {
+          "start": 6.37,
+          "end": 6.93
+        },
+        {
+          "start": 6.93,
+          "end": 7.49
+        },
+        {
+          "start": 7.49,
+          "end": 7.85
+        },
+        {
+          "start": 7.85,
+          "end": 8.98
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.38,
+          "chars": [
+            11.38,
+            11.5338,
+            11.6877,
+            11.8415,
+            11.9954,
+            12.0415,
+            12.1954,
+            12.2415,
+            12.3954,
+            12.5492
+          ]
+        },
+        {
+          "start": 13.0531,
+          "chars": [
+            13.0531,
+            13.2069,
+            13.3608,
+            13.5146,
+            13.6685,
+            13.8223,
+            13.8685,
+            14.0223,
+            14.0685,
+            14.2223,
+            14.3762
+          ]
+        },
+        {
+          "start": 14.93,
+          "chars": [
+            14.93,
+            15.0838,
+            15.2377,
+            15.3915,
+            15.5454,
+            15.5915,
+            15.7454,
+            15.7915,
+            15.9454,
+            16.0992
+          ]
+        },
+        {
+          "start": 16.7531,
+          "chars": [
+            16.7531,
+            16.9069,
+            17.0608,
+            17.2146,
+            17.2608,
+            17.4146,
+            17.4608,
+            17.6146,
+            17.6608,
+            17.8146,
+            17.8608,
+            18.0146,
+            18.1685,
+            18.3223,
+            18.4762,
+            18.5223,
+            18.6762,
+            18.7223,
+            18.8762,
+            19.03,
+            19.1838
+          ]
+        },
+        {
+          "start": 19.6877,
+          "chars": [
+            19.6877,
+            19.8415,
+            19.9954,
+            20.0415,
+            20.1954,
+            20.2415,
+            20.3954,
+            20.4415,
+            20.5954,
+            20.6415,
+            20.7954,
+            20.9492,
+            20.9954,
+            21.1492,
+            21.1954,
+            21.3492,
+            21.5031,
+            21.6569,
+            21.8108
+          ]
+        },
+        {
+          "start": 22.4646,
+          "chars": [
+            22.4646,
+            22.6185,
+            22.7723,
+            22.9262,
+            23.08,
+            23.1262,
+            23.28,
+            23.3262,
+            23.48,
+            23.6338,
+            23.7877,
+            23.9415,
+            24.0954
+          ]
+        },
+        {
+          "start": 24.5992,
+          "chars": [
+            24.5992,
+            24.7531,
+            24.9069,
+            25.0608,
+            25.2146,
+            25.3685,
+            25.4146,
+            25.5685,
+            25.6146,
+            25.7685,
+            25.9223,
+            26.0762,
+            26.1223,
+            26.2762,
+            26.3223,
+            26.4762,
+            26.63,
+            26.7838
+          ]
+        },
+        {
+          "start": 27.2877,
+          "chars": [
+            27.2877,
+            27.4415,
+            27.5954,
+            27.7492,
+            27.9031,
+            28.0569,
+            28.1031,
+            28.2569,
+            28.3031,
+            28.4569,
+            28.6108
+          ]
+        },
+        {
+          "start": 29.1146,
+          "chars": [
+            29.1146,
+            29.2685,
+            29.4223,
+            29.5762,
+            29.73,
+            29.7762,
+            29.93,
+            30.0838,
+            30.2377,
+            30.3915,
+            30.5454,
+            30.5915,
+            30.7454,
+            30.7915,
+            30.9454,
+            31.0992,
+            31.2531,
+            31.4069,
+            31.4531,
+            31.6069,
+            31.7608,
+            31.9146,
+            32.0685,
+            32.1146,
+            32.2685,
+            32.4223
+          ]
+        },
+        {
+          "start": 33.1762,
+          "chars": [
+            33.1762,
+            33.33,
+            33.4838,
+            33.6377,
+            33.7915,
+            33.8377,
+            33.9915,
+            34.1454,
+            34.2992,
+            34.4531,
+            34.6069,
+            34.7608,
+            34.8069,
+            34.9608,
+            35.1146,
+            35.2685,
+            35.4223,
+            35.5762,
+            35.6223,
+            35.7762,
+            35.8223,
+            35.9762,
+            36.13,
+            36.2838,
+            36.4377,
+            36.5915,
+            36.7454,
+            36.8992,
+            37.0531,
+            37.2069,
+            37.3608,
+            37.5146,
+            37.6685
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 9.78,
+        "end": 10.88,
+        "hideAt": 17.78
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1c",
+    "text2": "HT 2012 · fråga 21",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

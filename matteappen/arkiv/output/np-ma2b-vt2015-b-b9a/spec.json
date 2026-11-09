@@ -1,0 +1,368 @@
+{
+  "slug": "np-ma2b-vt2015-b-b9a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2b_vt2015_b",
+    "questionId": "b9",
+    "partId": "b9a"
+  },
+  "concept": {
+    "label": "Kvadreringsreglerna",
+    "tex": "\\begin{aligned}(a+b)^2 &= a^2 + 2ab + b^2\\\\(a-b)^2 &= a^2 - 2ab + b^2\\end{aligned}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förenkla"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "uttryck"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " \\frac{(\\sqrt{x} + \\sqrt{3})^2 - (x + 3)}{2} ",
+        "display": true
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "(\\sqrt{x} + \\sqrt{3})^2"
+    },
+    {
+      "text": "= (\\sqrt{x})^2 + 2\\sqrt{x}\\sqrt{3} + (\\sqrt{3})^2"
+    },
+    {
+      "text": "= x + 2\\sqrt{3x} + 3"
+    },
+    {
+      "text": "x + 2\\sqrt{3x} + 3 − (x + 3)"
+    },
+    {
+      "text": "= x + 2\\sqrt{3x} + 3 − x − 3"
+    },
+    {
+      "text": "= 2\\sqrt{3x}"
+    },
+    {
+      "text": "\\frac{2\\sqrt{3x}}{2}"
+    },
+    {
+      "text": "\\sqrt{3x}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 33.086,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.74
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.92
+        },
+        {
+          "start": 1.92,
+          "end": 2.43
+        },
+        {
+          "start": 2.43,
+          "end": 2.69
+        },
+        {
+          "start": 2.69,
+          "end": 3.1
+        },
+        {
+          "start": 3.1,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 4.27
+        },
+        {
+          "start": 4.27,
+          "end": 5.94
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 8.34,
+          "chars": [
+            8.34,
+            8.4938,
+            8.6477,
+            8.8015,
+            8.9554,
+            9.0015,
+            9.1554,
+            9.2015,
+            9.3554,
+            9.5092,
+            9.6631,
+            9.8169
+          ]
+        },
+        {
+          "start": 10.3208,
+          "chars": [
+            10.3208,
+            10.4746,
+            10.5208,
+            10.6746,
+            10.8285,
+            10.9823,
+            11.1362,
+            11.29,
+            11.4438,
+            11.49,
+            11.6438,
+            11.69,
+            11.8438,
+            11.9977,
+            12.1515,
+            12.3054,
+            12.4592,
+            12.6131,
+            12.7669,
+            12.8131,
+            12.9669,
+            13.0131,
+            13.1669,
+            13.3208,
+            13.4746,
+            13.6285,
+            13.7823
+          ]
+        },
+        {
+          "start": 14.2862,
+          "chars": [
+            14.2862,
+            14.44,
+            14.4862,
+            14.64,
+            14.6862,
+            14.84,
+            14.8862,
+            15.04,
+            15.1938,
+            15.3477,
+            15.5015,
+            15.6554,
+            15.7015,
+            15.8554,
+            15.9015
+          ]
+        },
+        {
+          "start": 16.4054,
+          "chars": [
+            16.4054,
+            16.5592,
+            16.6054,
+            16.7592,
+            16.8054,
+            16.9592,
+            17.1131,
+            17.2669,
+            17.4208,
+            17.5746,
+            17.6208,
+            17.7746,
+            17.8208,
+            17.9746,
+            18.0208,
+            18.1746,
+            18.2208,
+            18.3746,
+            18.5285,
+            18.5746,
+            18.7285,
+            18.7746,
+            18.9285
+          ]
+        },
+        {
+          "start": 19.4323,
+          "chars": [
+            19.4323,
+            19.5862,
+            19.6323,
+            19.7862,
+            19.8323,
+            19.9862,
+            20.0323,
+            20.1862,
+            20.34,
+            20.4938,
+            20.6477,
+            20.8015,
+            20.8477,
+            21.0015,
+            21.0477,
+            21.2015,
+            21.2477,
+            21.4015,
+            21.4477,
+            21.6015,
+            21.6477,
+            21.8015,
+            21.8477
+          ]
+        },
+        {
+          "start": 22.3515,
+          "chars": [
+            22.3515,
+            22.5054,
+            22.5515,
+            22.7054,
+            22.8592,
+            23.0131,
+            23.1669
+          ]
+        },
+        {
+          "start": 23.6708,
+          "chars": [
+            23.6708,
+            23.8246,
+            23.9785,
+            24.1323,
+            24.2862,
+            24.44,
+            24.5938
+          ]
+        },
+        {
+          "start": 25.0977,
+          "chars": [
+            25.0977,
+            25.2515,
+            25.4054,
+            25.5592
+          ]
+        },
+        {
+          "start": 26.3131,
+          "chars": [
+            26.3131,
+            26.4669,
+            26.6208,
+            26.7746,
+            26.9285,
+            26.9746,
+            27.1285,
+            27.2823,
+            27.4362,
+            27.59,
+            27.7438,
+            27.79,
+            27.9438,
+            28.0977,
+            28.1438,
+            28.2977,
+            28.3438,
+            28.4977,
+            28.6515,
+            28.8054,
+            28.9592,
+            29.1131,
+            29.1592,
+            29.3131,
+            29.4669,
+            29.6208,
+            29.7746,
+            29.9285,
+            30.0823
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 6.74,
+        "end": 7.84,
+        "hideAt": 14.74
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte nivå 2b",
+    "text2": "VT 2015 · fråga 9",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

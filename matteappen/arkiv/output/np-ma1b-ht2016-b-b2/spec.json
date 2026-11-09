@@ -1,0 +1,444 @@
+{
+  "slug": "np-ma1b-ht2016-b-b2",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1b_ht2016_b",
+    "questionId": "b2",
+    "partId": "b2"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "uppfyller"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "villkoret"
+      },
+      {
+        "tex": "2x + 1 > 5",
+        "display": false
+      },
+      {
+        "text": "?"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Ringa"
+      },
+      {
+        "text": "in"
+      },
+      {
+        "text": "ditt"
+      },
+      {
+        "text": "svar."
+      }
+    ],
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": "7",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": "5",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": "4",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": "3",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "tex": "2",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": 4,
+    "points": "(2/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Lös olikheten först:"
+    },
+    {
+      "text": "2x + 1 > 5"
+    },
+    {
+      "text": "2x > 4"
+    },
+    {
+      "text": "x > 2",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Alla tal större än 2 funkar"
+    },
+    {
+      "text": "Men 2 är inte större än 2!"
+    },
+    {
+      "text": "Svar: x = 2",
+      "emphasis": true
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 34.272,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 9.98
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.67
+        },
+        {
+          "start": 1.67,
+          "end": 1.93
+        },
+        {
+          "start": 1.93,
+          "end": 2.34
+        },
+        {
+          "start": 2.34,
+          "end": 2.95
+        },
+        {
+          "start": 2.95,
+          "end": 3.31
+        },
+        {
+          "start": 3.31,
+          "end": 3.92
+        },
+        {
+          "start": 3.92,
+          "end": 4.87
+        },
+        {
+          "start": 4.87,
+          "end": 5.39
+        },
+        {
+          "start": 5.39,
+          "end": 5.8
+        },
+        {
+          "start": 5.8,
+          "end": 6.06
+        },
+        {
+          "start": 6.06,
+          "end": 6.42
+        },
+        {
+          "start": 6.42,
+          "end": 7.13
+        },
+        {
+          "start": 7.13,
+          "end": 7.54
+        },
+        {
+          "start": 7.54,
+          "end": 7.95
+        },
+        {
+          "start": 7.95,
+          "end": 8.36
+        },
+        {
+          "start": 8.36,
+          "end": 8.77
+        },
+        {
+          "start": 8.77,
+          "end": 9.18
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 9.98,
+          "chars": [
+            9.98,
+            10.1338,
+            10.2877,
+            10.4415,
+            10.4877,
+            10.6415,
+            10.7954,
+            10.9492,
+            11.1031,
+            11.2569,
+            11.4108,
+            11.5646,
+            11.7185,
+            11.8723,
+            11.9185,
+            12.0723,
+            12.2262,
+            12.38,
+            12.5338,
+            12.6877
+          ]
+        },
+        {
+          "start": 13.1915,
+          "chars": [
+            13.1915,
+            13.3454,
+            13.4992,
+            13.5454,
+            13.6992,
+            13.7454,
+            13.8992,
+            13.9454,
+            14.0992,
+            14.1454
+          ]
+        },
+        {
+          "start": 14.6492,
+          "chars": [
+            14.6492,
+            14.8031,
+            14.9569,
+            15.0031,
+            15.1569,
+            15.2031
+          ]
+        },
+        {
+          "start": 15.7069,
+          "chars": [
+            15.7069,
+            15.8608,
+            15.9069,
+            16.0608,
+            16.1069
+          ]
+        },
+        {
+          "start": 16.7608,
+          "chars": [
+            16.7608,
+            16.9146,
+            17.0685,
+            17.2223,
+            17.3762,
+            17.4223,
+            17.5762,
+            17.73,
+            17.8838,
+            17.93,
+            18.0838,
+            18.2377,
+            18.3915,
+            18.5454,
+            18.6992,
+            18.8531,
+            18.8992,
+            19.0531,
+            19.2069,
+            19.2531,
+            19.4069,
+            19.4531,
+            19.6069,
+            19.7608,
+            19.9146,
+            20.0685,
+            20.2223
+          ]
+        },
+        {
+          "start": 20.7262,
+          "chars": [
+            20.7262,
+            20.88,
+            21.0338,
+            21.1877,
+            21.2338,
+            21.3877,
+            21.4338,
+            21.5877,
+            21.7415,
+            21.7877,
+            21.9415,
+            22.0954,
+            22.2492,
+            22.4031,
+            22.4492,
+            22.6031,
+            22.7569,
+            22.9108,
+            23.0646,
+            23.2185,
+            23.3723,
+            23.4185,
+            23.5723,
+            23.7262,
+            23.7723,
+            23.9262
+          ]
+        },
+        {
+          "start": 24.43,
+          "chars": [
+            24.43,
+            24.5838,
+            24.7377,
+            24.8915,
+            25.0454,
+            25.1992,
+            25.2454,
+            25.3992,
+            25.4454,
+            25.5992,
+            25.6454
+          ]
+        },
+        {
+          "start": 27.4992,
+          "chars": [
+            27.4992,
+            27.6531,
+            27.8069,
+            27.9608,
+            28.1146,
+            28.2685,
+            28.3146,
+            28.4685,
+            28.6223,
+            28.7762,
+            28.93,
+            28.9762,
+            29.13,
+            29.2838,
+            29.4377,
+            29.5915,
+            29.7454,
+            29.7915,
+            29.9454,
+            30.0992,
+            30.1454,
+            30.2992,
+            30.3454,
+            30.4992,
+            30.6531,
+            30.8069,
+            30.9608,
+            31.1146,
+            31.2685
+          ]
+        }
+      ],
+      "circle": {
+        "start": 26.149,
+        "end": 27.049
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1b",
+    "text2": "HT 2016 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

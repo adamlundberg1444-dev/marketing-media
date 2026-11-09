@@ -1,0 +1,62 @@
+{
+  "slug": "g25mf11s2l2",
+  "theme": "matematik5",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nfördjupning nivå 1",
+      "title": "Primtal"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad är ett primtal?",
+      "sub": "Förra lektionen tittade vi på delare. Ett tal som \\(12\\) har många: \\(1, 2, 3, 4, 6\\) och \\(12\\). Men vissa tal är snålare. Talet \\(7\\) har bara delarna \\(1\\) och \\(7\\).\n\nEtt **primtal** är ett heltal större än \\(1\\) som har exakt två positiva delare: talet \\(1\\) och talet självt. De första primtalen är \\(2, 3, 5, 7, 11, 13, \\dots\\) Notera att \\(2\\) är det enda jämna primtalet, eftersom alla andra jämna tal också är delbara med \\(2\\).",
+      "subSize": 38
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Sammansatta tal och talet 1",
+      "sub": "Ett heltal större än \\(1\\) som inte är ett primtal kallas **sammansatt**. Det betyder att det går att skriva som en produkt av två mindre heltal, till exempel \\(12 = 3 \\cdot 4\\) eller \\(15 = 3 \\cdot 5\\).\n\nTalet \\(1\\) är ett specialfall: det har bara en enda delare, sig självt, så det räknas varken som primtal eller som sammansatt. Varje heltal större än \\(1\\) är alltså antingen ett primtal eller ett sammansatt tal."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Är \\(17\\) ett primtal?",
+      "steps": [
+        "Vi undersöker om något tal mellan \\(2\\) och \\(16\\) delar \\(17\\) jämnt.",
+        "\\(17\\) är udda, så \\(2\\) delar det inte. Siffersumman \\(1 + 7 = 8\\) är inte delbar med \\(3\\), och \\(17\\) slutar inte på \\(0\\) eller \\(5\\).",
+        "Vi prövar vidare och finner att inget tal delar \\(17\\) jämnt."
+      ],
+      "result": "De enda delarna är \\(1\\) och \\(17\\), så \\(17\\) är ett primtal."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Vilket av följande tal är ett primtal?",
+      "options": [
+        "\\(23\\)",
+        "\\(21\\)",
+        "\\(27\\)",
+        "\\(33\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Vilket av följande tal är ett primtal?",
+      "options": [
+        "\\(23\\)",
+        "\\(21\\)",
+        "\\(27\\)",
+        "\\(33\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

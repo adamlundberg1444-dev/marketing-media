@@ -1,0 +1,62 @@
+{
+  "slug": "g25m2b2s3l1",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2b",
+      "title": "Potenser och potensekvationer"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad är en potens?",
+      "sub": "När vi multiplicerar samma tal med sig själv många gånger blir det snabbt jobbigt att skriva ut. Då använder vi en **potens**: \\(2 \\cdot 2 \\cdot 2 \\cdot 2 = 2^4\\). Talet \\(2\\) kallas *basen* och \\(4\\) kallas *exponenten*, som talar om hur många gånger basen multipliceras.\n\nPotenser dyker upp överallt, i ränta, area, volym och tillväxt. Därför är det värt att repetera räknereglerna noga innan vi börjar lösa ekvationer.",
+      "subSize": 38
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Multiplicera och dividera potenser",
+      "sub": "När två potenser har **samma bas** kan vi räkna smart. Vid multiplikation adderar vi exponenterna, och vid division subtraherar vi dem:\n\n\\[a^m \\cdot a^n = a^{m+n} \\qquad \\frac{a^m}{a^n} = a^{m-n}\\]\n\nTill exempel blir \\(10^2 \\cdot 10^3 = 10^5\\), eftersom vi i själva verket multiplicerar fem tior. Reglerna gäller bara så länge basen är densamma."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Förenkla \\(3^4 \\cdot 3^2\\) och skriv svaret som ett tal.",
+      "steps": [
+        "Baserna är lika, så vi adderar exponenterna: \\(4 + 2 = 6\\).",
+        "Det ger \\(3^4 \\cdot 3^2 = 3^6\\).",
+        "Vi beräknar: \\(3^6 = 729\\)."
+      ],
+      "result": "\\(3^4 \\cdot 3^2 = 729\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Förenkla \\(\\frac{5^7}{5^4}\\).",
+      "options": [
+        "\\(5^3\\)",
+        "\\(5^{11}\\)",
+        "\\(5^{28}\\)",
+        "\\(1^3\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Förenkla \\(\\frac{5^7}{5^4}\\).",
+      "options": [
+        "\\(5^3\\)",
+        "\\(5^{11}\\)",
+        "\\(5^{28}\\)",
+        "\\(1^3\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

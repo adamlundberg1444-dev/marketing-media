@@ -1,0 +1,325 @@
+{
+  "slug": "np-ma3c-ht2012-b-b2",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3c_ht2012_b",
+    "questionId": "b2",
+    "partId": "b2"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "För"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "uttrycket"
+      },
+      {
+        "tex": " \\dfrac{3x - 21}{6 - x} ",
+        "display": false
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "definierat?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "6 − x = 0",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "6 − x + x = 0 + x",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "6 = x",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "3 · 6 − 21 = 18 − 21 = −3"
+    },
+    {
+      "text": "6 − 6 = 0",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "\\frac{−3}{0}",
+      "emphasis": true
+    },
+    {
+      "text": "x = 6",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 24.927,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 7
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.57
+        },
+        {
+          "start": 1.57,
+          "end": 1.98
+        },
+        {
+          "start": 1.98,
+          "end": 2.24
+        },
+        {
+          "start": 2.24,
+          "end": 2.77
+        },
+        {
+          "start": 2.77,
+          "end": 3.03
+        },
+        {
+          "start": 3.03,
+          "end": 3.64
+        },
+        {
+          "start": 3.64,
+          "end": 4.83
+        },
+        {
+          "start": 4.83,
+          "end": 5.19
+        },
+        {
+          "start": 5.19,
+          "end": 6.2
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7,
+          "chars": [
+            7,
+            7.1538,
+            7.2,
+            7.3538,
+            7.4,
+            7.5538,
+            7.6,
+            7.7538,
+            7.8
+          ]
+        },
+        {
+          "start": 8.3538,
+          "chars": [
+            8.3538,
+            8.5077,
+            8.5538,
+            8.7077,
+            8.7538,
+            8.9077,
+            8.9538,
+            9.1077,
+            9.1538,
+            9.3077,
+            9.3538,
+            9.5077,
+            9.5538,
+            9.7077,
+            9.7538,
+            9.9077,
+            9.9538
+          ]
+        },
+        {
+          "start": 10.5077,
+          "chars": [
+            10.5077,
+            10.6615,
+            10.7077,
+            10.8615,
+            10.9077
+          ]
+        },
+        {
+          "start": 11.5615,
+          "chars": [
+            11.5615,
+            11.7154,
+            11.7615,
+            11.9154,
+            11.9615,
+            12.1154,
+            12.1615,
+            12.3154,
+            12.3615,
+            12.5154,
+            12.6692,
+            12.7154,
+            12.8692,
+            12.9154,
+            13.0692,
+            13.2231,
+            13.2692,
+            13.4231,
+            13.4692,
+            13.6231,
+            13.7769,
+            13.8231,
+            13.9769,
+            14.0231,
+            14.1769
+          ]
+        },
+        {
+          "start": 14.6808,
+          "chars": [
+            14.6808,
+            14.8346,
+            14.8808,
+            15.0346,
+            15.0808,
+            15.2346,
+            15.2808,
+            15.4346,
+            15.4808
+          ]
+        },
+        {
+          "start": 16.0346,
+          "chars": [
+            16.0346,
+            16.1885,
+            16.3423,
+            16.4962
+          ]
+        },
+        {
+          "start": 17,
+          "chars": [
+            17,
+            17.1538,
+            17.2,
+            17.3538,
+            17.4
+          ]
+        },
+        {
+          "start": 18.1538,
+          "chars": [
+            18.1538,
+            18.3077,
+            18.4615,
+            18.6154,
+            18.7692,
+            18.9231,
+            18.9692,
+            19.1231,
+            19.2769,
+            19.4308,
+            19.5846,
+            19.6308,
+            19.7846,
+            19.9385,
+            20.0923,
+            20.2462,
+            20.4,
+            20.4462,
+            20.6,
+            20.7538,
+            20.8,
+            20.9538,
+            21,
+            21.1538,
+            21.3077,
+            21.4615,
+            21.6154,
+            21.7692,
+            21.9231
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1c",
+    "text2": "HT 2012 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

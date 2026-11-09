@@ -1,0 +1,61 @@
+{
+  "slug": "g25m2c2s3l2b",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2c",
+      "title": "Exponentialekvationer med logaritmer"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "När exponenten är det okända",
+      "sub": "I förra lektionen lärde vi oss vad en logaritm är. Nu använder vi den för att lösa ekvationer.\n\nTänk dig att en summa pengar växer och vi vill veta hur många år det tar. Då dyker exponenten upp som det okända, till exempel i \\(2^x = 50\\). Att gissa fram \\(x\\) går inte. Vi behöver ett verktyg som plockar ner exponenten, och det verktyget är logaritmen."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Ta logaritmen av båda led",
+      "sub": "En ekvation säger att två uttryck är lika. Om vi gör exakt samma sak med båda led förblir de lika. Det gäller även när vi tar **logaritmen** av båda led.\n\nUr \\(10^x = 500\\) får vi alltså \\(\\lg(10^x) = \\lg 500\\). När basen är \\(10\\) är detta extra enkelt, eftersom \\(\\lg(10^x) = x\\). Då står \\(x\\) ensamt kvar: \\(x = \\lg 500 \\approx 2{,}699\\)."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Lös \\(10^x = 500\\).",
+      "steps": [
+        "Vi tar tiologaritmen av båda led: \\(\\lg(10^x) = \\lg 500\\).",
+        "Vänsterledet förenklas eftersom \\(\\lg(10^x) = x\\). Kvar står \\(x = \\lg 500\\).",
+        "Räknaren ger \\(\\lg 500 \\approx 2{,}699\\)."
+      ],
+      "result": "\\(x = \\lg 500 \\approx 2{,}699\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Lös \\(10^x = 80\\).",
+      "options": [
+        "\\(x \\approx 1{,}90\\)",
+        "\\(x \\approx 8\\)",
+        "\\(x \\approx 0{,}90\\)",
+        "\\(x \\approx 2{,}90\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Lös \\(10^x = 80\\).",
+      "options": [
+        "\\(x \\approx 1{,}90\\)",
+        "\\(x \\approx 8\\)",
+        "\\(x \\approx 0{,}90\\)",
+        "\\(x \\approx 2{,}90\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

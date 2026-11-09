@@ -1,0 +1,306 @@
+{
+  "slug": "np-ma3c-ht2014-b-b5c",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3c_ht2014_b",
+    "questionId": "b5",
+    "partId": "b5c"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förenkla"
+      },
+      {
+        "text": "uttrycket"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " \\dfrac{2}{x - 2} + \\dfrac{x}{2 - x} ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "2 - x = -(x - 2)"
+    },
+    {
+      "text": "\\frac{x}{2 - x} = -\\frac{x}{x - 2}"
+    },
+    {
+      "text": "\\frac{2}{x - 2} - \\frac{x}{x - 2}"
+    },
+    {
+      "text": "= \\frac{2 - x}{x - 2}"
+    },
+    {
+      "text": "= \\frac{-(x - 2)}{x - 2} = -1"
+    },
+    {
+      "text": "-1",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 25.257,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.98
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.97
+        },
+        {
+          "start": 1.97,
+          "end": 2.23
+        },
+        {
+          "start": 2.23,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.95
+        },
+        {
+          "start": 2.95,
+          "end": 3.81
+        },
+        {
+          "start": 3.81,
+          "end": 5.18
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.98,
+          "chars": [
+            5.98,
+            6.1338,
+            6.18,
+            6.3338,
+            6.38,
+            6.5338,
+            6.58,
+            6.7338,
+            6.78,
+            6.9338,
+            7.0877,
+            7.2415,
+            7.2877,
+            7.4415,
+            7.4877,
+            7.6415
+          ]
+        },
+        {
+          "start": 8.1454,
+          "chars": [
+            8.1454,
+            8.2992,
+            8.4531,
+            8.6069,
+            8.6531,
+            8.8069,
+            8.8531,
+            9.0069,
+            9.0531,
+            9.2069,
+            9.2531,
+            9.4069,
+            9.5608,
+            9.7146,
+            9.8685,
+            9.9146,
+            10.0685,
+            10.1146
+          ]
+        },
+        {
+          "start": 10.6185,
+          "chars": [
+            10.6185,
+            10.7723,
+            10.9262,
+            11.08,
+            11.1262,
+            11.28,
+            11.3262,
+            11.48,
+            11.5262,
+            11.68,
+            11.7262,
+            11.88,
+            12.0338,
+            12.1877,
+            12.2338,
+            12.3877,
+            12.4338
+          ]
+        },
+        {
+          "start": 12.9377,
+          "chars": [
+            12.9377,
+            13.0915,
+            13.1377,
+            13.2915,
+            13.3377,
+            13.4915,
+            13.5377,
+            13.6915,
+            13.8454,
+            13.9992,
+            14.0454,
+            14.1992,
+            14.2454
+          ]
+        },
+        {
+          "start": 14.7492,
+          "chars": [
+            14.7492,
+            14.9031,
+            14.9492,
+            15.1031,
+            15.2569,
+            15.4108,
+            15.4569,
+            15.6108,
+            15.6569,
+            15.8108,
+            15.9646,
+            16.1185,
+            16.2723,
+            16.3185,
+            16.4723,
+            16.5185,
+            16.6723,
+            16.7185,
+            16.8723,
+            16.9185,
+            17.0723
+          ]
+        },
+        {
+          "start": 17.5762,
+          "chars": [
+            17.5762,
+            17.73
+          ]
+        },
+        {
+          "start": 18.4838,
+          "chars": [
+            18.4838,
+            18.6377,
+            18.7915,
+            18.9454,
+            19.0992,
+            19.2531,
+            19.2992,
+            19.4531,
+            19.6069,
+            19.7608,
+            19.9146,
+            19.9608,
+            20.1146,
+            20.2685,
+            20.4223,
+            20.5762,
+            20.73,
+            20.7762,
+            20.93,
+            21.0838,
+            21.13,
+            21.2838,
+            21.33,
+            21.4838,
+            21.6377,
+            21.7915,
+            21.9454,
+            22.0992,
+            22.2531
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte fortsättning 1c",
+    "text2": "HT 2014 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

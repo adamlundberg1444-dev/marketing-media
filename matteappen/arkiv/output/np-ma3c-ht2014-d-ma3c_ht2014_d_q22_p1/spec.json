@@ -1,0 +1,402 @@
+{
+  "slug": "np-ma3c-ht2014-d-ma3c_ht2014_d_q22_p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3c_ht2014_d",
+    "questionId": "ma3c_ht2014_d_q22",
+    "partId": "ma3c_ht2014_d_q22_p1"
+  },
+  "concept": {
+    "label": "Deriveringsregel",
+    "tex": "f(x)=x^n \\Rightarrow f'(x)=nx^{n-1}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Grafen"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "tex": " f(x) = x^4 - 4x ",
+        "display": false
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "tangent"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "punkten"
+      },
+      {
+        "text": "P."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Tangenten"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "lutningen"
+      },
+      {
+        "tex": " -17{,}5 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "-koordinaten"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "punkten"
+      },
+      {
+        "text": "P."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/2/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "f'(x) = 4x^3 - 4",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "4x^3 - 4 = -17,5",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "4x^3 = -13,5"
+    },
+    {
+      "text": "x^3 = -3,375",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x = -1,5",
+      "emphasis": true
+    },
+    {
+      "text": "x = -1,5",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 33.125,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 11.59
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.62
+        },
+        {
+          "start": 1.62,
+          "end": 2.99
+        },
+        {
+          "start": 2.99,
+          "end": 3.3
+        },
+        {
+          "start": 3.3,
+          "end": 3.56
+        },
+        {
+          "start": 3.56,
+          "end": 4.07
+        },
+        {
+          "start": 4.07,
+          "end": 4.29
+        },
+        {
+          "start": 4.29,
+          "end": 4.8
+        },
+        {
+          "start": 4.8,
+          "end": 5.36
+        },
+        {
+          "start": 5.36,
+          "end": 5.97
+        },
+        {
+          "start": 5.97,
+          "end": 6.28
+        },
+        {
+          "start": 6.28,
+          "end": 6.89
+        },
+        {
+          "start": 6.89,
+          "end": 7.66
+        },
+        {
+          "start": 7.66,
+          "end": 8.12
+        },
+        {
+          "start": 8.12,
+          "end": 8.65
+        },
+        {
+          "start": 8.65,
+          "end": 9.41
+        },
+        {
+          "start": 9.41,
+          "end": 9.72
+        },
+        {
+          "start": 9.72,
+          "end": 10.23
+        },
+        {
+          "start": 10.23,
+          "end": 10.79
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.19,
+          "chars": [
+            13.19,
+            13.3438,
+            13.4977,
+            13.6515,
+            13.8054,
+            13.9592,
+            14.0054,
+            14.1592,
+            14.2054,
+            14.3592,
+            14.5131,
+            14.6669,
+            14.7131,
+            14.8669,
+            14.9131
+          ]
+        },
+        {
+          "start": 15.5669,
+          "chars": [
+            15.5669,
+            15.7208,
+            15.8746,
+            16.0285,
+            16.0746,
+            16.2285,
+            16.2746,
+            16.4285,
+            16.4746,
+            16.6285,
+            16.6746,
+            16.8285,
+            16.9823,
+            17.1362,
+            17.29
+          ]
+        },
+        {
+          "start": 17.9438,
+          "chars": [
+            17.9438,
+            18.0977,
+            18.2515,
+            18.4054,
+            18.4515,
+            18.6054,
+            18.6515,
+            18.8054,
+            18.9592,
+            19.1131,
+            19.2669
+          ]
+        },
+        {
+          "start": 19.7708,
+          "chars": [
+            19.7708,
+            19.9246,
+            20.0785,
+            20.1246,
+            20.2785,
+            20.3246,
+            20.4785,
+            20.6323,
+            20.7862,
+            20.94,
+            21.0938
+          ]
+        },
+        {
+          "start": 21.7477,
+          "chars": [
+            21.7477,
+            21.9015,
+            21.9477,
+            22.1015,
+            22.1477,
+            22.3015,
+            22.4554,
+            22.6092
+          ]
+        },
+        {
+          "start": 23.1131,
+          "chars": [
+            23.1131,
+            23.2669,
+            23.3131,
+            23.4669,
+            23.5131,
+            23.6669,
+            23.8208,
+            23.9746
+          ]
+        },
+        {
+          "start": 24.7285,
+          "chars": [
+            24.7285,
+            24.8823,
+            25.0362,
+            25.19,
+            25.3438,
+            25.39,
+            25.5438,
+            25.6977,
+            25.8515,
+            26.0054,
+            26.1592,
+            26.3131,
+            26.3592,
+            26.5131,
+            26.6669,
+            26.8208,
+            26.9746,
+            27.1285,
+            27.1746,
+            27.3285,
+            27.3746,
+            27.5285,
+            27.6823,
+            27.8362,
+            27.99,
+            28.1438,
+            28.2977,
+            28.4515,
+            28.6054,
+            28.7592,
+            28.9131,
+            29.0669,
+            29.2208
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 11.59,
+        "end": 12.69,
+        "hideAt": 19.59
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 29.725,
+          "end": 30.325,
+          "targets": [
+            {
+              "w": 11
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte fortsättning 1c",
+    "text2": "HT 2014 · fråga 22",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

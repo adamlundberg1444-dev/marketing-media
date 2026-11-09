@@ -1,0 +1,298 @@
+{
+  "slug": "np-ma2c-ht2012-b-b3c",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2c_ht2012_b",
+    "questionId": "b3",
+    "partId": "b3c"
+  },
+  "concept": {
+    "label": "Rotlagarna",
+    "tex": "\\sqrt{ab} = \\sqrt{a}\\,\\sqrt{b} \\qquad \\sqrt{\\tfrac{a}{b}} = \\tfrac{\\sqrt{a}}{\\sqrt{b}}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "svara"
+      },
+      {
+        "text": "exakt."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " \\sqrt{x} \\cdot \\sqrt{x} = \\sqrt{2} ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "\\sqrt{x} · \\sqrt{x} = x"
+    },
+    {
+      "text": "x = \\sqrt{2}"
+    },
+    {
+      "text": "Frestande: kvadrera båda led"
+    },
+    {
+      "text": "Men det ger en annan ekvation"
+    },
+    {
+      "text": "x = \\sqrt{2}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 26.881,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.08
+        },
+        {
+          "start": 2.08,
+          "end": 2.49
+        },
+        {
+          "start": 2.49,
+          "end": 3.25
+        },
+        {
+          "start": 3.25,
+          "end": 4.2
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.6,
+          "chars": [
+            6.6,
+            6.7538,
+            6.9077,
+            7.0615,
+            7.1077,
+            7.2615,
+            7.3077,
+            7.4615,
+            7.6154,
+            7.7692,
+            7.8154,
+            7.9692,
+            8.0154
+          ]
+        },
+        {
+          "start": 8.5192,
+          "chars": [
+            8.5192,
+            8.6731,
+            8.7192,
+            8.8731,
+            8.9192,
+            9.0731,
+            9.2269
+          ]
+        },
+        {
+          "start": 9.7308,
+          "chars": [
+            9.7308,
+            9.8846,
+            10.0385,
+            10.1923,
+            10.3462,
+            10.5,
+            10.6538,
+            10.8077,
+            10.9615,
+            11.1154,
+            11.2692,
+            11.3154,
+            11.4692,
+            11.6231,
+            11.7769,
+            11.9308,
+            12.0846,
+            12.2385,
+            12.3923,
+            12.5462,
+            12.5923,
+            12.7462,
+            12.9,
+            13.0538,
+            13.2077,
+            13.2538,
+            13.4077,
+            13.5615
+          ]
+        },
+        {
+          "start": 14.0654,
+          "chars": [
+            14.0654,
+            14.2192,
+            14.3731,
+            14.5269,
+            14.5731,
+            14.7269,
+            14.8808,
+            15.0346,
+            15.0808,
+            15.2346,
+            15.3885,
+            15.5423,
+            15.5885,
+            15.7423,
+            15.8962,
+            15.9423,
+            16.0962,
+            16.25,
+            16.4038,
+            16.5577,
+            16.7115,
+            16.7577,
+            16.9115,
+            17.0654,
+            17.2192,
+            17.3731,
+            17.5269,
+            17.6808,
+            17.8346
+          ]
+        },
+        {
+          "start": 18.3385,
+          "chars": [
+            18.3385,
+            18.4923,
+            18.5385,
+            18.6923,
+            18.7385,
+            18.8923,
+            19.0462
+          ]
+        },
+        {
+          "start": 19.8,
+          "chars": [
+            19.8,
+            19.9538,
+            20.1077,
+            20.2615,
+            20.4154,
+            20.5692,
+            20.6154,
+            20.7692,
+            20.9231,
+            21.0769,
+            21.1231,
+            21.2769,
+            21.4308,
+            21.5846,
+            21.7385,
+            21.8923,
+            22.0462,
+            22.2,
+            22.2462,
+            22.4,
+            22.5538,
+            22.7077,
+            22.7538,
+            22.9077,
+            23.0615,
+            23.2154,
+            23.3692,
+            23.5231,
+            23.5692,
+            23.7231,
+            23.8769
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5,
+        "end": 6.1,
+        "hideAt": 13
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2c",
+    "text2": "HT 2012 · fråga 3",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "slug": "np-ma1b-vt2017-b-b7",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1b_vt2017_b",
+    "questionId": "b7",
+    "partId": "b7"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Alla"
+      },
+      {
+        "text": "jackor"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "butik"
+      },
+      {
+        "text": "säljs"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "tex": "40 \\%",
+        "display": false
+      },
+      {
+        "text": "rabatt."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Du"
+      },
+      {
+        "text": "betalar"
+      },
+      {
+        "tex": "1\\,200",
+        "display": false
+      },
+      {
+        "text": "kr"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "jacka."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "mycket"
+      },
+      {
+        "text": "kostade"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "före"
+      },
+      {
+        "text": "rabatten?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "40 % rabatt = du betalar 60 %"
+    },
+    {
+      "text": "60 % av priset x är 1200 kr:"
+    },
+    {
+      "text": "0,60 · x = 1200",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x = 1200/0,60 = 12 000/6"
+    },
+    {
+      "text": "x = 2000 kr",
+      "emphasis": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Kolla: 0,60 · 2000 = 1200"
+    },
+    {
+      "text": "2 000 kr",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 39.278,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 11.42
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.16
+        },
+        {
+          "start": 1.16,
+          "end": 1.62
+        },
+        {
+          "start": 1.62,
+          "end": 1.84
+        },
+        {
+          "start": 1.84,
+          "end": 2.1
+        },
+        {
+          "start": 2.1,
+          "end": 2.51
+        },
+        {
+          "start": 2.51,
+          "end": 2.92
+        },
+        {
+          "start": 2.92,
+          "end": 3.23
+        },
+        {
+          "start": 3.23,
+          "end": 3.88
+        },
+        {
+          "start": 3.88,
+          "end": 4.69
+        },
+        {
+          "start": 4.69,
+          "end": 4.95
+        },
+        {
+          "start": 4.95,
+          "end": 5.46
+        },
+        {
+          "start": 5.46,
+          "end": 6.17
+        },
+        {
+          "start": 6.17,
+          "end": 6.43
+        },
+        {
+          "start": 6.43,
+          "end": 6.74
+        },
+        {
+          "start": 6.74,
+          "end": 7
+        },
+        {
+          "start": 7,
+          "end": 7.76
+        },
+        {
+          "start": 7.76,
+          "end": 8.07
+        },
+        {
+          "start": 8.07,
+          "end": 8.53
+        },
+        {
+          "start": 8.53,
+          "end": 9.04
+        },
+        {
+          "start": 9.04,
+          "end": 9.35
+        },
+        {
+          "start": 9.35,
+          "end": 9.71
+        },
+        {
+          "start": 9.71,
+          "end": 10.62
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.42,
+          "chars": [
+            11.42,
+            11.5738,
+            11.7277,
+            11.7738,
+            11.9277,
+            11.9738,
+            12.1277,
+            12.2815,
+            12.4354,
+            12.5892,
+            12.7431,
+            12.8969,
+            12.9431,
+            13.0969,
+            13.1431,
+            13.2969,
+            13.4508,
+            13.4969,
+            13.6508,
+            13.8046,
+            13.9585,
+            14.1123,
+            14.2662,
+            14.42,
+            14.5738,
+            14.62,
+            14.7738,
+            14.9277,
+            14.9738
+          ]
+        },
+        {
+          "start": 15.4777,
+          "chars": [
+            15.4777,
+            15.6315,
+            15.7854,
+            15.8315,
+            15.9854,
+            16.0315,
+            16.1854,
+            16.3392,
+            16.3854,
+            16.5392,
+            16.6931,
+            16.8469,
+            17.0008,
+            17.1546,
+            17.3085,
+            17.3546,
+            17.5085,
+            17.5546,
+            17.7085,
+            17.8623,
+            17.9085,
+            18.0623,
+            18.2162,
+            18.37,
+            18.5238,
+            18.57,
+            18.7238,
+            18.8777
+          ]
+        },
+        {
+          "start": 19.3815,
+          "chars": [
+            19.3815,
+            19.5354,
+            19.6892,
+            19.8431,
+            19.9969,
+            20.0431,
+            20.1969,
+            20.2431,
+            20.3969,
+            20.4431,
+            20.5969,
+            20.6431,
+            20.7969,
+            20.9508,
+            21.1046
+          ]
+        },
+        {
+          "start": 21.7585,
+          "chars": [
+            21.7585,
+            21.9123,
+            21.9585,
+            22.1123,
+            22.1585,
+            22.3123,
+            22.4662,
+            22.62,
+            22.7738,
+            22.9277,
+            23.0815,
+            23.2354,
+            23.3892,
+            23.5431,
+            23.5892,
+            23.7431,
+            23.7892,
+            23.9431,
+            24.0969,
+            24.1431,
+            24.2969,
+            24.4508,
+            24.6046,
+            24.7585
+          ]
+        },
+        {
+          "start": 25.2623,
+          "chars": [
+            25.2623,
+            25.4162,
+            25.4623,
+            25.6162,
+            25.6623,
+            25.8162,
+            25.97,
+            26.1238,
+            26.2777,
+            26.3238,
+            26.4777
+          ]
+        },
+        {
+          "start": 27.2315,
+          "chars": [
+            27.2315,
+            27.3854,
+            27.5392,
+            27.6931,
+            27.8469,
+            28.0008,
+            28.1546,
+            28.2008,
+            28.3546,
+            28.5085,
+            28.6623,
+            28.8162,
+            28.8623,
+            29.0162,
+            29.0623,
+            29.2162,
+            29.37,
+            29.5238,
+            29.6777,
+            29.7238,
+            29.8777,
+            29.9238,
+            30.0777,
+            30.2315,
+            30.3854
+          ]
+        },
+        {
+          "start": 30.8892,
+          "chars": [
+            30.8892,
+            31.0431,
+            31.0892,
+            31.2431,
+            31.3969,
+            31.5508,
+            31.5969,
+            31.7508
+          ]
+        },
+        {
+          "start": 32.5046,
+          "chars": [
+            32.5046,
+            32.6585,
+            32.8123,
+            32.9662,
+            33.12,
+            33.1662,
+            33.32,
+            33.4738,
+            33.6277,
+            33.7815,
+            33.9354,
+            33.9815,
+            34.1354,
+            34.2892,
+            34.3354,
+            34.4892,
+            34.5354,
+            34.6892,
+            34.8431,
+            34.9969,
+            35.1508,
+            35.3046,
+            35.3508,
+            35.5046,
+            35.6585,
+            35.8123,
+            35.9662,
+            36.12,
+            36.2738
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 1b",
+    "text2": "VT 2017 · fråga 7",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

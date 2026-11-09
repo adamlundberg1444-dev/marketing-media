@@ -1,0 +1,880 @@
+{
+  "slug": "np-ma1a-vt2017-d-d18a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_vt2017_d",
+    "questionId": "d18",
+    "partId": "d18a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Afrikas"
+      },
+      {
+        "text": "högsta"
+      },
+      {
+        "text": "berg"
+      },
+      {
+        "text": "Kilimanjaro"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "höjd"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": "5\\,892",
+        "display": false
+      },
+      {
+        "text": "meter"
+      },
+      {
+        "text": "över"
+      },
+      {
+        "text": "havet."
+      },
+      {
+        "text": "Johan"
+      },
+      {
+        "text": "vandrar"
+      },
+      {
+        "text": "mot"
+      },
+      {
+        "text": "toppen."
+      },
+      {
+        "text": "När"
+      },
+      {
+        "text": "han"
+      },
+      {
+        "text": "tar"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "paus"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "kokar"
+      },
+      {
+        "text": "tevatten"
+      },
+      {
+        "text": "konstaterar"
+      },
+      {
+        "text": "han"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "vattnet"
+      },
+      {
+        "text": "kokar"
+      },
+      {
+        "text": "vid"
+      },
+      {
+        "tex": "85",
+        "display": false
+      },
+      {
+        "text": "°C."
+      },
+      {
+        "text": "Han"
+      },
+      {
+        "text": "vet"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "vattnets"
+      },
+      {
+        "text": "koktemperatur"
+      },
+      {
+        "text": "sjunker"
+      },
+      {
+        "text": "ju"
+      },
+      {
+        "text": "högre"
+      },
+      {
+        "text": "upp"
+      },
+      {
+        "text": "han"
+      },
+      {
+        "text": "kommer."
+      },
+      {
+        "text": "Sambandet"
+      },
+      {
+        "text": "mellan"
+      },
+      {
+        "text": "koktemperatur"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "höjd"
+      },
+      {
+        "text": "över"
+      },
+      {
+        "text": "havet"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "beskrivas"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "formeln"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "t = 100 - \\frac{h}{300}",
+        "display": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "där"
+      },
+      {
+        "tex": "t",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "vattnets"
+      },
+      {
+        "text": "koktemperatur"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "grader"
+      },
+      {
+        "text": "Celsius"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "h",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "höjden"
+      },
+      {
+        "text": "över"
+      },
+      {
+        "text": "havet"
+      },
+      {
+        "text": "mätt"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "meter."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vid"
+      },
+      {
+        "text": "vilken"
+      },
+      {
+        "text": "temperatur"
+      },
+      {
+        "text": "kokar"
+      },
+      {
+        "text": "vatten"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "Kilimanjaros"
+      },
+      {
+        "text": "topp?"
+      },
+      {
+        "text": "Endast"
+      },
+      {
+        "text": "svar"
+      },
+      {
+        "text": "krävs."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "t = 100 − \\frac{h}{300}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "h = 5 892",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "t = 100 − \\frac{5 892}{300}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "= 100 − 19,64",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "= 80,36",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "t ≈ 80,4 °C",
+      "emphasis": true
+    },
+    {
+      "text": "≈ 80,4 °C",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 60.878,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 39.44
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.13
+        },
+        {
+          "start": 2.13,
+          "end": 2.84
+        },
+        {
+          "start": 2.84,
+          "end": 3.15
+        },
+        {
+          "start": 3.15,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 3.77
+        },
+        {
+          "start": 3.77,
+          "end": 4.03
+        },
+        {
+          "start": 4.03,
+          "end": 4.74
+        },
+        {
+          "start": 4.74,
+          "end": 5.15
+        },
+        {
+          "start": 5.15,
+          "end": 5.51
+        },
+        {
+          "start": 5.51,
+          "end": 6.27
+        },
+        {
+          "start": 6.27,
+          "end": 6.68
+        },
+        {
+          "start": 6.68,
+          "end": 7.19
+        },
+        {
+          "start": 7.19,
+          "end": 7.5
+        },
+        {
+          "start": 7.5,
+          "end": 8.31
+        },
+        {
+          "start": 8.31,
+          "end": 8.62
+        },
+        {
+          "start": 8.62,
+          "end": 8.93
+        },
+        {
+          "start": 8.93,
+          "end": 9.24
+        },
+        {
+          "start": 9.24,
+          "end": 9.5
+        },
+        {
+          "start": 9.5,
+          "end": 9.86
+        },
+        {
+          "start": 9.86,
+          "end": 10.17
+        },
+        {
+          "start": 10.17,
+          "end": 10.58
+        },
+        {
+          "start": 10.58,
+          "end": 11.14
+        },
+        {
+          "start": 11.14,
+          "end": 11.85
+        },
+        {
+          "start": 11.85,
+          "end": 12.16
+        },
+        {
+          "start": 12.16,
+          "end": 12.47
+        },
+        {
+          "start": 12.47,
+          "end": 12.98
+        },
+        {
+          "start": 12.98,
+          "end": 13.39
+        },
+        {
+          "start": 13.39,
+          "end": 13.7
+        },
+        {
+          "start": 13.7,
+          "end": 14.17
+        },
+        {
+          "start": 14.17,
+          "end": 14.78
+        },
+        {
+          "start": 14.78,
+          "end": 15.09
+        },
+        {
+          "start": 15.09,
+          "end": 15.4
+        },
+        {
+          "start": 15.4,
+          "end": 15.71
+        },
+        {
+          "start": 15.71,
+          "end": 16.27
+        },
+        {
+          "start": 16.27,
+          "end": 17.08
+        },
+        {
+          "start": 17.08,
+          "end": 17.59
+        },
+        {
+          "start": 17.59,
+          "end": 17.85
+        },
+        {
+          "start": 17.85,
+          "end": 18.26
+        },
+        {
+          "start": 18.26,
+          "end": 18.57
+        },
+        {
+          "start": 18.57,
+          "end": 18.88
+        },
+        {
+          "start": 18.88,
+          "end": 19.69
+        },
+        {
+          "start": 19.69,
+          "end": 20.3
+        },
+        {
+          "start": 20.3,
+          "end": 20.76
+        },
+        {
+          "start": 20.76,
+          "end": 21.57
+        },
+        {
+          "start": 21.57,
+          "end": 21.88
+        },
+        {
+          "start": 21.88,
+          "end": 22.24
+        },
+        {
+          "start": 22.24,
+          "end": 22.6
+        },
+        {
+          "start": 22.6,
+          "end": 23.01
+        },
+        {
+          "start": 23.01,
+          "end": 23.32
+        },
+        {
+          "start": 23.32,
+          "end": 23.93
+        },
+        {
+          "start": 23.93,
+          "end": 24.24
+        },
+        {
+          "start": 24.24,
+          "end": 24.75
+        },
+        {
+          "start": 24.75,
+          "end": 25.94
+        },
+        {
+          "start": 25.94,
+          "end": 26.25
+        },
+        {
+          "start": 26.25,
+          "end": 26.66
+        },
+        {
+          "start": 26.66,
+          "end": 26.92
+        },
+        {
+          "start": 26.92,
+          "end": 27.48
+        },
+        {
+          "start": 27.48,
+          "end": 28.29
+        },
+        {
+          "start": 28.29,
+          "end": 28.51
+        },
+        {
+          "start": 28.51,
+          "end": 28.97
+        },
+        {
+          "start": 28.97,
+          "end": 29.48
+        },
+        {
+          "start": 29.48,
+          "end": 29.79
+        },
+        {
+          "start": 29.79,
+          "end": 30.2
+        },
+        {
+          "start": 30.2,
+          "end": 30.46
+        },
+        {
+          "start": 30.46,
+          "end": 30.92
+        },
+        {
+          "start": 30.92,
+          "end": 31.28
+        },
+        {
+          "start": 31.28,
+          "end": 31.69
+        },
+        {
+          "start": 31.69,
+          "end": 32.05
+        },
+        {
+          "start": 32.05,
+          "end": 32.27
+        },
+        {
+          "start": 32.27,
+          "end": 33.03
+        },
+        {
+          "start": 33.03,
+          "end": 33.34
+        },
+        {
+          "start": 33.34,
+          "end": 33.8
+        },
+        {
+          "start": 33.8,
+          "end": 34.46
+        },
+        {
+          "start": 34.46,
+          "end": 34.87
+        },
+        {
+          "start": 34.87,
+          "end": 35.33
+        },
+        {
+          "start": 35.33,
+          "end": 35.59
+        },
+        {
+          "start": 35.59,
+          "end": 36.35
+        },
+        {
+          "start": 36.35,
+          "end": 37.06
+        },
+        {
+          "start": 37.06,
+          "end": 37.52
+        },
+        {
+          "start": 37.52,
+          "end": 37.88
+        },
+        {
+          "start": 37.88,
+          "end": 38.64
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 39.44,
+          "chars": [
+            39.44,
+            39.5938,
+            39.64,
+            39.7938,
+            39.84,
+            39.9938,
+            40.1477,
+            40.3015,
+            40.3477,
+            40.5015,
+            40.5477,
+            40.7015,
+            40.8554,
+            41.0092,
+            41.1631
+          ]
+        },
+        {
+          "start": 41.7169,
+          "chars": [
+            41.7169,
+            41.8708,
+            41.9169,
+            42.0708,
+            42.1169,
+            42.2708,
+            42.3169,
+            42.4708,
+            42.6246
+          ]
+        },
+        {
+          "start": 43.1785,
+          "chars": [
+            43.1785,
+            43.3323,
+            43.3785,
+            43.5323,
+            43.5785,
+            43.7323,
+            43.8862,
+            44.04,
+            44.0862,
+            44.24,
+            44.2862,
+            44.44,
+            44.4862,
+            44.64,
+            44.7938,
+            44.9477,
+            45.1015,
+            45.2554,
+            45.4092
+          ]
+        },
+        {
+          "start": 45.9631,
+          "chars": [
+            45.9631,
+            46.1169,
+            46.1631,
+            46.3169,
+            46.4708,
+            46.6246,
+            46.6708,
+            46.8246,
+            46.8708,
+            47.0246,
+            47.1785,
+            47.3323,
+            47.4862
+          ]
+        },
+        {
+          "start": 48.04,
+          "chars": [
+            48.04,
+            48.1938,
+            48.24,
+            48.3938,
+            48.5477,
+            48.7015,
+            48.8554
+          ]
+        },
+        {
+          "start": 49.4092,
+          "chars": [
+            49.4092,
+            49.5631,
+            49.6092,
+            49.7631,
+            49.8092,
+            49.9631,
+            50.1169,
+            50.2708,
+            50.4246,
+            50.4708,
+            50.6246
+          ]
+        },
+        {
+          "start": 51.1285,
+          "chars": [
+            51.1285,
+            51.2823,
+            51.3285,
+            51.4823,
+            51.6362,
+            51.79,
+            51.9438,
+            51.99,
+            52.1438
+          ]
+        },
+        {
+          "start": 52.8977,
+          "chars": [
+            52.8977,
+            53.0515,
+            53.2054,
+            53.3592,
+            53.5131,
+            53.6669,
+            53.7131,
+            53.8669,
+            54.0208,
+            54.1746,
+            54.2208,
+            54.3746,
+            54.5285,
+            54.6823,
+            54.8362,
+            54.99,
+            55.1438,
+            55.2977,
+            55.3438,
+            55.4977,
+            55.6515,
+            55.8054,
+            55.8515,
+            56.0054,
+            56.1592,
+            56.3131,
+            56.4669,
+            56.6208,
+            56.6669,
+            56.8208,
+            56.9746
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 57.478,
+          "end": 58.078,
+          "targets": [
+            {
+              "w": 8
+            },
+            {
+              "w": 9
+            },
+            {
+              "w": 10
+            },
+            {
+              "w": 11
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "VT 2017 · fråga 18",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 1
+  }
+}

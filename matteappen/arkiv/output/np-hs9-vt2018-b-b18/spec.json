@@ -1,0 +1,262 @@
+{
+  "slug": "np-hs9-vt2018-b-b18",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2018_b",
+    "questionId": "b18",
+    "partId": "b18"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förenkla"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt"
+      },
+      {
+        "tex": "\\frac{5b + 3b + 2b}{5b}",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "5b + 3b + 2b = 8b + 2b = 10b"
+    },
+    {
+      "text": "\\frac{10b}{5b}"
+    },
+    {
+      "text": "b förkortas bort"
+    },
+    {
+      "text": "10/5 = 2"
+    },
+    {
+      "text": "2",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 21.49,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.84
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.62
+        },
+        {
+          "start": 1.62,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.34
+        },
+        {
+          "start": 2.34,
+          "end": 2.85
+        },
+        {
+          "start": 2.85,
+          "end": 4.04
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.84,
+          "chars": [
+            4.84,
+            4.9938,
+            5.1477,
+            5.1938,
+            5.3477,
+            5.3938,
+            5.5477,
+            5.7015,
+            5.7477,
+            5.9015,
+            5.9477,
+            6.1015,
+            6.2554,
+            6.3015,
+            6.4554,
+            6.5015,
+            6.6554,
+            6.8092,
+            6.8554,
+            7.0092,
+            7.0554,
+            7.2092,
+            7.3631,
+            7.4092,
+            7.5631,
+            7.6092,
+            7.7631,
+            7.9169
+          ]
+        },
+        {
+          "start": 8.4208,
+          "chars": [
+            8.4208,
+            8.5746,
+            8.7285,
+            8.8823,
+            9.0362,
+            9.19
+          ]
+        },
+        {
+          "start": 9.6938,
+          "chars": [
+            9.6938,
+            9.8477,
+            9.8938,
+            10.0477,
+            10.2015,
+            10.3554,
+            10.5092,
+            10.6631,
+            10.8169,
+            10.9708,
+            11.1246,
+            11.2785,
+            11.3246,
+            11.4785,
+            11.6323,
+            11.7862
+          ]
+        },
+        {
+          "start": 12.29,
+          "chars": [
+            12.29,
+            12.4438,
+            12.5977,
+            12.7515,
+            12.9054,
+            12.9515,
+            13.1054,
+            13.1515
+          ]
+        },
+        {
+          "start": 13.6554,
+          "chars": [
+            13.6554
+          ]
+        },
+        {
+          "start": 14.4092,
+          "chars": [
+            14.4092,
+            14.5631,
+            14.7169,
+            14.8708,
+            15.0246,
+            15.1785,
+            15.2246,
+            15.3785,
+            15.5323,
+            15.6862,
+            15.7323,
+            15.8862,
+            16.04,
+            16.1938,
+            16.3477,
+            16.5015,
+            16.6554,
+            16.8092,
+            16.8554,
+            17.0092,
+            17.1631,
+            17.3169,
+            17.3631,
+            17.5169,
+            17.6708,
+            17.8246,
+            17.9785,
+            18.1323,
+            18.1785,
+            18.3323,
+            18.4862
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Åk 9",
+    "text2": "VT 2018 · fråga 18",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

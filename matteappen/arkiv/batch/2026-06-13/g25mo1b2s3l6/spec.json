@@ -1,0 +1,98 @@
+{
+  "slug": "g25mo1b2s3l6",
+  "theme": "matematik3",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nfortsättning nivå 1b",
+      "title": "Tillämpningar och problemlösning",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -1,
+        "xMax": 6,
+        "yMin": -1,
+        "yMax": 8,
+        "functions": [
+          {
+            "type": "exponential",
+            "a": 1,
+            "base": 1.34986,
+            "offset": 0,
+            "color": "blue",
+            "label": "y = e^{0,3t}",
+            "tangentAt": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Derivatan i verkliga modeller",
+      "sub": "I de förra lektionerna lärde vi oss derivera \\(e^x\\), \\(e^{kx}\\) och \\(a^x\\). Nu sätter vi reglerna i arbete.\n\nExponentialfunktioner beskriver allt som växer eller avtar med en konstant andel: bakterier, kapital på ett konto, läkemedel som bryts ner i kroppen. Derivatan av en sådan modell talar om hur snabbt storheten ändras just nu. Det är ofta precis det vi vill veta."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Modellen y = C·eᵏᵗ",
+      "sub": "Den vanligaste modellen skrivs \\(y=C\\cdot e^{kt}\\), där \\(C\\) är startvärdet vid \\(t=0\\) och \\(k\\) styr hur snabbt det går.\n\nVi deriverar med regeln \\(D\\left[e^{kt}\\right]=k\\,e^{kt}\\) och låter konstanten \\(C\\) följa med:\n\\[y'=C\\cdot k\\cdot e^{kt}\\]\nDerivatan \\(y'\\) ger förändringshastigheten vid tiden \\(t\\).",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -1,
+        "xMax": 6,
+        "yMin": -1,
+        "yMax": 8,
+        "functions": [
+          {
+            "type": "exponential",
+            "a": 1,
+            "base": 1.34986,
+            "offset": 0,
+            "color": "blue",
+            "label": "y = e^{0,3t}",
+            "tangentAt": 2
+          }
+        ]
+      }
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "En bakteriekultur beskrivs av \\(N(t)=500\\cdot e^{0{,}3t}\\), där \\(t\\) är tiden i timmar. Hur snabbt växer kulturen efter \\(2\\) timmar?",
+      "steps": [
+        "Derivera med \\(D\\left[C\\,e^{kt}\\right]=C\\,k\\,e^{kt}\\): här är \\(C=500\\) och \\(k=0{,}3\\).",
+        "Det ger \\(N'(t)=500\\cdot 0{,}3\\cdot e^{0{,}3t}=150\\,e^{0{,}3t}\\).",
+        "Sätt in \\(t=2\\): \\(N'(2)=150\\,e^{0{,}6}\\).",
+        "Beräkna: \\(e^{0{,}6}\\approx 1{,}822\\), så \\(N'(2)\\approx 150\\cdot 1{,}822\\approx 273\\)."
+      ],
+      "result": "Efter \\(2\\) timmar växer kulturen med ungefär \\(273\\) bakterier per timme."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "En investering följer \\(P(t)=200\\cdot e^{0{,}1t}\\). Vad är \\(P'(t)\\)?",
+      "options": [
+        "\\(20\\,e^{0{,}1t}\\)",
+        "\\(200\\,e^{0{,}1t}\\)",
+        "\\(0{,}1\\,e^{0{,}1t}\\)",
+        "\\(20\\,e^{0{,}1t-1}\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "En investering följer \\(P(t)=200\\cdot e^{0{,}1t}\\). Vad är \\(P'(t)\\)?",
+      "options": [
+        "\\(20\\,e^{0{,}1t}\\)",
+        "\\(200\\,e^{0{,}1t}\\)",
+        "\\(0{,}1\\,e^{0{,}1t}\\)",
+        "\\(20\\,e^{0{,}1t-1}\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

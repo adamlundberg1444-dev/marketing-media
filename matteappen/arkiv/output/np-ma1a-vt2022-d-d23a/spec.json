@@ -1,0 +1,673 @@
+{
+  "slug": "np-ma1a-vt2022-d-d23a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_vt2022_d",
+    "questionId": "d23",
+    "partId": "d23a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "När"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "blåser"
+      },
+      {
+        "text": "känns"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "kallare"
+      },
+      {
+        "text": "än"
+      },
+      {
+        "text": "vad"
+      },
+      {
+        "text": "termometern"
+      },
+      {
+        "text": "visar."
+      },
+      {
+        "text": "SMHI"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "gett"
+      },
+      {
+        "text": "ut"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "tabell"
+      },
+      {
+        "text": "över"
+      },
+      {
+        "text": "hur"
+      },
+      {
+        "text": "temperaturen"
+      },
+      {
+        "text": "upplevs"
+      },
+      {
+        "text": "beroende"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "faktisk"
+      },
+      {
+        "text": "temperatur"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "vindhastighet."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "grader"
+      },
+      {
+        "text": "kallare"
+      },
+      {
+        "text": "upplevs"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "temperatur"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": "-15",
+        "display": false
+      },
+      {
+        "text": "°C"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "vindhastigheten"
+      },
+      {
+        "text": "ökar"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "5"
+      },
+      {
+        "text": "m/s"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "15"
+      },
+      {
+        "text": "m/s"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "tabellen?"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Endast"
+      },
+      {
+        "text": "svar"
+      },
+      {
+        "text": "krävs."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_vt2022_d_q23.imageset/ma1a_vt2022_d_q23.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Vi läser av tabellen vid −15 °C",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Vid 5 m/s: upplevs som −24 °C"
+    },
+    {
+      "text": "Vid 15 m/s: upplevs som −29 °C",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Skillnad: −24 − (−29) = −24 + 29 = 5"
+    },
+    {
+      "text": "5 grader kallare",
+      "emphasis": true
+    },
+    {
+      "text": "5 °C",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 52.484,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 23.83
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.42
+        },
+        {
+          "start": 1.42,
+          "end": 1.88
+        },
+        {
+          "start": 1.88,
+          "end": 2.29
+        },
+        {
+          "start": 2.29,
+          "end": 2.6
+        },
+        {
+          "start": 2.6,
+          "end": 3.11
+        },
+        {
+          "start": 3.11,
+          "end": 3.37
+        },
+        {
+          "start": 3.37,
+          "end": 3.68
+        },
+        {
+          "start": 3.68,
+          "end": 4.39
+        },
+        {
+          "start": 4.39,
+          "end": 5.15
+        },
+        {
+          "start": 5.15,
+          "end": 5.51
+        },
+        {
+          "start": 5.51,
+          "end": 5.82
+        },
+        {
+          "start": 5.82,
+          "end": 6.18
+        },
+        {
+          "start": 6.18,
+          "end": 6.44
+        },
+        {
+          "start": 6.44,
+          "end": 6.7
+        },
+        {
+          "start": 6.7,
+          "end": 7.16
+        },
+        {
+          "start": 7.16,
+          "end": 7.52
+        },
+        {
+          "start": 7.52,
+          "end": 7.83
+        },
+        {
+          "start": 7.83,
+          "end": 8.59
+        },
+        {
+          "start": 8.59,
+          "end": 9.1
+        },
+        {
+          "start": 9.1,
+          "end": 9.66
+        },
+        {
+          "start": 9.66,
+          "end": 9.92
+        },
+        {
+          "start": 9.92,
+          "end": 10.43
+        },
+        {
+          "start": 10.43,
+          "end": 11.09
+        },
+        {
+          "start": 11.09,
+          "end": 11.4
+        },
+        {
+          "start": 11.4,
+          "end": 12.56
+        },
+        {
+          "start": 12.56,
+          "end": 12.87
+        },
+        {
+          "start": 12.87,
+          "end": 13.28
+        },
+        {
+          "start": 13.28,
+          "end": 13.74
+        },
+        {
+          "start": 13.74,
+          "end": 14.25
+        },
+        {
+          "start": 14.25,
+          "end": 14.76
+        },
+        {
+          "start": 14.76,
+          "end": 15.02
+        },
+        {
+          "start": 15.02,
+          "end": 15.68
+        },
+        {
+          "start": 15.68,
+          "end": 15.94
+        },
+        {
+          "start": 15.94,
+          "end": 16.47
+        },
+        {
+          "start": 16.47,
+          "end": 16.73
+        },
+        {
+          "start": 16.73,
+          "end": 16.99
+        },
+        {
+          "start": 16.99,
+          "end": 17.9
+        },
+        {
+          "start": 17.9,
+          "end": 18.26
+        },
+        {
+          "start": 18.26,
+          "end": 18.62
+        },
+        {
+          "start": 18.62,
+          "end": 18.84
+        },
+        {
+          "start": 18.84,
+          "end": 19.15
+        },
+        {
+          "start": 19.15,
+          "end": 19.51
+        },
+        {
+          "start": 19.51,
+          "end": 19.77
+        },
+        {
+          "start": 19.77,
+          "end": 20.08
+        },
+        {
+          "start": 20.08,
+          "end": 20.54
+        },
+        {
+          "start": 20.54,
+          "end": 21.45
+        },
+        {
+          "start": 21.45,
+          "end": 21.91
+        },
+        {
+          "start": 21.91,
+          "end": 22.27
+        },
+        {
+          "start": 22.27,
+          "end": 23.03
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.83,
+          "chars": [
+            23.83,
+            23.9838,
+            24.1377,
+            24.1838,
+            24.3377,
+            24.4915,
+            24.6454,
+            24.7992,
+            24.9531,
+            24.9992,
+            25.1531,
+            25.3069,
+            25.3531,
+            25.5069,
+            25.6608,
+            25.8146,
+            25.9685,
+            26.1223,
+            26.2762,
+            26.43,
+            26.5838,
+            26.63,
+            26.7838,
+            26.9377,
+            27.0915,
+            27.1377,
+            27.2915,
+            27.4454,
+            27.5992,
+            27.6454,
+            27.7992
+          ]
+        },
+        {
+          "start": 28.4531,
+          "chars": [
+            28.4531,
+            28.6069,
+            28.7608,
+            28.9146,
+            28.9608,
+            29.1146,
+            29.1608,
+            29.3146,
+            29.4685,
+            29.6223,
+            29.7762,
+            29.8223,
+            29.9762,
+            30.13,
+            30.2838,
+            30.4377,
+            30.5915,
+            30.7454,
+            30.8992,
+            30.9454,
+            31.0992,
+            31.2531,
+            31.4069,
+            31.4531,
+            31.6069,
+            31.7608,
+            31.9146,
+            31.9608,
+            32.1146
+          ]
+        },
+        {
+          "start": 32.6185,
+          "chars": [
+            32.6185,
+            32.7723,
+            32.9262,
+            33.08,
+            33.1262,
+            33.28,
+            33.4338,
+            33.48,
+            33.6338,
+            33.7877,
+            33.9415,
+            34.0954,
+            34.1415,
+            34.2954,
+            34.4492,
+            34.6031,
+            34.7569,
+            34.9108,
+            35.0646,
+            35.2185,
+            35.2646,
+            35.4185,
+            35.5723,
+            35.7262,
+            35.7723,
+            35.9262,
+            36.08,
+            36.2338,
+            36.28,
+            36.4338
+          ]
+        },
+        {
+          "start": 37.0877,
+          "chars": [
+            37.0877,
+            37.2415,
+            37.3954,
+            37.5492,
+            37.7031,
+            37.8569,
+            38.0108,
+            38.1646,
+            38.3185,
+            38.4723,
+            38.5185,
+            38.6723,
+            38.8262,
+            38.98,
+            39.0262,
+            39.18,
+            39.2262,
+            39.38,
+            39.5338,
+            39.6877,
+            39.8415,
+            39.9954,
+            40.0415,
+            40.1954,
+            40.2415,
+            40.3954,
+            40.5492,
+            40.7031,
+            40.7492,
+            40.9031,
+            40.9492,
+            41.1031,
+            41.2569,
+            41.3031,
+            41.4569,
+            41.5031
+          ]
+        },
+        {
+          "start": 42.0069,
+          "chars": [
+            42.0069,
+            42.1608,
+            42.2069,
+            42.3608,
+            42.5146,
+            42.6685,
+            42.8223,
+            42.9762,
+            43.13,
+            43.1762,
+            43.33,
+            43.4838,
+            43.6377,
+            43.7915,
+            43.9454,
+            44.0992
+          ]
+        },
+        {
+          "start": 44.6031,
+          "chars": [
+            44.6031,
+            44.7569,
+            44.8031,
+            44.9569
+          ]
+        },
+        {
+          "start": 45.7108,
+          "chars": [
+            45.7108,
+            45.8646,
+            46.0185,
+            46.1723,
+            46.3262,
+            46.48,
+            46.5262,
+            46.68,
+            46.8338,
+            46.9877,
+            47.1415,
+            47.1877,
+            47.3415,
+            47.4954,
+            47.6492,
+            47.8031,
+            47.9569,
+            48.0031,
+            48.1569,
+            48.3108,
+            48.3569,
+            48.5108,
+            48.5569,
+            48.7108,
+            48.8646,
+            49.0185,
+            49.1723,
+            49.3262,
+            49.48
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "VT 2022 · fråga 23",
+    "seconds": 3
+  },
+  "layout": {
+    "compact": 1,
+    "padTop": 0,
+    "floor": 320
+  }
+}

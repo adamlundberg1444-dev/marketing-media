@@ -1,0 +1,128 @@
+{
+  "slug": "g25mo1c3s3l5",
+  "theme": "matematik3",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nfortsättning nivå 1c",
+      "title": "Sammansatta integralberäkningar",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": 0,
+        "xMax": 6,
+        "yMin": 0,
+        "yMax": 5,
+        "centerOrigin": false,
+        "functions": [
+          {
+            "type": "linear",
+            "k": 0.5,
+            "m": 1,
+            "color": "primary",
+            "label": "f"
+          },
+          {
+            "type": "linear",
+            "k": 0,
+            "m": 0,
+            "color": "blue",
+            "label": "axel"
+          }
+        ],
+        "shade": {
+          "lower": "axel",
+          "upper": "f"
+        },
+        "segments": [
+          {
+            "x1": 2,
+            "y1": 0,
+            "x2": 2,
+            "y2": 2,
+            "color": "orange"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "När integralen ser krånglig ut",
+      "sub": "Förra lektionen beräknade vi integraler med insättningsformeln \\(\\int_a^b f(x)\\,dx = F(b) - F(a)\\). Integranderna var snälla: enstaka potenser eller korta summor.\n\nNu möter vi integraler som ser värre ut: parenteser, bråk och blandningar av potenser och exponentialfunktioner. Tricket är nästan alltid detsamma: **skriv om integranden** till en summa av termer vi redan kan hantera, och integrera sedan term för term."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Räkneregler för integraler",
+      "sub": "Två regler gör omskrivningarna tillåtna. En konstant faktor kan flyttas ut ur integralen:\n\n\\[\\int_a^b k \\cdot f(x)\\,dx = k \\int_a^b f(x)\\,dx\\]\n\nOch en summa får delas upp i flera integraler:\n\n\\[\\int_a^b (f(x) + g(x))\\,dx = \\int_a^b f(x)\\,dx + \\int_a^b g(x)\\,dx\\]\n\nObservera att det **inte** finns någon motsvarande regel för produkter eller kvoter. Därför måste de skrivas om till summor först."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Beräkna \\(\\int_1^3 (3x^2 - 4x + 5)\\,dx\\).",
+      "steps": [
+        "Primitiv funktion term för term: \\(F(x) = x^3 - 2x^2 + 5x\\).",
+        "Sätt in den övre gränsen: \\(F(3) = 27 - 18 + 15 = 24\\).",
+        "Sätt in den undre gränsen: \\(F(1) = 1 - 2 + 5 = 4\\).",
+        "Differensen: \\(24 - 4 = 20\\)."
+      ],
+      "result": "\\(\\int_1^3 (3x^2 - 4x + 5)\\,dx = 20\\)",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": 1,
+        "xMax": 3,
+        "yMin": 0,
+        "yMax": 20,
+        "centerOrigin": false,
+        "functions": [
+          {
+            "type": "quadratic",
+            "a": 3,
+            "b": -4,
+            "c": 5,
+            "color": "primary",
+            "label": "f"
+          },
+          {
+            "type": "linear",
+            "k": 0,
+            "m": 0,
+            "color": "blue",
+            "label": "axel"
+          }
+        ],
+        "shade": {
+          "lower": "axel",
+          "upper": "f"
+        }
+      }
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Beräkna \\(\\int_0^2 (6x^2 - 2x + 1)\\,dx\\).",
+      "options": [
+        "\\(14\\)",
+        "\\(22\\)",
+        "\\(21\\)",
+        "\\(12\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Beräkna \\(\\int_0^2 (6x^2 - 2x + 1)\\,dx\\).",
+      "options": [
+        "\\(14\\)",
+        "\\(22\\)",
+        "\\(21\\)",
+        "\\(12\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

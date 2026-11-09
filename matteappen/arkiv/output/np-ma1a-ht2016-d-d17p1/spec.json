@@ -1,0 +1,382 @@
+{
+  "slug": "np-ma1a-ht2016-d-d17p1",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_ht2016_d",
+    "questionId": "d17",
+    "partId": "d17"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Följande"
+      },
+      {
+        "text": "skylt"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "affär:"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "rabatten"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "procent?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_ht2016_d_q17.imageset/ma1a_ht2016_d_q17.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "3 st ord. pris: 3 · 12,90 = 38,70"
+    },
+    {
+      "text": "Rabatt: 38,70 − 30 = 8,70 kr",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Andel: 8,70/38,70 ≈ 0,225"
+    },
+    {
+      "text": "0,225 = 22,5 %"
+    },
+    {
+      "text": "Rabatten är ca 22 %",
+      "emphasis": true
+    },
+    {
+      "text": "≈ 22 %",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 32.802,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.79
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.18
+        },
+        {
+          "start": 2.18,
+          "end": 2.4
+        },
+        {
+          "start": 2.4,
+          "end": 2.66
+        },
+        {
+          "start": 2.66,
+          "end": 3.42
+        },
+        {
+          "start": 3.42,
+          "end": 3.73
+        },
+        {
+          "start": 3.73,
+          "end": 4.09
+        },
+        {
+          "start": 4.09,
+          "end": 4.35
+        },
+        {
+          "start": 4.35,
+          "end": 4.91
+        },
+        {
+          "start": 4.91,
+          "end": 5.13
+        },
+        {
+          "start": 5.13,
+          "end": 5.99
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.79,
+          "chars": [
+            6.79,
+            6.9438,
+            6.99,
+            7.1438,
+            7.2977,
+            7.3438,
+            7.4977,
+            7.6515,
+            7.8054,
+            7.9592,
+            8.0054,
+            8.1592,
+            8.3131,
+            8.4669,
+            8.6208,
+            8.7746,
+            8.8208,
+            8.9746,
+            9.0208,
+            9.1746,
+            9.2208,
+            9.3746,
+            9.5285,
+            9.6823,
+            9.8362,
+            9.99,
+            10.0362,
+            10.19,
+            10.2362,
+            10.39,
+            10.5438,
+            10.6977,
+            10.8515
+          ]
+        },
+        {
+          "start": 11.3554,
+          "chars": [
+            11.3554,
+            11.5092,
+            11.6631,
+            11.8169,
+            11.9708,
+            12.1246,
+            12.2785,
+            12.4323,
+            12.4785,
+            12.6323,
+            12.7862,
+            12.94,
+            13.0938,
+            13.2477,
+            13.2938,
+            13.4477,
+            13.4938,
+            13.6477,
+            13.8015,
+            13.8477,
+            14.0015,
+            14.0477,
+            14.2015,
+            14.3554,
+            14.5092,
+            14.6631,
+            14.7092,
+            14.8631
+          ]
+        },
+        {
+          "start": 15.5169,
+          "chars": [
+            15.5169,
+            15.6708,
+            15.8246,
+            15.9785,
+            16.1323,
+            16.2862,
+            16.44,
+            16.4862,
+            16.64,
+            16.7938,
+            16.9477,
+            17.1015,
+            17.2554,
+            17.4092,
+            17.5631,
+            17.7169,
+            17.8708,
+            18.0246,
+            18.0708,
+            18.2246,
+            18.2708,
+            18.4246,
+            18.5785,
+            18.7323,
+            18.8862
+          ]
+        },
+        {
+          "start": 19.39,
+          "chars": [
+            19.39,
+            19.5438,
+            19.6977,
+            19.8515,
+            20.0054,
+            20.1592,
+            20.2054,
+            20.3592,
+            20.4054,
+            20.5592,
+            20.7131,
+            20.8669,
+            21.0208,
+            21.0669
+          ]
+        },
+        {
+          "start": 21.5708,
+          "chars": [
+            21.5708,
+            21.7246,
+            21.8785,
+            22.0323,
+            22.1862,
+            22.34,
+            22.4938,
+            22.6477,
+            22.8015,
+            22.8477,
+            23.0015,
+            23.1554,
+            23.2015,
+            23.3554,
+            23.5092,
+            23.5554,
+            23.7092,
+            23.8631,
+            23.9092
+          ]
+        },
+        {
+          "start": 24.4131,
+          "chars": [
+            24.4131,
+            24.5669,
+            24.6131,
+            24.7669,
+            24.9208,
+            24.9669
+          ]
+        },
+        {
+          "start": 25.7208,
+          "chars": [
+            25.7208,
+            25.8746,
+            26.0285,
+            26.1823,
+            26.3362,
+            26.49,
+            26.5362,
+            26.69,
+            26.8438,
+            26.9977,
+            27.0438,
+            27.1977,
+            27.3515,
+            27.5054,
+            27.6592,
+            27.8131,
+            27.9669,
+            28.1208,
+            28.1669,
+            28.3208,
+            28.4746,
+            28.6285,
+            28.6746,
+            28.8285,
+            28.9823,
+            29.1362,
+            29.29,
+            29.4438,
+            29.49,
+            29.6438,
+            29.7977
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "HT 2016 · fråga 17",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "slug": "np-hs9-vt2019-b-b7",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2019_b",
+    "questionId": "b7",
+    "partId": "b7"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "timmar"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "minuter"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "8,4"
+      },
+      {
+        "text": "h?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "0,4 h är inte 40 min"
+    },
+    {
+      "text": "8,4 h = 8 h + 0,4 h"
+    },
+    {
+      "text": "0,4 · 60 = 24 min"
+    },
+    {
+      "text": "8 h 24 min",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 21.461,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.73
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.98
+        },
+        {
+          "start": 1.98,
+          "end": 2.29
+        },
+        {
+          "start": 2.29,
+          "end": 2.8
+        },
+        {
+          "start": 2.8,
+          "end": 3.06
+        },
+        {
+          "start": 3.06,
+          "end": 3.37
+        },
+        {
+          "start": 3.37,
+          "end": 3.93
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.73,
+          "chars": [
+            4.73,
+            4.8838,
+            5.0377,
+            5.1915,
+            5.2377,
+            5.3915,
+            5.4377,
+            5.5915,
+            5.7454,
+            5.7915,
+            5.9454,
+            6.0992,
+            6.2531,
+            6.4069,
+            6.4531,
+            6.6069,
+            6.7608,
+            6.8069,
+            6.9608,
+            7.1146
+          ]
+        },
+        {
+          "start": 7.6185,
+          "chars": [
+            7.6185,
+            7.7723,
+            7.9262,
+            8.08,
+            8.1262,
+            8.28,
+            8.3262,
+            8.48,
+            8.5262,
+            8.68,
+            8.7262,
+            8.88,
+            8.9262,
+            9.08,
+            9.1262,
+            9.28,
+            9.4338,
+            9.5877,
+            9.6338
+          ]
+        },
+        {
+          "start": 10.1377,
+          "chars": [
+            10.1377,
+            10.2915,
+            10.4454,
+            10.5992,
+            10.6454,
+            10.7992,
+            10.8454,
+            10.9992,
+            11.1531,
+            11.1992,
+            11.3531,
+            11.3992,
+            11.5531,
+            11.7069,
+            11.7531,
+            11.9069,
+            12.0608
+          ]
+        },
+        {
+          "start": 12.5646,
+          "chars": [
+            12.5646,
+            12.7185,
+            12.7646,
+            12.9185,
+            12.9646,
+            13.1185,
+            13.2723,
+            13.3185,
+            13.4723,
+            13.6262
+          ]
+        },
+        {
+          "start": 14.38,
+          "chars": [
+            14.38,
+            14.5338,
+            14.6877,
+            14.8415,
+            14.9954,
+            15.1492,
+            15.1954,
+            15.3492,
+            15.5031,
+            15.6569,
+            15.7031,
+            15.8569,
+            16.0108,
+            16.1646,
+            16.3185,
+            16.4723,
+            16.6262,
+            16.78,
+            16.8262,
+            16.98,
+            17.1338,
+            17.2877,
+            17.3338,
+            17.4877,
+            17.6415,
+            17.7954,
+            17.9492,
+            18.1031,
+            18.1492,
+            18.3031,
+            18.4569
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2019 · fråga 7",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "np-ma3b-ht2014-b-b1b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_ht2014_b",
+    "questionId": "b1",
+    "partId": "b1b"
+  },
+  "concept": {
+    "label": "Derivatan av e och ln",
+    "tex": "(e^{kx})' = ke^{kx} \\qquad (\\ln x)' = \\frac{1}{x}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": " f'(x) ",
+        "display": false
+      },
+      {
+        "text": "om"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " f(x) = e^{2x} ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "f'(x) =",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "f(x) = e^{2x}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "f'(x) = 2e^{2x}",
+      "emphasis": true
+    },
+    {
+      "text": "2e^{2x}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 19.112,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.22
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.29
+        },
+        {
+          "start": 2.29,
+          "end": 3.42
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.82,
+          "chars": [
+            5.82,
+            5.9738,
+            6.1277,
+            6.2815,
+            6.4354,
+            6.4815,
+            6.6354,
+            6.6815,
+            6.8354,
+            6.9892
+          ]
+        },
+        {
+          "start": 7.5431,
+          "chars": [
+            7.5431,
+            7.6969,
+            7.8508,
+            8.0046,
+            8.1585,
+            8.3123,
+            8.3585,
+            8.5123,
+            8.5585,
+            8.7123,
+            8.8662,
+            9.02
+          ]
+        },
+        {
+          "start": 9.5238,
+          "chars": [
+            9.5238,
+            9.6777,
+            9.8315,
+            9.9854
+          ]
+        },
+        {
+          "start": 10.7392,
+          "chars": [
+            10.7392,
+            10.8931,
+            11.0469,
+            11.2008,
+            11.3546,
+            11.4008,
+            11.5546,
+            11.7085,
+            11.8623,
+            12.0162,
+            12.17,
+            12.2162,
+            12.37,
+            12.5238,
+            12.57,
+            12.7238,
+            12.77,
+            12.9238,
+            13.0777,
+            13.2315,
+            13.3854,
+            13.5392,
+            13.5854,
+            13.7392,
+            13.8931,
+            14.0469,
+            14.2008,
+            14.3546,
+            14.5085
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 4.22,
+        "end": 5.32,
+        "hideAt": 12.22
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [
+        {
+          "start": 15.012,
+          "end": 15.762,
+          "targets": [
+            {
+              "li": 1,
+              "from": [
+                10,
+                11
+              ],
+              "to": [
+                8,
+                8
+              ],
+              "side": "over"
+            }
+          ]
+        }
+      ],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1b",
+    "text2": "HT 2014 · fråga 1",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

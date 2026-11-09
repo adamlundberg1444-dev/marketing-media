@@ -1,0 +1,305 @@
+{
+  "slug": "np-ma4c-vt2016-b-b8a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_vt2016_b",
+    "questionId": "b8",
+    "partId": "b8a"
+  },
+  "concept": {
+    "label": "Produktregeln",
+    "tex": "(f \\cdot g)' = f'g + fg'"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Derivera"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " f(x) = 2x \\cdot \\sin x ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Derivera inte var faktor för sig"
+    },
+    {
+      "text": "(f · g)' = f'g + fg'"
+    },
+    {
+      "text": "f = 2x ger f' = 2"
+    },
+    {
+      "text": "g = sin x ger g' = cos x"
+    },
+    {
+      "text": "f'(x) = 2\\sin x + 2x\\cos x",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 29.168,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3.41
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 2.61
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.01,
+          "chars": [
+            5.01,
+            5.1638,
+            5.3177,
+            5.4715,
+            5.6254,
+            5.7792,
+            5.9331,
+            6.0869,
+            6.2408,
+            6.2869,
+            6.4408,
+            6.5946,
+            6.7485,
+            6.9023,
+            6.9485,
+            7.1023,
+            7.2562,
+            7.41,
+            7.4562,
+            7.61,
+            7.7638,
+            7.9177,
+            8.0715,
+            8.2254,
+            8.3792,
+            8.4254,
+            8.5792,
+            8.7331,
+            8.8869,
+            8.9331,
+            9.0869,
+            9.2408
+          ]
+        },
+        {
+          "start": 9.7446,
+          "chars": [
+            9.7446,
+            9.8985,
+            10.0523,
+            10.0985,
+            10.2523,
+            10.2985,
+            10.4523,
+            10.6062,
+            10.76,
+            10.8062,
+            10.96,
+            11.0062,
+            11.16,
+            11.3138,
+            11.4677,
+            11.5138,
+            11.6677,
+            11.7138,
+            11.8677,
+            12.0215
+          ]
+        },
+        {
+          "start": 12.5254,
+          "chars": [
+            12.5254,
+            12.6792,
+            12.7254,
+            12.8792,
+            12.9254,
+            13.0792,
+            13.2331,
+            13.2792,
+            13.4331,
+            13.5869,
+            13.7408,
+            13.7869,
+            13.9408,
+            14.0946,
+            14.1408,
+            14.2946,
+            14.3408
+          ]
+        },
+        {
+          "start": 14.8446,
+          "chars": [
+            14.8446,
+            14.9985,
+            15.0446,
+            15.1985,
+            15.2446,
+            15.3985,
+            15.5523,
+            15.7062,
+            15.7523,
+            15.9062,
+            15.9523,
+            16.1062,
+            16.26,
+            16.4138,
+            16.46,
+            16.6138,
+            16.7677,
+            16.8138,
+            16.9677,
+            17.0138,
+            17.1677,
+            17.3215,
+            17.4754,
+            17.5215
+          ]
+        },
+        {
+          "start": 18.0254,
+          "chars": [
+            18.0254,
+            18.1792,
+            18.3331,
+            18.4869,
+            18.6408,
+            18.7946,
+            18.8408,
+            18.9946,
+            19.0408,
+            19.1946,
+            19.3485,
+            19.5023,
+            19.6562,
+            19.7023,
+            19.8562,
+            19.9023,
+            20.0562,
+            20.1023,
+            20.2562,
+            20.41,
+            20.5638,
+            20.7177,
+            20.8715,
+            20.9177
+          ]
+        },
+        {
+          "start": 21.6715,
+          "chars": [
+            21.6715,
+            21.8254,
+            21.9792,
+            22.1331,
+            22.2869,
+            22.3331,
+            22.4869,
+            22.6408,
+            22.7946,
+            22.9485,
+            23.1023,
+            23.2562,
+            23.3023,
+            23.4562,
+            23.61,
+            23.7638,
+            23.9177,
+            24.0715,
+            24.1177,
+            24.2715,
+            24.3177,
+            24.4715,
+            24.6254,
+            24.7792,
+            24.9331,
+            25.0869,
+            25.2408,
+            25.3946,
+            25.5485,
+            25.7023,
+            25.8562,
+            26.01,
+            26.1638
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 3.41,
+        "end": 4.51,
+        "hideAt": 11.41
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 2",
+    "text2": "VT 2016 · fråga 8",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

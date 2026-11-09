@@ -1,0 +1,330 @@
+{
+  "slug": "np-ma3c-ht2014-b-b5a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3c_ht2014_b",
+    "questionId": "b5",
+    "partId": "b5a"
+  },
+  "concept": {
+    "label": "Konjugatregeln",
+    "tex": "(a+b)(a-b) = a^2 - b^2"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förenkla"
+      },
+      {
+        "text": "uttrycket"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " x(7 + x)(7 - x) + x^3 ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "(7+x)(7-x) = 49 - 7x + 7x - x^2"
+    },
+    {
+      "text": "= 49 - x^2"
+    },
+    {
+      "text": "x(49 - x^2) = 49x - x^3"
+    },
+    {
+      "text": "49x - x^3 + x^3"
+    },
+    {
+      "text": "x^3-termerna tar ut varandra"
+    },
+    {
+      "text": "49x",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 30.325,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.97
+        },
+        {
+          "start": 1.97,
+          "end": 2.23
+        },
+        {
+          "start": 2.23,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.95
+        },
+        {
+          "start": 2.95,
+          "end": 3.81
+        },
+        {
+          "start": 3.81,
+          "end": 5.54
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.94,
+          "chars": [
+            7.94,
+            8.0938,
+            8.2477,
+            8.4015,
+            8.5554,
+            8.7092,
+            8.8631,
+            9.0169,
+            9.1708,
+            9.3246,
+            9.4785,
+            9.5246,
+            9.6785,
+            9.7246,
+            9.8785,
+            10.0323,
+            10.0785,
+            10.2323,
+            10.2785,
+            10.4323,
+            10.5862,
+            10.6323,
+            10.7862,
+            10.8323,
+            10.9862,
+            11.14,
+            11.1862,
+            11.34,
+            11.3862,
+            11.54
+          ]
+        },
+        {
+          "start": 12.0438,
+          "chars": [
+            12.0438,
+            12.1977,
+            12.2438,
+            12.3977,
+            12.5515,
+            12.5977,
+            12.7515,
+            12.7977,
+            12.9515
+          ]
+        },
+        {
+          "start": 13.4554,
+          "chars": [
+            13.4554,
+            13.6092,
+            13.7631,
+            13.9169,
+            14.0708,
+            14.1169,
+            14.2708,
+            14.3169,
+            14.4708,
+            14.6246,
+            14.7785,
+            14.8246,
+            14.9785,
+            15.0246,
+            15.1785,
+            15.3323,
+            15.4862,
+            15.5323,
+            15.6862,
+            15.7323,
+            15.8862
+          ]
+        },
+        {
+          "start": 16.39,
+          "chars": [
+            16.39,
+            16.5438,
+            16.6977,
+            16.8515,
+            16.8977,
+            17.0515,
+            17.0977,
+            17.2515,
+            17.4054,
+            17.4515,
+            17.6054,
+            17.6515,
+            17.8054
+          ]
+        },
+        {
+          "start": 18.3092,
+          "chars": [
+            18.3092,
+            18.4631,
+            18.6169,
+            18.7708,
+            18.9246,
+            19.0785,
+            19.2323,
+            19.3862,
+            19.54,
+            19.6938,
+            19.8477,
+            20.0015,
+            20.0477,
+            20.2015,
+            20.3554,
+            20.5092,
+            20.5554,
+            20.7092,
+            20.8631,
+            20.9092,
+            21.0631,
+            21.2169,
+            21.3708,
+            21.5246,
+            21.6785,
+            21.8323,
+            21.9862
+          ]
+        },
+        {
+          "start": 22.49,
+          "chars": [
+            22.49,
+            22.6438,
+            22.7977
+          ]
+        },
+        {
+          "start": 23.5515,
+          "chars": [
+            23.5515,
+            23.7054,
+            23.8592,
+            24.0131,
+            24.1669,
+            24.2131,
+            24.3669,
+            24.5208,
+            24.6746,
+            24.8285,
+            24.9823,
+            25.0285,
+            25.1823,
+            25.3362,
+            25.3823,
+            25.5362,
+            25.5823,
+            25.7362,
+            25.89,
+            26.0438,
+            26.1977,
+            26.3515,
+            26.3977,
+            26.5515,
+            26.7054,
+            26.8592,
+            27.0131,
+            27.1669,
+            27.3208
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 6.34,
+        "end": 7.44,
+        "hideAt": 14.34
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1c",
+    "text2": "HT 2014 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "g25mo1b3s1l3",
+  "theme": "matematik3",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nfortsättning nivå 1b",
+      "title": "Andraderivatan"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Derivatan är också en funktion",
+      "sub": "När vi deriverar \\(f(x)\\) får vi en ny funktion \\(f'(x)\\) som beskriver lutningen i varje punkt. Men \\(f'(x)\\) är ju en funktion precis som vilken annan, så ingenting hindrar oss från att derivera även den.\n\nDeriverar vi \\(f'(x)\\) en gång till får vi **andraderivatan**. Den berättar hur snabbt själva lutningen förändras, alltså hur derivatan i sin tur växer eller avtar."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Beteckning för andraderivatan",
+      "sub": "Andraderivatan skrivs med två primtecken: \\(f''(x)\\). Den läses \"f bis av x\". Skriver vi funktionen som \\(y\\) blir beteckningen \\(y''\\) i stället.\n\nVi får alltså andraderivatan i två steg. Först deriverar vi \\(f\\) och får \\(f'\\). Sedan deriverar vi \\(f'\\) en gång till och får \\(f''\\). Den vanliga derivatan kallas då **förstaderivatan** för att skilja dem åt."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Bestäm andraderivatan till \\(f(x) = x^4 - 2x^3 + 5x - 1\\).",
+      "steps": [
+        "Derivera en gång, term för term: \\(f'(x) = 4x^3 - 6x^2 + 5\\).",
+        "Derivera \\(f'(x)\\) igen: \\(D[4x^3] = 12x^2\\) och \\(D[-6x^2] = -12x\\).",
+        "Konstanten \\(5\\) deriveras till \\(0\\)."
+      ],
+      "result": "\\(f''(x) = 12x^2 - 12x\\)"
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Bestäm \\(f''(x)\\) om \\(f(x) = x^3 + 4x^2\\).",
+      "options": [
+        "\\(6x + 8\\)",
+        "\\(3x^2 + 8x\\)",
+        "\\(6x\\)",
+        "\\(6\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Bestäm \\(f''(x)\\) om \\(f(x) = x^3 + 4x^2\\).",
+      "options": [
+        "\\(6x + 8\\)",
+        "\\(3x^2 + 8x\\)",
+        "\\(6x\\)",
+        "\\(6\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

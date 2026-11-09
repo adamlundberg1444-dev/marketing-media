@@ -1,0 +1,99 @@
+{
+  "slug": "g25mo22s4l1",
+  "theme": "matematik4",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nfortsättning nivå 2",
+      "title": "Funktionens dominerande term",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -3,
+        "xMax": 3,
+        "yMin": -28,
+        "yMax": 28,
+        "centerOrigin": true,
+        "functions": [
+          {
+            "type": "cubic",
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "color": "primary",
+            "label": "f(x) = x^3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad händer för stora x?",
+      "sub": "När vi ska skissa grafen till ett polynom är det smart att börja i ytterkanterna: hur beter sig funktionen då \\(x\\) blir mycket stort, positivt eller negativt?\n\nTa \\(f(x) = x^3 + 2x^2 - 5x\\). Vid \\(x = 100\\) blir \\(x^3 = 1\\,000\\,000\\), medan \\(2x^2 = 20\\,000\\) och \\(-5x = -500\\). Den första termen är tusenfalt större än de andra. De små termerna försvinner i jämförelse.",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -3,
+        "xMax": 3,
+        "yMin": -28,
+        "yMax": 28,
+        "centerOrigin": true,
+        "functions": [
+          {
+            "type": "cubic",
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "color": "primary",
+            "label": "f(x) = x^3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Termen med högst gradtal vinner",
+      "sub": "Termen med det högsta gradtalet kallas polynomets **dominerande term**. För stora värden på \\(|x|\\) är det den som bestämmer funktionens värde, eftersom en högre potens av \\(x\\) växer mycket snabbare än en lägre.\n\nI \\(f(x) = 4x^3 - 50x^2 + 7\\) är den dominerande termen \\(4x^3\\). När \\(x\\) blir stort gäller alltså \\(f(x) \\approx 4x^3\\), oavsett hur stora de andra koefficienterna ser ut."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Vilken är den dominerande termen i \\(g(x) = 6x - 2x^4 + 9x^2\\)?",
+      "steps": [
+        "Identifiera gradtalet för varje term: \\(6x\\) har grad \\(1\\), \\(-2x^4\\) har grad \\(4\\) och \\(9x^2\\) har grad \\(2\\).",
+        "Den högsta graden är \\(4\\), och den hör till termen \\(-2x^4\\).",
+        "Kontroll vid \\(x = 10\\): \\(-2x^4 = -20\\,000\\), medan \\(9x^2 = 900\\) och \\(6x = 60\\). Den negativa fjärdegradstermen styr helt."
+      ],
+      "result": "Den dominerande termen är \\(-2x^4\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Vilken är den dominerande termen i \\(f(x) = 3x^2 - x^5 + 100x\\)?",
+      "options": [
+        "\\(-x^5\\)",
+        "\\(3x^2\\)",
+        "\\(100x\\)",
+        "\\(3x^2 + 100x\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Vilken är den dominerande termen i \\(f(x) = 3x^2 - x^5 + 100x\\)?",
+      "options": [
+        "\\(-x^5\\)",
+        "\\(3x^2\\)",
+        "\\(100x\\)",
+        "\\(3x^2 + 100x\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

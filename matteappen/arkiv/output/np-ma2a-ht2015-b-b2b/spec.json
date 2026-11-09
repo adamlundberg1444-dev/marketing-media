@@ -1,0 +1,292 @@
+{
+  "slug": "np-ma2a-ht2015-b-b2b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_ht2015_b",
+    "questionId": "b2",
+    "partId": "b2b"
+  },
+  "concept": {
+    "label": "Potenslagarna",
+    "tex": "\\begin{aligned}a^m \\cdot a^n &= a^{m+n}\\\\ \\tfrac{a^m}{a^n} &= a^{m-n}\\\\ (a^m)^n &= a^{mn}\\end{aligned}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förenkla"
+      },
+      {
+        "text": "uttrycket"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "\\dfrac{x^{0{,}5} \\cdot x^{\\frac{1}{2}} + 2x}{3}",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "0,5 och \\frac{1}{2} är samma tal"
+    },
+    {
+      "text": "x^{0,5} · x^{0,5} = x^1"
+    },
+    {
+      "text": "Täljare: x + 2x = 3x"
+    },
+    {
+      "text": "\\frac{3x}{3} = x"
+    },
+    {
+      "text": "x",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 25.968,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.98
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.36,
+          "end": 1.97
+        },
+        {
+          "start": 1.97,
+          "end": 2.23
+        },
+        {
+          "start": 2.23,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.95
+        },
+        {
+          "start": 2.95,
+          "end": 3.81
+        },
+        {
+          "start": 3.81,
+          "end": 5.18
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.58,
+          "chars": [
+            7.58,
+            7.7338,
+            7.8877,
+            8.0415,
+            8.0877,
+            8.2415,
+            8.3954,
+            8.5492,
+            8.5954,
+            8.7492,
+            8.9031,
+            9.0569,
+            9.1031,
+            9.2569,
+            9.4108,
+            9.4569,
+            9.6108,
+            9.7646,
+            9.9185,
+            10.0723,
+            10.2262,
+            10.2723,
+            10.4262,
+            10.58
+          ]
+        },
+        {
+          "start": 11.0838,
+          "chars": [
+            11.0838,
+            11.2377,
+            11.3915,
+            11.5454,
+            11.6992,
+            11.7454,
+            11.8992,
+            11.9454,
+            12.0992,
+            12.2531,
+            12.4069,
+            12.5608,
+            12.6069,
+            12.7608,
+            12.8069,
+            12.9608
+          ]
+        },
+        {
+          "start": 13.4646,
+          "chars": [
+            13.4646,
+            13.6185,
+            13.7723,
+            13.9262,
+            14.08,
+            14.2338,
+            14.3877,
+            14.5415,
+            14.6954,
+            14.7415,
+            14.8954,
+            14.9415,
+            15.0954,
+            15.1415,
+            15.2954,
+            15.4492,
+            15.4954,
+            15.6492,
+            15.6954,
+            15.8492
+          ]
+        },
+        {
+          "start": 16.3531,
+          "chars": [
+            16.3531,
+            16.5069,
+            16.6608,
+            16.8146,
+            16.9685,
+            17.0146,
+            17.1685,
+            17.2146
+          ]
+        },
+        {
+          "start": 17.7185,
+          "chars": [
+            17.7185
+          ]
+        },
+        {
+          "start": 18.4723,
+          "chars": [
+            18.4723,
+            18.6262,
+            18.78,
+            18.9338,
+            19.0877,
+            19.1338,
+            19.2877,
+            19.4415,
+            19.5954,
+            19.7492,
+            19.9031,
+            20.0569,
+            20.1031,
+            20.2569,
+            20.4108,
+            20.5646,
+            20.7185,
+            20.8723,
+            20.9185,
+            21.0723,
+            21.1185,
+            21.2723,
+            21.4262,
+            21.58,
+            21.7338,
+            21.8877,
+            22.0415,
+            22.1954,
+            22.3492,
+            22.5031,
+            22.6569,
+            22.8108,
+            22.9646
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5.98,
+        "end": 7.08,
+        "hideAt": 13.98
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 2a",
+    "text2": "HT 2015 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

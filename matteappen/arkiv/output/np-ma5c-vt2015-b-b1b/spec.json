@@ -1,0 +1,372 @@
+{
+  "slug": "np-ma5c-vt2015-b-b1b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma5c_vt2015_b",
+    "questionId": "b1",
+    "partId": "b1b"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Mängderna"
+      },
+      {
+        "tex": "A",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "B",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "definierade"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "A = \\{1, 2, 3, 4, 5, 6, 7\\}",
+        "display": false
+      },
+      {
+        "text": ","
+      },
+      {
+        "tex": "B = \\{2, 4, 6, 8, 10\\}",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "text": "mängderna"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "B \\setminus A",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "B minus A: i B, inte i A"
+    },
+    {
+      "text": "Utgå från B, inte från A"
+    },
+    {
+      "text": "2, 4, 6 finns i A: bort"
+    },
+    {
+      "text": "8, 10 finns inte i A: kvar"
+    },
+    {
+      "text": "{8, 10}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 32.388,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 10
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.41
+        },
+        {
+          "start": 1.41,
+          "end": 1.82
+        },
+        {
+          "start": 1.82,
+          "end": 2.13
+        },
+        {
+          "start": 2.13,
+          "end": 2.54
+        },
+        {
+          "start": 2.54,
+          "end": 2.8
+        },
+        {
+          "start": 2.8,
+          "end": 3.51
+        },
+        {
+          "start": 3.51,
+          "end": 3.92
+        },
+        {
+          "start": 3.92,
+          "end": 5.77
+        },
+        {
+          "start": 5.77,
+          "end": 5.99
+        },
+        {
+          "start": 5.99,
+          "end": 7.54
+        },
+        {
+          "start": 7.54,
+          "end": 8
+        },
+        {
+          "start": 8,
+          "end": 8.61
+        },
+        {
+          "start": 8.61,
+          "end": 9.2
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10,
+          "chars": [
+            10,
+            10.1538,
+            10.2,
+            10.3538,
+            10.5077,
+            10.6615,
+            10.8154,
+            10.9692,
+            11.0154,
+            11.1692,
+            11.3231,
+            11.3692,
+            11.5231,
+            11.5692,
+            11.7231,
+            11.8769,
+            11.9231,
+            12.0769,
+            12.2308,
+            12.3846,
+            12.5385,
+            12.5846,
+            12.7385,
+            12.7846
+          ]
+        },
+        {
+          "start": 13.2885,
+          "chars": [
+            13.2885,
+            13.4423,
+            13.5962,
+            13.75,
+            13.9038,
+            13.95,
+            14.1038,
+            14.2577,
+            14.4115,
+            14.5654,
+            14.6115,
+            14.7654,
+            14.9192,
+            14.9654,
+            15.1192,
+            15.2731,
+            15.4269,
+            15.5808,
+            15.6269,
+            15.7808,
+            15.9346,
+            16.0885,
+            16.2423,
+            16.2885
+          ]
+        },
+        {
+          "start": 16.7923,
+          "chars": [
+            16.7923,
+            16.9462,
+            17.1,
+            17.1462,
+            17.3,
+            17.4538,
+            17.5,
+            17.6538,
+            17.7,
+            17.8538,
+            18.0077,
+            18.1615,
+            18.3154,
+            18.4692,
+            18.5154,
+            18.6692,
+            18.7154,
+            18.8692,
+            19.0231,
+            19.0692,
+            19.2231,
+            19.3769,
+            19.5308
+          ]
+        },
+        {
+          "start": 20.0346,
+          "chars": [
+            20.0346,
+            20.1885,
+            20.3423,
+            20.3885,
+            20.5423,
+            20.6962,
+            20.7423,
+            20.8962,
+            21.05,
+            21.2038,
+            21.3577,
+            21.5115,
+            21.5577,
+            21.7115,
+            21.8654,
+            22.0192,
+            22.1731,
+            22.2192,
+            22.3731,
+            22.4192,
+            22.5731,
+            22.7269,
+            22.7731,
+            22.9269,
+            23.0808,
+            23.2346
+          ]
+        },
+        {
+          "start": 23.7385,
+          "chars": [
+            23.7385,
+            23.8923,
+            24.0462,
+            24.2,
+            24.2462,
+            24.4,
+            24.5538
+          ]
+        },
+        {
+          "start": 25.3077,
+          "chars": [
+            25.3077,
+            25.4615,
+            25.6154,
+            25.7692,
+            25.9231,
+            26.0769,
+            26.1231,
+            26.2769,
+            26.4308,
+            26.5846,
+            26.6308,
+            26.7846,
+            26.9385,
+            27.0923,
+            27.2462,
+            27.4,
+            27.5538,
+            27.7077,
+            27.7538,
+            27.9077,
+            28.0615,
+            28.2154,
+            28.2615,
+            28.4154,
+            28.5692,
+            28.7231,
+            28.8769,
+            29.0308,
+            29.0769,
+            29.2308,
+            29.3846
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fördjupning",
+    "text2": "VT 2015 · fråga 1",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "slug": "np-hs9-vt2019-b-b18",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2019_b",
+    "questionId": "b18",
+    "partId": "b18"
+  },
+  "concept": {
+    "label": "Teckenregler",
+    "tex": "(-2)^4 = 16 \\qquad -2^4 = -16 \\qquad 3^{-2} = \\tfrac{1}{9}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Beräkna"
+      },
+      {
+        "text": "värdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "uttrycket"
+      },
+      {
+        "tex": "2ab - b",
+        "display": false
+      },
+      {
+        "text": "om"
+      },
+      {
+        "tex": "a = 4",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "b = (-6)",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Redovisa"
+      },
+      {
+        "text": "din"
+      },
+      {
+        "text": "lösning"
+      },
+      {
+        "text": "här."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/2/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "2 · 4 · (-6) - (-6)"
+    },
+    {
+      "text": "2 · 4 = 8"
+    },
+    {
+      "text": "8 · (-6) = -48"
+    },
+    {
+      "text": "- (-6) blir + 6"
+    },
+    {
+      "text": "-48 + 6 = -42"
+    },
+    {
+      "text": "-42",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 27.885,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 8.3
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 3.67
+        },
+        {
+          "start": 3.67,
+          "end": 4.32
+        },
+        {
+          "start": 4.32,
+          "end": 4.63
+        },
+        {
+          "start": 4.63,
+          "end": 5.46
+        },
+        {
+          "start": 5.46,
+          "end": 6.02
+        },
+        {
+          "start": 6.02,
+          "end": 6.33
+        },
+        {
+          "start": 6.33,
+          "end": 6.84
+        },
+        {
+          "start": 6.84,
+          "end": 7.5
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 9.9,
+          "chars": [
+            9.9,
+            10.0538,
+            10.1,
+            10.2538,
+            10.3,
+            10.4538,
+            10.5,
+            10.6538,
+            10.7,
+            10.8538,
+            11.0077,
+            11.1615,
+            11.3154,
+            11.3615,
+            11.5154,
+            11.5615,
+            11.7154,
+            11.8692,
+            12.0231
+          ]
+        },
+        {
+          "start": 12.5269,
+          "chars": [
+            12.5269,
+            12.6808,
+            12.7269,
+            12.8808,
+            12.9269,
+            13.0808,
+            13.1269,
+            13.2808,
+            13.3269
+          ]
+        },
+        {
+          "start": 13.8308,
+          "chars": [
+            13.8308,
+            13.9846,
+            14.0308,
+            14.1846,
+            14.2308,
+            14.3846,
+            14.5385,
+            14.6923,
+            14.8462,
+            14.8923,
+            15.0462,
+            15.0923,
+            15.2462,
+            15.4
+          ]
+        },
+        {
+          "start": 15.9038,
+          "chars": [
+            15.9038,
+            16.0577,
+            16.1038,
+            16.2577,
+            16.4115,
+            16.5654,
+            16.7192,
+            16.7654,
+            16.9192,
+            17.0731,
+            17.2269,
+            17.3808,
+            17.4269,
+            17.5808,
+            17.6269
+          ]
+        },
+        {
+          "start": 18.1308,
+          "chars": [
+            18.1308,
+            18.2846,
+            18.4385,
+            18.5923,
+            18.6385,
+            18.7923,
+            18.8385,
+            18.9923,
+            19.0385,
+            19.1923,
+            19.2385,
+            19.3923,
+            19.5462
+          ]
+        },
+        {
+          "start": 20.05,
+          "chars": [
+            20.05,
+            20.2038,
+            20.3577
+          ]
+        },
+        {
+          "start": 21.1115,
+          "chars": [
+            21.1115,
+            21.2654,
+            21.4192,
+            21.5731,
+            21.7269,
+            21.7731,
+            21.9269,
+            22.0808,
+            22.2346,
+            22.3885,
+            22.5423,
+            22.5885,
+            22.7423,
+            22.8962,
+            22.9423,
+            23.0962,
+            23.1423,
+            23.2962,
+            23.45,
+            23.6038,
+            23.7577,
+            23.9115,
+            23.9577,
+            24.1115,
+            24.2654,
+            24.4192,
+            24.5731,
+            24.7269,
+            24.8808
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 8.3,
+        "end": 9.4,
+        "hideAt": 16.3
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Åk 9",
+    "text2": "VT 2019 · fråga 18",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

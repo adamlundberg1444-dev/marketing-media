@@ -1,0 +1,61 @@
+{
+  "slug": "g25m1c2s3l4",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 1c",
+      "title": "Lösa ut ur formler"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Varför lösa ut en variabel?",
+      "sub": "Formeln \\(A = b \\cdot h\\) är gjord för att räkna ut arean när vi känner basen och höjden. Men ibland är det tvärtom: vi vet arean och basen och vill veta höjden.\n\nI stället för att gissa kan vi skriva om formeln så att \\(h\\) står ensamt på ena sidan. Det kallas att **lösa ut** \\(h\\). Då får vi en ny formel som räknar ut just den storhet vi söker."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Balansmetoden",
+      "sub": "En formel är en likhet, precis som en ekvation. Tänk på den som en våg i balans: båda leden väger lika mycket. Gör vi **samma sak med båda leden** förblir vågen i balans.\n\nFör att få en variabel ensam tar vi bort det som sitter fast vid den, ett räknesätt i taget. Vi använder då det **inversa räknesättet**: division tar bort multiplikation, och subtraktion tar bort addition."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Lös ut \\(h\\) ur arealformeln \\(A = b \\cdot h\\).",
+      "steps": [
+        "Vi vill ha \\(h\\) ensamt. I formeln är \\(h\\) multiplicerat med \\(b\\).",
+        "Vi delar båda led med \\(b\\): \\(\\frac{A}{b} = \\frac{b \\cdot h}{b}\\).",
+        "I högerledet förkortar \\(b\\) bort varandra, så kvar blir \\(\\frac{A}{b} = h\\)."
+      ],
+      "result": "\\(h = \\frac{A}{b}\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Lös ut \\(b\\) ur formeln \\(A = b \\cdot h\\).",
+      "options": [
+        "\\(b = A \\cdot h\\)",
+        "\\(b = \\frac{A}{h}\\)",
+        "\\(b = A - h\\)",
+        "\\(b = \\frac{h}{A}\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Lös ut \\(b\\) ur formeln \\(A = b \\cdot h\\).",
+      "options": [
+        "\\(b = A \\cdot h\\)",
+        "\\(b = \\frac{A}{h}\\)",
+        "\\(b = A - h\\)",
+        "\\(b = \\frac{h}{A}\\)"
+      ],
+      "correct": 1
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

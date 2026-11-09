@@ -1,0 +1,366 @@
+{
+  "slug": "np-ma4c-ht2015-b-b1a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_ht2015_b",
+    "questionId": "b1",
+    "partId": "b1a"
+  },
+  "concept": {
+    "label": "Speciella trianglar",
+    "tex": "\\begin{aligned}45\\text{-}45\\text{-}90 &: 1 : 1 : \\sqrt{2}\\\\ 30\\text{-}60\\text{-}90 &: 1 : \\sqrt{3} : 2\\end{aligned}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "För"
+      },
+      {
+        "text": "funktionen"
+      },
+      {
+        "tex": " f ",
+        "display": false
+      },
+      {
+        "text": "gäller"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": " f(x) = \\sin 2x ",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": " f\\left(\\frac{\\pi}{6}\\right) ",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "f(x) = sin 2x"
+    },
+    {
+      "text": "f(\\frac{\\pi}{6}) = sin(2 · \\frac{\\pi}{6})",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "2 · \\frac{\\pi}{6} = \\frac{2\\pi}{6} = \\frac{\\pi}{3}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "f(\\frac{\\pi}{6}) = sin\\frac{\\pi}{3}"
+    },
+    {
+      "text": "\\frac{\\pi}{3} = 60°",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "sin 60° = \\frac{1}{2}\\sqrt{3}",
+      "emphasis": true
+    },
+    {
+      "text": "\\frac{1}{2}\\sqrt{3}",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 32.627,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 7.15
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.3
+        },
+        {
+          "start": 2.3,
+          "end": 2.76
+        },
+        {
+          "start": 2.76,
+          "end": 3.07
+        },
+        {
+          "start": 3.07,
+          "end": 4.14
+        },
+        {
+          "start": 4.14,
+          "end": 4.66
+        },
+        {
+          "start": 4.66,
+          "end": 5.12
+        },
+        {
+          "start": 5.12,
+          "end": 5.83
+        },
+        {
+          "start": 5.83,
+          "end": 6.35
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 8.75,
+          "chars": [
+            8.75,
+            8.9038,
+            9.0577,
+            9.2115,
+            9.3654,
+            9.4115,
+            9.5654,
+            9.6115,
+            9.7654,
+            9.9192,
+            10.0731,
+            10.1192,
+            10.2731
+          ]
+        },
+        {
+          "start": 10.7769,
+          "chars": [
+            10.7769,
+            10.9308,
+            11.0846,
+            11.2385,
+            11.3923,
+            11.5462,
+            11.7,
+            11.7462,
+            11.9,
+            11.9462,
+            12.1,
+            12.2538,
+            12.4077,
+            12.5615,
+            12.7154,
+            12.7615,
+            12.9154,
+            12.9615,
+            13.1154,
+            13.2692,
+            13.4231
+          ]
+        },
+        {
+          "start": 14.0769,
+          "chars": [
+            14.0769,
+            14.2308,
+            14.2769,
+            14.4308,
+            14.4769,
+            14.6308,
+            14.7846,
+            14.9385,
+            14.9846,
+            15.1385,
+            15.1846,
+            15.3385,
+            15.4923,
+            15.6462,
+            15.8,
+            15.8462,
+            16,
+            16.0462,
+            16.2,
+            16.3538
+          ]
+        },
+        {
+          "start": 17.0077,
+          "chars": [
+            17.0077,
+            17.1615,
+            17.3154,
+            17.4692,
+            17.6231,
+            17.7769,
+            17.9308,
+            17.9769,
+            18.1308,
+            18.1769,
+            18.3308,
+            18.4846,
+            18.6385,
+            18.7923,
+            18.9462
+          ]
+        },
+        {
+          "start": 19.45,
+          "chars": [
+            19.45,
+            19.6038,
+            19.7577,
+            19.9115,
+            19.9577,
+            20.1115,
+            20.1577,
+            20.3115,
+            20.4654
+          ]
+        },
+        {
+          "start": 21.1192,
+          "chars": [
+            21.1192,
+            21.2731,
+            21.4269,
+            21.5808,
+            21.6269,
+            21.7808,
+            21.9346,
+            22.0885,
+            22.1346,
+            22.2885,
+            22.3346,
+            22.4885,
+            22.6423,
+            22.7962,
+            22.95,
+            23.1038
+          ]
+        },
+        {
+          "start": 23.6077,
+          "chars": [
+            23.6077,
+            23.7615,
+            23.9154,
+            24.0692,
+            24.2231,
+            24.3769
+          ]
+        },
+        {
+          "start": 25.1308,
+          "chars": [
+            25.1308,
+            25.2846,
+            25.4385,
+            25.5923,
+            25.7462,
+            25.7923,
+            25.9462,
+            26.1,
+            26.2538,
+            26.4077,
+            26.5615,
+            26.7154,
+            26.7615,
+            26.9154,
+            27.0692,
+            27.2231,
+            27.3769,
+            27.5308,
+            27.5769,
+            27.7308,
+            27.7769,
+            27.9308,
+            28.0846,
+            28.2385,
+            28.3923,
+            28.5462,
+            28.7,
+            28.8538,
+            29.0077,
+            29.1615,
+            29.3154,
+            29.4692,
+            29.6231
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 7.15,
+        "end": 8.25,
+        "hideAt": 15.15
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 2",
+    "text2": "HT 2015 · fråga 1",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

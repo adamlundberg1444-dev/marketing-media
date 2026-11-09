@@ -1,0 +1,255 @@
+{
+  "slug": "np-hs9-vt2018-b-b7b",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2018_b",
+    "questionId": "b7",
+    "partId": "b7b"
+  },
+  "concept": {
+    "label": "Bråk, decimal, procent",
+    "tex": "\\tfrac{1}{4} = 0{,}25 = 25\\,\\% \\qquad \\tfrac{1}{3} \\approx 0{,}33"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Beräkna"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "0{,}25 \\cdot 4{,}4",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "0,25 = \\frac{1}{4}"
+    },
+    {
+      "text": "En fjärdedel av 4,4"
+    },
+    {
+      "text": "4/4 = 1"
+    },
+    {
+      "text": "0,4/4 = 0,1"
+    },
+    {
+      "text": "1 + 0,1 = 1,1"
+    },
+    {
+      "text": "1,1",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 22.015,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 3
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 2.2
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.6,
+          "chars": [
+            4.6,
+            4.7538,
+            4.9077,
+            5.0615,
+            5.2154,
+            5.2615,
+            5.4154,
+            5.4615,
+            5.6154,
+            5.7692
+          ]
+        },
+        {
+          "start": 6.2731,
+          "chars": [
+            6.2731,
+            6.4269,
+            6.5808,
+            6.6269,
+            6.7808,
+            6.9346,
+            7.0885,
+            7.2423,
+            7.3962,
+            7.55,
+            7.7038,
+            7.8577,
+            8.0115,
+            8.0577,
+            8.2115,
+            8.3654,
+            8.4115,
+            8.5654,
+            8.7192
+          ]
+        },
+        {
+          "start": 9.2231,
+          "chars": [
+            9.2231,
+            9.3769,
+            9.5308,
+            9.6846,
+            9.7308,
+            9.8846,
+            9.9308
+          ]
+        },
+        {
+          "start": 10.4346,
+          "chars": [
+            10.4346,
+            10.5885,
+            10.7423,
+            10.8962,
+            11.05,
+            11.2038,
+            11.25,
+            11.4038,
+            11.45,
+            11.6038,
+            11.7577
+          ]
+        },
+        {
+          "start": 12.2615,
+          "chars": [
+            12.2615,
+            12.4154,
+            12.4615,
+            12.6154,
+            12.6615,
+            12.8154,
+            12.9692,
+            13.1231,
+            13.1692,
+            13.3231,
+            13.3692,
+            13.5231,
+            13.6769
+          ]
+        },
+        {
+          "start": 14.1808,
+          "chars": [
+            14.1808,
+            14.3346,
+            14.4885
+          ]
+        },
+        {
+          "start": 15.2423,
+          "chars": [
+            15.2423,
+            15.3962,
+            15.55,
+            15.7038,
+            15.8577,
+            16.0115,
+            16.0577,
+            16.2115,
+            16.3654,
+            16.5192,
+            16.6731,
+            16.7192,
+            16.8731,
+            17.0269,
+            17.1808,
+            17.3346,
+            17.4885,
+            17.5346,
+            17.6885,
+            17.8423,
+            17.8885,
+            18.0423,
+            18.0885,
+            18.2423,
+            18.3962,
+            18.55,
+            18.7038,
+            18.8577,
+            19.0115
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 3,
+        "end": 4.1,
+        "hideAt": 11
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2018 · fråga 7",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

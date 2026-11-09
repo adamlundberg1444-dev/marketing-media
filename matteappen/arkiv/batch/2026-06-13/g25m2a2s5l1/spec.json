@@ -1,0 +1,107 @@
+{
+  "slug": "g25m2a2s5l1",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2a",
+      "title": "Pythagoras sats",
+      "figure": {
+        "kind": "rightTriangle",
+        "a": 5,
+        "b": 12,
+        "labelB": "b",
+        "hideA": false,
+        "hideC": false
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Sidorna i en rätvinklig triangel",
+      "sub": "En **rätvinklig triangel** har en vinkel som är exakt \\(90^{\\circ}\\). Den längsta sidan, mittemot den räta vinkeln, kallas **hypotenusan**. De två sidor som bildar den räta vinkeln kallas **kateter**.\n\nVi ritar ofta den räta vinkeln med en liten fyrkant. Pythagoras sats handlar om hur hypotenusan hänger ihop med de två kateterna.",
+      "figure": {
+        "kind": "rightTriangle",
+        "a": 4,
+        "b": 3,
+        "hideA": false,
+        "hideB": false,
+        "hideC": false
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad säger Pythagoras sats?",
+      "sub": "**Pythagoras sats** säger att i en rätvinklig triangel är summan av kvadraterna på kateterna lika med kvadraten på hypotenusan:\n\n\\[a^2 + b^2 = c^2\\]\n\nHär är \\(a\\) och \\(b\\) kateterna och \\(c\\) är hypotenusan. Ritar vi en kvadrat på varje sida blir de två mindre kvadraternas area tillsammans lika stor som den stora kvadratens area.",
+      "figure": {
+        "kind": "pythagorasSquares",
+        "a": 3,
+        "b": 4,
+        "showAreaLabels": true
+      }
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "En rätvinklig triangel har kateterna \\(3\\) cm och \\(4\\) cm. Hur lång är hypotenusan \\(c\\)?",
+      "steps": [
+        "Sätt in i satsen: \\(c^2 = 3^2 + 4^2\\).",
+        "Räkna kvadraterna: \\(c^2 = 9 + 16 = 25\\).",
+        "Ta kvadratroten: \\(c = \\sqrt{25} = 5\\) cm."
+      ],
+      "result": "Hypotenusan är \\(5\\) cm.",
+      "figure": {
+        "kind": "rightTriangle",
+        "a": 4,
+        "b": 3,
+        "labelC": "x",
+        "hideA": false,
+        "hideB": false
+      }
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "En rätvinklig triangel har kateterna \\(6\\) cm och \\(8\\) cm. Hur lång är hypotenusan?",
+      "options": [
+        "\\(10\\) cm",
+        "\\(14\\) cm",
+        "\\(100\\) cm",
+        "\\(\\approx 5{,}29\\) cm"
+      ],
+      "figure": {
+        "kind": "rightTriangle",
+        "a": 8,
+        "b": 6,
+        "labelC": "x",
+        "hideA": false,
+        "hideB": false
+      }
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "En rätvinklig triangel har kateterna \\(6\\) cm och \\(8\\) cm. Hur lång är hypotenusan?",
+      "options": [
+        "\\(10\\) cm",
+        "\\(14\\) cm",
+        "\\(100\\) cm",
+        "\\(\\approx 5{,}29\\) cm"
+      ],
+      "correct": 0,
+      "figure": {
+        "kind": "rightTriangle",
+        "a": 8,
+        "b": 6,
+        "labelC": "x",
+        "hideA": false,
+        "hideB": false
+      }
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

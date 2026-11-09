@@ -1,0 +1,384 @@
+{
+  "slug": "np-ma4c-ht2015-b-b3a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_ht2015_b",
+    "questionId": "b3",
+    "partId": "b3a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Figuren"
+      },
+      {
+        "text": "visar"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "komplext"
+      },
+      {
+        "text": "talplan"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "talet"
+      },
+      {
+        "tex": " z ",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "markerat."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": " \\bar{z} ",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "\\(\\bar{z} =\\)",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma4c_ht2015_b_q3.imageset/ma4c_ht2015_b_q3.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "z = −3 + 4i",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "a = −3, b = 4",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "a − bi = −3 − 4i",
+      "emphasis": true
+    },
+    {
+      "text": "−3 − 4i",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 34.661,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 7.83
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 1.72
+        },
+        {
+          "start": 1.72,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.59
+        },
+        {
+          "start": 2.59,
+          "end": 3.1
+        },
+        {
+          "start": 3.1,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 3.82
+        },
+        {
+          "start": 3.82,
+          "end": 4.35
+        },
+        {
+          "start": 4.35,
+          "end": 4.61
+        },
+        {
+          "start": 4.61,
+          "end": 5.52
+        },
+        {
+          "start": 5.52,
+          "end": 5.98
+        },
+        {
+          "start": 5.98,
+          "end": 6.51
+        },
+        {
+          "start": 6.51,
+          "end": 7.03
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.83,
+          "chars": [
+            7.83,
+            7.9838,
+            8.03,
+            8.1838,
+            8.23,
+            8.3838,
+            8.5377,
+            8.5838,
+            8.7377,
+            8.7838,
+            8.9377
+          ]
+        },
+        {
+          "start": 9.5915,
+          "chars": [
+            9.5915,
+            9.7454,
+            9.7915,
+            9.9454,
+            9.9915,
+            10.1454,
+            10.2992,
+            10.4531,
+            10.4992,
+            10.6531,
+            10.6992,
+            10.8531,
+            10.8992
+          ]
+        },
+        {
+          "start": 11.5531,
+          "chars": [
+            11.5531,
+            11.7069,
+            11.7531,
+            11.9069,
+            11.9531,
+            12.1069,
+            12.2608,
+            12.3069,
+            12.4608,
+            12.5069,
+            12.6608,
+            12.8146,
+            12.8608,
+            13.0146,
+            13.0608,
+            13.2146
+          ]
+        },
+        {
+          "start": 13.7185,
+          "chars": [
+            13.7185,
+            13.8723,
+            14.0262,
+            14.0723,
+            14.2262,
+            14.2723,
+            14.4262
+          ]
+        },
+        {
+          "start": 15.18,
+          "chars": [
+            15.18,
+            15.3338,
+            15.4877,
+            15.6415,
+            15.7954,
+            15.9492,
+            15.9954,
+            16.1492,
+            16.3031,
+            16.4569,
+            16.5031,
+            16.6569,
+            16.8108,
+            16.9646,
+            17.1185,
+            17.2723,
+            17.4262,
+            17.58,
+            17.6262,
+            17.78,
+            17.9338,
+            18.0877,
+            18.1338,
+            18.2877,
+            18.4415,
+            18.5954,
+            18.7492,
+            18.9031,
+            18.9492,
+            19.1031,
+            19.2569
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 19.761,
+          "end": 20.511,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.23,
+                  0.172
+                ],
+                [
+                  0.23,
+                  0.509
+                ]
+              ],
+              "dashed": true,
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 20.861,
+          "end": 21.611,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.23,
+                  0.172
+                ],
+                [
+                  0.478,
+                  0.172
+                ]
+              ],
+              "dashed": true,
+              "color": "blue",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 22.461,
+          "end": 23.211,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.23,
+                  0.509
+                ],
+                [
+                  0.23,
+                  0.845
+                ]
+              ],
+              "dashed": true,
+              "color": "red",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 23.561,
+          "end": 24.311,
+          "targets": [
+            {
+              "point": [
+                0.23,
+                0.845
+              ],
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 25.161,
+          "end": 28.161
+        },
+        {
+          "start": 28.661,
+          "end": 31.661
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 2",
+    "text2": "HT 2015 · fråga 3",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

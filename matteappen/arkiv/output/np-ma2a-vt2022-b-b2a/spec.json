@@ -1,0 +1,407 @@
+{
+  "slug": "np-ma2a-vt2022-b-b2a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_vt2022_b",
+    "questionId": "b2",
+    "partId": "b2a"
+  },
+  "eyebrow": "Nationella MA2",
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Grafen"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "andragradsfunktionen"
+      },
+      {
+        "tex": "f",
+        "display": false
+      },
+      {
+        "text": ","
+      },
+      {
+        "text": "där"
+      },
+      {
+        "tex": "y = f(x)",
+        "display": false
+      },
+      {
+        "text": ","
+      },
+      {
+        "text": "går"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "text": "punkterna"
+      },
+      {
+        "tex": "D(-1, 0)",
+        "display": false
+      },
+      {
+        "text": ","
+      },
+      {
+        "tex": "E(0, 2)",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "F(4, 0)",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Funktionen"
+      },
+      {
+        "tex": "f",
+        "display": false
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "skrivas"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "formen"
+      },
+      {
+        "tex": "f(x) = ax^2 + bx + c",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Bestäm"
+      },
+      {
+        "text": "konstanten"
+      },
+      {
+        "tex": "c",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "svarPrefix": "c =",
+    "correctOption": null,
+    "image": "/Users/adamlundberg/Documents/MatteAppen/MatteAppen/Assets.xcassets/Matematik 2a/VT 2022/np_ma2a_vt2022_b_q2.imageset/Skärmavbild 2026-05-28 kl. 19.39.12.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "c = f(0), skärning med y-axeln"
+    },
+    {
+      "text": "E(0, 2) har x = 0"
+    },
+    {
+      "text": "Alltså är f(0) = 2"
+    },
+    {
+      "text": "c = 2"
+    },
+    {
+      "text": "2",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 35.023,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 17.05
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.62
+        },
+        {
+          "start": 1.62,
+          "end": 2.78
+        },
+        {
+          "start": 2.78,
+          "end": 3.19
+        },
+        {
+          "start": 3.19,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 3.72
+        },
+        {
+          "start": 3.72,
+          "end": 4.55
+        },
+        {
+          "start": 4.55,
+          "end": 4.77
+        },
+        {
+          "start": 4.77,
+          "end": 5.08
+        },
+        {
+          "start": 5.08,
+          "end": 5.49
+        },
+        {
+          "start": 5.49,
+          "end": 6.1
+        },
+        {
+          "start": 6.1,
+          "end": 6.93
+        },
+        {
+          "start": 6.93,
+          "end": 7.15
+        },
+        {
+          "start": 7.15,
+          "end": 7.92
+        },
+        {
+          "start": 7.92,
+          "end": 8.23
+        },
+        {
+          "start": 8.23,
+          "end": 9
+        },
+        {
+          "start": 9,
+          "end": 9.52
+        },
+        {
+          "start": 9.52,
+          "end": 10.18
+        },
+        {
+          "start": 10.18,
+          "end": 10.59
+        },
+        {
+          "start": 10.59,
+          "end": 10.9
+        },
+        {
+          "start": 10.9,
+          "end": 11.41
+        },
+        {
+          "start": 11.41,
+          "end": 11.67
+        },
+        {
+          "start": 11.67,
+          "end": 12.13
+        },
+        {
+          "start": 12.13,
+          "end": 13.68
+        },
+        {
+          "start": 13.68,
+          "end": 14.2
+        },
+        {
+          "start": 14.2,
+          "end": 14.66
+        },
+        {
+          "start": 14.66,
+          "end": 15.32
+        },
+        {
+          "start": 15.32,
+          "end": 15.73
+        },
+        {
+          "start": 15.73,
+          "end": 16.25
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 17.05,
+          "chars": [
+            17.05,
+            17.2038,
+            17.25,
+            17.4038,
+            17.45,
+            17.6038,
+            17.7577,
+            17.9115,
+            18.0654,
+            18.2192,
+            18.2654,
+            18.4192,
+            18.5731,
+            18.7269,
+            18.8808,
+            19.0346,
+            19.1885,
+            19.3423,
+            19.4962,
+            19.5423,
+            19.6962,
+            19.85,
+            20.0038,
+            20.05,
+            20.2038,
+            20.3577,
+            20.5115,
+            20.6654,
+            20.8192,
+            20.9731
+          ]
+        },
+        {
+          "start": 21.4769,
+          "chars": [
+            21.4769,
+            21.6308,
+            21.7846,
+            21.9385,
+            22.0923,
+            22.1385,
+            22.2923,
+            22.4462,
+            22.4923,
+            22.6462,
+            22.8,
+            22.9538,
+            23,
+            23.1538,
+            23.2,
+            23.3538,
+            23.4
+          ]
+        },
+        {
+          "start": 23.9038,
+          "chars": [
+            23.9038,
+            24.0577,
+            24.2115,
+            24.3654,
+            24.5192,
+            24.6731,
+            24.8269,
+            24.8731,
+            25.0269,
+            25.1808,
+            25.2269,
+            25.3808,
+            25.5346,
+            25.6885,
+            25.8423,
+            25.8885,
+            26.0423,
+            26.0885
+          ]
+        },
+        {
+          "start": 26.5923,
+          "chars": [
+            26.5923,
+            26.7462,
+            26.7923,
+            26.9462,
+            26.9923
+          ]
+        },
+        {
+          "start": 27.4962,
+          "chars": [
+            27.4962
+          ]
+        },
+        {
+          "start": 28.25,
+          "chars": [
+            28.25,
+            28.4038,
+            28.5577,
+            28.7115,
+            28.8654,
+            28.9115,
+            29.0654,
+            29.2192,
+            29.3731,
+            29.5269,
+            29.6808,
+            29.7269,
+            29.8808,
+            30.0346,
+            30.0808,
+            30.2346,
+            30.2808,
+            30.4346,
+            30.5885,
+            30.7423,
+            30.8962,
+            31.05,
+            31.0962,
+            31.25,
+            31.4038,
+            31.5577,
+            31.7115,
+            31.8654,
+            32.0192
+          ]
+        }
+      ],
+      "circle": null
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

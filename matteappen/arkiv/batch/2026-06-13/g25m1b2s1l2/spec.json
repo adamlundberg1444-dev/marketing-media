@@ -1,0 +1,61 @@
+{
+  "slug": "g25m1b2s1l2",
+  "theme": "matematik1",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 1b",
+      "title": "Exponenten noll och negativa exponenter"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad betyder noll och negativa exponenter?",
+      "sub": "Hittills har alla exponenter varit positiva heltal: \\(2^3\\) betyder tre faktorer \\(2\\). Men potenslagarna leder oss snart till exponenter som är \\(0\\) eller negativa.\n\nOm vi delar \\(2^3\\) med \\(2^3\\) ger divisionslagen \\(2^{3-3} = 2^0\\). Vad ska det betyda? Och vad är egentligen \\(2^{-2}\\)? Vi låter de regler vi redan kan visa vägen, så att allt hänger ihop."
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Exponenten noll",
+      "sub": "Vi använder divisionslagen \\(\\frac{a^x}{a^y} = a^{x-y}\\) på ett tal delat med sig själv. Å ena sidan är \\(\\frac{a^x}{a^x} = 1\\), å andra sidan är \\(\\frac{a^x}{a^x} = a^{x-x} = a^0\\).\n\nDe två uttrycken måste vara lika, så \\(a^0 = 1\\). Det gäller för alla baser utom \\(0\\). Vare sig basen är \\(5\\), \\(100\\) eller \\(x\\), blir resultatet \\(1\\) så länge exponenten är noll."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Beräkna \\(7^0\\) och \\((-3)^0\\).",
+      "steps": [
+        "Exponenten noll ger alltid \\(1\\), oavsett vad basen är, så länge den inte är noll.",
+        "Alltså är \\(7^0 = 1\\).",
+        "Och \\((-3)^0 = 1\\), eftersom basen \\(-3\\) inte är noll."
+      ],
+      "result": "\\(7^0 = 1\\) och \\((-3)^0 = 1\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Vad är \\(12^0\\)?",
+      "options": [
+        "\\(1\\)",
+        "\\(0\\)",
+        "\\(12\\)",
+        "\\(120\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Vad är \\(12^0\\)?",
+      "options": [
+        "\\(1\\)",
+        "\\(0\\)",
+        "\\(12\\)",
+        "\\(120\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

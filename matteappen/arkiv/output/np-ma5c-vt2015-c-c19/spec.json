@@ -1,0 +1,390 @@
+{
+  "slug": "np-ma5c-vt2015-c-c19",
+  "video": true,
+  "questionRef": {
+    "exam": "ma5c_vt2015_c",
+    "questionId": "c19",
+    "partId": "c19"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "För"
+      },
+      {
+        "text": "mängderna"
+      },
+      {
+        "tex": "A",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "B",
+        "display": false
+      },
+      {
+        "text": "gäller"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": "A \\cup B = (A \\cap B^C) \\cup (A^C \\cap B)",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Visa"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": "A \\cap B = \\emptyset",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "A snitt B-komp: i A, utanför B"
+    },
+    {
+      "text": "A-komp snitt B: i B, utanför A"
+    },
+    {
+      "text": "Inget av dem ligger i snittet"
+    },
+    {
+      "text": "Men unionen bär hela snittet"
+    },
+    {
+      "text": "Snittet är tomt",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 35.662,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 8.75
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.72
+        },
+        {
+          "start": 1.72,
+          "end": 2.13
+        },
+        {
+          "start": 2.13,
+          "end": 2.44
+        },
+        {
+          "start": 2.44,
+          "end": 2.85
+        },
+        {
+          "start": 2.85,
+          "end": 3.31
+        },
+        {
+          "start": 3.31,
+          "end": 3.62
+        },
+        {
+          "start": 3.62,
+          "end": 5.47
+        },
+        {
+          "start": 5.47,
+          "end": 5.99
+        },
+        {
+          "start": 5.99,
+          "end": 6.35
+        },
+        {
+          "start": 6.35,
+          "end": 6.66
+        },
+        {
+          "start": 6.66,
+          "end": 7.43
+        },
+        {
+          "start": 7.43,
+          "end": 7.95
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 8.75,
+          "chars": [
+            8.75,
+            8.9038,
+            8.95,
+            9.1038,
+            9.2577,
+            9.4115,
+            9.5654,
+            9.7192,
+            9.7654,
+            9.9192,
+            10.0731,
+            10.2269,
+            10.3808,
+            10.5346,
+            10.6885,
+            10.8423,
+            10.8885,
+            11.0423,
+            11.0885,
+            11.2423,
+            11.3962,
+            11.4423,
+            11.5962,
+            11.75,
+            11.9038,
+            12.0577,
+            12.2115,
+            12.3654,
+            12.5192,
+            12.5654
+          ]
+        },
+        {
+          "start": 13.0692,
+          "chars": [
+            13.0692,
+            13.2231,
+            13.3769,
+            13.5308,
+            13.6846,
+            13.8385,
+            13.9923,
+            14.0385,
+            14.1923,
+            14.3462,
+            14.5,
+            14.6538,
+            14.8077,
+            14.8538,
+            15.0077,
+            15.1615,
+            15.2077,
+            15.3615,
+            15.4077,
+            15.5615,
+            15.7154,
+            15.7615,
+            15.9154,
+            16.0692,
+            16.2231,
+            16.3769,
+            16.5308,
+            16.6846,
+            16.8385,
+            16.8846
+          ]
+        },
+        {
+          "start": 17.3885,
+          "chars": [
+            17.3885,
+            17.5423,
+            17.6962,
+            17.85,
+            18.0038,
+            18.1577,
+            18.2038,
+            18.3577,
+            18.5115,
+            18.5577,
+            18.7115,
+            18.8654,
+            19.0192,
+            19.0654,
+            19.2192,
+            19.3731,
+            19.5269,
+            19.6808,
+            19.8346,
+            19.9885,
+            20.0346,
+            20.1885,
+            20.2346,
+            20.3885,
+            20.5423,
+            20.6962,
+            20.85,
+            21.0038,
+            21.1577
+          ]
+        },
+        {
+          "start": 21.6615,
+          "chars": [
+            21.6615,
+            21.8154,
+            21.9692,
+            22.1231,
+            22.1692,
+            22.3231,
+            22.4769,
+            22.6308,
+            22.7846,
+            22.9385,
+            23.0923,
+            23.2462,
+            23.2923,
+            23.4462,
+            23.6,
+            23.7538,
+            23.8,
+            23.9538,
+            24.1077,
+            24.2615,
+            24.4154,
+            24.4615,
+            24.6154,
+            24.7692,
+            24.9231,
+            25.0769,
+            25.2308,
+            25.3846
+          ]
+        },
+        {
+          "start": 25.8885,
+          "chars": [
+            25.8885,
+            26.0423,
+            26.1962,
+            26.35,
+            26.5038,
+            26.6577,
+            26.8115,
+            26.9654,
+            27.0115,
+            27.1654,
+            27.3192,
+            27.3654,
+            27.5192,
+            27.6731,
+            27.8269
+          ]
+        },
+        {
+          "start": 28.5808,
+          "chars": [
+            28.5808,
+            28.7346,
+            28.8885,
+            29.0423,
+            29.1962,
+            29.35,
+            29.3962,
+            29.55,
+            29.7038,
+            29.8577,
+            29.9038,
+            30.0577,
+            30.2115,
+            30.3654,
+            30.5192,
+            30.6731,
+            30.8269,
+            30.9808,
+            31.0269,
+            31.1808,
+            31.3346,
+            31.4885,
+            31.5346,
+            31.6885,
+            31.8423,
+            31.9962,
+            32.15,
+            32.3038,
+            32.35,
+            32.5038,
+            32.6577
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte fördjupning",
+    "text2": "VT 2015 · fråga 19",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "g25m2c2s2l2",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2c",
+      "title": "Andragradsfunktionens graf",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -3,
+        "xMax": 3,
+        "yMin": -1,
+        "yMax": 9,
+        "functions": [
+          {
+            "type": "quadratic",
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "color": "primary",
+            "label": "y = x^2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad är en andragradsfunktion?",
+      "sub": "Förra lektionen repeterade vi funktioner och såg att linjära funktioner ger raka linjer. Nu tittar vi på en funktionstyp vars graf böjer av.\n\nEn **andragradsfunktion** har formen \\(f(x) = ax^2 + bx + c\\), där \\(a\\), \\(b\\) och \\(c\\) är tal och \\(a \\neq 0\\). Det avgörande är att variabeln förekommer i kvadrat, alltså \\(x^2\\). Grafen blir då aldrig en rät linje, utan en mjukt böjd kurva som kallas **parabel**.",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -3,
+        "xMax": 3,
+        "yMin": -1,
+        "yMax": 9,
+        "functions": [
+          {
+            "type": "quadratic",
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "color": "primary",
+            "label": "y = x^2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Den enklaste parabeln",
+      "sub": "Den enklaste andragradsfunktionen är \\(f(x) = x^2\\), alltså med \\(a = 1\\), \\(b = 0\\) och \\(c = 0\\).\n\nVi gör en värdetabell genom att sätta in några \\(x\\)-värden: \\(f(-2) = (-2)^2 = 4\\), \\(f(-1) = 1\\), \\(f(0) = 0\\), \\(f(1) = 1\\), \\(f(2) = 4\\). Märk att negativa \\(x\\) ger samma värde som motsvarande positiva, eftersom kvadraten alltid är positiv. Därför blir kurvan symmetrisk kring \\(y\\)-axeln.",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -3,
+        "xMax": 3,
+        "yMin": -1,
+        "yMax": 9,
+        "functions": [
+          {
+            "type": "quadratic",
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "color": "primary",
+            "label": "y = x^2"
+          }
+        ],
+        "points": [
+          {
+            "x": -2,
+            "y": 4,
+            "label": "(-2, 4)",
+            "color": "orange"
+          },
+          {
+            "x": 2,
+            "y": 4,
+            "label": "(2, 4)",
+            "color": "orange"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Gör en värdetabell för \\(f(x) = x^2 + 1\\) för \\(x = -2, -1, 0, 1, 2\\) och beskriv grafen.",
+      "steps": [
+        "Sätt in värdena ett i taget: \\(f(-2) = (-2)^2 + 1 = 4 + 1 = 5\\).",
+        "\\(f(-1) = 1 + 1 = 2\\) och \\(f(0) = 0 + 1 = 1\\).",
+        "\\(f(1) = 1 + 1 = 2\\) och \\(f(2) = 4 + 1 = 5\\).",
+        "Punkterna \\((-2,5), (-1,2), (0,1), (1,2), (2,5)\\) bildar en uppåtvänd parabel."
+      ],
+      "result": "Grafen är en parabel som vänder uppåt med sin lägsta punkt i \\((0, 1)\\).",
+      "figure": {
+        "kind": "coordinateSystem",
+        "xMin": -3,
+        "xMax": 3,
+        "yMin": -1,
+        "yMax": 9,
+        "functions": [
+          {
+            "type": "quadratic",
+            "a": 1,
+            "b": 0,
+            "c": 1,
+            "color": "primary",
+            "label": "y = x^2 + 1"
+          }
+        ],
+        "points": [
+          {
+            "x": 0,
+            "y": 1,
+            "label": "(0, 1)",
+            "color": "orange"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Låt \\(f(x) = x^2\\). Vad är \\(f(-3)\\)?",
+      "options": [
+        "\\(9\\)",
+        "\\(-9\\)",
+        "\\(6\\)",
+        "\\(-6\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Låt \\(f(x) = x^2\\). Vad är \\(f(-3)\\)?",
+      "options": [
+        "\\(9\\)",
+        "\\(-9\\)",
+        "\\(6\\)",
+        "\\(-6\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "slug": "np-ma3b-ht2016-b-b5",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_ht2016_b",
+    "questionId": "b5",
+    "partId": "b5"
+  },
+  "concept": {
+    "label": "Derivatan av en konstant",
+    "tex": "f(x)=C \\Rightarrow f'(x)=0"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "För"
+      },
+      {
+        "text": "funktionerna"
+      },
+      {
+        "tex": "f",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "g",
+        "display": false
+      },
+      {
+        "text": "gäller"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "•"
+      },
+      {
+        "tex": "f",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "g",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "två"
+      },
+      {
+        "text": "olika"
+      },
+      {
+        "text": "polynomfunktioner"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "tredje"
+      },
+      {
+        "text": "graden,"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "•"
+      },
+      {
+        "tex": "f'(x) = g'(x)",
+        "display": false
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "alla"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Ge"
+      },
+      {
+        "text": "exempel"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": "f(x)",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "g(x)",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "f(x) = x^3 + 2"
+    },
+    {
+      "text": "g(x) = x^3 + 4",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "f'(x) = 3x^2 + 0"
+    },
+    {
+      "text": "g'(x) = 3x^2 + 0",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "f'(x) = g'(x) = 3x^2",
+      "emphasis": true
+    },
+    {
+      "text": "f(x) = x^3 + 2, g(x) = x^3 + 4",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 42.299,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 15.13
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.87
+        },
+        {
+          "start": 1.87,
+          "end": 2.28
+        },
+        {
+          "start": 2.28,
+          "end": 2.59
+        },
+        {
+          "start": 2.59,
+          "end": 3
+        },
+        {
+          "start": 3,
+          "end": 3.46
+        },
+        {
+          "start": 3.46,
+          "end": 3.77
+        },
+        {
+          "start": 3.77,
+          "end": 3.99
+        },
+        {
+          "start": 3.99,
+          "end": 4.4
+        },
+        {
+          "start": 4.4,
+          "end": 4.71
+        },
+        {
+          "start": 4.71,
+          "end": 5.12
+        },
+        {
+          "start": 5.12,
+          "end": 5.38
+        },
+        {
+          "start": 5.38,
+          "end": 5.69
+        },
+        {
+          "start": 5.69,
+          "end": 6.1
+        },
+        {
+          "start": 6.1,
+          "end": 7.11
+        },
+        {
+          "start": 7.11,
+          "end": 7.37
+        },
+        {
+          "start": 7.37,
+          "end": 7.83
+        },
+        {
+          "start": 7.83,
+          "end": 8.34
+        },
+        {
+          "start": 8.34,
+          "end": 8.56
+        },
+        {
+          "start": 8.56,
+          "end": 9.69
+        },
+        {
+          "start": 9.69,
+          "end": 10
+        },
+        {
+          "start": 10,
+          "end": 10.36
+        },
+        {
+          "start": 10.36,
+          "end": 10.77
+        },
+        {
+          "start": 10.77,
+          "end": 11.29
+        },
+        {
+          "start": 11.29,
+          "end": 11.55
+        },
+        {
+          "start": 11.55,
+          "end": 12.06
+        },
+        {
+          "start": 12.06,
+          "end": 12.32
+        },
+        {
+          "start": 12.32,
+          "end": 12.91
+        },
+        {
+          "start": 12.91,
+          "end": 13.22
+        },
+        {
+          "start": 13.22,
+          "end": 13.81
+        },
+        {
+          "start": 13.81,
+          "end": 14.33
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.73,
+          "chars": [
+            16.73,
+            16.8838,
+            17.0377,
+            17.1915,
+            17.3454,
+            17.3915,
+            17.5454,
+            17.5915,
+            17.7454,
+            17.8992,
+            17.9454,
+            18.0992,
+            18.1454
+          ]
+        },
+        {
+          "start": 18.6492,
+          "chars": [
+            18.6492,
+            18.8031,
+            18.9569,
+            19.1108,
+            19.2646,
+            19.3108,
+            19.4646,
+            19.5108,
+            19.6646,
+            19.8185,
+            19.8646,
+            20.0185,
+            20.0646
+          ]
+        },
+        {
+          "start": 20.7185,
+          "chars": [
+            20.7185,
+            20.8723,
+            21.0262,
+            21.18,
+            21.3338,
+            21.4877,
+            21.5338,
+            21.6877,
+            21.7338,
+            21.8877,
+            22.0415,
+            22.1954,
+            22.2415,
+            22.3954,
+            22.4415
+          ]
+        },
+        {
+          "start": 22.9454,
+          "chars": [
+            22.9454,
+            23.0992,
+            23.2531,
+            23.4069,
+            23.5608,
+            23.7146,
+            23.7608,
+            23.9146,
+            23.9608,
+            24.1146,
+            24.2685,
+            24.4223,
+            24.4685,
+            24.6223,
+            24.6685
+          ]
+        },
+        {
+          "start": 25.3223,
+          "chars": [
+            25.3223,
+            25.4762,
+            25.63,
+            25.7838,
+            25.9377,
+            26.0915,
+            26.1377,
+            26.2915,
+            26.3377,
+            26.4915,
+            26.6454,
+            26.7992,
+            26.9531,
+            27.1069,
+            27.1531,
+            27.3069,
+            27.3531,
+            27.5069,
+            27.6608
+          ]
+        },
+        {
+          "start": 28.1646,
+          "chars": [
+            28.1646,
+            28.3185,
+            28.4723,
+            28.6262,
+            28.78,
+            28.8262,
+            28.98,
+            29.0262,
+            29.18,
+            29.3338,
+            29.38,
+            29.5338,
+            29.58,
+            29.7338,
+            29.8877,
+            29.9338,
+            30.0877,
+            30.2415,
+            30.3954,
+            30.5492,
+            30.5954,
+            30.7492,
+            30.7954,
+            30.9492,
+            31.1031,
+            31.1492,
+            31.3031,
+            31.3492
+          ]
+        },
+        {
+          "start": 32.1031,
+          "chars": [
+            32.1031,
+            32.2569,
+            32.4108,
+            32.5646,
+            32.7185,
+            32.7646,
+            32.9185,
+            33.0723,
+            33.2262,
+            33.38,
+            33.5338,
+            33.6877,
+            33.7338,
+            33.8877,
+            34.0415,
+            34.1954,
+            34.3492,
+            34.5031,
+            34.5492,
+            34.7031,
+            34.7492,
+            34.9031,
+            35.0569,
+            35.2108,
+            35.3646,
+            35.5185,
+            35.6723,
+            35.8262,
+            35.98,
+            36.1338,
+            36.2877,
+            36.4415,
+            36.5954
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 15.13,
+        "end": 16.23,
+        "hideAt": 23.13
+      },
+      "strikes": [
+        {
+          "start": 37.099,
+          "end": 37.849,
+          "targets": [
+            {
+              "li": 2,
+              "from": 12,
+              "to": 14
+            }
+          ]
+        },
+        {
+          "start": 38.199,
+          "end": 38.949,
+          "targets": [
+            {
+              "li": 3,
+              "from": 12,
+              "to": 14
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte fortsättning 1b",
+    "text2": "HT 2016 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

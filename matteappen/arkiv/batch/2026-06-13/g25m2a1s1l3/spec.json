@@ -1,0 +1,62 @@
+{
+  "slug": "g25m2a1s1l3",
+  "theme": "matematik2",
+  "slides": [
+    {
+      "kind": "hook",
+      "kicker": "Matematik\nnivå 2a",
+      "title": "Algebraiska uttryck"
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Vad är ett algebraiskt uttryck?",
+      "sub": "I algebra låter vi bokstäver stå för tal som kan variera eller som vi ännu inte känner. En sådan bokstav kallas en **variabel**, och ett uttryck som \\(3x + 5\\) beskriver då ett räknesätt som gäller för vilket värde \\(x\\) än har.\n\nFördelen är att vi kan beskriva ett helt mönster med en enda formel istället för att räkna om från början varje gång. För att kunna arbeta med uttryck behöver vi först kunna deras delar och hur de förenklas.",
+      "subSize": 38
+    },
+    {
+      "kind": "big",
+      "eyebrow": "Teori",
+      "title": "Termer, koefficient och konstantterm",
+      "sub": "Ett uttryck byggs upp av **termer** som skiljs åt av plus- och minustecken. I \\(4x + 3y - 8\\) finns tre termer: \\(4x\\), \\(3y\\) och \\(-8\\).\n\nTalet framför en variabel kallas **koefficient**. Koefficienten i \\(4x\\) är \\(4\\). En term som bara är ett tal, som \\(-8\\), kallas **konstantterm**. Tecknet hör alltid ihop med termen som står efter det."
+    },
+    {
+      "kind": "math",
+      "eyebrow": "Exempel",
+      "title": "Ange termerna och koefficienterna i \\(7 - 4x + 2y\\).",
+      "steps": [
+        "Termerna skiljs av plus och minus: \\(7\\), \\(-4x\\) och \\(2y\\).",
+        "Koefficienten framför \\(x\\) är \\(-4\\), eftersom minustecknet hör till termen.",
+        "Koefficienten framför \\(y\\) är \\(2\\), och \\(7\\) är konstanttermen."
+      ],
+      "result": "Tre termer: \\(7\\), \\(-4x\\) och \\(2y\\). Koefficienterna är \\(-4\\) och \\(2\\)."
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Din tur",
+      "title": "Vad är koefficienten framför \\(x\\) i uttrycket \\(9 - 5x\\)?",
+      "options": [
+        "\\(-5\\)",
+        "\\(5\\)",
+        "\\(9\\)",
+        "\\(-9\\)"
+      ]
+    },
+    {
+      "kind": "quiz",
+      "eyebrow": "Facit",
+      "title": "Vad är koefficienten framför \\(x\\) i uttrycket \\(9 - 5x\\)?",
+      "options": [
+        "\\(-5\\)",
+        "\\(5\\)",
+        "\\(9\\)",
+        "\\(-9\\)"
+      ],
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "Hela gymnasiematten\ni fickan"
+    }
+  ]
+}

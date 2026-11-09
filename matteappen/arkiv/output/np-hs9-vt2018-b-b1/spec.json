@@ -1,0 +1,296 @@
+{
+  "slug": "np-hs9-vt2018-b-b1",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2018_b",
+    "questionId": "b1",
+    "partId": "b1"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Skriv"
+      },
+      {
+        "text": "två"
+      },
+      {
+        "text": "miljoner"
+      },
+      {
+        "text": "femhundrafyratusen"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "siffror."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "två miljoner = 2 000 000"
+    },
+    {
+      "text": "femhundrafyra = 504"
+    },
+    {
+      "text": "nollan på tiotalsplatsen"
+    },
+    {
+      "text": "504 · 1000 = 504 000"
+    },
+    {
+      "text": "2 504 000",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 26.929,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.11
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.21
+        },
+        {
+          "start": 1.21,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 2.08
+        },
+        {
+          "start": 2.08,
+          "end": 3.14
+        },
+        {
+          "start": 3.14,
+          "end": 3.45
+        },
+        {
+          "start": 3.45,
+          "end": 4.31
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.11,
+          "chars": [
+            5.11,
+            5.2638,
+            5.4177,
+            5.5715,
+            5.6177,
+            5.7715,
+            5.9254,
+            6.0792,
+            6.2331,
+            6.3869,
+            6.5408,
+            6.6946,
+            6.8485,
+            6.8946,
+            7.0485,
+            7.0946,
+            7.2485,
+            7.2946,
+            7.4485,
+            7.6023,
+            7.7562,
+            7.8023,
+            7.9562,
+            8.11
+          ]
+        },
+        {
+          "start": 8.6138,
+          "chars": [
+            8.6138,
+            8.7677,
+            8.9215,
+            9.0754,
+            9.2292,
+            9.3831,
+            9.5369,
+            9.6908,
+            9.8446,
+            9.9985,
+            10.1523,
+            10.3062,
+            10.46,
+            10.6138,
+            10.66,
+            10.8138,
+            10.86,
+            11.0138,
+            11.1677
+          ]
+        },
+        {
+          "start": 11.6715,
+          "chars": [
+            11.6715,
+            11.8254,
+            11.9792,
+            12.1331,
+            12.2869,
+            12.4408,
+            12.5946,
+            12.6408,
+            12.7946,
+            12.9485,
+            12.9946,
+            13.1485,
+            13.3023,
+            13.4562,
+            13.61,
+            13.7638,
+            13.9177,
+            14.0715,
+            14.2254,
+            14.3792,
+            14.5331,
+            14.6869,
+            14.8408,
+            14.9946
+          ]
+        },
+        {
+          "start": 15.4985,
+          "chars": [
+            15.4985,
+            15.6523,
+            15.8062,
+            15.96,
+            16.0062,
+            16.16,
+            16.2062,
+            16.36,
+            16.5138,
+            16.6677,
+            16.8215,
+            16.8677,
+            17.0215,
+            17.0677,
+            17.2215,
+            17.3754,
+            17.5292,
+            17.5754,
+            17.7292,
+            17.8831
+          ]
+        },
+        {
+          "start": 18.3869,
+          "chars": [
+            18.3869,
+            18.5408,
+            18.5869,
+            18.7408,
+            18.8946,
+            19.0485,
+            19.0946,
+            19.2485,
+            19.4023
+          ]
+        },
+        {
+          "start": 20.1562,
+          "chars": [
+            20.1562,
+            20.31,
+            20.4638,
+            20.6177,
+            20.7715,
+            20.8177,
+            20.9715,
+            21.1254,
+            21.2792,
+            21.4331,
+            21.5869,
+            21.6331,
+            21.7869,
+            21.9408,
+            21.9869,
+            22.1408,
+            22.1869,
+            22.3408,
+            22.4946,
+            22.6485,
+            22.8023,
+            22.9562,
+            23.0023,
+            23.1562,
+            23.31,
+            23.4638,
+            23.6177,
+            23.7715,
+            23.9254
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2018 · fråga 1",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

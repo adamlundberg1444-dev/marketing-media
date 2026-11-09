@@ -1,0 +1,326 @@
+{
+  "slug": "np-ma2a-ht2014-b-b5c",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_ht2014_b",
+    "questionId": "b5",
+    "partId": "b5c"
+  },
+  "concept": {
+    "label": "Potenslagarna",
+    "tex": "\\begin{aligned}a^m \\cdot a^n &= a^{m+n}\\\\ \\tfrac{a^m}{a^n} &= a^{m-n}\\\\ (a^m)^n &= a^{mn}\\end{aligned}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "3(3^x + 3^x + 3^x) = 3^{35}",
+        "display": true
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "3^x + 3^x + 3^x är inte 3^{3x}"
+    },
+    {
+      "text": "Tre lika termer: 3 · 3^x"
+    },
+    {
+      "text": "3 · 3 · 3^x = 3^2 · 3^x = 3^{2 + x}"
+    },
+    {
+      "text": "3^{2 + x} = 3^{35}"
+    },
+    {
+      "text": "2 + x = 35"
+    },
+    {
+      "text": "x = 35 − 2 = 33"
+    },
+    {
+      "text": "x = 33",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 29.843,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.77
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 2.12
+        },
+        {
+          "start": 2.12,
+          "end": 3.97
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.37,
+          "chars": [
+            6.37,
+            6.5238,
+            6.6777,
+            6.7238,
+            6.8777,
+            6.9238,
+            7.0777,
+            7.2315,
+            7.2777,
+            7.4315,
+            7.4777,
+            7.6315,
+            7.7854,
+            7.8315,
+            7.9854,
+            8.1392,
+            8.1854,
+            8.3392,
+            8.4931,
+            8.6469,
+            8.8008,
+            8.8469,
+            9.0008,
+            9.1546
+          ]
+        },
+        {
+          "start": 9.6585,
+          "chars": [
+            9.6585,
+            9.8123,
+            9.9662,
+            10.12,
+            10.1662,
+            10.32,
+            10.4738,
+            10.6277,
+            10.7815,
+            10.8277,
+            10.9815,
+            11.1354,
+            11.2892,
+            11.4431,
+            11.5969,
+            11.7508,
+            11.9046,
+            11.9508,
+            12.1046,
+            12.1508,
+            12.3046,
+            12.3508,
+            12.5046
+          ]
+        },
+        {
+          "start": 13.0085,
+          "chars": [
+            13.0085,
+            13.1623,
+            13.2085,
+            13.3623,
+            13.4085,
+            13.5623,
+            13.6085,
+            13.7623,
+            13.8085,
+            13.9623,
+            14.1162,
+            14.1623,
+            14.3162,
+            14.3623,
+            14.5162,
+            14.67,
+            14.7162,
+            14.87,
+            14.9162,
+            15.07,
+            15.2238,
+            15.27,
+            15.4238,
+            15.47,
+            15.6238,
+            15.7777,
+            15.8238,
+            15.9777,
+            16.0238
+          ]
+        },
+        {
+          "start": 16.5277,
+          "chars": [
+            16.5277,
+            16.6815,
+            16.8354,
+            16.8815,
+            17.0354,
+            17.0815,
+            17.2354,
+            17.2815,
+            17.4354,
+            17.4815,
+            17.6354,
+            17.7892
+          ]
+        },
+        {
+          "start": 18.2931,
+          "chars": [
+            18.2931,
+            18.4469,
+            18.4931,
+            18.6469,
+            18.6931,
+            18.8469,
+            18.8931,
+            19.0469,
+            19.0931,
+            19.2469
+          ]
+        },
+        {
+          "start": 19.7508,
+          "chars": [
+            19.7508,
+            19.9046,
+            19.9508,
+            20.1046,
+            20.1508,
+            20.3046,
+            20.4585,
+            20.5046,
+            20.6585,
+            20.7046,
+            20.8585,
+            20.9046,
+            21.0585,
+            21.1046,
+            21.2585
+          ]
+        },
+        {
+          "start": 21.7623,
+          "chars": [
+            21.7623,
+            21.9162,
+            21.9623,
+            22.1162,
+            22.1623,
+            22.3162
+          ]
+        },
+        {
+          "start": 23.07,
+          "chars": [
+            23.07,
+            23.2238,
+            23.3777,
+            23.5315,
+            23.6854,
+            23.8392,
+            23.8854,
+            24.0392,
+            24.1931,
+            24.3469,
+            24.5008,
+            24.5469,
+            24.7008,
+            24.8546,
+            25.0085,
+            25.1623,
+            25.3162,
+            25.3623,
+            25.5162,
+            25.67,
+            25.7162,
+            25.87,
+            25.9162,
+            26.07,
+            26.2238,
+            26.3777,
+            26.5315,
+            26.6854,
+            26.8392
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 4.77,
+        "end": 5.87,
+        "hideAt": 12.77
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte nivå 2a",
+    "text2": "HT 2014 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

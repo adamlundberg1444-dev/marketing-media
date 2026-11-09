@@ -1,0 +1,496 @@
+{
+  "slug": "np-ma3c-vt2022-b-b5a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3c_vt2022_b",
+    "questionId": "b5",
+    "partId": "b5a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Figuren"
+      },
+      {
+        "text": "visar"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "enhetscirkel"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "punkt"
+      },
+      {
+        "tex": "(0{,}64;\\ 0{,}77)",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "vinkel"
+      },
+      {
+        "tex": "50°",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "markerade."
+      },
+      {
+        "text": "Använd"
+      },
+      {
+        "text": "figuren"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "bestäm"
+      },
+      {
+        "text": "värdet"
+      },
+      {
+        "text": "för:"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "\\sin 50°",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/Matematik 3c/VT 2022/np_ma3c_vt2022_b_q5.imageset/Skärmavbild 2026-05-27 kl. 18.42.22.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "P = (cos v; sin v)",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "(cos 50°; sin 50°) = (0,64; 0,77)",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "cos 50° = 0,64",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "sin 50° = 0,77",
+      "emphasis": true
+    },
+    {
+      "text": "0,77",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 49.542,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 11.88
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 1.72
+        },
+        {
+          "start": 1.72,
+          "end": 1.98
+        },
+        {
+          "start": 1.98,
+          "end": 2.74
+        },
+        {
+          "start": 2.74,
+          "end": 3.05
+        },
+        {
+          "start": 3.05,
+          "end": 3.31
+        },
+        {
+          "start": 3.31,
+          "end": 3.72
+        },
+        {
+          "start": 3.72,
+          "end": 4.85
+        },
+        {
+          "start": 4.85,
+          "end": 5.16
+        },
+        {
+          "start": 5.16,
+          "end": 5.42
+        },
+        {
+          "start": 5.42,
+          "end": 5.88
+        },
+        {
+          "start": 5.88,
+          "end": 6.41
+        },
+        {
+          "start": 6.41,
+          "end": 6.67
+        },
+        {
+          "start": 6.67,
+          "end": 7.63
+        },
+        {
+          "start": 7.63,
+          "end": 8.09
+        },
+        {
+          "start": 8.09,
+          "end": 8.6
+        },
+        {
+          "start": 8.6,
+          "end": 8.91
+        },
+        {
+          "start": 8.91,
+          "end": 9.37
+        },
+        {
+          "start": 9.37,
+          "end": 9.83
+        },
+        {
+          "start": 9.83,
+          "end": 10.49
+        },
+        {
+          "start": 10.49,
+          "end": 11.08
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.88,
+          "chars": [
+            11.88,
+            12.0338,
+            12.08,
+            12.2338,
+            12.28,
+            12.4338,
+            12.5877,
+            12.7415,
+            12.8954,
+            12.9415,
+            13.0954,
+            13.2492,
+            13.2954,
+            13.4492,
+            13.6031,
+            13.7569,
+            13.8031,
+            13.9569
+          ]
+        },
+        {
+          "start": 14.6108,
+          "chars": [
+            14.6108,
+            14.7646,
+            14.9185,
+            15.0723,
+            15.2262,
+            15.2723,
+            15.4262,
+            15.58,
+            15.7338,
+            15.8877,
+            15.9338,
+            16.0877,
+            16.2415,
+            16.3954,
+            16.4415,
+            16.5954,
+            16.7492,
+            16.9031,
+            17.0569,
+            17.1031,
+            17.2569,
+            17.3031,
+            17.4569,
+            17.6108,
+            17.7646,
+            17.9185,
+            18.0723,
+            18.2262,
+            18.2723,
+            18.4262,
+            18.58,
+            18.7338,
+            18.8877
+          ]
+        },
+        {
+          "start": 19.5415,
+          "chars": [
+            19.5415,
+            19.6954,
+            19.8492,
+            20.0031,
+            20.0492,
+            20.2031,
+            20.3569,
+            20.5108,
+            20.5569,
+            20.7108,
+            20.7569,
+            20.9108,
+            21.0646,
+            21.2185
+          ]
+        },
+        {
+          "start": 21.8723,
+          "chars": [
+            21.8723,
+            22.0262,
+            22.18,
+            22.3338,
+            22.38,
+            22.5338,
+            22.6877,
+            22.8415,
+            22.8877,
+            23.0415,
+            23.0877,
+            23.2415,
+            23.3954,
+            23.5492
+          ]
+        },
+        {
+          "start": 24.0531,
+          "chars": [
+            24.0531,
+            24.2069,
+            24.3608,
+            24.5146
+          ]
+        },
+        {
+          "start": 25.2685,
+          "chars": [
+            25.2685,
+            25.4223,
+            25.5762,
+            25.73,
+            25.8838,
+            26.0377,
+            26.0838,
+            26.2377,
+            26.3915,
+            26.5454,
+            26.6992,
+            26.7454,
+            26.8992,
+            27.0531,
+            27.2069,
+            27.3608,
+            27.5146,
+            27.5608,
+            27.7146,
+            27.8685,
+            27.9146,
+            28.0685,
+            28.1146,
+            28.2685,
+            28.4223,
+            28.5762,
+            28.73,
+            28.8838,
+            29.0377
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 29.542,
+          "end": 30.292,
+          "targets": [
+            {
+              "circle": [
+                0.59,
+                0.325
+              ],
+              "r": 0.05,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 31.142,
+          "end": 31.892,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.59,
+                  0.325
+                ],
+                [
+                  0.59,
+                  0.544
+                ]
+              ],
+              "dashed": true,
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 32.242,
+          "end": 32.992,
+          "targets": [
+            {
+              "point": [
+                0.59,
+                0.544
+              ],
+              "color": "blue",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 33.842,
+          "end": 34.592,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.59,
+                  0.325
+                ],
+                [
+                  0.423,
+                  0.325
+                ]
+              ],
+              "dashed": true,
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 34.942,
+          "end": 35.692,
+          "targets": [
+            {
+              "point": [
+                0.423,
+                0.325
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 36.542,
+          "end": 39.542
+        },
+        {
+          "start": 40.042,
+          "end": 43.042
+        },
+        {
+          "start": 43.542,
+          "end": 46.542
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 1c",
+    "text2": "VT 2022 · fråga 5",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

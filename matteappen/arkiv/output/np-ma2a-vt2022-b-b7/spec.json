@@ -1,0 +1,460 @@
+{
+  "slug": "np-ma2a-vt2022-b-b7",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_vt2022_b",
+    "questionId": "b7",
+    "partId": "b7"
+  },
+  "eyebrow": "Nationella MA2",
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bosse"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "bygga"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "rektangulär"
+      },
+      {
+        "text": "hage"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "tex": "120",
+        "display": false
+      },
+      {
+        "text": "meter"
+      },
+      {
+        "text": "staket"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "sina"
+      },
+      {
+        "text": "två"
+      },
+      {
+        "text": "hästar."
+      },
+      {
+        "text": "Längden"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "hagens"
+      },
+      {
+        "text": "ena"
+      },
+      {
+        "text": "sida"
+      },
+      {
+        "text": "betecknas"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Se"
+      },
+      {
+        "text": "figur."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Teckna"
+      },
+      {
+        "text": "hagens"
+      },
+      {
+        "text": "area"
+      },
+      {
+        "tex": "A",
+        "display": false
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "funktion"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "options": null,
+    "svarPrefix": "A =",
+    "correctOption": null,
+    "image": "/Users/adamlundberg/Documents/MatteAppen/MatteAppen/Assets.xcassets/Matematik 2a/VT 2022/np_ma2a_vt2022_b_q7.imageset/Skärmavbild 2026-05-28 kl. 19.39.39.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "Omkretsen: 2x + 2y = 120",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "Andra sidan: y = 60 − x",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "A = x · y"
+    },
+    {
+      "text": "A = x(60 − x)",
+      "emphasis": true
+    },
+    {
+      "text": "x(60 − x)",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 35.875,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 16.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.21
+        },
+        {
+          "start": 1.21,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.93
+        },
+        {
+          "start": 1.93,
+          "end": 2.19
+        },
+        {
+          "start": 2.19,
+          "end": 2.9
+        },
+        {
+          "start": 2.9,
+          "end": 3.26
+        },
+        {
+          "start": 3.26,
+          "end": 3.52
+        },
+        {
+          "start": 3.52,
+          "end": 4.05
+        },
+        {
+          "start": 4.05,
+          "end": 4.46
+        },
+        {
+          "start": 4.46,
+          "end": 4.92
+        },
+        {
+          "start": 4.92,
+          "end": 5.28
+        },
+        {
+          "start": 5.28,
+          "end": 5.64
+        },
+        {
+          "start": 5.64,
+          "end": 5.95
+        },
+        {
+          "start": 5.95,
+          "end": 6.76
+        },
+        {
+          "start": 6.76,
+          "end": 7.27
+        },
+        {
+          "start": 7.27,
+          "end": 7.53
+        },
+        {
+          "start": 7.53,
+          "end": 7.99
+        },
+        {
+          "start": 7.99,
+          "end": 8.3
+        },
+        {
+          "start": 8.3,
+          "end": 8.66
+        },
+        {
+          "start": 8.66,
+          "end": 9.27
+        },
+        {
+          "start": 9.27,
+          "end": 9.58
+        },
+        {
+          "start": 9.58,
+          "end": 9.99
+        },
+        {
+          "start": 9.99,
+          "end": 10.51
+        },
+        {
+          "start": 10.51,
+          "end": 10.77
+        },
+        {
+          "start": 10.77,
+          "end": 11.53
+        },
+        {
+          "start": 11.53,
+          "end": 11.99
+        },
+        {
+          "start": 11.99,
+          "end": 12.45
+        },
+        {
+          "start": 12.45,
+          "end": 12.81
+        },
+        {
+          "start": 12.81,
+          "end": 13.22
+        },
+        {
+          "start": 13.22,
+          "end": 13.53
+        },
+        {
+          "start": 13.53,
+          "end": 13.79
+        },
+        {
+          "start": 13.79,
+          "end": 14.35
+        },
+        {
+          "start": 14.35,
+          "end": 14.61
+        },
+        {
+          "start": 14.61,
+          "end": 15.02
+        },
+        {
+          "start": 15.02,
+          "end": 15.54
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.34,
+          "chars": [
+            16.34,
+            16.4938,
+            16.6477,
+            16.8015,
+            16.9554,
+            17.1092,
+            17.2631,
+            17.4169,
+            17.5708,
+            17.7246,
+            17.8785,
+            17.9246,
+            18.0785,
+            18.2323,
+            18.2785,
+            18.4323,
+            18.4785,
+            18.6323,
+            18.7862,
+            18.8323,
+            18.9862,
+            19.0323,
+            19.1862,
+            19.34
+          ]
+        },
+        {
+          "start": 19.9938,
+          "chars": [
+            19.9938,
+            20.1477,
+            20.3015,
+            20.4554,
+            20.6092,
+            20.7631,
+            20.8092,
+            20.9631,
+            21.1169,
+            21.2708,
+            21.4246,
+            21.5785,
+            21.7323,
+            21.7785,
+            21.9323,
+            21.9785,
+            22.1323,
+            22.1785,
+            22.3323,
+            22.4862,
+            22.5323,
+            22.6862,
+            22.7323
+          ]
+        },
+        {
+          "start": 23.3862,
+          "chars": [
+            23.3862,
+            23.54,
+            23.5862,
+            23.74,
+            23.7862,
+            23.94,
+            23.9862,
+            24.14,
+            24.1862
+          ]
+        },
+        {
+          "start": 24.69,
+          "chars": [
+            24.69,
+            24.8438,
+            24.89,
+            25.0438,
+            25.09,
+            25.2438,
+            25.3977,
+            25.5515,
+            25.7054,
+            25.7515,
+            25.9054,
+            25.9515,
+            26.1054
+          ]
+        },
+        {
+          "start": 26.6092,
+          "chars": [
+            26.6092,
+            26.7631,
+            26.9169,
+            27.0708,
+            27.2246,
+            27.2708,
+            27.4246,
+            27.4708,
+            27.6246
+          ]
+        },
+        {
+          "start": 28.3785,
+          "chars": [
+            28.3785,
+            28.5323,
+            28.6862,
+            28.84,
+            28.9938,
+            29.04,
+            29.1938,
+            29.3477,
+            29.5015,
+            29.6554,
+            29.8092,
+            29.9631,
+            30.0092,
+            30.1631,
+            30.3169,
+            30.4708,
+            30.6246,
+            30.7785,
+            30.8246,
+            30.9785,
+            31.0246,
+            31.1785,
+            31.3323,
+            31.4862,
+            31.64,
+            31.7938,
+            31.9477,
+            32.1015,
+            32.2554,
+            32.4092,
+            32.5631,
+            32.7169,
+            32.8708
+          ]
+        }
+      ],
+      "circle": null
+    },
+    "tailHold": 2.5
+  },
+  "layout": null
+}

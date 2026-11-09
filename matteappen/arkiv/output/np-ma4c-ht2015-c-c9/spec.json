@@ -1,0 +1,323 @@
+{
+  "slug": "np-ma4c-ht2015-c-c9",
+  "video": true,
+  "questionRef": {
+    "exam": "ma4c_ht2015_c",
+    "questionId": "c9",
+    "partId": "c9"
+  },
+  "concept": {
+    "label": "Dubbla vinkeln",
+    "tex": "\\sin 2v = 2\\sin v \\cos v"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Visa"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": "\\dfrac{\\sin 2x}{2\\cos x} = \\sin x",
+        "display": false
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "alla"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "uttrycken"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "definierade."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(2/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "sin 2x = 2 sin x cos x"
+    },
+    {
+      "text": "\\frac{2 sin x cos x}{2 cos x}"
+    },
+    {
+      "text": "2 och cos x förkortas"
+    },
+    {
+      "text": "= sin x"
+    },
+    {
+      "text": "VL = \\sin x = HL",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 58.591,
+    "phases": {
+      "readStart": 4.365,
+      "writeStart": 18.325
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.365,
+          "end": 4.644
+        },
+        {
+          "start": 4.667,
+          "end": 4.737
+        },
+        {
+          "start": 4.737,
+          "end": 8.498
+        },
+        {
+          "start": 8.498,
+          "end": 8.696
+        },
+        {
+          "start": 8.754,
+          "end": 9.091
+        },
+        {
+          "start": 9.091,
+          "end": 9.439
+        },
+        {
+          "start": 9.439,
+          "end": 9.59
+        },
+        {
+          "start": 9.613,
+          "end": 9.985
+        },
+        {
+          "start": 10.031,
+          "end": 10.089
+        },
+        {
+          "start": 10.136,
+          "end": 10.797
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.325,
+          "chars": [
+            18.325,
+            18.4784,
+            18.6318,
+            18.7853,
+            18.8313,
+            18.9847,
+            19.1381,
+            19.1842,
+            19.3376,
+            19.3836,
+            19.537,
+            19.5831,
+            19.7365,
+            19.8899,
+            20.0433,
+            20.0894,
+            20.2428,
+            20.2888,
+            20.4422,
+            20.5956,
+            20.7491,
+            20.7951
+          ]
+        },
+        {
+          "start": 20.9485,
+          "chars": [
+            20.9485,
+            21.1019,
+            21.148,
+            21.3014,
+            21.4548,
+            21.6082,
+            21.6543,
+            21.8077,
+            21.8537,
+            22.0071,
+            22.1605,
+            22.314,
+            22.36,
+            22.5134,
+            22.6668,
+            22.8203,
+            22.8663,
+            23.0197,
+            23.1731,
+            23.3266,
+            23.3726
+          ]
+        },
+        {
+          "start": 24.549,
+          "chars": [
+            24.549,
+            24.7882,
+            24.86,
+            25.0992,
+            25.3385,
+            25.5777,
+            25.6495,
+            25.8887,
+            26.1279,
+            26.3672,
+            26.4389,
+            26.6782,
+            26.7499,
+            26.9892,
+            27.2284,
+            27.4676,
+            27.7068,
+            27.9461,
+            28.1853,
+            28.4245,
+            28.6638
+          ]
+        },
+        {
+          "start": 32.353,
+          "chars": [
+            32.353,
+            32.6355,
+            32.7203,
+            33.0027,
+            33.2853,
+            33.5678,
+            33.6525
+          ]
+        },
+        {
+          "start": 45.003,
+          "chars": [
+            45.003,
+            45.2534,
+            45.5039,
+            45.579,
+            45.8294,
+            45.9046,
+            46.155,
+            46.4054,
+            46.6559,
+            46.731,
+            46.9814,
+            47.0566,
+            47.307,
+            47.3821,
+            47.6326
+          ]
+        },
+        {
+          "start": 51.041,
+          "chars": [
+            51.041,
+            51.1703,
+            51.2997,
+            51.429,
+            51.5583,
+            51.6877,
+            51.7265,
+            51.8558,
+            51.9851,
+            52.1145,
+            52.2438,
+            52.2826,
+            52.4119,
+            52.5413,
+            52.6706,
+            52.7999,
+            52.9293,
+            52.9681,
+            53.0974,
+            53.2267,
+            53.2655,
+            53.3949,
+            53.4337,
+            53.563,
+            53.6923,
+            53.8217,
+            53.951,
+            54.0803,
+            54.2097
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 12.738,
+        "end": 16.814,
+        "hideAt": 24.326
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fortsättning 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

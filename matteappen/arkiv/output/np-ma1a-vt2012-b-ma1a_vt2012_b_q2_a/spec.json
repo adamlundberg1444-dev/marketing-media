@@ -1,0 +1,430 @@
+{
+  "slug": "np-ma1a-vt2012-b-ma1a_vt2012_b_q2_a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_vt2012_b",
+    "questionId": "ma1a_vt2012_b_q2",
+    "partId": "ma1a_vt2012_b_q2_a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Du"
+      },
+      {
+        "text": "åker"
+      },
+      {
+        "text": "buss"
+      },
+      {
+        "text": "kvart"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "sju"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "Motala"
+      },
+      {
+        "text": "busstation."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "dags"
+      },
+      {
+        "text": "beräknas"
+      },
+      {
+        "text": "du"
+      },
+      {
+        "text": "vara"
+      },
+      {
+        "text": "framme"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Linköpings"
+      },
+      {
+        "text": "resecentrum?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Kl.",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_vt2012_b_q2.imageset/ma1a_vt2012_b_q2.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "7.00 − 15 min = 6.45",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "Motala: 6.45",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "Linköping: 7.52",
+      "emphasis": true,
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "6.45 + 1 h 7 min = 7.52"
+    },
+    {
+      "text": "7.52",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 43.2,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 9.6
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.06
+        },
+        {
+          "start": 1.06,
+          "end": 1.42
+        },
+        {
+          "start": 1.42,
+          "end": 1.78
+        },
+        {
+          "start": 1.78,
+          "end": 2.19
+        },
+        {
+          "start": 2.19,
+          "end": 2.41
+        },
+        {
+          "start": 2.41,
+          "end": 2.72
+        },
+        {
+          "start": 2.72,
+          "end": 3.08
+        },
+        {
+          "start": 3.08,
+          "end": 3.54
+        },
+        {
+          "start": 3.54,
+          "end": 4.55
+        },
+        {
+          "start": 4.55,
+          "end": 4.86
+        },
+        {
+          "start": 4.86,
+          "end": 5.22
+        },
+        {
+          "start": 5.22,
+          "end": 5.78
+        },
+        {
+          "start": 5.78,
+          "end": 6.04
+        },
+        {
+          "start": 6.04,
+          "end": 6.4
+        },
+        {
+          "start": 6.4,
+          "end": 6.86
+        },
+        {
+          "start": 6.86,
+          "end": 7.08
+        },
+        {
+          "start": 7.08,
+          "end": 7.74
+        },
+        {
+          "start": 7.74,
+          "end": 8.8
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 9.6,
+          "chars": [
+            9.6,
+            9.7538,
+            9.9077,
+            10.0615,
+            10.2154,
+            10.2615,
+            10.4154,
+            10.4615,
+            10.6154,
+            10.7692,
+            10.8154,
+            10.9692,
+            11.1231,
+            11.2769,
+            11.3231,
+            11.4769,
+            11.5231,
+            11.6769,
+            11.8308,
+            11.9846
+          ]
+        },
+        {
+          "start": 12.5385,
+          "chars": [
+            12.5385,
+            12.6923,
+            12.8462,
+            13,
+            13.1538,
+            13.3077,
+            13.4615,
+            13.6154,
+            13.6615,
+            13.8154,
+            13.9692,
+            14.1231
+          ]
+        },
+        {
+          "start": 14.6769,
+          "chars": [
+            14.6769,
+            14.8308,
+            14.9846,
+            15.1385,
+            15.2923,
+            15.4462,
+            15.6,
+            15.7538,
+            15.9077,
+            16.0615,
+            16.2154,
+            16.2615,
+            16.4154,
+            16.5692,
+            16.7231
+          ]
+        },
+        {
+          "start": 17.2769,
+          "chars": [
+            17.2769,
+            17.4308,
+            17.5846,
+            17.7385,
+            17.8923,
+            17.9385,
+            18.0923,
+            18.1385,
+            18.2923,
+            18.3385,
+            18.4923,
+            18.5385,
+            18.6923,
+            18.7385,
+            18.8923,
+            19.0462,
+            19.2,
+            19.2462,
+            19.4,
+            19.4462,
+            19.6,
+            19.7538,
+            19.9077
+          ]
+        },
+        {
+          "start": 20.4115,
+          "chars": [
+            20.4115,
+            20.5654,
+            20.7192,
+            20.8731
+          ]
+        },
+        {
+          "start": 21.6269,
+          "chars": [
+            21.6269,
+            21.7808,
+            21.9346,
+            22.0885,
+            22.2423,
+            22.3962,
+            22.4423,
+            22.5962,
+            22.75,
+            22.9038,
+            23.0577,
+            23.1038,
+            23.2577,
+            23.4115,
+            23.5654,
+            23.7192,
+            23.8731,
+            23.9192,
+            24.0731,
+            24.2269,
+            24.2731,
+            24.4269,
+            24.4731,
+            24.6269,
+            24.7808,
+            24.9346,
+            25.0885,
+            25.2423,
+            25.3962
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 25.9,
+          "end": 26.65,
+          "targets": [
+            {
+              "circle": [
+                0.5,
+                0.402
+              ],
+              "r": 0.016,
+              "color": "red",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 27.5,
+          "end": 28.25,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.5,
+                  0.418
+                ],
+                [
+                  0.5,
+                  0.736
+                ]
+              ],
+              "dashed": true,
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 28.6,
+          "end": 29.35,
+          "targets": [
+            {
+              "circle": [
+                0.5,
+                0.752
+              ],
+              "r": 0.016,
+              "color": "blue",
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 30.2,
+          "end": 33.2
+        },
+        {
+          "start": 33.7,
+          "end": 36.7
+        },
+        {
+          "start": 37.2,
+          "end": 40.2
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 1a",
+    "text2": "VT 2012 · fråga 2",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "np-hs9-vt2014-b-b6",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2014_b",
+    "questionId": "q6",
+    "partId": "b6"
+  },
+  "concept": {
+    "label": "Bråkräkning",
+    "tex": "\\frac{a}{b} \\cdot \\frac{c}{d} = \\frac{ac}{bd} \\qquad \\frac{a}{b} : \\frac{c}{d} = \\frac{a}{b} \\cdot \\frac{d}{c}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Beräkna"
+      },
+      {
+        "tex": "\\dfrac{3}{\\frac{1}{2}}",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "1 = 2 \\cdot \\frac{1}{2}",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "3 = 6 \\cdot \\frac{1}{2}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "3 : \\frac{1}{2} = 3 \\cdot \\frac{2}{1}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "= 3 \\cdot 2 = 6",
+      "pauseAfter": 0.5,
+      "emphasis": true
+    },
+    {
+      "text": "\\frac{1}{2} \\cdot 6 = 3"
+    },
+    {
+      "text": "6",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 21.648,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 2.64
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 1.84
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 4.24,
+          "chars": [
+            4.24,
+            4.3938,
+            4.44,
+            4.5938,
+            4.64,
+            4.7938,
+            4.84,
+            4.9938,
+            5.04,
+            5.1938,
+            5.3477
+          ]
+        },
+        {
+          "start": 5.9015,
+          "chars": [
+            5.9015,
+            6.0554,
+            6.1015,
+            6.2554,
+            6.3015,
+            6.4554,
+            6.5015,
+            6.6554,
+            6.7015,
+            6.8554,
+            7.0092
+          ]
+        },
+        {
+          "start": 7.6631,
+          "chars": [
+            7.6631,
+            7.8169,
+            7.8631,
+            8.0169,
+            8.0631,
+            8.2169,
+            8.3708,
+            8.5246,
+            8.5708,
+            8.7246,
+            8.7708,
+            8.9246,
+            8.9708,
+            9.1246,
+            9.1708,
+            9.3246,
+            9.4785
+          ]
+        },
+        {
+          "start": 10.1323,
+          "chars": [
+            10.1323,
+            10.2862,
+            10.3323,
+            10.4862,
+            10.5323,
+            10.6862,
+            10.7323,
+            10.8862,
+            10.9323,
+            11.0862,
+            11.1323
+          ]
+        },
+        {
+          "start": 11.7862,
+          "chars": [
+            11.7862,
+            11.94,
+            12.0938,
+            12.2477,
+            12.2938,
+            12.4477,
+            12.4938,
+            12.6477,
+            12.6938,
+            12.8477,
+            12.8938
+          ]
+        },
+        {
+          "start": 13.3977,
+          "chars": [
+            13.3977
+          ]
+        },
+        {
+          "start": 14.1515,
+          "chars": [
+            14.1515,
+            14.3054,
+            14.4592,
+            14.6131,
+            14.7669,
+            14.8131,
+            14.9669,
+            15.1208,
+            15.2746,
+            15.4285,
+            15.5823,
+            15.7362,
+            15.7823,
+            15.9362,
+            16.09,
+            16.2438,
+            16.3977,
+            16.5515,
+            16.5977,
+            16.7515,
+            16.7977,
+            16.9515,
+            17.1054,
+            17.2592,
+            17.4131,
+            17.5669,
+            17.7208,
+            17.8746,
+            18.0285,
+            18.1823,
+            18.3362,
+            18.49,
+            18.6438
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 2.64,
+        "end": 3.74,
+        "hideAt": 10.64
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2014 · fråga 6",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

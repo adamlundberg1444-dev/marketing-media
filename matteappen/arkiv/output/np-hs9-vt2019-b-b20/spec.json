@@ -1,0 +1,312 @@
+{
+  "slug": "np-hs9-vt2019-b-b20",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2019_b",
+    "questionId": "b20",
+    "partId": "b20"
+  },
+  "concept": {
+    "label": "Potenslagarna",
+    "tex": "\\begin{aligned}a^m \\cdot a^n &= a^{m+n}\\\\ \\tfrac{a^m}{a^n} &= a^{m-n}\\\\ (a^m)^n &= a^{mn}\\end{aligned}"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Ange"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "likheten"
+      },
+      {
+        "text": "stämmer."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "100^{12} = 10^x",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "100 = 10^2"
+    },
+    {
+      "text": "100^{12} = (10^2)^{12}"
+    },
+    {
+      "text": "Exponenterna multipliceras"
+    },
+    {
+      "text": "10^{2 · 12} = 10^{24}"
+    },
+    {
+      "text": "x = 24",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 26.582,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.47
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.16
+        },
+        {
+          "start": 1.16,
+          "end": 1.47
+        },
+        {
+          "start": 1.47,
+          "end": 1.88
+        },
+        {
+          "start": 1.88,
+          "end": 2.14
+        },
+        {
+          "start": 2.14,
+          "end": 2.55
+        },
+        {
+          "start": 2.55,
+          "end": 2.81
+        },
+        {
+          "start": 2.81,
+          "end": 3.12
+        },
+        {
+          "start": 3.12,
+          "end": 3.68
+        },
+        {
+          "start": 3.68,
+          "end": 4.54
+        },
+        {
+          "start": 4.54,
+          "end": 5.67
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 8.07,
+          "chars": [
+            8.07,
+            8.2238,
+            8.3777,
+            8.5315,
+            8.5777,
+            8.7315,
+            8.7777,
+            8.9315,
+            9.0854
+          ]
+        },
+        {
+          "start": 9.5892,
+          "chars": [
+            9.5892,
+            9.7431,
+            9.8969,
+            10.0508,
+            10.2046,
+            10.3585,
+            10.4046,
+            10.5585,
+            10.6046,
+            10.7585,
+            10.9123,
+            11.0662,
+            11.22,
+            11.3738,
+            11.5277
+          ]
+        },
+        {
+          "start": 12.0315,
+          "chars": [
+            12.0315,
+            12.1854,
+            12.3392,
+            12.4931,
+            12.6469,
+            12.8008,
+            12.9546,
+            13.1085,
+            13.2623,
+            13.4162,
+            13.57,
+            13.7238,
+            13.8777,
+            13.9238,
+            14.0777,
+            14.2315,
+            14.3854,
+            14.5392,
+            14.6931,
+            14.8469,
+            15.0008,
+            15.1546,
+            15.3085,
+            15.4623,
+            15.6162,
+            15.77
+          ]
+        },
+        {
+          "start": 16.2738,
+          "chars": [
+            16.2738,
+            16.4277,
+            16.5815,
+            16.7354,
+            16.7815,
+            16.9354,
+            16.9815,
+            17.1354,
+            17.2892,
+            17.3354,
+            17.4892,
+            17.5354,
+            17.6892,
+            17.8431,
+            17.9969
+          ]
+        },
+        {
+          "start": 18.5008,
+          "chars": [
+            18.5008,
+            18.6546,
+            18.7008,
+            18.8546,
+            18.9008,
+            19.0546
+          ]
+        },
+        {
+          "start": 19.8085,
+          "chars": [
+            19.8085,
+            19.9623,
+            20.1162,
+            20.27,
+            20.4238,
+            20.47,
+            20.6238,
+            20.7777,
+            20.9315,
+            21.0854,
+            21.2392,
+            21.2854,
+            21.4392,
+            21.5931,
+            21.6392,
+            21.7931,
+            21.8392,
+            21.9931,
+            22.1469,
+            22.3008,
+            22.4546,
+            22.6085,
+            22.6546,
+            22.8085,
+            22.9623,
+            23.1162,
+            23.27,
+            23.4238,
+            23.5777
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 6.47,
+        "end": 7.57,
+        "hideAt": 14.47
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Åk 9",
+    "text2": "VT 2019 · fråga 20",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

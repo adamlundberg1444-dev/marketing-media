@@ -1,0 +1,295 @@
+{
+  "slug": "np-ma1c-vt2017-b-b15",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1c_vt2017_b",
+    "questionId": "b15",
+    "partId": "b15"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "tex": "\\left(\\left(\\sqrt{3}\\right)^x\\right)^4 = 3^6",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Redovisa"
+      },
+      {
+        "text": "din"
+      },
+      {
+        "text": "lösning."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "x =",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "roten ur 3 = 3^{1/2}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "((3^{1/2})^x)^4 = 3^{x/2 · 4} = 3^{2x}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "3^{2x} = 3^6"
+    },
+    {
+      "text": "Samma bas ger 2x = 6"
+    },
+    {
+      "text": "x = 3",
+      "emphasis": true
+    },
+    {
+      "text": "3",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 25.235,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.55
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 3.02
+        },
+        {
+          "start": 3.02,
+          "end": 3.58
+        },
+        {
+          "start": 3.58,
+          "end": 3.89
+        },
+        {
+          "start": 3.89,
+          "end": 4.75
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.55,
+          "chars": [
+            5.55,
+            5.7038,
+            5.8577,
+            6.0115,
+            6.1654,
+            6.3192,
+            6.3654,
+            6.5192,
+            6.6731,
+            6.7192,
+            6.8731,
+            6.9192,
+            7.0731,
+            7.1192,
+            7.2731,
+            7.4269,
+            7.5808
+          ]
+        },
+        {
+          "start": 8.2346,
+          "chars": [
+            8.2346,
+            8.3885,
+            8.5423,
+            8.6962,
+            8.85,
+            9.0038,
+            9.1577,
+            9.3115,
+            9.4654,
+            9.6192,
+            9.7731,
+            9.8192,
+            9.9731,
+            10.0192,
+            10.1731,
+            10.3269,
+            10.4808,
+            10.6346,
+            10.6808,
+            10.8346,
+            10.8808,
+            11.0346,
+            11.0808,
+            11.2346,
+            11.2808,
+            11.4346,
+            11.5885
+          ]
+        },
+        {
+          "start": 12.2423,
+          "chars": [
+            12.2423,
+            12.3962,
+            12.55,
+            12.7038,
+            12.75,
+            12.9038,
+            12.95,
+            13.1038
+          ]
+        },
+        {
+          "start": 13.6077,
+          "chars": [
+            13.6077,
+            13.7615,
+            13.9154,
+            14.0692,
+            14.2231,
+            14.3769,
+            14.4231,
+            14.5769,
+            14.7308,
+            14.8846,
+            14.9308,
+            15.0846,
+            15.2385,
+            15.3923,
+            15.4385,
+            15.5923,
+            15.7462,
+            15.7923,
+            15.9462,
+            15.9923
+          ]
+        },
+        {
+          "start": 16.4962,
+          "chars": [
+            16.4962,
+            16.65,
+            16.6962,
+            16.85,
+            16.8962
+          ]
+        },
+        {
+          "start": 17.4,
+          "chars": [
+            17.4
+          ]
+        },
+        {
+          "start": 18.1538,
+          "chars": [
+            18.1538,
+            18.3077,
+            18.4615,
+            18.6154,
+            18.7692,
+            18.9231,
+            18.9692,
+            19.1231,
+            19.2769,
+            19.4308,
+            19.4769,
+            19.6308,
+            19.7846,
+            19.9385,
+            20.0923,
+            20.2462,
+            20.4,
+            20.5538,
+            20.6,
+            20.7538,
+            20.9077,
+            21.0615,
+            21.1077,
+            21.2615,
+            21.4154,
+            21.5692,
+            21.7231,
+            21.8769,
+            21.9231,
+            22.0769,
+            22.2308
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte nivå 1c",
+    "text2": "VT 2017 · fråga 15",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

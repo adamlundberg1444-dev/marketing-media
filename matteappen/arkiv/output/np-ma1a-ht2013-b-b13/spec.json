@@ -1,0 +1,515 @@
+{
+  "slug": "np-ma1a-ht2013-b-b13",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_ht2013_b",
+    "questionId": "b13",
+    "partId": "b13"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Talen"
+      },
+      {
+        "tex": "\\dfrac{1}{4}",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "\\dfrac{1}{2}",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "markerade"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "tallinjen."
+      },
+      {
+        "text": "Markera"
+      },
+      {
+        "text": "talet"
+      },
+      {
+        "tex": "\\dfrac{1}{3}",
+        "display": false
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "kryss"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "tallinjen."
+      },
+      {
+        "text": "Redovisa"
+      },
+      {
+        "text": "din"
+      },
+      {
+        "text": "lösning"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "figuren"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "rutan."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": null,
+    "points": "(0/1/1)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/ma1a_ht2013_b_q13.imageset/ma1a_ht2013_b_q13.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{1}{4} < \\frac{1}{3} < \\frac{1}{2}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "\\frac{1}{4} = \\frac{3}{12}",
+      "pauseAfter": 0.3
+    },
+    {
+      "text": "\\frac{1}{3} = \\frac{4}{12}",
+      "pauseAfter": 0.3
+    },
+    {
+      "text": "\\frac{1}{2} = \\frac{6}{12}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "\\frac{4}{12} − \\frac{3}{12} = \\frac{1}{12}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "\\frac{6}{12} − \\frac{3}{12} = \\frac{3}{12}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "\\frac{12}{3} = 4",
+      "emphasis": true
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 50.052,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 12.39
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.21
+        },
+        {
+          "start": 1.21,
+          "end": 1.68
+        },
+        {
+          "start": 1.68,
+          "end": 1.99
+        },
+        {
+          "start": 1.99,
+          "end": 2.46
+        },
+        {
+          "start": 2.46,
+          "end": 2.72
+        },
+        {
+          "start": 2.72,
+          "end": 3.33
+        },
+        {
+          "start": 3.33,
+          "end": 3.59
+        },
+        {
+          "start": 3.59,
+          "end": 4.55
+        },
+        {
+          "start": 4.55,
+          "end": 5.06
+        },
+        {
+          "start": 5.06,
+          "end": 5.47
+        },
+        {
+          "start": 5.47,
+          "end": 5.94
+        },
+        {
+          "start": 5.94,
+          "end": 6.25
+        },
+        {
+          "start": 6.25,
+          "end": 6.56
+        },
+        {
+          "start": 6.56,
+          "end": 6.97
+        },
+        {
+          "start": 6.97,
+          "end": 7.23
+        },
+        {
+          "start": 7.23,
+          "end": 8.19
+        },
+        {
+          "start": 8.19,
+          "end": 8.75
+        },
+        {
+          "start": 8.75,
+          "end": 9.06
+        },
+        {
+          "start": 9.06,
+          "end": 9.57
+        },
+        {
+          "start": 9.57,
+          "end": 9.79
+        },
+        {
+          "start": 9.79,
+          "end": 10.3
+        },
+        {
+          "start": 10.3,
+          "end": 10.61
+        },
+        {
+          "start": 10.61,
+          "end": 10.83
+        },
+        {
+          "start": 10.83,
+          "end": 11.59
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.39,
+          "chars": [
+            12.39,
+            12.5438,
+            12.6977,
+            12.8515,
+            12.8977,
+            13.0515,
+            13.0977,
+            13.2515,
+            13.4054,
+            13.5592,
+            13.6054,
+            13.7592,
+            13.8054,
+            13.9592,
+            14.1131
+          ]
+        },
+        {
+          "start": 14.7669,
+          "chars": [
+            14.7669,
+            14.9208,
+            15.0746,
+            15.2285,
+            15.2746,
+            15.4285,
+            15.4746,
+            15.6285,
+            15.7823,
+            15.9362
+          ]
+        },
+        {
+          "start": 16.39,
+          "chars": [
+            16.39,
+            16.5438,
+            16.6977,
+            16.8515,
+            16.8977,
+            17.0515,
+            17.0977,
+            17.2515,
+            17.4054,
+            17.5592
+          ]
+        },
+        {
+          "start": 18.0131,
+          "chars": [
+            18.0131,
+            18.1669,
+            18.3208,
+            18.4746,
+            18.5208,
+            18.6746,
+            18.7208,
+            18.8746,
+            19.0285,
+            19.1823
+          ]
+        },
+        {
+          "start": 19.8362,
+          "chars": [
+            19.8362,
+            19.99,
+            20.1438,
+            20.2977,
+            20.4515,
+            20.4977,
+            20.6515,
+            20.6977,
+            20.8515,
+            21.0054,
+            21.1592,
+            21.3131,
+            21.3592,
+            21.5131,
+            21.5592,
+            21.7131,
+            21.8669,
+            22.0208
+          ]
+        },
+        {
+          "start": 22.6746,
+          "chars": [
+            22.6746,
+            22.8285,
+            22.9823,
+            23.1362,
+            23.29,
+            23.3362,
+            23.49,
+            23.5362,
+            23.69,
+            23.8438,
+            23.9977,
+            24.1515,
+            24.1977,
+            24.3515,
+            24.3977,
+            24.5515,
+            24.7054,
+            24.8592
+          ]
+        },
+        {
+          "start": 25.5131,
+          "chars": [
+            25.5131,
+            25.6669,
+            25.8208,
+            25.9746,
+            26.1285,
+            26.1746,
+            26.3285,
+            26.3746
+          ]
+        },
+        {
+          "start": 26.8785,
+          "chars": [
+            26.8785,
+            27.0323,
+            27.1862,
+            27.34,
+            27.4938,
+            27.6477,
+            27.6938,
+            27.8477,
+            28.0015,
+            28.1554,
+            28.3092,
+            28.3554,
+            28.5092,
+            28.6631,
+            28.8169,
+            28.9708,
+            29.1246,
+            29.1708,
+            29.3246,
+            29.4785,
+            29.5246,
+            29.6785,
+            29.7246,
+            29.8785,
+            30.0323,
+            30.1862,
+            30.34,
+            30.4938,
+            30.6477
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 31.152,
+          "end": 31.902,
+          "targets": [
+            {
+              "circle": [
+                0.116,
+                0.152
+              ],
+              "r": 0.022,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 32.252,
+          "end": 33.002,
+          "targets": [
+            {
+              "circle": [
+                0.72,
+                0.152
+              ],
+              "r": 0.022,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 33.852,
+          "end": 34.602,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.116,
+                  0.152
+                ],
+                [
+                  0.72,
+                  0.152
+                ]
+              ],
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 35.452,
+          "end": 36.202,
+          "targets": [
+            {
+              "cross": [
+                0.317,
+                0.152
+              ],
+              "mi": 0
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 37.052,
+          "end": 40.052
+        },
+        {
+          "start": 40.552,
+          "end": 43.552
+        },
+        {
+          "start": 44.052,
+          "end": 47.052
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte nivå 1a",
+    "text2": "HT 2013 · fråga 13",
+    "seconds": 3
+  },
+  "layout": {
+    "noAnswerLine": true,
+    "padTop": 0,
+    "floor": 320
+  }
+}

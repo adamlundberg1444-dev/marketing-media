@@ -1,0 +1,300 @@
+{
+  "slug": "np-ma3b-vt2022-b-b6c",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_vt2022_b",
+    "questionId": "b6",
+    "partId": "b6c"
+  },
+  "concept": {
+    "label": "Negativ exponent",
+    "tex": "a^{-n} = \\frac{1}{a^n} \\qquad a^0 = 1"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bestäm"
+      },
+      {
+        "tex": "f'(x)",
+        "display": false
+      },
+      {
+        "text": "då"
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "f(x) = \\dfrac{1}{3^{-2x}}",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "f'(x) =",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/0/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{1}{a^m} = a^{-m}"
+    },
+    {
+      "text": "f(x) = \\frac{1}{3^{-2x}} = 3^{-(-2x)}"
+    },
+    {
+      "text": "f(x) = 3^{2x}"
+    },
+    {
+      "text": "3^{2x} = (3^2)^x = 9^x"
+    },
+    {
+      "text": "f'(x) = 9^x · ln 9"
+    },
+    {
+      "text": "f'(x) = 9^x · ln 9",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 26.762,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.1
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.91
+        },
+        {
+          "start": 1.91,
+          "end": 2.17
+        },
+        {
+          "start": 2.17,
+          "end": 3.3
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.7,
+          "chars": [
+            5.7,
+            5.8538,
+            6.0077,
+            6.1615,
+            6.3154,
+            6.3615,
+            6.5154,
+            6.5615,
+            6.7154,
+            6.8692
+          ]
+        },
+        {
+          "start": 7.3731,
+          "chars": [
+            7.3731,
+            7.5269,
+            7.6808,
+            7.8346,
+            7.9885,
+            8.0346,
+            8.1885,
+            8.2346,
+            8.3885,
+            8.5423,
+            8.6962,
+            8.85,
+            9.0038,
+            9.1577,
+            9.2038,
+            9.3577,
+            9.4038,
+            9.5577,
+            9.7115,
+            9.8654,
+            10.0192,
+            10.1731,
+            10.3269
+          ]
+        },
+        {
+          "start": 10.8308,
+          "chars": [
+            10.8308,
+            10.9846,
+            11.1385,
+            11.2923,
+            11.4462,
+            11.4923,
+            11.6462,
+            11.6923,
+            11.8462,
+            12
+          ]
+        },
+        {
+          "start": 12.5038,
+          "chars": [
+            12.5038,
+            12.6577,
+            12.8115,
+            12.9654,
+            13.0115,
+            13.1654,
+            13.2115,
+            13.3654,
+            13.5192,
+            13.6731,
+            13.8269,
+            13.9808,
+            14.0269,
+            14.1808,
+            14.2269,
+            14.3808
+          ]
+        },
+        {
+          "start": 14.8846,
+          "chars": [
+            14.8846,
+            15.0385,
+            15.1923,
+            15.3462,
+            15.5,
+            15.6538,
+            15.7,
+            15.8538,
+            15.9,
+            16.0538,
+            16.2077,
+            16.2538,
+            16.4077,
+            16.4538,
+            16.6077,
+            16.7615,
+            16.8077
+          ]
+        },
+        {
+          "start": 17.3115,
+          "chars": [
+            17.3115,
+            17.4654,
+            17.6192,
+            17.7731,
+            17.9269,
+            18.0808,
+            18.1269,
+            18.2808,
+            18.3269,
+            18.4808,
+            18.6346,
+            18.6808,
+            18.8346,
+            18.8808,
+            19.0346,
+            19.1885,
+            19.2346
+          ]
+        },
+        {
+          "start": 19.9885,
+          "chars": [
+            19.9885,
+            20.1423,
+            20.2962,
+            20.45,
+            20.6038,
+            20.7577,
+            20.8038,
+            20.9577,
+            21.1115,
+            21.2654,
+            21.4192,
+            21.4654,
+            21.6192,
+            21.7731,
+            21.9269,
+            22.0808,
+            22.2346,
+            22.2808,
+            22.4346,
+            22.5885,
+            22.6346,
+            22.7885,
+            22.8346,
+            22.9885,
+            23.1423,
+            23.2962,
+            23.45,
+            23.6038,
+            23.7577
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 4.1,
+        "end": 5.2,
+        "hideAt": 12.1
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte fortsättning 1b",
+    "text2": "VT 2022 · fråga 6",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

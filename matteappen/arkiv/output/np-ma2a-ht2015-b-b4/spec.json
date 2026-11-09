@@ -1,0 +1,287 @@
+{
+  "slug": "np-ma2a-ht2015-b-b4",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2a_ht2015_b",
+    "questionId": "b4",
+    "partId": "b4"
+  },
+  "concept": {
+    "label": "Konjugatregeln",
+    "tex": "(a+b)(a-b) = a^2 - b^2"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Faktorisera"
+      },
+      {
+        "tex": "25x^2 - 16y^2",
+        "display": false
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "långt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "möjligt."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "25x^2 = (5x)^2"
+    },
+    {
+      "text": "16y^2 = (4y)^2"
+    },
+    {
+      "text": "a = 5x, b = 4y"
+    },
+    {
+      "text": "(5x + 4y)(5x - 4y)"
+    },
+    {
+      "text": "(5x + 4y)(5x - 4y)",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Hela provet finns i Integro-appen",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 25.93,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.28
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.51
+        },
+        {
+          "start": 1.51,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.9
+        },
+        {
+          "start": 2.9,
+          "end": 3.31
+        },
+        {
+          "start": 3.31,
+          "end": 3.62
+        },
+        {
+          "start": 3.62,
+          "end": 4.48
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.88,
+          "chars": [
+            6.88,
+            7.0338,
+            7.1877,
+            7.3415,
+            7.4954,
+            7.5415,
+            7.6954,
+            7.7415,
+            7.8954,
+            8.0492,
+            8.2031,
+            8.3569
+          ]
+        },
+        {
+          "start": 8.8608,
+          "chars": [
+            8.8608,
+            9.0146,
+            9.1685,
+            9.3223,
+            9.4762,
+            9.5223,
+            9.6762,
+            9.7223,
+            9.8762,
+            10.03,
+            10.1838,
+            10.3377
+          ]
+        },
+        {
+          "start": 10.8415,
+          "chars": [
+            10.8415,
+            10.9954,
+            11.0415,
+            11.1954,
+            11.2415,
+            11.3954,
+            11.5492,
+            11.7031,
+            11.7492,
+            11.9031,
+            11.9492,
+            12.1031,
+            12.1492,
+            12.3031
+          ]
+        },
+        {
+          "start": 12.8069,
+          "chars": [
+            12.8069,
+            12.9608,
+            13.1146,
+            13.2685,
+            13.3146,
+            13.4685,
+            13.5146,
+            13.6685,
+            13.8223,
+            13.9762,
+            14.13,
+            14.2838,
+            14.4377,
+            14.4838,
+            14.6377,
+            14.6838,
+            14.8377,
+            14.9915
+          ]
+        },
+        {
+          "start": 15.4954,
+          "chars": [
+            15.4954,
+            15.6492,
+            15.8031,
+            15.9569,
+            16.0031,
+            16.1569,
+            16.2031,
+            16.3569,
+            16.5108,
+            16.6646,
+            16.8185,
+            16.9723,
+            17.1262,
+            17.1723,
+            17.3262,
+            17.3723,
+            17.5262,
+            17.68
+          ]
+        },
+        {
+          "start": 18.4338,
+          "chars": [
+            18.4338,
+            18.5877,
+            18.7415,
+            18.8954,
+            19.0492,
+            19.0954,
+            19.2492,
+            19.4031,
+            19.5569,
+            19.7108,
+            19.8646,
+            20.0185,
+            20.0646,
+            20.2185,
+            20.3723,
+            20.5262,
+            20.68,
+            20.8338,
+            20.88,
+            21.0338,
+            21.08,
+            21.2338,
+            21.3877,
+            21.5415,
+            21.6954,
+            21.8492,
+            22.0031,
+            22.1569,
+            22.3108,
+            22.4646,
+            22.6185,
+            22.7723,
+            22.9262
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5.28,
+        "end": 6.38,
+        "hideAt": 13.28
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2a",
+    "text2": "HT 2015 · fråga 4",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

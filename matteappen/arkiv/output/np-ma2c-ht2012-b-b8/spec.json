@@ -1,0 +1,323 @@
+{
+  "slug": "np-ma2c-ht2012-b-b8",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2c_ht2012_b",
+    "questionId": "b8",
+    "partId": "b8"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Ge"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "exempel"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "andragradsekvation"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "saknar"
+      },
+      {
+        "text": "reella"
+      },
+      {
+        "text": "rötter."
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/1/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "En kvadrat är aldrig negativ"
+    },
+    {
+      "text": "x^2 är noll eller positivt"
+    },
+    {
+      "text": "Kräv att den blir negativ:"
+    },
+    {
+      "text": "x^2 = -1"
+    },
+    {
+      "text": "x^2 = -1",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 27.965,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.3
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.06
+        },
+        {
+          "start": 1.06,
+          "end": 1.37
+        },
+        {
+          "start": 1.37,
+          "end": 1.88
+        },
+        {
+          "start": 1.88,
+          "end": 2.14
+        },
+        {
+          "start": 2.14,
+          "end": 2.4
+        },
+        {
+          "start": 2.4,
+          "end": 3.46
+        },
+        {
+          "start": 3.46,
+          "end": 3.77
+        },
+        {
+          "start": 3.77,
+          "end": 4.23
+        },
+        {
+          "start": 4.23,
+          "end": 4.69
+        },
+        {
+          "start": 4.69,
+          "end": 5.5
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.3,
+          "chars": [
+            6.3,
+            6.4538,
+            6.6077,
+            6.6538,
+            6.8077,
+            6.9615,
+            7.1154,
+            7.2692,
+            7.4231,
+            7.5769,
+            7.7308,
+            7.7769,
+            7.9308,
+            8.0846,
+            8.1308,
+            8.2846,
+            8.4385,
+            8.5923,
+            8.7462,
+            8.9,
+            9.0538,
+            9.1,
+            9.2538,
+            9.4077,
+            9.5615,
+            9.7154,
+            9.8692,
+            10.0231
+          ]
+        },
+        {
+          "start": 10.5269,
+          "chars": [
+            10.5269,
+            10.6808,
+            10.8346,
+            10.8808,
+            11.0346,
+            11.1885,
+            11.2346,
+            11.3885,
+            11.5423,
+            11.6962,
+            11.85,
+            11.8962,
+            12.05,
+            12.2038,
+            12.3577,
+            12.5115,
+            12.6654,
+            12.7115,
+            12.8654,
+            13.0192,
+            13.1731,
+            13.3269,
+            13.4808,
+            13.6346,
+            13.7885
+          ]
+        },
+        {
+          "start": 14.2923,
+          "chars": [
+            14.2923,
+            14.4462,
+            14.6,
+            14.7538,
+            14.9077,
+            14.9538,
+            15.1077,
+            15.2615,
+            15.4154,
+            15.4615,
+            15.6154,
+            15.7692,
+            15.9231,
+            15.9692,
+            16.1231,
+            16.2769,
+            16.4308,
+            16.5846,
+            16.6308,
+            16.7846,
+            16.9385,
+            17.0923,
+            17.2462,
+            17.4,
+            17.5538,
+            17.7077
+          ]
+        },
+        {
+          "start": 18.2115,
+          "chars": [
+            18.2115,
+            18.3654,
+            18.5192,
+            18.5654,
+            18.7192,
+            18.7654,
+            18.9192
+          ]
+        },
+        {
+          "start": 19.4231,
+          "chars": [
+            19.4231,
+            19.5769,
+            19.7308,
+            19.7769,
+            19.9308,
+            19.9769,
+            20.1308
+          ]
+        },
+        {
+          "start": 20.8846,
+          "chars": [
+            20.8846,
+            21.0385,
+            21.1923,
+            21.3462,
+            21.5,
+            21.6538,
+            21.7,
+            21.8538,
+            22.0077,
+            22.1615,
+            22.2077,
+            22.3615,
+            22.5154,
+            22.6692,
+            22.8231,
+            22.9769,
+            23.1308,
+            23.2846,
+            23.3308,
+            23.4846,
+            23.6385,
+            23.7923,
+            23.8385,
+            23.9923,
+            24.1462,
+            24.3,
+            24.4538,
+            24.6077,
+            24.6538,
+            24.8077,
+            24.9615
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "C-fråga · Matte nivå 2c",
+    "text2": "HT 2012 · fråga 8",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

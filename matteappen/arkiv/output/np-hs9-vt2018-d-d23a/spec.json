@@ -1,0 +1,405 @@
+{
+  "slug": "np-hs9-vt2018-d-d23a",
+  "video": true,
+  "questionRef": {
+    "exam": "hs9_vt2018_d",
+    "questionId": "d23",
+    "partId": "d23a"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Diagrammen"
+      },
+      {
+        "text": "visar"
+      },
+      {
+        "text": "elproduktionen"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "några"
+      },
+      {
+        "text": "länder"
+      },
+      {
+        "text": "år"
+      },
+      {
+        "text": "2015."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "mycket"
+      },
+      {
+        "text": "el"
+      },
+      {
+        "text": "producerades"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Sverige"
+      },
+      {
+        "text": "år"
+      },
+      {
+        "text": "2015?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": "/Users/adamlundberg/Documents/Projekt/MatteAppen/app/MatteAppen/Assets.xcassets/hs9_vt2018_d_q23.imageset/hs9_vt2018_d_q23.png",
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{50}{5} = 10 TWh",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "150 + 10 = 160 TWh",
+      "emphasis": true
+    },
+    {
+      "text": "160 TWh",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 43.68,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 9.08
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.46
+        },
+        {
+          "start": 1.46,
+          "end": 1.87
+        },
+        {
+          "start": 1.87,
+          "end": 2.73
+        },
+        {
+          "start": 2.73,
+          "end": 2.95
+        },
+        {
+          "start": 2.95,
+          "end": 3.36
+        },
+        {
+          "start": 3.36,
+          "end": 3.82
+        },
+        {
+          "start": 3.82,
+          "end": 4.08
+        },
+        {
+          "start": 4.08,
+          "end": 4.79
+        },
+        {
+          "start": 4.79,
+          "end": 5.1
+        },
+        {
+          "start": 5.1,
+          "end": 5.56
+        },
+        {
+          "start": 5.56,
+          "end": 5.82
+        },
+        {
+          "start": 5.82,
+          "end": 6.58
+        },
+        {
+          "start": 6.58,
+          "end": 6.8
+        },
+        {
+          "start": 6.8,
+          "end": 7.31
+        },
+        {
+          "start": 7.31,
+          "end": 7.57
+        },
+        {
+          "start": 7.57,
+          "end": 8.28
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 9.08,
+          "chars": [
+            9.08,
+            9.2338,
+            9.3877,
+            9.5415,
+            9.6954,
+            9.7415,
+            9.8954,
+            9.9415,
+            10.0954,
+            10.2492,
+            10.2954,
+            10.4492,
+            10.6031
+          ]
+        },
+        {
+          "start": 11.2569,
+          "chars": [
+            11.2569,
+            11.4108,
+            11.5646,
+            11.7185,
+            11.7646,
+            11.9185,
+            11.9646,
+            12.1185,
+            12.2723,
+            12.3185,
+            12.4723,
+            12.5185,
+            12.6723,
+            12.8262,
+            12.98,
+            13.0262,
+            13.18,
+            13.3338
+          ]
+        },
+        {
+          "start": 13.8377,
+          "chars": [
+            13.8377,
+            13.9915,
+            14.1454,
+            14.2992,
+            14.3454,
+            14.4992,
+            14.6531
+          ]
+        },
+        {
+          "start": 15.4069,
+          "chars": [
+            15.4069,
+            15.5608,
+            15.7146,
+            15.8685,
+            16.0223,
+            16.0685,
+            16.2223,
+            16.3762,
+            16.53,
+            16.6838,
+            16.8377,
+            16.8838,
+            17.0377,
+            17.1915,
+            17.2377,
+            17.3915,
+            17.4377,
+            17.5915,
+            17.7454,
+            17.8992,
+            18.0531,
+            18.2069,
+            18.2531,
+            18.4069,
+            18.5608,
+            18.7146,
+            18.8685,
+            19.0223,
+            19.1762
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 19.68,
+          "end": 20.43,
+          "targets": [
+            {
+              "circle": [
+                0.109,
+                0.916
+              ],
+              "r": 0.045,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 21.28,
+          "end": 22.03,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.11,
+                  0.849
+                ],
+                [
+                  0.11,
+                  0.304
+                ]
+              ],
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 22.38,
+          "end": 23.13,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.11,
+                  0.304
+                ],
+                [
+                  0.079,
+                  0.304
+                ]
+              ],
+              "color": "blue",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 23.98,
+          "end": 24.73,
+          "targets": [
+            {
+              "circle": [
+                0.055,
+                0.338
+              ],
+              "r": 0.028,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.58,
+          "end": 26.33,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.079,
+                  0.304
+                ],
+                [
+                  0.3,
+                  0.304
+                ]
+              ],
+              "color": "red",
+              "dashed": true,
+              "mi": 0
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 27.18,
+          "end": 30.18
+        },
+        {
+          "start": 30.68,
+          "end": 33.68
+        },
+        {
+          "start": 34.18,
+          "end": 37.18
+        },
+        {
+          "start": 37.68,
+          "end": 40.68
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Åk 9",
+    "text2": "VT 2018 · fråga 23",
+    "seconds": 3
+  },
+  "layout": {
+    "compact": 1,
+    "padTop": 0,
+    "floor": 320
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "slug": "np-ma1a-ht2015-d-d22a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma1a_ht2015_d",
+    "questionId": "d22",
+    "partId": "d22a"
+  },
+  "concept": {
+    "label": "Upprepad förändring",
+    "tex": "\\text{slutvärde} = \\text{startvärde} \\cdot k^n"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Enligt"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "prognos"
+      },
+      {
+        "text": "beräknas"
+      },
+      {
+        "text": "hyran"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "lägenhet"
+      },
+      {
+        "text": "öka"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "4"
+      },
+      {
+        "text": "%"
+      },
+      {
+        "text": "per"
+      },
+      {
+        "text": "år."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Med"
+      },
+      {
+        "text": "hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "beräknas"
+      },
+      {
+        "text": "hyran"
+      },
+      {
+        "text": "öka"
+      },
+      {
+        "text": "under"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "femårsperiod"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "prognosen?"
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/1/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "Ökning 4 % ger k = 1,04",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "5 år: k^5 = 1,04^5"
+    },
+    {
+      "text": "= 1,2166",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "1,2166 - 1 = 0,2166",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "≈ 22 %",
+      "emphasis": true
+    },
+    {
+      "text": "22 %",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Ladda ner Integro och träna mer",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 35.615,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 12.58
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.59
+        },
+        {
+          "start": 2.59,
+          "end": 3
+        },
+        {
+          "start": 3,
+          "end": 3.31
+        },
+        {
+          "start": 3.31,
+          "end": 3.57
+        },
+        {
+          "start": 3.57,
+          "end": 4.13
+        },
+        {
+          "start": 4.13,
+          "end": 4.44
+        },
+        {
+          "start": 4.44,
+          "end": 4.75
+        },
+        {
+          "start": 4.75,
+          "end": 4.97
+        },
+        {
+          "start": 4.97,
+          "end": 5.19
+        },
+        {
+          "start": 5.19,
+          "end": 5.5
+        },
+        {
+          "start": 5.5,
+          "end": 6.11
+        },
+        {
+          "start": 6.11,
+          "end": 6.42
+        },
+        {
+          "start": 6.42,
+          "end": 6.73
+        },
+        {
+          "start": 6.73,
+          "end": 7.14
+        },
+        {
+          "start": 7.14,
+          "end": 7.65
+        },
+        {
+          "start": 7.65,
+          "end": 8.21
+        },
+        {
+          "start": 8.21,
+          "end": 8.62
+        },
+        {
+          "start": 8.62,
+          "end": 8.93
+        },
+        {
+          "start": 8.93,
+          "end": 9.34
+        },
+        {
+          "start": 9.34,
+          "end": 9.6
+        },
+        {
+          "start": 9.6,
+          "end": 10.36
+        },
+        {
+          "start": 10.36,
+          "end": 10.82
+        },
+        {
+          "start": 10.82,
+          "end": 11.78
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 14.18,
+          "chars": [
+            14.18,
+            14.3338,
+            14.4877,
+            14.6415,
+            14.7954,
+            14.9492,
+            15.1031,
+            15.1492,
+            15.3031,
+            15.3492,
+            15.5031,
+            15.5492,
+            15.7031,
+            15.8569,
+            16.0108,
+            16.0569,
+            16.2108,
+            16.2569,
+            16.4108,
+            16.4569,
+            16.6108,
+            16.7646,
+            16.9185
+          ]
+        },
+        {
+          "start": 17.5723,
+          "chars": [
+            17.5723,
+            17.7262,
+            17.7723,
+            17.9262,
+            18.08,
+            18.2338,
+            18.28,
+            18.4338,
+            18.5877,
+            18.6338,
+            18.7877,
+            18.8338,
+            18.9877,
+            19.1415,
+            19.2954,
+            19.4492
+          ]
+        },
+        {
+          "start": 19.9531,
+          "chars": [
+            19.9531,
+            20.1069,
+            20.1531,
+            20.3069,
+            20.4608,
+            20.6146,
+            20.7685,
+            20.9223
+          ]
+        },
+        {
+          "start": 21.5762,
+          "chars": [
+            21.5762,
+            21.73,
+            21.8838,
+            22.0377,
+            22.1915,
+            22.3454,
+            22.4992,
+            22.5454,
+            22.6992,
+            22.7454,
+            22.8992,
+            22.9454,
+            23.0992,
+            23.1454,
+            23.2992,
+            23.4531,
+            23.6069,
+            23.7608,
+            23.9146
+          ]
+        },
+        {
+          "start": 24.5685,
+          "chars": [
+            24.5685,
+            24.7223,
+            24.7685,
+            24.9223,
+            25.0762,
+            25.1223
+          ]
+        },
+        {
+          "start": 25.6262,
+          "chars": [
+            25.6262,
+            25.78,
+            25.9338,
+            25.98
+          ]
+        },
+        {
+          "start": 26.7338,
+          "chars": [
+            26.7338,
+            26.8877,
+            27.0415,
+            27.1954,
+            27.3492,
+            27.5031,
+            27.5492,
+            27.7031,
+            27.8569,
+            28.0108,
+            28.0569,
+            28.2108,
+            28.3646,
+            28.5185,
+            28.6723,
+            28.8262,
+            28.98,
+            29.1338,
+            29.18,
+            29.3338,
+            29.4877,
+            29.6415,
+            29.6877,
+            29.8415,
+            29.9954,
+            30.1492,
+            30.3031,
+            30.4569,
+            30.5031,
+            30.6569,
+            30.8108
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 12.58,
+        "end": 13.68,
+        "hideAt": 20.58
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 31.315,
+          "end": 31.915,
+          "targets": [
+            {
+              "w": 8
+            },
+            {
+              "w": 9
+            },
+            {
+              "w": 10
+            },
+            {
+              "w": 11
+            },
+            {
+              "w": 12
+            },
+            {
+              "w": 13
+            }
+          ]
+        },
+        {
+          "start": 32.215,
+          "end": 32.815,
+          "targets": [
+            {
+              "w": 23
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte nivå 1a",
+    "text2": "HT 2015 · fråga 22",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}

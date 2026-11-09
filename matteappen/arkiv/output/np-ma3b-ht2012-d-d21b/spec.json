@@ -1,0 +1,439 @@
+{
+  "slug": "np-ma3b-ht2012-d-d21b",
+  "video": true,
+  "questionRef": {
+    "exam": "ma3b_ht2012_d",
+    "questionId": "d21",
+    "partId": "d21b"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Är"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "påstående"
+      },
+      {
+        "text": "korrekt?"
+      },
+      {
+        "text": "Motivera"
+      },
+      {
+        "text": "ditt"
+      },
+      {
+        "text": "svar."
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Grafen"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "tex": " f(x) = x^3 + ax ",
+        "display": false
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "tre"
+      },
+      {
+        "text": "olika"
+      },
+      {
+        "text": "nollställen"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "konstanten"
+      },
+      {
+        "tex": " a \\le 0 ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(0/2/1)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "x^3 + ax = 0",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "x(x^2 + a) = 0",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x = 0"
+    },
+    {
+      "text": "x^2 = −a",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "a < 0:  x = \\sqrt{−a}"
+    },
+    {
+      "text": "a < 0:  x = −\\sqrt{−a}",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "a = 0:  f(x) = x^3",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "x^3 = 0  \\to  x = 0",
+      "emphasis": true
+    },
+    {
+      "text": "Nej, inte korrekt",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Träna alla gamla NP i Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 35.703,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 11.08
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.06
+        },
+        {
+          "start": 1.06,
+          "end": 1.62
+        },
+        {
+          "start": 1.62,
+          "end": 2.23
+        },
+        {
+          "start": 2.23,
+          "end": 3.09
+        },
+        {
+          "start": 3.09,
+          "end": 3.65
+        },
+        {
+          "start": 3.65,
+          "end": 4.01
+        },
+        {
+          "start": 4.01,
+          "end": 4.72
+        },
+        {
+          "start": 4.72,
+          "end": 5.18
+        },
+        {
+          "start": 5.18,
+          "end": 5.54
+        },
+        {
+          "start": 5.54,
+          "end": 6.91
+        },
+        {
+          "start": 6.91,
+          "end": 7.22
+        },
+        {
+          "start": 7.22,
+          "end": 7.53
+        },
+        {
+          "start": 7.53,
+          "end": 7.94
+        },
+        {
+          "start": 7.94,
+          "end": 8.65
+        },
+        {
+          "start": 8.65,
+          "end": 8.91
+        },
+        {
+          "start": 8.91,
+          "end": 9.57
+        },
+        {
+          "start": 9.57,
+          "end": 10.28
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.08,
+          "chars": [
+            11.08,
+            11.2338,
+            11.3877,
+            11.4338,
+            11.5877,
+            11.6338,
+            11.7877,
+            11.9415,
+            11.9877,
+            12.1415,
+            12.1877
+          ]
+        },
+        {
+          "start": 12.7415,
+          "chars": [
+            12.7415,
+            12.8954,
+            13.0492,
+            13.2031,
+            13.3569,
+            13.4031,
+            13.5569,
+            13.6031,
+            13.7569,
+            13.9108,
+            13.9569,
+            14.1108,
+            14.1569
+          ]
+        },
+        {
+          "start": 14.8108,
+          "chars": [
+            14.8108,
+            14.9646,
+            15.0108,
+            15.1646,
+            15.2108
+          ]
+        },
+        {
+          "start": 15.7146,
+          "chars": [
+            15.7146,
+            15.8685,
+            16.0223,
+            16.0685,
+            16.2223,
+            16.2685,
+            16.4223
+          ]
+        },
+        {
+          "start": 16.9762,
+          "chars": [
+            16.9762,
+            17.13,
+            17.1762,
+            17.33,
+            17.3762,
+            17.53,
+            17.6838,
+            17.73,
+            17.7762,
+            17.93,
+            17.9762,
+            18.13,
+            18.1762,
+            18.33,
+            18.4838,
+            18.6377
+          ]
+        },
+        {
+          "start": 19.1415,
+          "chars": [
+            19.1415,
+            19.2954,
+            19.3415,
+            19.4954,
+            19.5415,
+            19.6954,
+            19.8492,
+            19.8954,
+            19.9415,
+            20.0954,
+            20.1415,
+            20.2954,
+            20.3415,
+            20.4954,
+            20.6492,
+            20.8031,
+            20.9569
+          ]
+        },
+        {
+          "start": 21.6108,
+          "chars": [
+            21.6108,
+            21.7646,
+            21.8108,
+            21.9646,
+            22.0108,
+            22.1646,
+            22.3185,
+            22.3646,
+            22.4108,
+            22.5646,
+            22.7185,
+            22.8723,
+            23.0262,
+            23.0723,
+            23.2262,
+            23.2723,
+            23.4262
+          ]
+        },
+        {
+          "start": 23.98,
+          "chars": [
+            23.98,
+            24.1338,
+            24.2877,
+            24.3338,
+            24.4877,
+            24.5338,
+            24.6877,
+            24.7338,
+            24.78,
+            24.9338,
+            24.98,
+            25.0262,
+            25.18,
+            25.2262,
+            25.38,
+            25.4262
+          ]
+        },
+        {
+          "start": 25.93,
+          "chars": [
+            25.93,
+            26.0838,
+            26.2377,
+            26.3915,
+            26.5454,
+            26.5915,
+            26.7454,
+            26.8992,
+            27.0531,
+            27.2069,
+            27.2531,
+            27.4069,
+            27.5608,
+            27.7146,
+            27.8685,
+            28.0223,
+            28.1762
+          ]
+        },
+        {
+          "start": 28.93,
+          "chars": [
+            28.93,
+            29.0838,
+            29.2377,
+            29.3915,
+            29.5454,
+            29.6992,
+            29.7454,
+            29.8992,
+            30.0531,
+            30.2069,
+            30.3608,
+            30.4069,
+            30.5608,
+            30.7146,
+            30.8685,
+            31.0223,
+            31.1762,
+            31.2223,
+            31.3762,
+            31.53,
+            31.5762,
+            31.73,
+            31.7762,
+            31.93,
+            32.0838,
+            32.2377,
+            32.3915,
+            32.5454,
+            32.6992
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "A-fråga · Matte fortsättning 1b",
+    "text2": "HT 2012 · fråga 21",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

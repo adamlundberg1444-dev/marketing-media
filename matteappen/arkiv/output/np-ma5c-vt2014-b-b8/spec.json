@@ -1,0 +1,286 @@
+{
+  "slug": "np-ma5c-vt2014-b-b8",
+  "video": true,
+  "questionRef": {
+    "exam": "ma5c_vt2014_b",
+    "questionId": "b8",
+    "partId": "b8"
+  },
+  "concept": null,
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bestäm"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "minsta"
+      },
+      {
+        "text": "positiva"
+      },
+      {
+        "text": "talet"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "tex": "30 \\equiv x \\;(\\mathrm{mod}\\; 7)",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "x = resten när 30 delas med 7",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "30 = 4 · 7 + 2"
+    },
+    {
+      "text": "Resten är 2",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x = 2",
+      "emphasis": true
+    },
+    {
+      "text": "2",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 22.823,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 6.35
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.57
+        },
+        {
+          "start": 1.57,
+          "end": 2.03
+        },
+        {
+          "start": 2.03,
+          "end": 2.59
+        },
+        {
+          "start": 2.59,
+          "end": 3
+        },
+        {
+          "start": 3,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 3.72
+        },
+        {
+          "start": 3.72,
+          "end": 4.18
+        },
+        {
+          "start": 4.18,
+          "end": 5.55
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.35,
+          "chars": [
+            6.35,
+            6.5038,
+            6.55,
+            6.7038,
+            6.75,
+            6.9038,
+            7.0577,
+            7.2115,
+            7.3654,
+            7.5192,
+            7.6731,
+            7.7192,
+            7.8731,
+            8.0269,
+            8.1808,
+            8.2269,
+            8.3808,
+            8.5346,
+            8.5808,
+            8.7346,
+            8.8885,
+            9.0423,
+            9.1962,
+            9.35,
+            9.3962,
+            9.55,
+            9.7038,
+            9.8577,
+            9.9038
+          ]
+        },
+        {
+          "start": 10.5577,
+          "chars": [
+            10.5577,
+            10.7115,
+            10.8654,
+            10.9115,
+            11.0654,
+            11.1115,
+            11.2654,
+            11.3115,
+            11.4654,
+            11.5115,
+            11.6654,
+            11.7115,
+            11.8654,
+            11.9115
+          ]
+        },
+        {
+          "start": 12.4154,
+          "chars": [
+            12.4154,
+            12.5692,
+            12.7231,
+            12.8769,
+            13.0308,
+            13.1846,
+            13.3385,
+            13.3846,
+            13.5385,
+            13.6923,
+            13.7385
+          ]
+        },
+        {
+          "start": 14.3923,
+          "chars": [
+            14.3923,
+            14.5462,
+            14.5923,
+            14.7462,
+            14.7923
+          ]
+        },
+        {
+          "start": 15.2962,
+          "chars": [
+            15.2962
+          ]
+        },
+        {
+          "start": 16.05,
+          "chars": [
+            16.05,
+            16.2038,
+            16.3577,
+            16.5115,
+            16.6654,
+            16.7115,
+            16.8654,
+            17.0192,
+            17.1731,
+            17.3269,
+            17.4808,
+            17.5269,
+            17.6808,
+            17.8346,
+            17.8808,
+            18.0346,
+            18.0808,
+            18.2346,
+            18.3885,
+            18.5423,
+            18.6962,
+            18.85,
+            18.8962,
+            19.05,
+            19.2038,
+            19.3577,
+            19.5115,
+            19.6654,
+            19.8192
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte fördjupning",
+    "text2": "VT 2014 · fråga 8",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320
+  }
+}

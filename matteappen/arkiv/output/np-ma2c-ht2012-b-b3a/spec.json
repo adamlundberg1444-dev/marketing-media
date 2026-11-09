@@ -1,0 +1,310 @@
+{
+  "slug": "np-ma2c-ht2012-b-b3a",
+  "video": true,
+  "questionRef": {
+    "exam": "ma2c_ht2012_b",
+    "questionId": "b3",
+    "partId": "b3a"
+  },
+  "concept": {
+    "label": "Nollproduktmetoden",
+    "tex": "ab = 0 \\;\\Rightarrow\\; a = 0 \\;\\text{ eller }\\; b = 0"
+  },
+  "theme": {
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+    "ctaHidden": true,
+    "stamp": null,
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/matteappen/tiktok/assets/logo-app.png",
+      "text": "Integro Matematik"
+    }
+  },
+  "eyebrow": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Lös"
+      },
+      {
+        "text": "ekvationen"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "svara"
+      },
+      {
+        "text": "exakt."
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": " x^2 - 4x = 0 ",
+        "display": false
+      }
+    ],
+    "options": null,
+    "readUnderline": true,
+    "svarPrefix": "Svar:",
+    "noSvar": false,
+    "correctOption": null,
+    "points": "(1/0/0)",
+    "image": null,
+    "imageMax": null,
+    "questionReadTo": null
+  },
+  "writeLines": [
+    {
+      "text": "x^2 − 4x = 0",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "x · x − 4 · x = 0"
+    },
+    {
+      "text": "x(x − 4) = 0",
+      "pauseAfter": 0.5
+    },
+    {
+      "text": "x_1 = 0",
+      "pauseAfter": 0.4
+    },
+    {
+      "text": "x − 4 = 0"
+    },
+    {
+      "text": "x_2 = 4",
+      "emphasis": true
+    },
+    {
+      "text": "x_1 = 0 och x_2 = 4",
+      "answer": true,
+      "pauseAfter": 0.6
+    },
+    {
+      "text": "Fler gamla NP i appen Integro",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 25.332,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 5.24
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.08
+        },
+        {
+          "start": 2.08,
+          "end": 2.49
+        },
+        {
+          "start": 2.49,
+          "end": 3.25
+        },
+        {
+          "start": 3.25,
+          "end": 4.44
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.84,
+          "chars": [
+            6.84,
+            6.9938,
+            7.1477,
+            7.1938,
+            7.3477,
+            7.3938,
+            7.5477,
+            7.7015,
+            7.7477,
+            7.9015,
+            7.9477
+          ]
+        },
+        {
+          "start": 8.5015,
+          "chars": [
+            8.5015,
+            8.6554,
+            8.7015,
+            8.8554,
+            8.9015,
+            9.0554,
+            9.1015,
+            9.2554,
+            9.3015,
+            9.4554,
+            9.5015,
+            9.6554,
+            9.7015,
+            9.8554,
+            9.9015,
+            10.0554,
+            10.1015
+          ]
+        },
+        {
+          "start": 10.6054,
+          "chars": [
+            10.6054,
+            10.7592,
+            10.9131,
+            11.0669,
+            11.1131,
+            11.2669,
+            11.3131,
+            11.4669,
+            11.6208,
+            11.6669,
+            11.8208,
+            11.8669
+          ]
+        },
+        {
+          "start": 12.5208,
+          "chars": [
+            12.5208,
+            12.6746,
+            12.8285,
+            12.8746,
+            13.0285,
+            13.0746
+          ]
+        },
+        {
+          "start": 13.6285,
+          "chars": [
+            13.6285,
+            13.7823,
+            13.8285,
+            13.9823,
+            14.0285,
+            14.1823,
+            14.2285,
+            14.3823,
+            14.4285
+          ]
+        },
+        {
+          "start": 14.9323,
+          "chars": [
+            14.9323,
+            15.0862,
+            15.24,
+            15.2862,
+            15.44,
+            15.4862
+          ]
+        },
+        {
+          "start": 15.99,
+          "chars": [
+            15.99,
+            16.1438,
+            16.2977,
+            16.3438,
+            16.4977,
+            16.5438,
+            16.6977,
+            16.7438,
+            16.8977,
+            17.0515,
+            17.2054,
+            17.2515,
+            17.4054,
+            17.5592,
+            17.6054,
+            17.7592,
+            17.8054
+          ]
+        },
+        {
+          "start": 18.5592,
+          "chars": [
+            18.5592,
+            18.7131,
+            18.8669,
+            19.0208,
+            19.1746,
+            19.2208,
+            19.3746,
+            19.5285,
+            19.6823,
+            19.8362,
+            19.99,
+            20.0362,
+            20.19,
+            20.3438,
+            20.39,
+            20.5438,
+            20.59,
+            20.7438,
+            20.8977,
+            21.0515,
+            21.2054,
+            21.3592,
+            21.4054,
+            21.5592,
+            21.7131,
+            21.8669,
+            22.0208,
+            22.1746,
+            22.3285
+          ]
+        }
+      ],
+      "circle": null,
+      "concept": {
+        "start": 5.24,
+        "end": 6.34,
+        "hideAt": 13.24
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "label": {
+    "text": "E-fråga · Matte nivå 2c",
+    "text2": "HT 2012 · fråga 3",
+    "seconds": 3
+  },
+  "layout": {
+    "padTop": 0,
+    "floor": 320,
+    "compact": 0
+  }
+}
