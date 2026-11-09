@@ -14,7 +14,7 @@ Mappnamnet är appens nyckel i Marketing, med två undantag: `normo` är HPHome 
 | `matteappen`, `integro-norge`, `integro-osterrike` | Integro (Sverige, Norge, Österrike) |
 | `normo` | HPHome |
 | `monstringsappen` | Mönstringsappen |
-| `sesjontester`, `kutsunnat`, `musterung`, `stellung`, `aushebung`, `forsvarets-dag` | systerapparna (NO, FI, DE, CH, AT, DK) |
+| `sesjontester`, `kutsunnat`, `musterung`, `stellung`, `aushebung`, `forsvarets-dag` | systerapparna: Norge, Finland, Tyskland, Österrike, Schweiz, Danmark |
 | `polistull` | Polis- och Tullappen |
 | `aso`, `ovrigt` | bara arkiv |
 
