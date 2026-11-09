@@ -1,0 +1,33 @@
+{
+  "generated": "manuell test 2",
+  "start": "2026-06-12",
+  "days": 1,
+  "count": 1,
+  "posts": [
+    {
+      "app": "Mönstringsappen",
+      "appKey": "monstringsappen",
+      "date": "2026-06-12",
+      "time": "21:30:00",
+      "slug": "kubvikning_612302",
+      "label": "Kubvikning (seed 612302)",
+      "caption": "Klarar du denna mönstringsfråga? – Vik ihop figuren i huvudet 🧊\n\nSvara i kommentarerna 👇\n\n#mönstring #lumpen #försvarsmakten #värnplikt #pluggtok",
+      "hashtags": [
+        "#mönstring",
+        "#lumpen",
+        "#försvarsmakten",
+        "#värnplikt",
+        "#pluggtok"
+      ],
+      "answer": "C",
+      "slides": [
+        "monstringsappen/kubvikning_612302/slide-01.jpg",
+        "monstringsappen/kubvikning_612302/slide-02.jpg",
+        "monstringsappen/kubvikning_612302/slide-03.jpg",
+        "monstringsappen/kubvikning_612302/slide-04.jpg"
+      ],
+      "slidesIg": null,
+      "igTime": null
+    }
+  ]
+}
