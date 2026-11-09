@@ -1,0 +1,30 @@
+{
+  "slug": "tarningar_20263322",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hadde du klart sesjonen?",
+      "sub": "Vri dem i hodet 🎲",
+      "swipeText": "Sveip",
+      "bgImage": "bg/bg-07.png",
+      "bgScrim": "rgba(10,14,8,0.35)",
+      "badge": "Vanskelighetsgrad: Middels",
+      "badgeColor": "#0A0A0A"
+    },
+    {
+      "kind": "html",
+      "html": "\n    <div class=\"qhead\">Kan terningene være like?</div>\n    <div style=\"display:flex;justify-content:center;gap:48px;margin:24px 0 40px;\">\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:16px;\">\n      <div style=\"width:300px;height:300px;background:#FFFFFF;border-radius:32px;padding:24px;\"><svg viewBox=\"0 0 252 252\" width=\"252\" height=\"252\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"141.9,107.9 41.1,77.9 110.1,34.0 210.9,64.0\" fill=\"#dad5c7\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,218.0 141.9,107.9 210.9,64.0 210.9,174.1\" fill=\"#6c6962\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,218.0 41.1,188.0 41.1,77.9 141.9,107.9\" fill=\"#b1ada1\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"153.0,148.2 153.0,163.6 180.6,146.1 180.6,160.4 201.3,125.2 180.6,116.4 180.6,130.7\" fill=\"#15140f\"/><polygon points=\"101.3,58.5 98.8,60.3 96.9,62.2 95.6,64.2 95.0,66.2 94.9,68.3 95.5,70.4 96.7,72.4 98.5,74.4 100.8,76.2 103.7,77.8 107.0,79.3 110.8,80.6 114.9,81.7 119.4,82.5 124.0,83.1 128.7,83.4 133.5,83.4 138.3,83.1 142.9,82.6 147.4,81.8 151.6,80.8 155.4,79.6 158.8,78.1 161.8,76.5\" fill=\"#15140f\"/><polygon points=\"55.2,137.1 81.4,111.9 125.8,125.1 125.8,191.2 81.4,177.9\" fill=\"#15140f\"/></svg></div>\n      <div style=\"font-size:42px;font-weight:900;color:#FFFFFF;\">1</div>\n    </div>\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:16px;\">\n      <div style=\"width:300px;height:300px;background:#FFFFFF;border-radius:32px;padding:24px;\"><svg viewBox=\"0 0 252 252\" width=\"252\" height=\"252\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"141.9,107.9 41.1,77.9 110.1,34.0 210.9,64.0\" fill=\"#dad5c7\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"210.9,64.0 210.9,174.1 141.9,218.0 141.9,107.9\" fill=\"#6c6962\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"141.9,107.9 141.9,218.0 41.1,188.0 41.1,77.9\" fill=\"#b1ada1\" stroke=\"#15140f\" stroke-width=\"3.0\" stroke-linejoin=\"round\"/><polygon points=\"95.5,83.8 109.6,88.0 137.2,70.4 150.3,74.3 150.8,55.2 110.0,62.3 123.1,66.2\" fill=\"#15140f\"/><polygon points=\"199.9,90.9 199.9,161.3 190.2,167.4 190.2,141.0 153.0,164.7 153.0,147.1 190.2,123.4 190.2,97.0\" fill=\"#15140f\"/><polygon points=\"55.2,137.1 81.4,111.9 125.8,125.1 125.8,191.2 81.4,177.9\" fill=\"#15140f\"/></svg></div>\n      <div style=\"font-size:42px;font-weight:900;color:#FFFFFF;\">2</div>\n    </div></div>\n    <div style=\"display:flex;gap:26px;justify-content:center;\"><div style=\"min-width:300px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border:4px solid rgba(255,255,255,0.45);border-radius:28px;font-size:52px;font-weight:800;color:#FFFFFF;padding:34px 30px;\">Like</div><div style=\"min-width:300px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.12);border:4px solid rgba(255,255,255,0.45);border-radius:28px;font-size:52px;font-weight:800;color:#FFFFFF;padding:34px 30px;\">Ulike</div></div>",
+      "swipeText": "Sveip"
+    },
+    {
+      "kind": "html",
+      "html": "\n  <div style=\"display:flex;flex-direction:column;align-items:center;gap:46px;padding:0 30px;\">\n    <span style=\"background:#0A0A0A;color:#FFFFFF;font-size:34px;font-weight:900;letter-spacing:3px;text-transform:uppercase;padding:16px 36px;border-radius:100px;\">Ingen fasit 👀</span>\n    <div style=\"font-size:100px;font-weight:900;color:#FFFFFF;text-align:center;line-height:1.05;text-shadow:0 6px 22px rgba(0,0,0,0.35);\">Hva sier du?</div>\n    <div style=\"position:relative;background:#FFFFFF;border-radius:36px;padding:40px 48px;max-width:830px;box-shadow:0 14px 36px rgba(0,0,0,0.18);\">\n      <div style=\"font-size:46px;font-weight:700;color:#0A0A0A;text-align:center;line-height:1.35;\">Skriv gjetningen din i kommentarene og sammenlign med de andre</div>\n      <div style=\"position:absolute;left:84px;bottom:-27px;width:0;height:0;border-left:24px solid transparent;border-right:24px solid transparent;border-top:30px solid #FFFFFF;\"></div>\n    </div>\n    <div style=\"font-size:78px;margin-top:6px;\">💬 👇</div>\n  </div>",
+      "swipeText": "Sveip"
+    },
+    {
+      "kind": "cta",
+      "title": "En ny sesjonsøvelse hver dag"
+    }
+  ],
+  "theme": "camo"
+}
