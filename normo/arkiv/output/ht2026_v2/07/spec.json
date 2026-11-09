@@ -1,0 +1,188 @@
+{
+  "slug": "hp-ord-8fe210b2",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "8fe210b2-3126-4ea9-9ee3-0b1337b5a823"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 7 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "morän"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "dalgång"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "ismassa"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "liten"
+          },
+          {
+            "text": "sjö"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "fjällbäck"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "jordart"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "jordart",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 13.238,
+    "phases": {
+      "readStart": 1.658,
+      "writeStart": 2.265
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.658,
+          "end": 2.007
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 2.265,
+          "chars": [
+            2.265,
+            2.535,
+            2.805,
+            3.075,
+            3.345,
+            3.615,
+            3.885
+          ]
+        },
+        {
+          "start": 6.129,
+          "chars": [
+            6.129,
+            6.3495,
+            6.5701,
+            6.7906,
+            7.0111,
+            7.0773,
+            7.2978,
+            7.5183,
+            7.7388,
+            7.9594,
+            8.1799,
+            8.4004,
+            8.6209,
+            8.8415,
+            9.062,
+            9.1282,
+            9.3487,
+            9.4148,
+            9.6354,
+            9.8559,
+            10.0764,
+            10.2969,
+            10.5175
+          ]
+        }
+      ],
+      "circle": {
+        "start": 4.884,
+        "end": 5.859
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

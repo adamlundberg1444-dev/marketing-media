@@ -1,0 +1,584 @@
+{
+  "slug": "hp-dtk-afb36943",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "afb36943-cbc2-4660-a990-3ec33cd84072"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK · fråga 31 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "motsvarade"
+      },
+      {
+        "text": "1/8"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "svenska"
+      },
+      {
+        "text": "industrins"
+      },
+      {
+        "text": "totala"
+      },
+      {
+        "text": "vattenanvändning?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "havsvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Västra"
+          },
+          {
+            "text": "Götalands"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "ytvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Gävleborgs"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "havsvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Västerbottens"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "ytvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Norrbottens"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/afb36943-cbc2-4660-a990-3ec33cd84072.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{2\\,262\\,000}{8} = \\frac{1\\,131\\,000}{4}"
+    },
+    {
+      "text": "= \\frac{565\\,500}{2} = 282\\,750",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 36.654,
+    "phases": {
+      "readStart": 1.352,
+      "writeStart": 12.258
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.352,
+          "end": 1.689
+        },
+        {
+          "start": 1.747,
+          "end": 1.793
+        },
+        {
+          "start": 1.828,
+          "end": 2.188
+        },
+        {
+          "start": 2.234,
+          "end": 2.768
+        },
+        {
+          "start": 2.768,
+          "end": 3.453
+        },
+        {
+          "start": 3.453,
+          "end": 3.511
+        },
+        {
+          "start": 3.546,
+          "end": 3.616
+        },
+        {
+          "start": 3.651,
+          "end": 3.976
+        },
+        {
+          "start": 4.011,
+          "end": 4.51
+        },
+        {
+          "start": 4.556,
+          "end": 4.951
+        },
+        {
+          "start": 5.009,
+          "end": 5.857
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.258,
+          "chars": [
+            12.258,
+            12.4948,
+            12.5659,
+            12.8027,
+            13.0395,
+            13.2764,
+            13.3474,
+            13.5842,
+            13.8211,
+            14.0579,
+            14.2947,
+            14.5315,
+            14.6026,
+            14.8394,
+            14.9105,
+            15.1473,
+            15.2183,
+            15.4552,
+            15.692,
+            15.9288,
+            15.9999,
+            16.2367,
+            16.4735,
+            16.7103,
+            16.9472
+          ]
+        },
+        {
+          "start": 17.184,
+          "chars": [
+            17.184,
+            17.424,
+            17.496,
+            17.736,
+            17.976,
+            18.216,
+            18.288,
+            18.528,
+            18.768,
+            19.008,
+            19.248,
+            19.488,
+            19.56,
+            19.8,
+            19.872,
+            20.112,
+            20.352,
+            20.592,
+            20.664,
+            20.904,
+            21.144
+          ]
+        },
+        {
+          "start": 33.11,
+          "chars": [
+            33.11,
+            33.1815,
+            33.253,
+            33.3245,
+            33.396,
+            33.4675,
+            33.489,
+            33.5605,
+            33.632,
+            33.7035,
+            33.725,
+            33.7965,
+            33.868,
+            33.9395,
+            34.011,
+            34.0825
+          ]
+        }
+      ],
+      "circle": {
+        "start": 31.997,
+        "end": 32.752
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 6.898,
+          "end": 7.648,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.012,
+                  0.896
+                ],
+                [
+                  0.988,
+                  0.896
+                ],
+                [
+                  0.988,
+                  0.924
+                ],
+                [
+                  0.012,
+                  0.924
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 7.998,
+          "end": 8.748,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.879,
+                  0.896
+                ],
+                [
+                  0.988,
+                  0.896
+                ],
+                [
+                  0.988,
+                  0.924
+                ],
+                [
+                  0.879,
+                  0.924
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 24.677,
+          "end": 25.427,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.53,
+                  0.7613000000000001
+                ],
+                [
+                  0.618,
+                  0.7613000000000001
+                ],
+                [
+                  0.618,
+                  0.7863
+                ],
+                [
+                  0.53,
+                  0.7863
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.651,
+          "end": 26.401,
+          "targets": [
+            {
+              "cross": [
+                0.512,
+                0.7738
+              ],
+              "r": 0.008,
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 26.625,
+          "end": 27.375,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.65,
+                  0.8294
+                ],
+                [
+                  0.727,
+                  0.8294
+                ],
+                [
+                  0.727,
+                  0.8543999999999999
+                ],
+                [
+                  0.65,
+                  0.8543999999999999
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 27.599,
+          "end": 28.349,
+          "targets": [
+            {
+              "cross": [
+                0.634,
+                0.8419
+              ],
+              "r": 0.008,
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 28.574,
+          "end": 29.324,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.529,
+                  0.8525
+                ],
+                [
+                  0.618,
+                  0.8525
+                ],
+                [
+                  0.618,
+                  0.8775
+                ],
+                [
+                  0.529,
+                  0.8775
+                ]
+              ],
+              "color": "orange",
+              "mi": 6
+            }
+          ]
+        },
+        {
+          "start": 29.548,
+          "end": 30.298,
+          "targets": [
+            {
+              "cross": [
+                0.512,
+                0.865
+              ],
+              "r": 0.008,
+              "mi": 7
+            }
+          ]
+        },
+        {
+          "start": 30.522,
+          "end": 31.272,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.637,
+                  0.647
+                ],
+                [
+                  0.727,
+                  0.647
+                ],
+                [
+                  0.727,
+                  0.672
+                ],
+                [
+                  0.637,
+                  0.672
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 8
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.298,
+          "end": 11.333,
+          "omrade": [
+            0,
+            0.86,
+            1,
+            0.94
+          ]
+        },
+        {
+          "start": 24.077,
+          "end": 32.272,
+          "omrade": [
+            0,
+            0.6455,
+            0.74,
+            0.88
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

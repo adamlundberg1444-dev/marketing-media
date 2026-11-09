@@ -1,0 +1,625 @@
+{
+  "slug": "hp-nog-5a2344d7",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "5a2344d7-a60d-4264-9659-066b59b09c74"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.9,
+    "optionGapScale": 0.7,
+    "optionIndent": 0,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "NOG · fråga 23 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "nog"
+    ],
+    "text": "Frågan är om informationen räcker, inte vad svaret blir."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "liter"
+      },
+      {
+        "text": "mjölk"
+      },
+      {
+        "text": "såldes"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "butiken"
+      },
+      {
+        "text": "idag?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "text": "Det"
+      },
+      {
+        "text": "såldes"
+      },
+      {
+        "text": "18"
+      },
+      {
+        "text": "liter"
+      },
+      {
+        "text": "mer"
+      },
+      {
+        "text": "mjölk"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "butiken"
+      },
+      {
+        "text": "igår"
+      },
+      {
+        "text": "än"
+      },
+      {
+        "text": "idag."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "text": "Igår"
+      },
+      {
+        "text": "såldes"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "48"
+      },
+      {
+        "text": "liter"
+      },
+      {
+        "text": "mjölk"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "butiken,"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "60"
+      },
+      {
+        "text": "%"
+      },
+      {
+        "text": "mer"
+      },
+      {
+        "text": "än"
+      },
+      {
+        "text": "vad"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "såldes"
+      },
+      {
+        "text": "idag."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 39,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "(1) igår = idag + 18"
+    },
+    {
+      "text": "(2) 1,6 · idag = 48: räcker",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 38.419,
+    "phases": {
+      "readStart": 3.895,
+      "writeStart": 21.976
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.895,
+          "end": 4.034
+        },
+        {
+          "start": 4.069,
+          "end": 4.243
+        },
+        {
+          "start": 4.266,
+          "end": 4.475
+        },
+        {
+          "start": 4.498,
+          "end": 4.731
+        },
+        {
+          "start": 4.777,
+          "end": 5.044
+        },
+        {
+          "start": 5.067,
+          "end": 5.09
+        },
+        {
+          "start": 5.125,
+          "end": 5.52
+        },
+        {
+          "start": 5.543,
+          "end": 5.903
+        },
+        {
+          "start": 5.903,
+          "end": 7.633
+        },
+        {
+          "start": 7.633,
+          "end": 7.738
+        },
+        {
+          "start": 7.772,
+          "end": 8.063
+        },
+        {
+          "start": 8.144,
+          "end": 8.388
+        },
+        {
+          "start": 8.504,
+          "end": 8.736
+        },
+        {
+          "start": 8.771,
+          "end": 8.887
+        },
+        {
+          "start": 8.922,
+          "end": 9.177
+        },
+        {
+          "start": 9.212,
+          "end": 9.235
+        },
+        {
+          "start": 9.27,
+          "end": 9.688
+        },
+        {
+          "start": 9.723,
+          "end": 10.001
+        },
+        {
+          "start": 10.048,
+          "end": 10.152
+        },
+        {
+          "start": 10.199,
+          "end": 10.617
+        },
+        {
+          "start": 10.617,
+          "end": 11.847
+        },
+        {
+          "start": 11.847,
+          "end": 12.138
+        },
+        {
+          "start": 12.196,
+          "end": 12.486
+        },
+        {
+          "start": 12.532,
+          "end": 12.625
+        },
+        {
+          "start": 12.741,
+          "end": 13.24
+        },
+        {
+          "start": 13.333,
+          "end": 13.566
+        },
+        {
+          "start": 13.589,
+          "end": 13.833
+        },
+        {
+          "start": 13.879,
+          "end": 13.902
+        },
+        {
+          "start": 13.937,
+          "end": 14.576
+        },
+        {
+          "start": 14.854,
+          "end": 15.249
+        },
+        {
+          "start": 15.33,
+          "end": 15.4
+        },
+        {
+          "start": 15.516,
+          "end": 15.853
+        },
+        {
+          "start": 15.853,
+          "end": 16.329
+        },
+        {
+          "start": 16.329,
+          "end": 16.538
+        },
+        {
+          "start": 16.573,
+          "end": 16.619
+        },
+        {
+          "start": 16.642,
+          "end": 16.735
+        },
+        {
+          "start": 16.758,
+          "end": 16.851
+        },
+        {
+          "start": 16.898,
+          "end": 17.211
+        },
+        {
+          "start": 17.258,
+          "end": 17.641
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 21.976,
+          "chars": [
+            21.976,
+            22.1604,
+            22.3447,
+            22.5291,
+            22.5844,
+            22.7688,
+            22.9531,
+            23.1375,
+            23.3219,
+            23.3772,
+            23.5615,
+            23.6168,
+            23.8012,
+            23.9856,
+            24.1699,
+            24.3543,
+            24.4096,
+            24.594,
+            24.6493,
+            24.8336
+          ]
+        },
+        {
+          "start": 25.659,
+          "chars": [
+            25.659,
+            25.8944,
+            26.1297,
+            26.3651,
+            26.4357,
+            26.671,
+            26.9064,
+            27.1417,
+            27.2123,
+            27.4477,
+            27.5183,
+            27.7536,
+            27.989,
+            28.2243,
+            28.4597,
+            28.5303,
+            28.7656,
+            28.8362,
+            29.0716,
+            29.3069,
+            29.5423,
+            29.6129,
+            29.8482,
+            30.0836,
+            30.3189,
+            30.5543,
+            30.7896
+          ]
+        },
+        {
+          "start": 33.922,
+          "chars": [
+            33.922,
+            34.0476,
+            34.1732,
+            34.2988,
+            34.4244,
+            34.55,
+            34.5877,
+            34.7133,
+            34.8389,
+            34.9645,
+            35.0021,
+            35.1277,
+            35.1654,
+            35.291,
+            35.4166,
+            35.5422,
+            35.6678,
+            35.7934
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.956,
+        "end": 33.675
+      },
+      "options": {
+        "hideAt": 21.676,
+        "showAt": 32.056
+      },
+      "concept": {
+        "start": 18.282,
+        "end": 21.393,
+        "hideAt": 25.818
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 25.659,
+          "end": 26.409,
+          "targets": [
+            {
+              "w": 31
+            },
+            {
+              "w": 32
+            },
+            {
+              "w": 33
+            },
+            {
+              "w": 34
+            },
+            {
+              "w": 35
+            },
+            {
+              "w": 36
+            },
+            {
+              "w": 37
+            },
+            {
+              "w": 38
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

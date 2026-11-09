@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20261673",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-26.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "associera",
+      "options": [
+        "förknippa",
+        "klaga och jämra sig",
+        "avvisa, t.ex en bok",
+        "stelna, om blod"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "associera",
+      "options": [
+        "förknippa",
+        "klaga och jämra sig",
+        "avvisa, t.ex en bok",
+        "stelna, om blod"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "matiné",
+      "options": [
+        "föreställning på dagen",
+        "dörrförhänge",
+        "stackmoln",
+        "läran om kroppsvävnader"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "matiné",
+      "options": [
+        "föreställning på dagen",
+        "dörrförhänge",
+        "stackmoln",
+        "läran om kroppsvävnader"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "huvudbry",
+      "options": [
+        "kortsida på hus",
+        "resistans hos växelström",
+        "språk typisk för grupp",
+        "tankemöda"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "huvudbry",
+      "options": [
+        "kortsida på hus",
+        "resistans hos växelström",
+        "språk typisk för grupp",
+        "tankemöda"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "inkontinens",
+      "options": [
+        "gräns",
+        "pilfodral",
+        "djurvärld",
+        "oförmåga att hålla sig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "inkontinens",
+      "options": [
+        "gräns",
+        "pilfodral",
+        "djurvärld",
+        "oförmåga att hålla sig"
+      ],
+      "correct": 3,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "slug": "hp-dtk-93b4d131",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "93b4d131-70e9-4af5-bf16-2d760b644853"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK · fråga 29 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "var"
+      },
+      {
+        "text": "industrins"
+      },
+      {
+        "text": "vattenanvändning"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Västernorrlands"
+      },
+      {
+        "text": "län"
+      },
+      {
+        "text": "jämfört"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Uppsala"
+      },
+      {
+        "text": "län?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 13,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Fem"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Sex"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Sju"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Åtta"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/93b4d131-70e9-4af5-bf16-2d760b644853.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{336\\,724}{42\\,105} ≈ \\frac{336}{42}"
+    },
+    {
+      "text": "42 · 8 = 336",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 36.283,
+    "phases": {
+      "readStart": 4.394,
+      "writeStart": 19.264
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.394,
+          "end": 4.498
+        },
+        {
+          "start": 4.533,
+          "end": 4.8
+        },
+        {
+          "start": 4.87,
+          "end": 5.021
+        },
+        {
+          "start": 5.079,
+          "end": 5.578
+        },
+        {
+          "start": 5.636,
+          "end": 6.391
+        },
+        {
+          "start": 6.46,
+          "end": 6.507
+        },
+        {
+          "start": 6.565,
+          "end": 7.227
+        },
+        {
+          "start": 7.285,
+          "end": 7.587
+        },
+        {
+          "start": 7.761,
+          "end": 8.144
+        },
+        {
+          "start": 8.19,
+          "end": 8.295
+        },
+        {
+          "start": 8.33,
+          "end": 8.353
+        },
+        {
+          "start": 8.411,
+          "end": 8.794
+        },
+        {
+          "start": 8.852,
+          "end": 9.328
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 19.264,
+          "chars": [
+            19.264,
+            19.5013,
+            19.7387,
+            19.976,
+            20.0472,
+            20.2845,
+            20.5218,
+            20.7592,
+            20.9965,
+            21.2338,
+            21.4711,
+            21.5423,
+            21.7797,
+            22.017,
+            22.2543,
+            22.3255,
+            22.5628,
+            22.634,
+            22.8714,
+            23.1087,
+            23.346,
+            23.5833,
+            23.8207
+          ]
+        },
+        {
+          "start": 26.605,
+          "chars": [
+            26.605,
+            26.863,
+            27.1211,
+            27.1985,
+            27.4565,
+            27.534,
+            27.792,
+            27.8694,
+            28.1275,
+            28.2049,
+            28.4629,
+            28.721
+          ]
+        },
+        {
+          "start": 32.692,
+          "chars": [
+            32.692,
+            32.7606,
+            32.8292,
+            32.8978,
+            32.9665,
+            33.0351,
+            33.0557,
+            33.1243,
+            33.1929,
+            33.2615,
+            33.2821,
+            33.3507,
+            33.3713,
+            33.4399,
+            33.5085,
+            33.5772,
+            33.6458,
+            33.7144
+          ]
+        }
+      ],
+      "circle": {
+        "start": 30.72,
+        "end": 32.345
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 10.625,
+          "end": 11.375,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.918,
+                  0.33
+                ],
+                [
+                  0.994,
+                  0.33
+                ],
+                [
+                  0.994,
+                  0.358
+                ],
+                [
+                  0.918,
+                  0.358
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 14.299,
+          "end": 15.049,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.012,
+                  0.419
+                ],
+                [
+                  0.986,
+                  0.419
+                ],
+                [
+                  0.986,
+                  0.445
+                ],
+                [
+                  0.012,
+                  0.445
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 15.396,
+          "end": 16.146,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.907,
+                  0.419
+                ],
+                [
+                  0.986,
+                  0.419
+                ],
+                [
+                  0.986,
+                  0.445
+                ],
+                [
+                  0.907,
+                  0.445
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 16.492,
+          "end": 17.242,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.012,
+                  0.783
+                ],
+                [
+                  0.986,
+                  0.783
+                ],
+                [
+                  0.986,
+                  0.809
+                ],
+                [
+                  0.012,
+                  0.809
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 17.589,
+          "end": 18.339,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.895,
+                  0.783
+                ],
+                [
+                  0.986,
+                  0.783
+                ],
+                [
+                  0.986,
+                  0.809
+                ],
+                [
+                  0.895,
+                  0.809
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 10.025,
+          "end": 13.295,
+          "omrade": [
+            0,
+            0.215,
+            1,
+            0.455
+          ]
+        },
+        {
+          "start": 13.899,
+          "end": 19.114,
+          "omrade": [
+            0,
+            0.392,
+            1,
+            0.811
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20260703",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-27.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "percipiera",
+      "options": [
+        "förnimma",
+        "lära in",
+        "snygga till",
+        "dela in"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "percipiera",
+      "options": [
+        "förnimma",
+        "lära in",
+        "snygga till",
+        "dela in"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "permittera",
+      "options": [
+        "stelna",
+        "smycka",
+        "hoppa över",
+        "avskeda; ge ledigt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "permittera",
+      "options": [
+        "stelna",
+        "smycka",
+        "hoppa över",
+        "avskeda; ge ledigt"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "mycel",
+      "options": [
+        "befallning, påbud",
+        "svamps underjordstrådar",
+        "levnadsbeskrivning",
+        "minspel"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "mycel",
+      "options": [
+        "befallning, påbud",
+        "svamps underjordstrådar",
+        "levnadsbeskrivning",
+        "minspel"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "ritsa",
+      "options": [
+        "intala",
+        "lösa fredligt",
+        "avstå från",
+        "göra repor"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ritsa",
+      "options": [
+        "intala",
+        "lösa fredligt",
+        "avstå från",
+        "göra repor"
+      ],
+      "correct": 3,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

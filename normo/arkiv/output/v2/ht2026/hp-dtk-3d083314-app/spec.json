@@ -1,0 +1,524 @@
+{
+  "slug": "hp-dtk-3d083314-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "3d083314-bcff-4779-8ea5-a6a0f08bf12e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Jämför"
+      },
+      {
+        "text": "värdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "försäljningen"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "utlandet"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "värdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "inköpen"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "utlandet"
+      },
+      {
+        "text": "inom"
+      },
+      {
+        "text": "verkstadsindustrin."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "var"
+      },
+      {
+        "text": "skillnaden?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 18,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "180"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "kronor"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "349"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "kronor"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "589"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "kronor"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "1"
+          },
+          {
+            "text": "196"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "kronor"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/3d083314-bcff-4779-8ea5-a6a0f08bf12e.png",
+    "imageMax": 860
+  },
+  "writeLines": [
+    {
+      "text": "skillnad = försäljning - inköp"
+    },
+    {
+      "text": "492 - 143 = 349",
+      "rod": [
+        "- 143"
+      ],
+      "emphasis": true,
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025"
+      }
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 51.28,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 31.88
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.54
+        },
+        {
+          "start": 0.6,
+          "end": 0.94
+        },
+        {
+          "start": 0.98,
+          "end": 1.06
+        },
+        {
+          "start": 1.1,
+          "end": 1.7
+        },
+        {
+          "start": 1.74,
+          "end": 1.84
+        },
+        {
+          "start": 1.94,
+          "end": 2.74
+        },
+        {
+          "start": 2.78,
+          "end": 2.88
+        },
+        {
+          "start": 2.94,
+          "end": 3.3
+        },
+        {
+          "start": 3.36,
+          "end": 3.44
+        },
+        {
+          "start": 3.52,
+          "end": 4.24
+        },
+        {
+          "start": 4.3,
+          "end": 4.48
+        },
+        {
+          "start": 4.56,
+          "end": 5.3
+        },
+        {
+          "start": 5.4,
+          "end": 5.7
+        },
+        {
+          "start": 5.76,
+          "end": 6.9
+        },
+        {
+          "start": 7.76,
+          "end": 7.92
+        },
+        {
+          "start": 8,
+          "end": 8.24
+        },
+        {
+          "start": 8.3,
+          "end": 8.46
+        },
+        {
+          "start": 8.5,
+          "end": 9.18
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 31.88,
+          "chars": [
+            31.88,
+            32.1129,
+            32.3457,
+            32.5786,
+            32.8115,
+            33.0443,
+            33.2772,
+            33.5101,
+            33.7429,
+            33.8128,
+            34.0457,
+            34.1155,
+            34.3484,
+            34.5813,
+            34.8141,
+            35.047,
+            35.2799,
+            35.5127,
+            35.7456,
+            35.9785,
+            36.2113,
+            36.4442,
+            36.6771,
+            36.7469,
+            36.9798,
+            37.0497,
+            37.2825,
+            37.5154,
+            37.7483,
+            37.9811
+          ]
+        },
+        {
+          "start": 41.2,
+          "chars": [
+            41.2,
+            41.4487,
+            41.6974,
+            41.9461,
+            42.0207,
+            42.2694,
+            42.344,
+            42.5927,
+            42.8413,
+            43.09,
+            43.1646,
+            43.4133,
+            43.4879,
+            43.7366,
+            43.9853
+          ]
+        },
+        {
+          "start": 50.08,
+          "chars": [
+            50.08,
+            50.0918,
+            50.1037,
+            50.1155,
+            50.1273,
+            50.1392,
+            50.1427,
+            50.1546,
+            50.1664,
+            50.1782,
+            50.1901,
+            50.1936,
+            50.2054,
+            50.209,
+            50.2208,
+            50.2327,
+            50.2445,
+            50.2563,
+            50.2682
+          ]
+        }
+      ],
+      "circle": {
+        "start": 48.76,
+        "end": 49.78
+      },
+      "options": {
+        "hideAt": 9.96,
+        "showAt": 47.86
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.1,
+          "end": 1.85,
+          "targets": [
+            {
+              "w": 3,
+              "from": "försäljningen",
+              "color": "lila"
+            },
+            {
+              "w": 4,
+              "from": "försäljningen",
+              "color": "lila"
+            },
+            {
+              "w": 5,
+              "from": "försäljningen",
+              "color": "lila"
+            }
+          ]
+        },
+        {
+          "start": 3.52,
+          "end": 4.27,
+          "targets": [
+            {
+              "w": 9,
+              "from": "inköpen",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "inköpen",
+              "color": "gul"
+            },
+            {
+              "w": 11,
+              "from": "inköpen",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 5.76,
+          "end": 6.51,
+          "targets": [
+            {
+              "w": 13,
+              "from": "verkstadsindustrin",
+              "color": "blå"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 11.66,
+          "end": 12.41,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.165,
+                0.654,
+                0.524,
+                0.671
+              ],
+              "from": "Verkstadsindustrin",
+              "color": "blå",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 22.22,
+          "end": 22.97,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.31,
+                0.873,
+                0.377,
+                0.886
+              ],
+              "from": "Utlandet",
+              "color": "blå",
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 24.22,
+          "end": 24.97,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.258,
+                0.864,
+                0.287,
+                0.878
+              ],
+              "from": "143",
+              "color": "gul",
+              "keep": true,
+              "seg": 2,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 27.44,
+          "end": 28.19,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.403,
+                0.874,
+                0.436,
+                0.887
+              ],
+              "from": "492",
+              "color": "lila",
+              "keep": true,
+              "seg": 2,
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 10.66,
+          "end": 29.78,
+          "omrade": [
+            0.15,
+            0.65,
+            0.6,
+            0.92
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 50.03
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 860,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

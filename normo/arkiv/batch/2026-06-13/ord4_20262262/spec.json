@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20262262",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-25.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "ansätta",
+      "options": [
+        "återge en tjänst",
+        "plåga",
+        "mångfaldiga",
+        "envist försöka övertala"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ansätta",
+      "options": [
+        "återge en tjänst",
+        "plåga",
+        "mångfaldiga",
+        "envist försöka övertala"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "logotyp",
+      "options": [
+        "trädgårdsskötsel",
+        "firmamärke",
+        "ytvidd",
+        "hop"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "logotyp",
+      "options": [
+        "trädgårdsskötsel",
+        "firmamärke",
+        "ytvidd",
+        "hop"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "pionjär",
+      "options": [
+        "stor mängd",
+        "tablett",
+        "blodshämnd, arvsfejd",
+        "som startar något nytt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "pionjär",
+      "options": [
+        "stor mängd",
+        "tablett",
+        "blodshämnd, arvsfejd",
+        "som startar något nytt"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "immunitet",
+      "options": [
+        "styrkande dryck",
+        "svaghet för något",
+        "skydd",
+        "ett stycke fraktgods"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "immunitet",
+      "options": [
+        "styrkande dryck",
+        "svaghet för något",
+        "skydd",
+        "ett stycke fraktgods"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

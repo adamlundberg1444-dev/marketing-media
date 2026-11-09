@@ -1,0 +1,223 @@
+{
+  "slug": "hp-ord-bff34f9a-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "bff34f9a-2ccf-4cec-bcdd-736949ef2d48"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "skede"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "tillvaro"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "tidsperiod"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "område"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "berättelse"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ordning"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "skede = tidsperiod, fas",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 32.54,
+    "phases": {
+      "readStart": 0.16,
+      "writeStart": 20.7
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.16,
+          "end": 0.9
+        },
+        {
+          "start": 0.9,
+          "end": 0.9
+        },
+        {
+          "start": 0.9,
+          "end": 0.9
+        },
+        {
+          "start": 0.9,
+          "end": 0.9
+        },
+        {
+          "start": 0.9,
+          "end": 0.9
+        },
+        {
+          "start": 0.9,
+          "end": 0.9
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 20.7,
+          "chars": [
+            20.7,
+            20.9367,
+            21.1735,
+            21.4102,
+            21.647,
+            21.8837,
+            21.9548,
+            22.1915,
+            22.2625,
+            22.4993,
+            22.736,
+            22.9728,
+            23.2095,
+            23.4463,
+            23.683,
+            23.9198,
+            24.1565,
+            24.3932,
+            24.63,
+            24.8667,
+            24.9378,
+            25.1745,
+            25.4113
+          ]
+        },
+        {
+          "start": 31.1,
+          "chars": [
+            31.1,
+            31.1142,
+            31.1284,
+            31.1426,
+            31.1568,
+            31.171,
+            31.1753,
+            31.1895,
+            31.2037,
+            31.2179,
+            31.2321,
+            31.2363,
+            31.2505,
+            31.2548,
+            31.269,
+            31.2832,
+            31.2974,
+            31.3116,
+            31.3258
+          ]
+        }
+      ],
+      "circle": {
+        "start": 29.22,
+        "end": 31.04
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.16,
+          "end": 0.9,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Skede"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 31.05
+  },
+  "layout": {},
+  "variant": "app"
+}

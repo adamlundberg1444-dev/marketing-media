@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20263128",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-29.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "titanisk",
+      "options": [
+        "lättrörd",
+        "jättelik",
+        "syndig och omoralisk",
+        "färgstark"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "titanisk",
+      "options": [
+        "lättrörd",
+        "jättelik",
+        "syndig och omoralisk",
+        "färgstark"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "sammelsurium",
+      "options": [
+        "infinit verbform",
+        "levandsbeskrivning",
+        "virrvarr",
+        "påvlig skrivelse"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "sammelsurium",
+      "options": [
+        "infinit verbform",
+        "levandsbeskrivning",
+        "virrvarr",
+        "påvlig skrivelse"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "outgrundlig",
+      "options": [
+        "likartad",
+        "om läppljud",
+        "svårbegriplig",
+        "stilig och elegant"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "outgrundlig",
+      "options": [
+        "likartad",
+        "om läppljud",
+        "svårbegriplig",
+        "stilig och elegant"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "en face",
+      "options": [
+        "i evighet",
+        "rakt framifrån",
+        "utan påskrift",
+        "sammanlagt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "en face",
+      "options": [
+        "i evighet",
+        "rakt framifrån",
+        "utan påskrift",
+        "sammanlagt"
+      ],
+      "correct": 1,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

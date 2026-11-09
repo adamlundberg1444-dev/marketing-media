@@ -1,0 +1,792 @@
+{
+  "slug": "hp-mek-20079df4-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "20079df4-abfd-4f86-9a5a-79ec64a5c412"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "Gogols"
+      },
+      {
+        "text": "pjäs"
+      },
+      {
+        "text": "Revisorn"
+      },
+      {
+        "text": "blir"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "man"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "genomresa"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "mindre"
+      },
+      {
+        "text": "landsortsstad"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "orten"
+      },
+      {
+        "text": "väntade"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "fruktade"
+      },
+      {
+        "text": "revisorn,"
+      },
+      {
+        "text": "statens"
+      },
+      {
+        "text": "kontrollant."
+      },
+      {
+        "text": "Byborna"
+      },
+      {
+        "text": "gör"
+      },
+      {
+        "text": "sitt"
+      },
+      {
+        "text": "yttersta"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "mannen,"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "själva"
+      },
+      {
+        "text": "verket"
+      },
+      {
+        "text": "utfattige"
+      },
+      {
+        "text": "”bedragaren”"
+      },
+      {
+        "text": "gärna"
+      },
+      {
+        "text": "går"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "på."
+      },
+      {
+        "text": "Elegant"
+      },
+      {
+        "text": "avslöjar"
+      },
+      {
+        "text": "Gogol"
+      },
+      {
+        "text": "vår"
+      },
+      {
+        "text": "benägenhet"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "överheten."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 54,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "avslöjad"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "undvika"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "hymla"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "misstänkt"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "utnyttja"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "låtsas"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "tagen"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "behaga"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "krypa"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "gömd"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "förändra"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "enas"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "tagen",
+      "behaga",
+      "krypa"
+    ],
+    "gapFarg": [
+      "blå",
+      "gul",
+      "lila"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "tagen för = förväxlad med",
+      "emphasis": true
+    },
+    {
+      "text": "krypa för = vara inställsam"
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 67.45,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 58.32
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.18
+        },
+        {
+          "start": 0.24,
+          "end": 0.64
+        },
+        {
+          "start": 0.68,
+          "end": 0.96
+        },
+        {
+          "start": 1.06,
+          "end": 1.74
+        },
+        {
+          "start": 1.98,
+          "end": 2.2
+        },
+        {
+          "start": 2.24,
+          "end": 2.34
+        },
+        {
+          "start": 2.4,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.6726
+        },
+        {
+          "start": 2.6726,
+          "end": 2.7
+        },
+        {
+          "start": 2.7,
+          "end": 2.78
+        },
+        {
+          "start": 2.84,
+          "end": 3.66
+        },
+        {
+          "start": 3.66,
+          "end": 3.9472
+        },
+        {
+          "start": 3.9472,
+          "end": 4.2867
+        },
+        {
+          "start": 4.2867,
+          "end": 4.8872
+        },
+        {
+          "start": 4.8872,
+          "end": 5.9447
+        },
+        {
+          "start": 5.9447,
+          "end": 6.48
+        },
+        {
+          "start": 6.48,
+          "end": 6.58
+        },
+        {
+          "start": 6.62,
+          "end": 6.76
+        },
+        {
+          "start": 6.76,
+          "end": 6.7833
+        },
+        {
+          "start": 6.7833,
+          "end": 6.82
+        },
+        {
+          "start": 6.82,
+          "end": 7.38
+        },
+        {
+          "start": 7.42,
+          "end": 7.48
+        },
+        {
+          "start": 7.54,
+          "end": 8.1
+        },
+        {
+          "start": 8.14,
+          "end": 9.04
+        },
+        {
+          "start": 9.04,
+          "end": 9.3064
+        },
+        {
+          "start": 9.3064,
+          "end": 9.86
+        },
+        {
+          "start": 9.86,
+          "end": 10.44
+        },
+        {
+          "start": 10.5,
+          "end": 10.62
+        },
+        {
+          "start": 10.66,
+          "end": 10.82
+        },
+        {
+          "start": 10.92,
+          "end": 11.42
+        },
+        {
+          "start": 11.48,
+          "end": 11.62
+        },
+        {
+          "start": 11.7,
+          "end": 11.94
+        },
+        {
+          "start": 11.94,
+          "end": 14.26
+        },
+        {
+          "start": 14.26,
+          "end": 14.76
+        },
+        {
+          "start": 15.44,
+          "end": 15.76
+        },
+        {
+          "start": 15.76,
+          "end": 15.766
+        },
+        {
+          "start": 15.766,
+          "end": 15.7703
+        },
+        {
+          "start": 15.7703,
+          "end": 15.7792
+        },
+        {
+          "start": 15.7792,
+          "end": 15.7882
+        },
+        {
+          "start": 15.7882,
+          "end": 15.8
+        },
+        {
+          "start": 15.8,
+          "end": 16.44
+        },
+        {
+          "start": 16.5,
+          "end": 16.78
+        },
+        {
+          "start": 16.82,
+          "end": 16.94
+        },
+        {
+          "start": 16.98,
+          "end": 17.16
+        },
+        {
+          "start": 17.24,
+          "end": 17.52
+        },
+        {
+          "start": 17.52,
+          "end": 18.1587
+        },
+        {
+          "start": 18.1587,
+          "end": 18.86
+        },
+        {
+          "start": 18.86,
+          "end": 19.3
+        },
+        {
+          "start": 20.16,
+          "end": 20.34
+        },
+        {
+          "start": 20.38,
+          "end": 21.08
+        },
+        {
+          "start": 21.2,
+          "end": 21.46
+        },
+        {
+          "start": 21.46,
+          "end": 23.48
+        },
+        {
+          "start": 23.48,
+          "end": 23.68
+        },
+        {
+          "start": 23.78,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.6
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 58.32,
+          "chars": [
+            58.32,
+            58.4631,
+            58.6062,
+            58.7492,
+            58.8923,
+            59.0354,
+            59.0783,
+            59.2214,
+            59.3645,
+            59.5076,
+            59.5505,
+            59.6936,
+            59.7365,
+            59.8796,
+            60.0227,
+            60.1658,
+            60.3088,
+            60.4519,
+            60.595,
+            60.7381,
+            60.8812,
+            61.0242,
+            61.0672,
+            61.2103,
+            61.3533
+          ]
+        },
+        {
+          "start": 61.4964,
+          "chars": [
+            61.4964,
+            61.6395,
+            61.7826,
+            61.9257,
+            62.0687,
+            62.2118,
+            62.2548,
+            62.3978,
+            62.5409,
+            62.684,
+            62.7269,
+            62.87,
+            62.9129,
+            63.056,
+            63.1991,
+            63.3422,
+            63.4853,
+            63.5282,
+            63.6713,
+            63.8143,
+            63.9574,
+            64.1005,
+            64.2436,
+            64.3867,
+            64.5298,
+            64.6728,
+            64.8159
+          ]
+        },
+        {
+          "start": 67.5,
+          "chars": [
+            67.5,
+            67.5118,
+            67.5237,
+            67.5355,
+            67.5473,
+            67.5592,
+            67.5627,
+            67.5746,
+            67.5864,
+            67.5982,
+            67.6101,
+            67.6136,
+            67.6254,
+            67.629,
+            67.6408,
+            67.6527,
+            67.6645,
+            67.6763,
+            67.6882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.48,
+        "end": 56.32
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 32.119,
+          "end": 32.869,
+          "targets": [
+            {
+              "w": 20,
+              "from": "väntade revisorn",
+              "color": "blå"
+            },
+            {
+              "w": 21,
+              "from": "väntade revisorn",
+              "color": "blå"
+            },
+            {
+              "w": 22,
+              "from": "väntade revisorn",
+              "color": "blå"
+            },
+            {
+              "w": 23,
+              "from": "väntade revisorn",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 37.1,
+          "end": 37.85,
+          "targets": [
+            {
+              "w": 41,
+              "from": "gärna",
+              "color": "gul"
+            },
+            {
+              "w": 42,
+              "from": "gärna",
+              "color": "gul"
+            },
+            {
+              "w": 43,
+              "from": "gärna",
+              "color": "gul"
+            },
+            {
+              "w": 44,
+              "from": "gärna",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 47.46,
+          "end": 48.21,
+          "targets": [
+            {
+              "w": 53,
+              "from": "överheten",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

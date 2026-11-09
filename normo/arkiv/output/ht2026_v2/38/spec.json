@@ -1,0 +1,527 @@
+{
+  "slug": "hp-elf-57962bca",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "57962bca-48de-47f2-b996-dcdba387c4a5"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ELF · fråga 38 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "implied"
+      },
+      {
+        "text": "here?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "spread"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "herbivores"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "small"
+          },
+          {
+            "text": "predators"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "potential"
+          },
+          {
+            "text": "threat"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "ecological"
+          },
+          {
+            "text": "systems."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Hunting"
+          },
+          {
+            "text": "dogs"
+          },
+          {
+            "text": "pose"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "greater"
+          },
+          {
+            "text": "threat"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "nature"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "generally"
+          },
+          {
+            "text": "acknowledged."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "More"
+          },
+          {
+            "text": "effort"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "needed"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "protect"
+          },
+          {
+            "text": "herbivores"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "small"
+          },
+          {
+            "text": "predators"
+          },
+          {
+            "text": "from"
+          },
+          {
+            "text": "extinction."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Protecting"
+          },
+          {
+            "text": "small"
+          },
+          {
+            "text": "rather"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "large"
+          },
+          {
+            "text": "predators"
+          },
+          {
+            "text": "would"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "ecologically"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "sound."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/elf__57962bca-48de-47f2-b996-dcdba387c4a5.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "utan stora rovdjur: de andra ökar",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 45.285,
+    "phases": {
+      "readStart": 2.079,
+      "writeStart": 22.196
+    },
+    "read": {
+      "words": [
+        {
+          "start": 2.079,
+          "end": 2.3
+        },
+        {
+          "start": 2.358,
+          "end": 2.439
+        },
+        {
+          "start": 2.485,
+          "end": 2.915
+        },
+        {
+          "start": 2.961,
+          "end": 3.402
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.196,
+          "chars": [
+            22.196,
+            22.4258,
+            22.6557,
+            22.8855,
+            23.1153,
+            23.1843,
+            23.4141,
+            23.6439,
+            23.8738,
+            24.1036,
+            24.3334,
+            24.4024,
+            24.6322,
+            24.862,
+            25.0919,
+            25.3217,
+            25.5515,
+            25.7814,
+            26.0112,
+            26.241,
+            26.31,
+            26.5398,
+            26.7696,
+            26.8386,
+            27.0684,
+            27.2982,
+            27.5281,
+            27.7579,
+            27.9877,
+            28.0567,
+            28.2865,
+            28.5163,
+            28.7462
+          ]
+        },
+        {
+          "start": 38.222,
+          "chars": [
+            38.222,
+            38.4627,
+            38.7034,
+            38.9441,
+            39.1848,
+            39.4256,
+            39.4978,
+            39.7385,
+            39.9792,
+            40.2199,
+            40.4606,
+            40.5328,
+            40.7735,
+            40.8457,
+            41.0864,
+            41.3272,
+            41.5679,
+            41.8086,
+            42.0493
+          ]
+        }
+      ],
+      "circle": {
+        "start": 36.313,
+        "end": 37.381
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 29.701,
+          "end": 30.451,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 4.786,
+          "end": 5.536,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7388,
+                  0.5388
+                ],
+                [
+                  0.9329,
+                  0.5388
+                ],
+                [
+                  0.9329,
+                  0.5894
+                ],
+                [
+                  0.7388,
+                  0.5894
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 5.886,
+          "end": 6.636,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.5964
+                ],
+                [
+                  0.9196,
+                  0.5964
+                ],
+                [
+                  0.9196,
+                  0.647
+                ],
+                [
+                  0.0435,
+                  0.647
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 6.986,
+          "end": 7.736,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.654
+                ],
+                [
+                  0.1736,
+                  0.654
+                ],
+                [
+                  0.1736,
+                  0.7046
+                ],
+                [
+                  0.0435,
+                  0.7046
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 15.689,
+          "end": 16.439,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4226,
+                  0.7116
+                ],
+                [
+                  0.9069,
+                  0.7116
+                ],
+                [
+                  0.9069,
+                  0.7622
+                ],
+                [
+                  0.4226,
+                  0.7622
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 16.789,
+          "end": 17.539,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.7692
+                ],
+                [
+                  0.6093,
+                  0.7692
+                ],
+                [
+                  0.6093,
+                  0.8198
+                ],
+                [
+                  0.0435,
+                  0.8198
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 3.786,
+          "end": 14.248,
+          "omrade": [
+            0,
+            0.4612,
+            1,
+            0.8381
+          ]
+        },
+        {
+          "start": 14.689,
+          "end": 21.099,
+          "omrade": [
+            0,
+            0.5764,
+            1,
+            0.9533
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

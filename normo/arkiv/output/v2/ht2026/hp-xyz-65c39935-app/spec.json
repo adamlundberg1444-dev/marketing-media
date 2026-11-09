@@ -1,0 +1,644 @@
+{
+  "slug": "hp-xyz-65c39935-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "65c39935-b728-4558-88bf-2b16c7216f13"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "AB"
+      },
+      {
+        "text": "="
+      },
+      {
+        "text": "BC"
+      },
+      {
+        "text": "="
+      },
+      {
+        "text": "CD"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "tex": " v ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " 50\\degree",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 55\\degree",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 60\\degree",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 65\\degree",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/65c39935-b728-4558-88bf-2b16c7216f13.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "20° + 20° = 40°",
+      "gron": [
+        "+ 20°"
+      ],
+      "farg": {
+        "4": "#0E9F6E",
+        "5": "#0E9F6E",
+        "6": "#0E9F6E",
+        "7": "#0E9F6E",
+        "8": "#0E9F6E"
+      }
+    },
+    {
+      "text": "v = 20° + 40°",
+      "gron": [
+        "+ 40°"
+      ],
+      "farg": {
+        "8": "#0E9F6E",
+        "9": "#0E9F6E",
+        "10": "#0E9F6E",
+        "11": "#0E9F6E",
+        "12": "#0E9F6E"
+      }
+    },
+    {
+      "text": "v = 60°",
+      "emphasis": true,
+      "gron": [
+        "60°"
+      ],
+      "farg": {
+        "4": "#0E9F6E",
+        "5": "#0E9F6E",
+        "6": "#0E9F6E"
+      }
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 62.52,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 30.52
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.7288
+        },
+        {
+          "start": 0.7288,
+          "end": 1.227
+        },
+        {
+          "start": 1.227,
+          "end": 1.8158
+        },
+        {
+          "start": 1.8158,
+          "end": 2.314
+        },
+        {
+          "start": 2.314,
+          "end": 2.9028
+        },
+        {
+          "start": 2.9028,
+          "end": 3.6048
+        },
+        {
+          "start": 3.6048,
+          "end": 4.42
+        },
+        {
+          "start": 4.42,
+          "end": 4.5
+        },
+        {
+          "start": 6.94,
+          "end": 7.56
+        },
+        {
+          "start": 7.56,
+          "end": 8.1354
+        },
+        {
+          "start": 8.1354,
+          "end": 8.7
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.52,
+          "chars": [
+            30.52,
+            30.7687,
+            31.0174,
+            31.2661,
+            31.3407,
+            31.5894,
+            31.664,
+            31.9127,
+            32.1613,
+            32.41,
+            32.4846,
+            32.7333,
+            32.8079,
+            33.0566,
+            33.3053
+          ]
+        },
+        {
+          "start": 54.98,
+          "chars": [
+            54.98,
+            55.1212,
+            55.1635,
+            55.3047,
+            55.3471,
+            55.4882,
+            55.6294,
+            55.7706,
+            55.8129,
+            55.9541,
+            55.9965,
+            56.1376,
+            56.2788
+          ]
+        },
+        {
+          "start": 57.38,
+          "chars": [
+            57.38,
+            57.5229,
+            57.5657,
+            57.7086,
+            57.7514,
+            57.8943,
+            58.0371
+          ]
+        },
+        {
+          "start": 61.32,
+          "chars": [
+            61.32,
+            61.3326,
+            61.3452,
+            61.3577,
+            61.3703,
+            61.3829,
+            61.3867,
+            61.3992,
+            61.4118,
+            61.4244,
+            61.4282,
+            61.4408,
+            61.4445,
+            61.4571,
+            61.4697,
+            61.4823,
+            61.4948,
+            61.5074
+          ]
+        }
+      ],
+      "circle": {
+        "start": 59.96,
+        "end": 61.02
+      },
+      "options": {
+        "hideAt": 24.28,
+        "showAt": 59.06
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.14,
+          "end": 0.89,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Sträckorna",
+              "color": "orange"
+            },
+            {
+              "w": 1,
+              "from": "Sträckorna",
+              "color": "orange"
+            },
+            {
+              "w": 2,
+              "from": "Sträckorna",
+              "color": "orange"
+            },
+            {
+              "w": 3,
+              "from": "Sträckorna",
+              "color": "orange"
+            },
+            {
+              "w": 4,
+              "from": "Sträckorna",
+              "color": "orange"
+            }
+          ]
+        },
+        {
+          "start": 6.94,
+          "end": 7.69,
+          "targets": [
+            {
+              "w": 5,
+              "from": "vinkeln v",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "vinkeln v",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "vinkeln v",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "vinkeln v",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "vinkeln v",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "vinkeln v",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 0.14,
+          "end": 0.89,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.051,
+                  0.253
+                ],
+                [
+                  0.3537,
+                  0.4949
+                ]
+              ],
+              "from": "Sträckorna",
+              "color": "orange",
+              "seg": 0,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 2.06,
+          "end": 2.81,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.354,
+                  0.492
+                ],
+                [
+                  0.6344,
+                  0.1637
+                ]
+              ],
+              "from": "B C",
+              "color": "orange",
+              "seg": 0,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 3.4,
+          "end": 4.15,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.6331,
+                  0.1626
+                ],
+                [
+                  0.8,
+                  0.856
+                ]
+              ],
+              "from": "C D",
+              "color": "orange",
+              "seg": 0,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 6.94,
+          "end": 7.69,
+          "targets": [
+            {
+              "hl": true,
+              "angle": [
+                0.6329,
+                0.164
+              ],
+              "to": [
+                [
+                  0.977,
+                  0.107
+                ],
+                [
+                  0.8,
+                  0.856
+                ]
+              ],
+              "from": "vinkeln v",
+              "color": "gul",
+              "keep": true,
+              "seg": 0,
+              "r": 0.0467,
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 16.98,
+          "end": 17.73,
+          "targets": [
+            {
+              "hl": true,
+              "angle": [
+                0.0565,
+                0.256
+              ],
+              "to": [
+                [
+                  0.634,
+                  0.161
+                ],
+                [
+                  0.354,
+                  0.492
+                ]
+              ],
+              "from": "likbent",
+              "color": "lila",
+              "keep": true,
+              "seg": 1,
+              "r": 0.0898,
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 20.54,
+          "end": 21.29,
+          "targets": [
+            {
+              "hl": true,
+              "angle": [
+                0.634,
+                0.164
+              ],
+              "to": [
+                [
+                  0.051,
+                  0.253
+                ],
+                [
+                  0.354,
+                  0.492
+                ]
+              ],
+              "r": 0.07,
+              "arc": true,
+              "label": "20°",
+              "from": "Vinkeln vid C",
+              "color": "lila",
+              "keep": true,
+              "seg": 1,
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 25.7,
+          "end": 26.45,
+          "targets": [
+            {
+              "hl": true,
+              "angle": [
+                0.354,
+                0.495
+              ],
+              "to": [
+                [
+                  0.634,
+                  0.161
+                ],
+                [
+                  0.8,
+                  0.856
+                ]
+              ],
+              "r": 0.06,
+              "arc": true,
+              "label": "40°",
+              "from": "Vinkeln vid B",
+              "color": "rosa",
+              "keep": true,
+              "seg": 2,
+              "mi": 6
+            }
+          ]
+        },
+        {
+          "start": 39.84,
+          "end": 40.59,
+          "targets": [
+            {
+              "hl": true,
+              "angle": [
+                0.8011,
+                0.859
+              ],
+              "to": [
+                [
+                  0.634,
+                  0.161
+                ],
+                [
+                  0.354,
+                  0.492
+                ]
+              ],
+              "r": 0.06,
+              "arc": true,
+              "label": "40°",
+              "from": "vinkeln vid D",
+              "color": "rosa",
+              "keep": true,
+              "seg": 3,
+              "mi": 7
+            }
+          ]
+        },
+        {
+          "start": 47.44,
+          "end": 48.19,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.051,
+                  0.253
+                ],
+                [
+                  0.634,
+                  0.161
+                ],
+                [
+                  0.8,
+                  0.856
+                ]
+              ],
+              "from": "stora",
+              "color": "blå",
+              "seg": 4,
+              "mi": 8
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 61.27
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appOptionsHide": true,
+    "appKeyLines": [
+      1
+    ]
+  },
+  "variant": "app"
+}

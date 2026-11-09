@@ -1,0 +1,483 @@
+{
+  "slug": "hp-kva-e0f06bfe-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "e0f06bfe-7c0a-4b2c-8d51-51cc27ceeaa3"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " f(x) = x^3 + 2x^2 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " f(0) ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " f(-2) ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "f(0) = 0 + 0 = 0"
+    },
+    {
+      "text": "(-2)^3 = -8, \\; (-2)^2 = 4"
+    },
+    {
+      "text": "f(-2) = -8 + 2 \\cdot 4 = -8 + 8 = 0",
+      "gron": [
+        {
+          "text": "-8",
+          "nth": 1
+        },
+        "4"
+      ],
+      "farg": {
+        "8": "#0E9F6E",
+        "9": "#0E9F6E",
+        "17": "#0E9F6E"
+      }
+    },
+    {
+      "text": "f(x) = x^2(x + 2)"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 58.38,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 12.9
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 3.1284
+        },
+        {
+          "start": 3.1284,
+          "end": 4.36
+        },
+        {
+          "start": 4.36,
+          "end": 4.5
+        },
+        {
+          "start": 4.5,
+          "end": 6.1304
+        },
+        {
+          "start": 6.1304,
+          "end": 7.5311
+        },
+        {
+          "start": 7.5311,
+          "end": 8.9319
+        },
+        {
+          "start": 8.9319,
+          "end": 10.7
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.9,
+          "chars": [
+            12.9,
+            13.1497,
+            13.3993,
+            13.649,
+            13.8986,
+            13.9735,
+            14.2232,
+            14.2981,
+            14.5478,
+            14.6227,
+            14.8723,
+            14.9472,
+            15.1969,
+            15.2718,
+            15.5214,
+            15.5963
+          ]
+        },
+        {
+          "start": 19.1,
+          "chars": [
+            19.1,
+            19.3393,
+            19.5787,
+            19.818,
+            20.0573,
+            20.2967,
+            20.3685,
+            20.6078,
+            20.6796,
+            20.919,
+            21.1583,
+            21.3976,
+            21.4694,
+            21.5412,
+            21.613,
+            21.8524,
+            22.0917,
+            22.331,
+            22.5704,
+            22.8097,
+            22.8815,
+            23.1209,
+            23.1927
+          ]
+        },
+        {
+          "start": 31.72,
+          "chars": [
+            31.72,
+            31.9555,
+            32.191,
+            32.4265,
+            32.6619,
+            32.8974,
+            32.9681,
+            33.2036,
+            33.2742,
+            33.5097,
+            33.7452,
+            33.8158,
+            34.0513,
+            34.122,
+            34.3575,
+            34.4281,
+            34.6636,
+            34.7342,
+            34.9697,
+            35.0404,
+            35.2758,
+            35.3465,
+            35.582,
+            35.8175,
+            35.8881,
+            36.1236,
+            36.1942,
+            36.4297,
+            36.5004,
+            36.7359,
+            36.8065
+          ]
+        },
+        {
+          "start": 40.14,
+          "chars": [
+            40.14,
+            40.3865,
+            40.633,
+            40.8795,
+            41.1261,
+            41.2,
+            41.4465,
+            41.5205,
+            41.767,
+            42.0135,
+            42.26,
+            42.5065,
+            42.5805,
+            42.827,
+            42.901,
+            43.1475
+          ]
+        },
+        {
+          "start": 43.394,
+          "chars": [
+            43.394,
+            43.6901,
+            43.7789,
+            44.075,
+            44.1638,
+            44.4599
+          ]
+        },
+        {
+          "start": 57.22,
+          "chars": [
+            57.22,
+            57.2296,
+            57.2391,
+            57.2487,
+            57.2583,
+            57.2611,
+            57.2707,
+            57.2803,
+            57.2899,
+            57.2994,
+            57.309,
+            57.3186,
+            57.3281,
+            57.3377,
+            57.3473,
+            57.3501,
+            57.3597,
+            57.3626,
+            57.3722,
+            57.3817,
+            57.3913,
+            57.4009,
+            57.4104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.82,
+        "end": 56.88
+      },
+      "options": {
+        "hideAt": 12.6,
+        "showAt": 52.92
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.12,
+          "end": 0.87,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Funktionen",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 7.58,
+          "end": 8.33,
+          "targets": [
+            {
+              "w": 1,
+              "from": "f av 0",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "f av 0",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "f av 0",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 9.18,
+          "end": 9.93,
+          "targets": [
+            {
+              "w": 4,
+              "from": "f av minus 2",
+              "color": "lila"
+            },
+            {
+              "w": 5,
+              "from": "f av minus 2",
+              "color": "lila"
+            },
+            {
+              "w": 6,
+              "from": "f av minus 2",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 2,
+          "farg": "#D93025",
+          "from": "alltså också",
+          "forkorta": [
+            {
+              "from": 21,
+              "to": 22
+            },
+            {
+              "from": 24,
+              "to": 26
+            }
+          ],
+          "start": 36.54,
+          "strykAt": 37.54
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 57.17
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2,
+    "appKeyLines": [
+      2,
+      4
+    ]
+  },
+  "variant": "app"
+}

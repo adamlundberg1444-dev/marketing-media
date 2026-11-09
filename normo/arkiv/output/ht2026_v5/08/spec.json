@@ -1,0 +1,217 @@
+{
+  "slug": "hp-ord-9aa96598",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "9aa96598-d292-4d87-a2e0-74a1d36ce14c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 8 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "komma"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "fråga"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 3,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "anses"
+          },
+          {
+            "text": "olämplig"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "be"
+          },
+          {
+            "text": "om"
+          },
+          {
+            "text": "lov"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "kräva"
+          },
+          {
+            "text": "uppmärksamhet"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "bli"
+          },
+          {
+            "text": "kritiserad"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "vara"
+          },
+          {
+            "text": "tänkbar"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "vara tänkbar",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 10.273,
+    "phases": {
+      "readStart": 0.962,
+      "writeStart": 1.835
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.962,
+          "end": 1.182
+        },
+        {
+          "start": 1.206,
+          "end": 1.229
+        },
+        {
+          "start": 1.264,
+          "end": 1.589
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 1.835,
+          "chars": [
+            1.835,
+            2.0015,
+            2.1679,
+            2.3344,
+            2.5008,
+            2.5508,
+            2.7172,
+            2.8837,
+            3.0502,
+            3.2166,
+            3.3831,
+            3.5495
+          ]
+        },
+        {
+          "start": 5.614,
+          "chars": [
+            5.614,
+            5.7498,
+            5.8856,
+            6.0214,
+            6.1571,
+            6.2929,
+            6.3337,
+            6.4695,
+            6.6052,
+            6.741,
+            6.7818,
+            6.9175,
+            6.9583,
+            7.0941,
+            7.2299,
+            7.3656,
+            7.5014,
+            7.6372
+          ]
+        }
+      ],
+      "circle": {
+        "start": 4.141,
+        "end": 4.989
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

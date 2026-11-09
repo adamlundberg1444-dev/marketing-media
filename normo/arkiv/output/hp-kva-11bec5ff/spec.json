@@ -1,0 +1,570 @@
+{
+  "slug": "hp-kva-11bec5ff",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "11bec5ff-67a7-4f30-a67b-0af7363e28f7"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "VT 2023 · fråga 19",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "O = 2\\pi r \\qquad A = \\pi r^2"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "75"
+      },
+      {
+        "text": "%"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "arean"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "cirkel"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "radien"
+      },
+      {
+        "text": "4"
+      },
+      {
+        "text": "cm"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "Arean"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "cirkel"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "radien"
+      },
+      {
+        "text": "3"
+      },
+      {
+        "text": "cm"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 23,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "A_1 = \\pi \\cdot 4^2 = \\pi \\cdot 16 = 16\\pi"
+    },
+    {
+      "text": "0,75 = \\frac{3}{4}"
+    },
+    {
+      "text": "\\frac{3}{4} \\cdot 16\\pi = \\frac{48\\pi}{4} = 12\\pi"
+    },
+    {
+      "text": "A_2 = \\pi \\cdot 3^2 = \\pi \\cdot 9 = 9\\pi"
+    },
+    {
+      "text": "12\\pi > 9\\pi"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 97.668,
+    "phases": {
+      "readStart": 3.514,
+      "writeStart": 31.128
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.514,
+          "end": 4.246
+        },
+        {
+          "start": 4.246,
+          "end": 4.896
+        },
+        {
+          "start": 4.896,
+          "end": 5.557
+        },
+        {
+          "start": 5.557,
+          "end": 6.103
+        },
+        {
+          "start": 6.103,
+          "end": 6.196
+        },
+        {
+          "start": 6.277,
+          "end": 6.707
+        },
+        {
+          "start": 6.777,
+          "end": 6.846
+        },
+        {
+          "start": 6.927,
+          "end": 6.985
+        },
+        {
+          "start": 7.044,
+          "end": 7.543
+        },
+        {
+          "start": 7.624,
+          "end": 7.775
+        },
+        {
+          "start": 7.821,
+          "end": 8.228
+        },
+        {
+          "start": 8.344,
+          "end": 8.576
+        },
+        {
+          "start": 8.576,
+          "end": 10.48
+        },
+        {
+          "start": 10.48,
+          "end": 11.107
+        },
+        {
+          "start": 11.107,
+          "end": 11.885
+        },
+        {
+          "start": 11.885,
+          "end": 12.338
+        },
+        {
+          "start": 12.396,
+          "end": 12.465
+        },
+        {
+          "start": 12.523,
+          "end": 12.581
+        },
+        {
+          "start": 12.64,
+          "end": 13.081
+        },
+        {
+          "start": 13.139,
+          "end": 13.266
+        },
+        {
+          "start": 13.325,
+          "end": 13.754
+        },
+        {
+          "start": 13.87,
+          "end": 14.068
+        },
+        {
+          "start": 14.068,
+          "end": 14.95
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 31.128,
+          "chars": [
+            31.128,
+            31.3664,
+            31.6048,
+            31.6764,
+            31.9148,
+            31.9863,
+            32.2247,
+            32.2963,
+            32.5347,
+            32.6062,
+            32.8446,
+            33.0831,
+            33.1546,
+            33.393,
+            33.4645,
+            33.7029,
+            33.7745,
+            34.0129,
+            34.0844,
+            34.3228,
+            34.5613,
+            34.6328,
+            34.8712,
+            34.9427,
+            35.1812,
+            35.4196
+          ]
+        },
+        {
+          "start": 41.063,
+          "chars": [
+            41.063,
+            41.3237,
+            41.5844,
+            41.8451,
+            42.1058,
+            42.184,
+            42.4447,
+            42.5229,
+            42.7836,
+            43.0443
+          ]
+        },
+        {
+          "start": 45.608,
+          "chars": [
+            45.608,
+            45.8466,
+            46.0852,
+            46.3239,
+            46.3954,
+            46.6341,
+            46.7056,
+            46.9443,
+            47.1829,
+            47.4215,
+            47.4931,
+            47.7317,
+            47.8033,
+            48.0419,
+            48.2805,
+            48.5191,
+            48.7577,
+            48.9964,
+            49.0679,
+            49.3066,
+            49.3781,
+            49.6168,
+            49.8554
+          ]
+        },
+        {
+          "start": 53.976,
+          "chars": [
+            53.976,
+            54.2166,
+            54.4572,
+            54.5294,
+            54.7699,
+            54.8421,
+            55.0827,
+            55.1549,
+            55.3955,
+            55.4676,
+            55.7082,
+            55.9488,
+            56.021,
+            56.2616,
+            56.3338,
+            56.5744,
+            56.6465,
+            56.8871,
+            56.9593,
+            57.1999,
+            57.2721,
+            57.5126,
+            57.5848,
+            57.8254
+          ]
+        },
+        {
+          "start": 65.851,
+          "chars": [
+            65.851,
+            66.124,
+            66.3971,
+            66.6701,
+            66.752,
+            67.025,
+            67.1069,
+            67.38
+          ]
+        },
+        {
+          "start": 81.043,
+          "chars": [
+            81.043,
+            81.3391,
+            81.4279,
+            81.724,
+            81.8128,
+            82.1089
+          ]
+        },
+        {
+          "start": 91.755,
+          "chars": [
+            91.755,
+            91.957,
+            92.1589,
+            92.3609,
+            92.5628,
+            92.7648,
+            92.8253,
+            93.0273,
+            93.2293,
+            93.4312,
+            93.6332,
+            93.6937,
+            93.8957,
+            93.9563,
+            94.1582,
+            94.3602,
+            94.5621,
+            94.7641,
+            94.966
+          ]
+        }
+      ],
+      "circle": {
+        "start": 86.434,
+        "end": 89.94
+      },
+      "options": {
+        "hideAt": 19.7,
+        "showAt": 85.534
+      },
+      "concept": {
+        "start": 20.862,
+        "end": 29.871,
+        "hideAt": 40.659
+      },
+      "strikes": [
+        {
+          "start": 71.823,
+          "end": 72.573,
+          "targets": [
+            {
+              "li": 4,
+              "from": 2,
+              "to": 2,
+              "snett": false
+            }
+          ]
+        },
+        {
+          "start": 72.923,
+          "end": 73.673,
+          "targets": [
+            {
+              "li": 4,
+              "from": 7,
+              "to": 7,
+              "snett": false
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 31.128,
+          "end": 31.878,
+          "targets": [
+            {
+              "w": 11
+            }
+          ]
+        },
+        {
+          "start": 41.063,
+          "end": 41.813,
+          "targets": [
+            {
+              "w": 2
+            }
+          ]
+        },
+        {
+          "start": 53.976,
+          "end": 54.726,
+          "targets": [
+            {
+              "w": 21
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

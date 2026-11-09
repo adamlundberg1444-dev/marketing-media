@@ -1,0 +1,532 @@
+{
+  "slug": "hp-xyz-642f39c3",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "642f39c3-b6fe-42ff-a769-9bb314815a8d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "HT 2011 · fråga 10",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilka"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "punkterna"
+      },
+      {
+        "tex": "P",
+        "display": false
+      },
+      {
+        "text": ","
+      },
+      {
+        "tex": "Q",
+        "display": false
+      },
+      {
+        "text": ","
+      },
+      {
+        "tex": "R",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "S",
+        "display": false
+      },
+      {
+        "text": "ligger"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "linjen"
+      },
+      {
+        "tex": "3x + 4y = 0",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": "Q",
+            "display": false
+          },
+          {
+            "text": "och"
+          },
+          {
+            "tex": "R",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": "Q",
+            "display": false
+          },
+          {
+            "text": "och"
+          },
+          {
+            "tex": "S",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": "P",
+            "display": false
+          },
+          {
+            "text": "och"
+          },
+          {
+            "tex": "S",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": "P",
+            "display": false
+          },
+          {
+            "text": "och"
+          },
+          {
+            "tex": "R",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/642f39c3-b6fe-42ff-a769-9bb314815a8d.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "3x + 4y = 0"
+    },
+    {
+      "text": "P: 3·3 + 4·4 = 9+16 = 25≠0"
+    },
+    {
+      "text": "Q: 3·(-4)+4·3 = -12+12 = 0"
+    },
+    {
+      "text": "R: 3·(-3)+4·(-4) = -9-16 = -25≠0"
+    },
+    {
+      "text": "S: 3·4+4·(-3) = 12-12 = 0"
+    },
+    {
+      "text": "Q och S",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 84.454,
+    "phases": {
+      "readStart": 3.154,
+      "writeStart": 22.993
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.154,
+          "end": 3.514
+        },
+        {
+          "start": 3.537,
+          "end": 3.595
+        },
+        {
+          "start": 3.63,
+          "end": 4.118
+        },
+        {
+          "start": 4.118,
+          "end": 4.3915
+        },
+        {
+          "start": 4.3915,
+          "end": 4.5383
+        },
+        {
+          "start": 4.5383,
+          "end": 4.8117
+        },
+        {
+          "start": 4.8117,
+          "end": 4.9585
+        },
+        {
+          "start": 4.9585,
+          "end": 5.232
+        },
+        {
+          "start": 5.232,
+          "end": 5.302
+        },
+        {
+          "start": 5.302,
+          "end": 5.72
+        },
+        {
+          "start": 5.72,
+          "end": 5.941
+        },
+        {
+          "start": 5.964,
+          "end": 6.045
+        },
+        {
+          "start": 6.103,
+          "end": 6.44
+        },
+        {
+          "start": 6.44,
+          "end": 8.0342
+        },
+        {
+          "start": 8.0342,
+          "end": 8.855
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.993,
+          "chars": [
+            22.993,
+            23.2557,
+            23.5184,
+            23.5972,
+            23.8599,
+            23.9387,
+            24.2013,
+            24.464,
+            24.5428,
+            24.8055,
+            24.8843
+          ]
+        },
+        {
+          "start": 30.332,
+          "chars": [
+            30.332,
+            30.5686,
+            30.8052,
+            30.8762,
+            31.1127,
+            31.3493,
+            31.5859,
+            31.6569,
+            31.8935,
+            31.9645,
+            32.201,
+            32.4376,
+            32.6742,
+            32.7452,
+            32.9818,
+            33.0528,
+            33.2893,
+            33.5259,
+            33.7625,
+            33.9991,
+            34.0701,
+            34.3067,
+            34.3776,
+            34.6142,
+            34.8508,
+            35.0874
+          ]
+        },
+        {
+          "start": 39.462,
+          "chars": [
+            39.462,
+            39.6976,
+            39.9331,
+            40.0038,
+            40.2393,
+            40.4749,
+            40.7104,
+            40.946,
+            41.1816,
+            41.4171,
+            41.6527,
+            41.8882,
+            42.1238,
+            42.3593,
+            42.43,
+            42.6656,
+            42.7362,
+            42.9718,
+            43.2073,
+            43.4429,
+            43.6784,
+            43.914,
+            44.1496,
+            44.2202,
+            44.4558,
+            44.5264
+          ]
+        },
+        {
+          "start": 49.022,
+          "chars": [
+            49.022,
+            49.2543,
+            49.4866,
+            49.5562,
+            49.7885,
+            50.0208,
+            50.2531,
+            50.4854,
+            50.7176,
+            50.9499,
+            51.1822,
+            51.4145,
+            51.6468,
+            51.8791,
+            52.1113,
+            52.3436,
+            52.5759,
+            52.6456,
+            52.8779,
+            52.9475,
+            53.1798,
+            53.4121,
+            53.6444,
+            53.8767,
+            54.1089,
+            54.1786,
+            54.4109,
+            54.4806,
+            54.7129,
+            54.9452,
+            55.1774,
+            55.4097
+          ]
+        },
+        {
+          "start": 60.092,
+          "chars": [
+            60.092,
+            60.3283,
+            60.5646,
+            60.6354,
+            60.8717,
+            61.108,
+            61.3443,
+            61.5806,
+            61.8168,
+            62.0531,
+            62.2894,
+            62.5257,
+            62.762,
+            62.9982,
+            63.0691,
+            63.3054,
+            63.3763,
+            63.6126,
+            63.8488,
+            64.0851,
+            64.3214,
+            64.5577,
+            64.6286,
+            64.8648,
+            64.9357
+          ]
+        },
+        {
+          "start": 71.405,
+          "chars": [
+            71.405,
+            71.6875,
+            71.7722,
+            72.0547,
+            72.3372,
+            72.6197,
+            72.7045
+          ]
+        },
+        {
+          "start": 78.912,
+          "chars": [
+            78.912,
+            79.092,
+            79.272,
+            79.452,
+            79.632,
+            79.812,
+            79.866,
+            80.046,
+            80.226,
+            80.406,
+            80.586,
+            80.64,
+            80.82,
+            80.874,
+            81.054,
+            81.234,
+            81.414,
+            81.594,
+            81.774
+          ]
+        }
+      ],
+      "circle": {
+        "start": 75.553,
+        "end": 78.061
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 10.865,
+          "end": 11.615,
+          "targets": [
+            {
+              "circle": [
+                0.6585,
+                0.2313
+              ],
+              "r": 0.04,
+              "label": "P",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 11.965,
+          "end": 12.715,
+          "targets": [
+            {
+              "circle": [
+                0.1922,
+                0.2971
+              ],
+              "r": 0.04,
+              "label": "Q",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 13.065,
+          "end": 13.815,
+          "targets": [
+            {
+              "circle": [
+                0.2589,
+                0.7639
+              ],
+              "r": 0.04,
+              "label": "R",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 14.165,
+          "end": 14.915,
+          "targets": [
+            {
+              "circle": [
+                0.7248,
+                0.6953
+              ],
+              "r": 0.04,
+              "label": "S",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 9.865,
+          "end": 22.103
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

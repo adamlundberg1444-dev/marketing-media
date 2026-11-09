@@ -1,0 +1,607 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "t": "Ett geometriskt objekt "
+        },
+        {
+          "t": "kan delas upp i "
+        },
+        {
+          "t": "en cirkelsektor "
+        },
+        {
+          "t": "med medelpunkten M "
+        },
+        {
+          "t": "och en rätvinklig triangel, "
+        },
+        {
+          "t": "som figuren visar."
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "qa",
+          "t": "Hur stor area har objektet?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "(3\\pi + 2) \\text{ cm}^2"
+    },
+    {
+      "letter": "B",
+      "tex": "(3\\pi + 4) \\text{ cm}^2"
+    },
+    {
+      "letter": "C",
+      "tex": "(4\\pi + 2) \\text{ cm}^2"
+    },
+    {
+      "letter": "D",
+      "tex": "(4\\pi + 4) \\text{ cm}^2"
+    }
+  ],
+  "correct": 0,
+  "hook": {
+    "lines": [
+      "En cirkel på HP",
+      "som inte är hel."
+    ],
+    "start": 0.01999999999999999,
+    "end": 5.22
+  },
+  "arrow": {
+    "start": 0.31999999999999995,
+    "end": 5.22,
+    "d": "M 940 1500 C 1010 1300, 960 950, 760 775",
+    "head": "M 829 784 L 760 775 L 776 843"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{2\\cdot 2}{2}",
+          "at": 19.5,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 21.589,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "2",
+          "at": 21.839,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L1",
+          "tex": "\\pi\\cdot 2^2",
+          "at": 24.579,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "L2",
+          "tex": "+2",
+          "at": 28.519,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 28.769,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "4\\pi+2",
+          "at": 28.919,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 37.459,
+          "termer": [
+            {
+              "k": "f",
+              "tex": "\\frac{3}{4}"
+            },
+            {
+              "k": "d",
+              "tex": "\\cdot",
+              "at": 38.759
+            },
+            {
+              "k": "c",
+              "tex": "4\\pi",
+              "at": 38.959
+            }
+          ]
+        },
+        {
+          "at": 39.979,
+          "termer": [
+            {
+              "k": "s",
+              "tex": "3\\pi",
+              "fran": [
+                "f",
+                "d",
+                "c"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "A",
+          "at": 43.259,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 43.459,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "3\\pi+2",
+          "at": 44.339,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 1,
+      "col": "R",
+      "at": 32.849
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 3,
+      "col": "R",
+      "at": 45.409
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "qa"
+      ],
+      "at": 11.56,
+      "end": 14.33
+    }
+  ],
+  "farg": [],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 5.2,
+    "lockbete": {
+      "at": 28.519,
+      "end": 30.799,
+      "markera": {
+        "val": "C",
+        "at": 29.449,
+        "end": 30.799
+      }
+    },
+    "tillbaka": 45.319
+  },
+  "lage": {
+    "fraga": 150,
+    "alt": 1180,
+    "krok": 1500,
+    "rader": 690
+  },
+  "figur": {
+    "crop": [
+      10,
+      10,
+      390,
+      390
+    ],
+    "top": 600,
+    "bredd": 520,
+    "flytt": {
+      "at": 14.33,
+      "top": 150
+    },
+    "marker": [
+      {
+        "typ": "linje",
+        "punkter": [
+          [
+            200,
+            22
+          ],
+          [
+            378,
+            200
+          ]
+        ],
+        "at": 7.92,
+        "end": 9.55
+      },
+      {
+        "typ": "linje",
+        "farg": "rod",
+        "bredd": 7,
+        "punkter": [
+          [
+            378,
+            200
+          ],
+          [
+            372,
+            154
+          ],
+          [
+            354,
+            111
+          ],
+          [
+            326,
+            74
+          ],
+          [
+            289,
+            46
+          ],
+          [
+            246,
+            28
+          ],
+          [
+            200,
+            22
+          ]
+        ],
+        "at": 6.62,
+        "end": 9.55
+      },
+      {
+        "typ": "linje",
+        "punkter": [
+          [
+            200,
+            24
+          ],
+          [
+            200,
+            198
+          ]
+        ],
+        "at": 14.63,
+        "end": 22.609
+      },
+      {
+        "typ": "linje",
+        "punkter": [
+          [
+            202,
+            200
+          ],
+          [
+            376,
+            200
+          ]
+        ],
+        "at": 15.71,
+        "end": 22.609
+      },
+      {
+        "typ": "text",
+        "x": 160,
+        "y": 90,
+        "tex": "2",
+        "at": 16.75,
+        "storlek": 60
+      },
+      {
+        "typ": "linje",
+        "farg": "rod",
+        "bredd": 7,
+        "punkter": [
+          [
+            378,
+            200
+          ],
+          [
+            372,
+            154
+          ],
+          [
+            354,
+            111
+          ],
+          [
+            326,
+            74
+          ],
+          [
+            289,
+            46
+          ],
+          [
+            246,
+            28
+          ],
+          [
+            200,
+            22
+          ]
+        ],
+        "at": 23.679,
+        "end": 35.509
+      },
+      {
+        "typ": "ring",
+        "x": 211,
+        "y": 188,
+        "rx": 24,
+        "ry": 24,
+        "at": 34.909,
+        "end": 39.979
+      }
+    ],
+    "src": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/c4ce4acf-cfba-46c2-a3cb-6f9489e23042.png",
+    "storlek": [
+      399,
+      399
+    ],
+    "s": 1.368421052631579,
+    "h": 520,
+    "cr": [
+      10,
+      10,
+      390,
+      390
+    ]
+  },
+  "fragaUt": {
+    "at": 14.33
+  },
+  "kamera": [
+    {
+      "at": 0.52,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 900,
+      "dur": 0.5
+    },
+    {
+      "at": 5.3,
+      "zoom": 1.15,
+      "x": 520,
+      "y": 860,
+      "dur": 0.45
+    },
+    {
+      "at": 9.45,
+      "zoom": 1.1,
+      "x": 540,
+      "y": 400,
+      "dur": 0.45
+    },
+    {
+      "at": 14.53,
+      "zoom": 1.3,
+      "x": 540,
+      "y": 420,
+      "dur": 0.45
+    },
+    {
+      "at": 18.1,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 620,
+      "dur": 0.4
+    },
+    {
+      "at": 28.119,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 30.799,
+      "zoom": 1.3,
+      "x": 540,
+      "y": 440,
+      "dur": 0.45
+    },
+    {
+      "at": 36.579,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 680,
+      "dur": 0.4
+    },
+    {
+      "at": 41.599,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 800,
+      "dur": 0.4
+    },
+    {
+      "at": 45.019,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Någon har ätit en tårtbit",
+      "start": 5.4,
+      "end": 7.36
+    },
+    {
+      "text": "och lagt dit en triangel",
+      "start": 7.36,
+      "end": 8.66
+    },
+    {
+      "text": "i stället",
+      "start": 8.66,
+      "end": 9.55
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 9.55,
+      "end": 11.56
+    },
+    {
+      "text": "Vi ska hitta hela objektets area",
+      "start": 11.56,
+      "end": 14.63
+    },
+    {
+      "text": "Kateterna är radier",
+      "start": 14.63,
+      "end": 16.57
+    },
+    {
+      "text": "så båda är 2",
+      "start": 16.57,
+      "end": 18.2
+    },
+    {
+      "text": "Triangeln är 2 gånger 2",
+      "start": 18.2,
+      "end": 20.629
+    },
+    {
+      "text": "delat med 2",
+      "start": 20.629,
+      "end": 21.589
+    },
+    {
+      "text": "Det blir 2",
+      "start": 21.589,
+      "end": 22.609
+    },
+    {
+      "text": "Lätt. Cirkeln är pi gånger",
+      "start": 22.609,
+      "end": 25.739
+    },
+    {
+      "text": "2 i kvadrat",
+      "start": 25.739,
+      "end": 26.879
+    },
+    {
+      "text": "alltså 4 pi",
+      "start": 26.879,
+      "end": 28.519
+    },
+    {
+      "text": "Plus 2",
+      "start": 28.519,
+      "end": 29.449
+    },
+    {
+      "text": "svaret är C",
+      "start": 29.449,
+      "end": 30.899
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 30.899,
+      "end": 32.849
+    },
+    {
+      "text": "Nej, triangeln har ju tagit",
+      "start": 32.849,
+      "end": 34.729
+    },
+    {
+      "text": "en fjärdedel av cirkeln",
+      "start": 34.729,
+      "end": 36.679
+    },
+    {
+      "text": "Kvar är tre fjärdedelar av",
+      "start": 36.679,
+      "end": 39.419
+    },
+    {
+      "text": "4 pi",
+      "start": 39.419,
+      "end": 39.979
+    },
+    {
+      "text": "alltså 3 pi",
+      "start": 39.979,
+      "end": 41.699
+    },
+    {
+      "text": "Plus triangeln",
+      "start": 41.699,
+      "end": 43.259
+    },
+    {
+      "text": "Arean är 3 pi plus 2",
+      "start": 43.259,
+      "end": 45.919
+    },
+    {
+      "text": "Svaret är A",
+      "start": 45.919,
+      "end": 47.739000000000004
+    }
+  ],
+  "circle": {
+    "start": 46.959,
+    "end": 47.659000000000006
+  },
+  "duration": 48.739
+}

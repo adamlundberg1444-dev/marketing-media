@@ -1,0 +1,437 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "L",
+        "t": "L: ",
+        "uttryck": true
+      },
+      {
+        "id": "y",
+        "t": "y",
+        "it": true
+      },
+      {
+        "id": "eq",
+        "t": " = "
+      },
+      {
+        "id": "k",
+        "tex": "\\frac{3}{2}"
+      },
+      {
+        "id": "x",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "pl",
+        "t": " + "
+      },
+      {
+        "id": "m6",
+        "t": "6"
+      }
+    ],
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "t": "Linjen L skär "
+        },
+        {
+          "t": "y",
+          "it": true
+        },
+        {
+          "t": "-axeln i punkten "
+        },
+        {
+          "id": "pkt",
+          "tex": "\\left(0,\\ \\frac{3}{a}\\right)"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "q",
+          "t": "Vilket värde har "
+        },
+        {
+          "id": "qa",
+          "t": "a",
+          "it": true
+        },
+        {
+          "id": "qm",
+          "t": "?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\frac{1}{2}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\frac{2}{3}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\frac{3}{2}"
+    },
+    {
+      "letter": "D",
+      "tex": "6"
+    }
+  ],
+  "correct": 0,
+  "hook": {
+    "lines": [
+      "Bråk i en punkt på HP?",
+      "Lugn, den är kort."
+    ],
+    "start": 0,
+    "end": 5.311
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 5.311,
+    "d": "M 960 1170 C 1040 980, 1040 640, 900 480",
+    "head": "M 962 515 L 900 480 L 905 552"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "a",
+          "at": 10.061,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 10.211,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "6",
+          "at": 10.361,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 20.741,
+          "termer": [
+            {
+              "k": "y",
+              "tex": "y"
+            },
+            {
+              "k": "=",
+              "tex": "="
+            },
+            {
+              "k": "kx",
+              "tex": "\\frac{3}{2}\\cdot 0"
+            },
+            {
+              "k": "+",
+              "tex": "+"
+            },
+            {
+              "k": "m",
+              "tex": "6"
+            }
+          ]
+        },
+        {
+          "at": 21.751,
+          "termer": [
+            {
+              "k": "y",
+              "tex": "y"
+            },
+            "=",
+            {
+              "k": "m",
+              "tex": "6"
+            }
+          ]
+        },
+        {
+          "at": 25.191,
+          "termer": [
+            {
+              "k": "y",
+              "tex": "\\frac{3}{a}"
+            },
+            "=",
+            {
+              "k": "m",
+              "tex": "6"
+            }
+          ]
+        },
+        {
+          "at": 26.511,
+          "termer": [
+            {
+              "k": "y",
+              "tex": "3"
+            },
+            "=",
+            {
+              "k": "m",
+              "tex": "6a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "a",
+          "at": 29.05,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 29.2,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{3}{6}",
+          "at": 30.05,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R2",
+          "tex": "=\\frac{1}{2}",
+          "at": 31.79,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "R",
+      "at": 15.501
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "R2",
+      "at": 32.24
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q",
+        "qa",
+        "qm"
+      ],
+      "at": 5.921,
+      "end": 7.361
+    },
+    {
+      "ids": [
+        "m6"
+      ],
+      "at": 10.061,
+      "end": 13.671
+    },
+    {
+      "ids": [
+        "pkt"
+      ],
+      "at": 16.781,
+      "end": 19.201
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "x"
+      ],
+      "color": "gron",
+      "at": 20.741,
+      "end": 23.791
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 5.341,
+    "lockbete": {
+      "at": 11.131,
+      "end": 13.571,
+      "markera": {
+        "val": "D",
+        "at": 11.921,
+        "end": 13.571
+      }
+    },
+    "tillbaka": 32.13
+  },
+  "lage": {
+    "fraga": 250,
+    "alt": 640,
+    "rader": 660,
+    "krok": 1150
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.5,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 800,
+      "dur": 0.5
+    },
+    {
+      "at": 5.441,
+      "zoom": 1.12,
+      "x": 520,
+      "y": 480,
+      "dur": 0.45
+    },
+    {
+      "at": 7.061,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 19.101,
+      "zoom": 1.12,
+      "x": 520,
+      "y": 620,
+      "dur": 0.45
+    },
+    {
+      "at": 28.65,
+      "zoom": 1.12,
+      "x": 520,
+      "y": 700,
+      "dur": 0.4
+    },
+    {
+      "at": 31.83,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska hitta a",
+      "start": 5.541,
+      "end": 7.361
+    },
+    {
+      "text": "Lätt. Linjen skär y-axeln vid 6",
+      "start": 7.361,
+      "end": 11.131
+    },
+    {
+      "text": "Klart, svaret är D",
+      "start": 11.131,
+      "end": 13.671
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 13.671,
+      "end": 15.501
+    },
+    {
+      "text": "Nej, det är 3 genom",
+      "start": 15.501,
+      "end": 17.501
+    },
+    {
+      "text": "a som ska vara 6",
+      "start": 17.501,
+      "end": 19.201
+    },
+    {
+      "text": "På y-axeln är x noll",
+      "start": 19.201,
+      "end": 21.611
+    },
+    {
+      "text": "Då försvinner hela x-termen",
+      "start": 21.611,
+      "end": 23.791
+    },
+    {
+      "text": "Och y ska vara 3",
+      "start": 23.791,
+      "end": 25.411
+    },
+    {
+      "text": "genom a",
+      "start": 25.411,
+      "end": 26.511
+    },
+    {
+      "text": "Gånger a på båda sidor",
+      "start": 26.511,
+      "end": 28.75
+    },
+    {
+      "text": "Så a är 3 sjättedelar",
+      "start": 28.75,
+      "end": 31.11
+    },
+    {
+      "text": "alltså en halv",
+      "start": 31.11,
+      "end": 32.73
+    },
+    {
+      "text": "Svaret är A",
+      "start": 32.73,
+      "end": 34.71
+    }
+  ],
+  "circle": {
+    "start": 33.93,
+    "end": 34.63
+  },
+  "duration": 35.71
+}

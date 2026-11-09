@@ -1,0 +1,326 @@
+{
+  "slug": "hp-kva-8ccba7ed",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "8ccba7ed-bc3b-475f-bc33-ce8d7a21d2f5"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA · fråga 13 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " -2 - 5 - (-7) ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " -7 - (-5) + 2 ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "I: -2 - 5 + 7 = -7 + 7 = 0"
+    },
+    {
+      "text": "II: -7 + 5 + 2 = -2 + 2 = 0"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 33.6,
+    "phases": {
+      "readStart": 4.046,
+      "writeStart": 12.805
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.046,
+          "end": 4.545
+        },
+        {
+          "start": 4.545,
+          "end": 5.8129
+        },
+        {
+          "start": 5.8129,
+          "end": 8.643
+        },
+        {
+          "start": 8.643,
+          "end": 9.131
+        },
+        {
+          "start": 9.131,
+          "end": 10.0791
+        },
+        {
+          "start": 10.0791,
+          "end": 12.022
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.805,
+          "chars": [
+            12.805,
+            13.0441,
+            13.2833,
+            13.355,
+            13.5941,
+            13.8332,
+            13.905,
+            14.1441,
+            14.2158,
+            14.455,
+            14.5267,
+            14.7658,
+            14.8376,
+            15.0767,
+            15.1484,
+            15.3876,
+            15.4593,
+            15.6984,
+            15.9375,
+            16.0093,
+            16.2484,
+            16.3201,
+            16.5593,
+            16.631,
+            16.8701,
+            16.9419
+          ]
+        },
+        {
+          "start": 20.938,
+          "chars": [
+            20.938,
+            21.1761,
+            21.4143,
+            21.6524,
+            21.7238,
+            21.962,
+            22.2001,
+            22.2716,
+            22.5097,
+            22.5811,
+            22.8193,
+            22.8907,
+            23.1288,
+            23.2003,
+            23.4384,
+            23.5099,
+            23.748,
+            23.8194,
+            24.0576,
+            24.2957,
+            24.3671,
+            24.6053,
+            24.6767,
+            24.9148,
+            24.9863,
+            25.2244,
+            25.2959
+          ]
+        },
+        {
+          "start": 25.534,
+          "chars": [
+            25.534,
+            25.8099,
+            25.8927,
+            26.1687,
+            26.2514,
+            26.5274
+          ]
+        },
+        {
+          "start": 29.533,
+          "chars": [
+            29.533,
+            29.6403,
+            29.7477,
+            29.855,
+            29.9623,
+            30.0696,
+            30.1018,
+            30.2092,
+            30.3165,
+            30.4238,
+            30.456,
+            30.5634,
+            30.6707,
+            30.778,
+            30.8853,
+            30.9927
+          ]
+        }
+      ],
+      "circle": {
+        "start": 28.316,
+        "end": 29.163
+      },
+      "options": {
+        "hideAt": 12.505,
+        "showAt": 27.416
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

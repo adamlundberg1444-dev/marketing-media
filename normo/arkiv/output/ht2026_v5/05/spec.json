@@ -1,0 +1,186 @@
+{
+  "slug": "hp-ord-42ee868c",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "42ee868c-b8e6-4613-b62f-e08a358c9088"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 5 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "avvärja"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "ge"
+          },
+          {
+            "text": "upp"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "förhindra"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "dämpa"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "utestänga"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "säga"
+          },
+          {
+            "text": "ifrån"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "förhindra",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 11.713,
+    "phases": {
+      "readStart": 1.716,
+      "writeStart": 2.474
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.716,
+          "end": 2.227
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 2.474,
+          "chars": [
+            2.474,
+            2.7088,
+            2.9436,
+            3.1783,
+            3.4131,
+            3.6479,
+            3.8827,
+            4.1174,
+            4.3522
+          ]
+        },
+        {
+          "start": 5.985,
+          "chars": [
+            5.985,
+            6.2061,
+            6.4272,
+            6.6483,
+            6.8694,
+            7.0905,
+            7.1568,
+            7.3779,
+            7.599,
+            7.8201,
+            7.8864,
+            8.1075,
+            8.3286,
+            8.5497,
+            8.7708,
+            8.9919
+          ]
+        }
+      ],
+      "circle": {
+        "start": 4.722,
+        "end": 5.639
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

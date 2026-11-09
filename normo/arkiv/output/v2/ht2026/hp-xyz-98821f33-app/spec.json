@@ -1,0 +1,347 @@
+{
+  "slug": "hp-xyz-98821f33-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "98821f33-56dc-4448-94b7-faabb7c0d68f"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "svarsalternativ"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "lika"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "14"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "700?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 9,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " \\frac{700}{14} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 14 \\cdot 7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " \\frac{14 \\cdot 7}{100} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " \\frac{14}{700} ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "14 \\% = \\frac{14}{100}"
+    },
+    {
+      "text": "\\frac{14}{100} \\cdot 700 = \\frac{14 \\cdot 700}{100}"
+    },
+    {
+      "text": "14 \\cdot 7 = 98",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 69.161,
+    "phases": {
+      "readStart": 0,
+      "writeStart": 7.255
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0,
+          "end": 0.48
+        },
+        {
+          "start": 0.48,
+          "end": 1.28
+        },
+        {
+          "start": 1.28,
+          "end": 1.44
+        },
+        {
+          "start": 1.5,
+          "end": 1.76
+        },
+        {
+          "start": 1.84,
+          "end": 2.08
+        },
+        {
+          "start": 2.24,
+          "end": 2.8
+        },
+        {
+          "start": 2.88,
+          "end": 3.44
+        },
+        {
+          "start": 3.573,
+          "end": 3.84
+        },
+        {
+          "start": 4,
+          "end": 4.88
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.255,
+          "chars": [
+            7.255,
+            7.5071,
+            7.7592,
+            7.8349,
+            8.087,
+            8.1626,
+            8.4147,
+            8.4903,
+            8.7424,
+            8.9946,
+            9.2467,
+            9.4988,
+            9.7509
+          ]
+        },
+        {
+          "start": 17.961,
+          "chars": [
+            17.961,
+            18.1964,
+            18.4317,
+            18.6671,
+            18.9024,
+            19.1378,
+            19.3731,
+            19.4437,
+            19.6791,
+            19.7497,
+            19.985,
+            20.2204,
+            20.4557,
+            20.5263,
+            20.7617,
+            20.8323,
+            21.0676,
+            21.303,
+            21.3736,
+            21.6089,
+            21.6795,
+            21.9149,
+            22.1502,
+            22.3856,
+            22.6209,
+            22.8563,
+            23.0916
+          ]
+        },
+        {
+          "start": 32.429,
+          "chars": [
+            32.429,
+            32.6917,
+            32.9544,
+            33.0332,
+            33.2959,
+            33.3747,
+            33.6373,
+            33.7161,
+            33.9788,
+            34.0576,
+            34.3203
+          ]
+        },
+        {
+          "start": 58.008,
+          "chars": [
+            58.008,
+            58.2447,
+            58.4815,
+            58.7182,
+            58.955,
+            59.026,
+            59.2628,
+            59.4995,
+            59.7362,
+            59.973,
+            60.2097,
+            60.4465,
+            60.6832,
+            60.92,
+            61.1567,
+            61.2278,
+            61.4645,
+            61.5355,
+            61.7723,
+            62.009,
+            62.2458,
+            62.4825,
+            62.7193
+          ]
+        }
+      ],
+      "circle": {
+        "start": 41.645,
+        "end": 43.441
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 45.911,
+          "end": 46.661,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 58.008,
+          "end": 58.758,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 59.108,
+          "end": 59.858,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 2.24,
+          "end": 2.99,
+          "targets": [
+            {
+              "w": 5,
+              "from": "14 procent",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "14 procent",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "14 procent",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "14 procent",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appKeepCta": true
+  },
+  "variant": "app"
+}

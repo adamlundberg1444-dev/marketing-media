@@ -1,0 +1,429 @@
+{
+  "slug": "hp-kva-bb22b447",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "bb22b447-a743-4191-9a88-ad7456200c2f"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "HT 2016 · fråga 20",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "\\begin{cases} y = kx + m \\\\ y = ax + b \\end{cases} \\;\\Rightarrow\\; kx + m = ax + b"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": "y > 0",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "tex": "x^2 - y = 7y - x^2",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": "2y",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 8,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "x^2 - y = 7y - x^2"
+    },
+    {
+      "text": "2x^2 - y = 7y"
+    },
+    {
+      "text": "2x^2 = 8y"
+    },
+    {
+      "text": "x^2 = 4y"
+    },
+    {
+      "text": "x=2, y=1: x=2y"
+    },
+    {
+      "text": "x=4, y=4: x<2y",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 114.182,
+    "phases": {
+      "readStart": 5.383,
+      "writeStart": 36.651
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.383,
+          "end": 5.9134
+        },
+        {
+          "start": 5.9134,
+          "end": 7.0802
+        },
+        {
+          "start": 7.0802,
+          "end": 7.578
+        },
+        {
+          "start": 7.578,
+          "end": 7.589
+        },
+        {
+          "start": 7.589,
+          "end": 12.442
+        },
+        {
+          "start": 12.442,
+          "end": 13.046
+        },
+        {
+          "start": 13.046,
+          "end": 14.6721
+        },
+        {
+          "start": 14.6721,
+          "end": 15.925
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 36.651,
+          "chars": [
+            36.651,
+            36.9007,
+            37.1503,
+            37.2252,
+            37.4749,
+            37.5498,
+            37.7994,
+            37.8743,
+            38.124,
+            38.1989,
+            38.4486,
+            38.6982,
+            38.7731,
+            39.0228,
+            39.0977,
+            39.3473
+          ]
+        },
+        {
+          "start": 49.157,
+          "chars": [
+            49.157,
+            49.415,
+            49.6731,
+            49.9311,
+            50.0085,
+            50.2666,
+            50.344,
+            50.602,
+            50.6795,
+            50.9375,
+            51.0149,
+            51.273
+          ]
+        },
+        {
+          "start": 61.768,
+          "chars": [
+            61.768,
+            62.041,
+            62.3141,
+            62.5871,
+            62.669,
+            62.942,
+            63.0239,
+            63.297
+          ]
+        },
+        {
+          "start": 73.264,
+          "chars": [
+            73.264,
+            73.5465,
+            73.829,
+            73.9137,
+            74.1962,
+            74.281,
+            74.5635
+          ]
+        },
+        {
+          "start": 84.093,
+          "chars": [
+            84.093,
+            84.3408,
+            84.5886,
+            84.8363,
+            85.0841,
+            85.1584,
+            85.4062,
+            85.654,
+            85.9018,
+            86.1496,
+            86.2239,
+            86.4717,
+            86.7194,
+            86.9672
+          ]
+        },
+        {
+          "start": 93.471,
+          "chars": [
+            93.471,
+            93.7188,
+            93.9666,
+            94.2143,
+            94.4621,
+            94.5364,
+            94.7842,
+            95.032,
+            95.2798,
+            95.5276,
+            95.6019,
+            95.8497,
+            96.0974,
+            96.3452
+          ]
+        },
+        {
+          "start": 108.141,
+          "chars": [
+            108.141,
+            108.3835,
+            108.6261,
+            108.8686,
+            109.1111,
+            109.3537,
+            109.4264,
+            109.669,
+            109.9115,
+            110.154,
+            110.2268,
+            110.4693,
+            110.7119,
+            110.9544,
+            111.1969,
+            111.4395
+          ]
+        }
+      ],
+      "circle": {
+        "start": 102.704,
+        "end": 106.141
+      },
+      "options": {
+        "hideAt": 20.432,
+        "showAt": 101.804
+      },
+      "concept": {
+        "start": 21.438,
+        "end": 34.766,
+        "hideAt": 42.176
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 0,
+          "op": "+ x^2",
+          "eq": 7,
+          "stryk": {
+            "from": 12,
+            "to": 15,
+            "sida": "hoger"
+          },
+          "start": 42.6,
+          "end": 47.883
+        },
+        {
+          "li": 1,
+          "op": "+ y",
+          "eq": 8,
+          "stryk": {
+            "from": 4,
+            "to": 6,
+            "sida": "vanster"
+          },
+          "start": 55.838,
+          "end": 60.993
+        },
+        {
+          "li": 2,
+          "op": "/ 2",
+          "eq": 4,
+          "stryk": null,
+          "start": 66.533,
+          "end": 72.002
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

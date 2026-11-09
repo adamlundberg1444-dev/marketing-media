@@ -1,0 +1,743 @@
+{
+  "slug": "hp-nog-5bed1161",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "5bed1161-a0a9-4c3b-b3ca-28ad8dd9ab90"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.9,
+    "optionGapScale": 0.7,
+    "optionIndent": 0,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "NOG-fråga · Högskoleprovet",
+    "text2": "HT 2013 · fråga 25",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "x + y = 10 \\;\\text{ och }\\; 2x + 2y = 20 \\;\\text{ är SAMMA ekvation}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vinkeln"
+      },
+      {
+        "tex": "d",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "yttervinkel"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "tex": "c",
+        "display": false
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "triangeln"
+      },
+      {
+        "tex": "ABC",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "yttervinkeln"
+      },
+      {
+        "tex": "d",
+        "display": false
+      },
+      {
+        "text": "?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "text": "Vinkeln"
+      },
+      {
+        "tex": "c",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "1/4"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "tex": "b",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "text": "Vinkeln"
+      },
+      {
+        "tex": "d",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "summan"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "vinklarna"
+      },
+      {
+        "tex": "a",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": "b",
+        "display": false
+      },
+      {
+        "text": "."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 37,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/5bed1161-a0a9-4c3b-b3ca-28ad8dd9ab90.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "d = 180° - c"
+    },
+    {
+      "text": "d = a + b"
+    },
+    {
+      "text": "(1) b = 4c"
+    },
+    {
+      "text": "a + 4c = 180° - c"
+    },
+    {
+      "text": "a = 180° - c - 4c = 180° - 5c"
+    },
+    {
+      "text": "c fri, så d fri"
+    },
+    {
+      "text": "(2) redan känt (d = a + b)",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 87.036,
+    "phases": {
+      "readStart": 3.505,
+      "writeStart": 33.198
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.505,
+          "end": 4.028
+        },
+        {
+          "start": 4.028,
+          "end": 4.434
+        },
+        {
+          "start": 4.434,
+          "end": 4.666
+        },
+        {
+          "start": 4.713,
+          "end": 5.351
+        },
+        {
+          "start": 5.409,
+          "end": 5.537
+        },
+        {
+          "start": 5.56,
+          "end": 5.943
+        },
+        {
+          "start": 5.943,
+          "end": 6.315
+        },
+        {
+          "start": 6.315,
+          "end": 6.384
+        },
+        {
+          "start": 6.454,
+          "end": 7
+        },
+        {
+          "start": 7,
+          "end": 7.8611
+        },
+        {
+          "start": 7.8611,
+          "end": 8.706
+        },
+        {
+          "start": 8.706,
+          "end": 8.881
+        },
+        {
+          "start": 8.904,
+          "end": 9.275
+        },
+        {
+          "start": 9.299,
+          "end": 9.391
+        },
+        {
+          "start": 9.426,
+          "end": 10.053
+        },
+        {
+          "start": 10.053,
+          "end": 10.6981
+        },
+        {
+          "start": 10.6981,
+          "end": 11.5163
+        },
+        {
+          "start": 11.5163,
+          "end": 12.004
+        },
+        {
+          "start": 12.004,
+          "end": 12.456
+        },
+        {
+          "start": 12.456,
+          "end": 12.828
+        },
+        {
+          "start": 12.828,
+          "end": 12.979
+        },
+        {
+          "start": 12.979,
+          "end": 13.896
+        },
+        {
+          "start": 13.896,
+          "end": 13.954
+        },
+        {
+          "start": 13.977,
+          "end": 14.418
+        },
+        {
+          "start": 14.418,
+          "end": 15.1973
+        },
+        {
+          "start": 15.1973,
+          "end": 16.1857
+        },
+        {
+          "start": 16.1857,
+          "end": 16.775
+        },
+        {
+          "start": 16.775,
+          "end": 17.333
+        },
+        {
+          "start": 17.333,
+          "end": 17.693
+        },
+        {
+          "start": 17.693,
+          "end": 17.774
+        },
+        {
+          "start": 17.832,
+          "end": 18.169
+        },
+        {
+          "start": 18.215,
+          "end": 18.285
+        },
+        {
+          "start": 18.308,
+          "end": 18.888
+        },
+        {
+          "start": 18.888,
+          "end": 19.294
+        },
+        {
+          "start": 19.294,
+          "end": 19.364
+        },
+        {
+          "start": 19.364,
+          "end": 19.5328
+        },
+        {
+          "start": 19.5328,
+          "end": 19.747
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.198,
+          "chars": [
+            33.198,
+            33.456,
+            33.5335,
+            33.7915,
+            33.8689,
+            34.127,
+            34.385,
+            34.643,
+            34.9011,
+            34.9785,
+            35.2365,
+            35.314
+          ]
+        },
+        {
+          "start": 35.572,
+          "chars": [
+            35.572,
+            35.8485,
+            35.9314,
+            36.2078,
+            36.2908,
+            36.5672,
+            36.6502,
+            36.9266,
+            37.0095
+          ]
+        },
+        {
+          "start": 42.005,
+          "chars": [
+            42.005,
+            42.2693,
+            42.5336,
+            42.7979,
+            42.8772,
+            43.1415,
+            43.2208,
+            43.4851,
+            43.5644,
+            43.8287
+          ]
+        },
+        {
+          "start": 46.515,
+          "chars": [
+            46.515,
+            46.7623,
+            46.8365,
+            47.0839,
+            47.1581,
+            47.4054,
+            47.6528,
+            47.727,
+            47.9743,
+            48.0485,
+            48.2959,
+            48.5432,
+            48.7906,
+            49.0379,
+            49.1121,
+            49.3595,
+            49.4337
+          ]
+        },
+        {
+          "start": 52.139,
+          "chars": [
+            52.139,
+            52.3749,
+            52.4457,
+            52.6816,
+            52.7524,
+            52.9883,
+            53.2242,
+            53.4601,
+            53.696,
+            53.7668,
+            54.0027,
+            54.0735,
+            54.3094,
+            54.3801,
+            54.616,
+            54.6868,
+            54.9227,
+            55.1586,
+            55.2294,
+            55.4653,
+            55.5361,
+            55.772,
+            56.0079,
+            56.2438,
+            56.4797,
+            56.5505,
+            56.7864,
+            56.8572,
+            57.0931
+          ]
+        },
+        {
+          "start": 59.819,
+          "chars": [
+            59.819,
+            60.0677,
+            60.1423,
+            60.391,
+            60.6397,
+            60.8884,
+            61.137,
+            61.2117,
+            61.4603,
+            61.709,
+            61.7836,
+            62.0323,
+            62.1069,
+            62.3556,
+            62.6043
+          ]
+        },
+        {
+          "start": 66.058,
+          "chars": [
+            66.058,
+            66.2946,
+            66.5312,
+            66.7678,
+            66.8387,
+            67.0753,
+            67.3119,
+            67.5485,
+            67.7851,
+            68.0217,
+            68.0927,
+            68.3292,
+            68.5658,
+            68.8024,
+            69.039,
+            69.11,
+            69.3466,
+            69.5832,
+            69.6541,
+            69.8907,
+            69.9617,
+            70.1983,
+            70.2693,
+            70.5058,
+            70.5768,
+            70.8134
+          ]
+        },
+        {
+          "start": 81.262,
+          "chars": [
+            81.262,
+            81.4679,
+            81.6738,
+            81.8797,
+            82.0856,
+            82.2916,
+            82.3533,
+            82.5592,
+            82.7652,
+            82.9711,
+            83.0328,
+            83.2388,
+            83.3005,
+            83.5064,
+            83.7124,
+            83.9183,
+            84.1242,
+            84.3301
+          ]
+        }
+      ],
+      "circle": {
+        "start": 74.734,
+        "end": 80.179
+      },
+      "options": {
+        "hideAt": 29.348,
+        "showAt": 73.834
+      },
+      "concept": {
+        "start": 21.088,
+        "end": 28.948,
+        "hideAt": 41.105
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 31.248,
+          "end": 31.998,
+          "targets": [
+            {
+              "angle": [
+                0.8021,
+                0.8158
+              ],
+              "to": [
+                [
+                  0.3902,
+                  0.1586
+                ],
+                [
+                  0.9594,
+                  0.8098
+                ]
+              ],
+              "r": 0.07,
+              "fill": true,
+              "label": "a + b",
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 30.248,
+          "end": 32.998
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 3,
+          "op": "- 4c",
+          "eq": 7,
+          "stryk": {
+            "from": 4,
+            "to": 5,
+            "sida": "vanster"
+          },
+          "start": 52.139,
+          "end": 58.199
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

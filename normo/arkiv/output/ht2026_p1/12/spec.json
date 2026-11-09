@@ -1,0 +1,298 @@
+{
+  "slug": "hp-xyz-02ac81bd",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "02ac81bd-e25c-4d3d-9500-7399fa792af0"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 12 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " \\left(\\sqrt{3}\\right)^3 + \\left(\\sqrt{3}\\right)^5 ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " 8\\sqrt{3} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 12\\sqrt{3} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 15\\sqrt{3} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 81 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "(\\sqrt{3})^2 = 3"
+    },
+    {
+      "text": "(\\sqrt{3})^3 = (\\sqrt{3})^2 \\cdot \\sqrt{3} = 3\\sqrt{3}"
+    },
+    {
+      "text": "(\\sqrt{3})^5 = 3 \\cdot 3 \\cdot \\sqrt{3} = 9\\sqrt{3}"
+    },
+    {
+      "text": "3\\sqrt{3} + 9\\sqrt{3} = 12\\sqrt{3}",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 23.633,
+    "phases": {
+      "readStart": 1.062,
+      "writeStart": 5.734
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.062,
+          "end": 1.189
+        },
+        {
+          "start": 1.236,
+          "end": 1.306
+        },
+        {
+          "start": 1.306,
+          "end": 3.8392
+        },
+        {
+          "start": 3.8392,
+          "end": 4.893
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.734,
+          "chars": [
+            5.734,
+            5.9947,
+            6.2554,
+            6.5161,
+            6.7768,
+            7.0375,
+            7.2982,
+            7.3764,
+            7.6371,
+            7.7153
+          ]
+        },
+        {
+          "start": 8.57,
+          "chars": [
+            8.57,
+            8.6992,
+            8.8285,
+            8.9577,
+            9.087,
+            9.2162,
+            9.3455,
+            9.3842,
+            9.5135,
+            9.5523,
+            9.6815,
+            9.8107,
+            9.94,
+            10.0692,
+            10.1985,
+            10.3277,
+            10.3665,
+            10.4957,
+            10.5345,
+            10.6637,
+            10.793,
+            10.9222,
+            10.961,
+            11.0903,
+            11.129,
+            11.2583,
+            11.3875,
+            11.5168
+          ]
+        },
+        {
+          "start": 12.229,
+          "chars": [
+            12.229,
+            12.4156,
+            12.6023,
+            12.7889,
+            12.9755,
+            13.1622,
+            13.3488,
+            13.4048,
+            13.5914,
+            13.6474,
+            13.8341,
+            13.8901,
+            14.0767,
+            14.1327,
+            14.3193,
+            14.3753,
+            14.5619,
+            14.6179,
+            14.8046,
+            14.9912,
+            15.1778,
+            15.2338,
+            15.4205,
+            15.4765,
+            15.6631,
+            15.8497,
+            16.0364
+          ]
+        },
+        {
+          "start": 16.504,
+          "chars": [
+            16.504,
+            16.6065,
+            16.7089,
+            16.8114,
+            16.9139,
+            16.9446,
+            17.0471,
+            17.0778,
+            17.1803,
+            17.2828,
+            17.3852,
+            17.4877,
+            17.5184,
+            17.6209,
+            17.6517,
+            17.7541,
+            17.8566,
+            17.9591,
+            18.0615
+          ]
+        },
+        {
+          "start": 20.285,
+          "chars": [
+            20.285,
+            20.3352,
+            20.3854,
+            20.4355,
+            20.4857,
+            20.5359,
+            20.5509,
+            20.6011,
+            20.6513,
+            20.7015,
+            20.7517,
+            20.7667,
+            20.8169,
+            20.8319,
+            20.8821,
+            20.9323,
+            20.9825,
+            21.0326,
+            21.0828
+          ]
+        }
+      ],
+      "circle": {
+        "start": 19.006,
+        "end": 20.027
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

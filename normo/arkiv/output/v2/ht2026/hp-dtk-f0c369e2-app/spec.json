@@ -1,0 +1,458 @@
+{
+  "slug": "hp-dtk-f0c369e2-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "f0c369e2-9544-4457-9fe6-5c82204311d2"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "mycket"
+      },
+      {
+        "text": "vatten"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "enskilda"
+      },
+      {
+        "text": "vattentäkter"
+      },
+      {
+        "text": "använde"
+      },
+      {
+        "text": "industrin"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Skåne"
+      },
+      {
+        "text": "län?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "61"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "m³"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "77"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "m³"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "101"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "m³"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "118"
+          },
+          {
+            "text": "miljoner"
+          },
+          {
+            "text": "m³"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/app_bild/f0c369e2-9544-4457-9fe6-5c82204311d2.png",
+    "imageMax": 860
+  },
+  "writeLines": [
+    {
+      "text": "4\\,293 + 56\\,281 + 40\\,825 = 101\\,399",
+      "gron": [
+        "101\\,399"
+      ],
+      "farg": {
+        "26": "#0E9F6E",
+        "27": "#0E9F6E",
+        "28": "#0E9F6E",
+        "29": "#0E9F6E",
+        "30": "#0E9F6E",
+        "31": "#0E9F6E",
+        "32": "#0E9F6E"
+      }
+    },
+    {
+      "text": "101\\,399 tusen m^3 ≈ 101 milj. m^3",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 66.48,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 41.7
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.26
+        },
+        {
+          "start": 0.32,
+          "end": 0.56
+        },
+        {
+          "start": 0.6,
+          "end": 1.06
+        },
+        {
+          "start": 1.12,
+          "end": 1.32
+        },
+        {
+          "start": 1.4,
+          "end": 1.96
+        },
+        {
+          "start": 2,
+          "end": 2.84
+        },
+        {
+          "start": 3.24,
+          "end": 3.76
+        },
+        {
+          "start": 3.84,
+          "end": 4.56
+        },
+        {
+          "start": 4.6,
+          "end": 4.68
+        },
+        {
+          "start": 4.72,
+          "end": 5.1
+        },
+        {
+          "start": 5.14,
+          "end": 5.46
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 41.7,
+          "chars": [
+            41.7,
+            41.9335,
+            42.0035,
+            42.237,
+            42.4704,
+            42.7039,
+            42.7739,
+            43.0074,
+            43.0774,
+            43.3109,
+            43.5443,
+            43.6144,
+            43.8478,
+            44.0813,
+            44.3148,
+            44.3848,
+            44.6183,
+            44.6883,
+            44.9218,
+            45.1552,
+            45.2253,
+            45.4587,
+            45.6922,
+            45.9257,
+            45.9957,
+            46.2292,
+            46.2992,
+            46.5327,
+            46.7661,
+            46.9996,
+            47.0696,
+            47.3031,
+            47.5365
+          ]
+        },
+        {
+          "start": 54.16,
+          "chars": [
+            54.16,
+            54.3934,
+            54.6268,
+            54.8602,
+            54.9303,
+            55.1637,
+            55.3971,
+            55.6305,
+            55.7005,
+            55.9339,
+            56.1673,
+            56.4007,
+            56.6341,
+            56.8676,
+            56.9376,
+            57.171,
+            57.4044,
+            57.4744,
+            57.7078,
+            57.7779,
+            58.0113,
+            58.2447,
+            58.4781,
+            58.5481,
+            58.7815,
+            59.0149,
+            59.2483,
+            59.4817,
+            59.7152,
+            59.7852,
+            60.0186
+          ]
+        },
+        {
+          "start": 65.3,
+          "chars": [
+            65.3,
+            65.3118,
+            65.3237,
+            65.3355,
+            65.3473,
+            65.3592,
+            65.3627,
+            65.3746,
+            65.3864,
+            65.3982,
+            65.4101,
+            65.4136,
+            65.4254,
+            65.429,
+            65.4408,
+            65.4527,
+            65.4645,
+            65.4763,
+            65.4882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 64.08,
+        "end": 64.98
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.4,
+          "end": 2.15,
+          "targets": [
+            {
+              "w": 4,
+              "from": "enskilda",
+              "color": "blå"
+            },
+            {
+              "w": 5,
+              "from": "enskilda",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 4.72,
+          "end": 5.46,
+          "targets": [
+            {
+              "w": 9,
+              "from": "Skåne",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "Skåne",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 7.76,
+          "end": 8.51,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.425,
+                0.1101,
+                0.728,
+                0.2227
+              ],
+              "from": "Rubriken",
+              "color": "blå",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 28.34,
+          "end": 29.09,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.012,
+                0.4972,
+                0.986,
+                0.5261
+              ],
+              "from": "Skåne",
+              "color": "gul",
+              "seg": 3,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 30.92,
+          "end": 31.67,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.43,
+                0.4972,
+                0.728,
+                0.5261
+              ],
+              "from": "4 293",
+              "color": "gul",
+              "keep": true,
+              "seg": 3,
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.76,
+          "end": 16.84,
+          "omrade": [
+            0.4,
+            0.0949,
+            0.735,
+            0.2341
+          ]
+        },
+        {
+          "start": 26.58,
+          "end": 39.78,
+          "omrade": [
+            0,
+            0.4683,
+            0.75,
+            0.5549
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 65.25
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "imageMax": 860,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

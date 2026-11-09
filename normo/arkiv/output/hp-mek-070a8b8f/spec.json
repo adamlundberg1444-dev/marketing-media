@@ -1,0 +1,531 @@
+{
+  "slug": "hp-mek-070a8b8f",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "070a8b8f-16bc-48c7-ada9-ec88d3c7ac61"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "HT 2014 · fråga 26",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Sätt in ordet du tror på och läs om meningen, för fel ord hörs oftare än det syns."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Regeringen"
+      },
+      {
+        "text": "____"
+      },
+      {
+        "text": "också"
+      },
+      {
+        "text": "frågan"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "____"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "lärarna"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "särskolan,"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "behörighetsreglerna"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "börjar"
+      },
+      {
+        "text": "gälla"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "dem"
+      },
+      {
+        "text": "redan"
+      },
+      {
+        "text": "2015."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 21,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "diskuterar"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "deadline"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "tangerar"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "behörighet"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "planerar"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "paus"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "bereder"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "tidsfrist"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "diskuterar = talar om"
+    },
+    {
+      "text": "tangerar = snuddar vid"
+    },
+    {
+      "text": "planerar = gör en plan"
+    },
+    {
+      "text": "bereder = förbereder",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 108.421,
+    "phases": {
+      "readStart": 4.06,
+      "writeStart": 37.558
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.06,
+          "end": 4.849
+        },
+        {
+          "start": 4.849,
+          "end": 6.765
+        },
+        {
+          "start": 6.765,
+          "end": 7.067
+        },
+        {
+          "start": 7.136,
+          "end": 7.485
+        },
+        {
+          "start": 7.531,
+          "end": 7.589
+        },
+        {
+          "start": 7.67,
+          "end": 7.717
+        },
+        {
+          "start": 7.717,
+          "end": 9.551
+        },
+        {
+          "start": 9.551,
+          "end": 9.702
+        },
+        {
+          "start": 9.737,
+          "end": 10.225
+        },
+        {
+          "start": 10.271,
+          "end": 10.283
+        },
+        {
+          "start": 10.352,
+          "end": 11.235
+        },
+        {
+          "start": 11.641,
+          "end": 11.769
+        },
+        {
+          "start": 11.815,
+          "end": 11.885
+        },
+        {
+          "start": 11.931,
+          "end": 13.058
+        },
+        {
+          "start": 13.104,
+          "end": 13.266
+        },
+        {
+          "start": 13.313,
+          "end": 13.58
+        },
+        {
+          "start": 13.603,
+          "end": 13.905
+        },
+        {
+          "start": 13.951,
+          "end": 14.068
+        },
+        {
+          "start": 14.091,
+          "end": 14.335
+        },
+        {
+          "start": 14.439,
+          "end": 14.753
+        },
+        {
+          "start": 14.753,
+          "end": 16.227
+        },
+        {
+          "start": 19.014,
+          "end": 19.792
+        },
+        {
+          "start": 19.792,
+          "end": 20.036
+        },
+        {
+          "start": 20.036,
+          "end": 20.593
+        },
+        {
+          "start": 20.651,
+          "end": 21.301
+        },
+        {
+          "start": 21.301,
+          "end": 21.464
+        },
+        {
+          "start": 21.464,
+          "end": 22.149
+        },
+        {
+          "start": 22.207,
+          "end": 22.764
+        },
+        {
+          "start": 22.764,
+          "end": 22.938
+        },
+        {
+          "start": 22.938,
+          "end": 23.6
+        },
+        {
+          "start": 24.03,
+          "end": 24.564
+        },
+        {
+          "start": 24.564,
+          "end": 24.773
+        },
+        {
+          "start": 24.773,
+          "end": 25.655
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 37.558,
+          "chars": [
+            37.558,
+            37.7965,
+            38.035,
+            38.2736,
+            38.5121,
+            38.7506,
+            38.9891,
+            39.2276,
+            39.4661,
+            39.7047,
+            39.9432,
+            40.0147,
+            40.2533,
+            40.3248,
+            40.5633,
+            40.8019,
+            41.0404,
+            41.2789,
+            41.5174,
+            41.589,
+            41.8275
+          ]
+        },
+        {
+          "start": 57.642,
+          "chars": [
+            57.642,
+            57.8796,
+            58.1172,
+            58.3548,
+            58.5924,
+            58.8299,
+            59.0675,
+            59.3051,
+            59.5427,
+            59.614,
+            59.8516,
+            59.9228,
+            60.1604,
+            60.398,
+            60.6356,
+            60.8732,
+            61.1108,
+            61.3484,
+            61.586,
+            61.6572,
+            61.8948,
+            62.1324
+          ]
+        },
+        {
+          "start": 69.088,
+          "chars": [
+            69.088,
+            69.3262,
+            69.5645,
+            69.8027,
+            70.0409,
+            70.2791,
+            70.5174,
+            70.7556,
+            70.9938,
+            71.0653,
+            71.3035,
+            71.375,
+            71.6132,
+            71.8515,
+            72.0897,
+            72.1612,
+            72.3994,
+            72.6376,
+            72.7091,
+            72.9473,
+            73.1855,
+            73.4238
+          ]
+        },
+        {
+          "start": 83.193,
+          "chars": [
+            83.193,
+            83.4318,
+            83.6706,
+            83.9095,
+            84.1483,
+            84.3871,
+            84.6259,
+            84.8647,
+            84.9364,
+            85.1752,
+            85.2468,
+            85.4856,
+            85.7245,
+            85.9633,
+            86.2021,
+            86.4409,
+            86.6797,
+            86.9185,
+            87.1574,
+            87.3962
+          ]
+        },
+        {
+          "start": 102.729,
+          "chars": [
+            102.729,
+            102.8817,
+            103.0345,
+            103.1872,
+            103.3399,
+            103.3857,
+            103.5385,
+            103.6912,
+            103.8439,
+            103.9966,
+            104.1494,
+            104.3021,
+            104.4548,
+            104.6075,
+            104.7603,
+            104.8061,
+            104.9588,
+            105.0046,
+            105.1574,
+            105.3101,
+            105.4628,
+            105.6155,
+            105.7683
+          ]
+        }
+      ],
+      "circle": {
+        "start": 95.422,
+        "end": 101.216
+      },
+      "options": null,
+      "concept": {
+        "start": 26.896,
+        "end": 36.683,
+        "hideAt": 54.82
+      },
+      "strikes": [
+        {
+          "start": 55.067,
+          "end": 55.817,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 66.78,
+          "end": 67.53,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 80.607,
+          "end": 81.357,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

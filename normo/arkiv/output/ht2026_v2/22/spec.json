@@ -1,0 +1,515 @@
+{
+  "slug": "hp-mek-0a0df14f",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "0a0df14f-e655-48ea-bf3a-230074bf8254"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK · fråga 22 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Ett"
+      },
+      {
+        "text": "brottsoffer"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "ofta"
+      },
+      {
+        "text": "rätt"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "kräva"
+      },
+      {
+        "text": "gärningspersonen"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "ekonomisk"
+      },
+      {
+        "text": "ersättning"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "form"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "skadestånd."
+      },
+      {
+        "text": "Skadeståndet"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "skador"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "uppkommit"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "personliga"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "brottet"
+      },
+      {
+        "text": "inneburit."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 32,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "upprättelse"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "konsekvens"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "försäkring"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "utsatthet"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "kompensation"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "kränkning"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "lindring"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "förlust"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kompensation, kränkning",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 38.101,
+    "phases": {
+      "readStart": 1.554,
+      "writeStart": 25.18
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.554,
+          "end": 1.693
+        },
+        {
+          "start": 1.728,
+          "end": 2.158
+        },
+        {
+          "start": 2.204,
+          "end": 2.285
+        },
+        {
+          "start": 2.332,
+          "end": 2.541
+        },
+        {
+          "start": 2.587,
+          "end": 2.831
+        },
+        {
+          "start": 2.901,
+          "end": 3.017
+        },
+        {
+          "start": 3.063,
+          "end": 3.353
+        },
+        {
+          "start": 3.388,
+          "end": 4.143
+        },
+        {
+          "start": 4.189,
+          "end": 4.247
+        },
+        {
+          "start": 4.317,
+          "end": 4.828
+        },
+        {
+          "start": 4.863,
+          "end": 5.35
+        },
+        {
+          "start": 5.42,
+          "end": 5.466
+        },
+        {
+          "start": 5.536,
+          "end": 5.768
+        },
+        {
+          "start": 5.815,
+          "end": 5.861
+        },
+        {
+          "start": 5.919,
+          "end": 6.709
+        },
+        {
+          "start": 7.22,
+          "end": 7.986
+        },
+        {
+          "start": 8.067,
+          "end": 8.183
+        },
+        {
+          "start": 8.253,
+          "end": 8.462
+        },
+        {
+          "start": 8.462,
+          "end": 10.296
+        },
+        {
+          "start": 10.296,
+          "end": 10.412
+        },
+        {
+          "start": 10.436,
+          "end": 10.482
+        },
+        {
+          "start": 10.552,
+          "end": 10.958
+        },
+        {
+          "start": 10.981,
+          "end": 11.086
+        },
+        {
+          "start": 11.155,
+          "end": 11.701
+        },
+        {
+          "start": 11.782,
+          "end": 11.898
+        },
+        {
+          "start": 11.945,
+          "end": 12.038
+        },
+        {
+          "start": 12.061,
+          "end": 12.154
+        },
+        {
+          "start": 12.189,
+          "end": 12.7
+        },
+        {
+          "start": 12.7,
+          "end": 14.65
+        },
+        {
+          "start": 14.65,
+          "end": 14.801
+        },
+        {
+          "start": 14.836,
+          "end": 15.126
+        },
+        {
+          "start": 15.196,
+          "end": 15.823
+        },
+        {
+          "start": 17.814,
+          "end": 18.371
+        },
+        {
+          "start": 18.371,
+          "end": 18.51
+        },
+        {
+          "start": 18.51,
+          "end": 19.149
+        },
+        {
+          "start": 19.184,
+          "end": 19.718
+        },
+        {
+          "start": 19.718,
+          "end": 19.95
+        },
+        {
+          "start": 19.95,
+          "end": 20.751
+        },
+        {
+          "start": 21.03,
+          "end": 21.703
+        },
+        {
+          "start": 21.703,
+          "end": 21.842
+        },
+        {
+          "start": 21.842,
+          "end": 22.399
+        },
+        {
+          "start": 22.632,
+          "end": 23.084
+        },
+        {
+          "start": 23.084,
+          "end": 23.27
+        },
+        {
+          "start": 23.27,
+          "end": 23.828
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 25.18,
+          "chars": [
+            25.18,
+            25.3794,
+            25.5787,
+            25.7781,
+            25.9775,
+            26.1769,
+            26.3762,
+            26.5756,
+            26.775,
+            26.9743,
+            27.1737,
+            27.3731,
+            27.5725,
+            27.7718,
+            27.8317,
+            28.031,
+            28.2304,
+            28.4298,
+            28.6291,
+            28.8285,
+            29.0279,
+            29.2273,
+            29.4266
+          ]
+        },
+        {
+          "start": 33.616,
+          "chars": [
+            33.616,
+            33.7408,
+            33.8657,
+            33.9905,
+            34.1154,
+            34.2402,
+            34.2777,
+            34.4025,
+            34.5274,
+            34.6522,
+            34.6896,
+            34.8145,
+            34.8519,
+            34.9768,
+            35.1016,
+            35.2265,
+            35.3513,
+            35.4762
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.592,
+        "end": 33.358
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 30.639,
+          "end": 31.389,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 31.117,
+          "end": 31.867,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 31.595,
+          "end": 32.345,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 25.18,
+          "end": 25.93,
+          "targets": [
+            {
+              "w": 10
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

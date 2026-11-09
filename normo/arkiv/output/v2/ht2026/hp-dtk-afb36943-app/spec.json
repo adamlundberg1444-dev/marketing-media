@@ -1,0 +1,515 @@
+{
+  "slug": "hp-dtk-afb36943-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "afb36943-cbc2-4660-a990-3ec33cd84072"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "motsvarade"
+      },
+      {
+        "text": "1/8"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "svenska"
+      },
+      {
+        "text": "industrins"
+      },
+      {
+        "text": "totala"
+      },
+      {
+        "text": "vattenanvändning?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "havsvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Västra"
+          },
+          {
+            "text": "Götalands"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "ytvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Gävleborgs"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "havsvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Västerbottens"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Användningen"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "ytvatten"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Norrbottens"
+          },
+          {
+            "text": "län"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/app_bild/afb36943-cbc2-4660-a990-3ec33cd84072.png",
+    "imageMax": 620
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{1}{8} = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2}"
+    },
+    {
+      "text": "≈ 1\\,131\\,000",
+      "rod": [
+        "1\\,131\\,000"
+      ],
+      "farg": {
+        "2": "#D93025",
+        "3": "#D93025",
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025",
+        "9": "#D93025",
+        "10": "#D93025"
+      }
+    },
+    {
+      "text": "≈ 565\\,000",
+      "rod": [
+        "565\\,000"
+      ],
+      "farg": {
+        "2": "#D93025",
+        "3": "#D93025",
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025"
+      }
+    },
+    {
+      "text": "≈ 282\\,700",
+      "rod": [
+        "282\\,700"
+      ],
+      "emphasis": true,
+      "farg": {
+        "2": "#D93025",
+        "3": "#D93025",
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025"
+      }
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 73.4,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 28.84
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.6
+        },
+        {
+          "start": 0.7,
+          "end": 0.82
+        },
+        {
+          "start": 0.9,
+          "end": 1.6
+        },
+        {
+          "start": 1.68,
+          "end": 2.48
+        },
+        {
+          "start": 2.48,
+          "end": 3.94
+        },
+        {
+          "start": 3.94,
+          "end": 4.019
+        },
+        {
+          "start": 4.059,
+          "end": 4.24
+        },
+        {
+          "start": 4.32,
+          "end": 4.84
+        },
+        {
+          "start": 4.92,
+          "end": 5.78
+        },
+        {
+          "start": 5.86,
+          "end": 6.46
+        },
+        {
+          "start": 6.52,
+          "end": 7.82
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 28.84,
+          "chars": [
+            28.84,
+            29.0808,
+            29.3217,
+            29.5625,
+            29.6348,
+            29.8756,
+            29.9478,
+            30.1887,
+            30.4295,
+            30.6703,
+            30.7426,
+            30.9834,
+            31.0557,
+            31.2965,
+            31.5373,
+            31.7782,
+            31.8504,
+            32.0913,
+            32.1635,
+            32.4043,
+            32.6452
+          ]
+        },
+        {
+          "start": 39.62,
+          "chars": [
+            39.62,
+            39.8793,
+            39.9571,
+            40.2164,
+            40.2942,
+            40.5536,
+            40.8129,
+            41.0722,
+            41.15,
+            41.4093,
+            41.6687
+          ]
+        },
+        {
+          "start": 44.26,
+          "chars": [
+            44.26,
+            44.5261,
+            44.6059,
+            44.8719,
+            45.138,
+            45.404,
+            45.4838,
+            45.7499,
+            46.0159
+          ]
+        },
+        {
+          "start": 47.88,
+          "chars": [
+            47.88,
+            48.1461,
+            48.2259,
+            48.4919,
+            48.758,
+            49.024,
+            49.1038,
+            49.3699,
+            49.6359
+          ]
+        },
+        {
+          "start": 71.92,
+          "chars": [
+            71.92,
+            71.9414,
+            71.9628,
+            71.9842,
+            72.0055,
+            72.0269,
+            72.0333,
+            72.0547,
+            72.0761,
+            72.0975,
+            72.1039,
+            72.1253,
+            72.1317,
+            72.1531,
+            72.1745,
+            72.1958,
+            72.2172,
+            72.2386
+          ]
+        }
+      ],
+      "circle": {
+        "start": 67.28,
+        "end": 71.9
+      },
+      "options": {
+        "hideAt": 9.32,
+        "showAt": 66.38
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 5.86,
+          "end": 6.61,
+          "targets": [
+            {
+              "w": 9,
+              "from": "totala",
+              "color": "blå"
+            },
+            {
+              "w": 10,
+              "from": "totala",
+              "color": "blå"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 13.04,
+          "end": 13.79,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.893,
+                0.8683,
+                0.986,
+                0.9019
+              ],
+              "from": "längst",
+              "color": "blå",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 58.5,
+          "end": 59.25,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.012,
+                0.5549,
+                0.986,
+                0.5838
+              ],
+              "from": "Västra",
+              "color": "gul",
+              "seg": 6,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 60.88,
+          "end": 61.63,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.635,
+                0.5549,
+                0.728,
+                0.5838
+              ],
+              "from": "285",
+              "color": "gul",
+              "keep": true,
+              "seg": 6,
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 10.02,
+          "end": 26.7,
+          "omrade": [
+            0.5,
+            0.8145,
+            1,
+            0.9177
+          ]
+        },
+        {
+          "start": 53.18,
+          "end": 65.64,
+          "omrade": [
+            0,
+            0.5261,
+            0.75,
+            0.6126
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 71.87
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "imageMax": 620,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2,
+    "appKeyLines": [
+      3
+    ],
+    "appOptionsHide": true
+  },
+  "variant": "app"
+}

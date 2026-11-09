@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261874",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-06.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "strof",
+      "options": [
+        "manlig dansör, prostituerad",
+        "grupp versrader",
+        "besvikelse",
+        "lindrig sjukdom"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "strof",
+      "options": [
+        "manlig dansör, prostituerad",
+        "grupp versrader",
+        "besvikelse",
+        "lindrig sjukdom"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "favorisera",
+      "options": [
+        "gynna",
+        "befästa",
+        "gå mot bättre tider",
+        "tala för"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "favorisera",
+      "options": [
+        "gynna",
+        "befästa",
+        "gå mot bättre tider",
+        "tala för"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "metamorfos",
+      "options": [
+        "blyghet; svårighet",
+        "kotknackare",
+        "förvandling",
+        "expertgrupp för uppdrag"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "metamorfos",
+      "options": [
+        "blyghet; svårighet",
+        "kotknackare",
+        "förvandling",
+        "expertgrupp för uppdrag"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "in perpetuum",
+      "options": [
+        "från denna dag",
+        "trots det",
+        "enstaka",
+        "i evighet"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "in perpetuum",
+      "options": [
+        "från denna dag",
+        "trots det",
+        "enstaka",
+        "i evighet"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "hp-kva-98bf5cc8",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "98bf5cc8-f989-481a-af64-6046cd5eb595"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA · fråga 16 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " -0{,}000044 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " -0{,}004444 ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "0{,}000044 < 0{,}004444"
+    },
+    {
+      "text": "-0{,}000044 > -0{,}004444"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 28.585,
+    "phases": {
+      "readStart": 1.549,
+      "writeStart": 10.738
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.549,
+          "end": 2.095
+        },
+        {
+          "start": 2.095,
+          "end": 3.6894
+        },
+        {
+          "start": 3.6894,
+          "end": 6.565
+        },
+        {
+          "start": 6.565,
+          "end": 7.076
+        },
+        {
+          "start": 7.076,
+          "end": 8.1992
+        },
+        {
+          "start": 8.1992,
+          "end": 10.059
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10.738,
+          "chars": [
+            10.738,
+            10.9779,
+            11.2178,
+            11.4577,
+            11.6975,
+            11.9374,
+            12.1773,
+            12.4172,
+            12.6571,
+            12.7291,
+            12.9689,
+            13.0409,
+            13.2808,
+            13.5207,
+            13.7606,
+            14.0005,
+            14.2403,
+            14.4802,
+            14.7201
+          ]
+        },
+        {
+          "start": 16.921,
+          "chars": [
+            16.921,
+            17.1369,
+            17.3528,
+            17.5687,
+            17.7846,
+            18.0005,
+            18.2165,
+            18.4324,
+            18.6483,
+            18.8642,
+            18.929,
+            19.1449,
+            19.2096,
+            19.4255,
+            19.6415,
+            19.8574,
+            20.0733,
+            20.2892,
+            20.5051,
+            20.721,
+            20.9369
+          ]
+        },
+        {
+          "start": 21.1528,
+          "chars": [
+            21.1528,
+            21.3687,
+            21.4335,
+            21.6494,
+            21.7142,
+            21.9301
+          ]
+        },
+        {
+          "start": 24.703,
+          "chars": [
+            24.703,
+            24.7977,
+            24.8923,
+            24.987,
+            25.0816,
+            25.1763,
+            25.2047,
+            25.2993,
+            25.394,
+            25.4887,
+            25.5171,
+            25.6117,
+            25.7064,
+            25.801,
+            25.8957,
+            25.9903
+          ]
+        }
+      ],
+      "circle": {
+        "start": 23.242,
+        "end": 24.078
+      },
+      "options": {
+        "hideAt": 10.438,
+        "showAt": 22.342
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

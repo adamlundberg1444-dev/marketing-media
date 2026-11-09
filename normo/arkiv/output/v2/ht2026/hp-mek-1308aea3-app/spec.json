@@ -1,0 +1,420 @@
+{
+  "slug": "hp-mek-1308aea3-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "1308aea3-803f-411e-8eba-40fc733a8c34"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Giftiga"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "svårnedbrytbara"
+      },
+      {
+        "text": "kemikalier"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "återvinnas"
+      },
+      {
+        "text": "förbränns"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "speciella"
+      },
+      {
+        "text": "ugnar"
+      },
+      {
+        "text": "vid"
+      },
+      {
+        "text": "höga"
+      },
+      {
+        "text": "temperaturer."
+      },
+      {
+        "text": "De"
+      },
+      {
+        "text": "ämnen"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "oskadliggöras"
+      },
+      {
+        "text": "lämnas"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "_____."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 24,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "deponering"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "segregering"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "kompostering"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "refusering"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "deponering"
+    ],
+    "gapFarg": [
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "deponering = förvaras på deponi",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 46.29,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 38.44
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.78
+        },
+        {
+          "start": 0.82,
+          "end": 0.92
+        },
+        {
+          "start": 1,
+          "end": 2.32
+        },
+        {
+          "start": 2.38,
+          "end": 3.1
+        },
+        {
+          "start": 3.16,
+          "end": 3.26
+        },
+        {
+          "start": 3.32,
+          "end": 3.54
+        },
+        {
+          "start": 3.58,
+          "end": 3.7
+        },
+        {
+          "start": 3.78,
+          "end": 4.8
+        },
+        {
+          "start": 4.88,
+          "end": 5.58
+        },
+        {
+          "start": 5.62,
+          "end": 5.66
+        },
+        {
+          "start": 5.72,
+          "end": 6.2
+        },
+        {
+          "start": 6.3,
+          "end": 6.68
+        },
+        {
+          "start": 6.72,
+          "end": 6.86
+        },
+        {
+          "start": 6.92,
+          "end": 7.3
+        },
+        {
+          "start": 7.36,
+          "end": 8.24
+        },
+        {
+          "start": 9.82,
+          "end": 10.02
+        },
+        {
+          "start": 10.12,
+          "end": 10.62
+        },
+        {
+          "start": 10.68,
+          "end": 10.78
+        },
+        {
+          "start": 10.86,
+          "end": 11.06
+        },
+        {
+          "start": 11.1,
+          "end": 11.28
+        },
+        {
+          "start": 11.36,
+          "end": 12.48
+        },
+        {
+          "start": 12.56,
+          "end": 13.08
+        },
+        {
+          "start": 13.14,
+          "end": 13.54
+        },
+        {
+          "start": 13.54,
+          "end": 13.814
+        },
+        {
+          "start": 13.814,
+          "end": 14.052
+        },
+        {
+          "start": 14.052,
+          "end": 14.308
+        },
+        {
+          "start": 14.308,
+          "end": 14.582
+        },
+        {
+          "start": 14.582,
+          "end": 14.82
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 38.44,
+          "chars": [
+            38.44,
+            38.6315,
+            38.823,
+            39.0145,
+            39.206,
+            39.3974,
+            39.5889,
+            39.7804,
+            39.9719,
+            40.1634,
+            40.3549,
+            40.4123,
+            40.6038,
+            40.6613,
+            40.8528,
+            41.0443,
+            41.2357,
+            41.4272,
+            41.6187,
+            41.8102,
+            42.0017,
+            42.1932,
+            42.2506,
+            42.4421,
+            42.6336,
+            42.6911,
+            42.8826,
+            43.074,
+            43.2655,
+            43.457,
+            43.6485
+          ]
+        },
+        {
+          "start": 46.34,
+          "chars": [
+            46.34,
+            46.3496,
+            46.3591,
+            46.3687,
+            46.3783,
+            46.3811,
+            46.3907,
+            46.4003,
+            46.4099,
+            46.4194,
+            46.429,
+            46.4386,
+            46.4481,
+            46.4577,
+            46.4673,
+            46.4701,
+            46.4797,
+            46.4826,
+            46.4922,
+            46.5017,
+            46.5113,
+            46.5209,
+            46.5304
+          ]
+        }
+      ],
+      "circle": {
+        "start": 35.42,
+        "end": 36.48
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 21.34,
+          "end": 22.09,
+          "targets": [
+            {
+              "w": 5,
+              "from": "återvinnas",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "återvinnas",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "återvinnas",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 24.9,
+          "end": 25.65,
+          "targets": [
+            {
+              "w": 18,
+              "from": "inte kan oskadliggöras",
+              "color": "gul"
+            },
+            {
+              "w": 19,
+              "from": "inte kan oskadliggöras",
+              "color": "gul"
+            },
+            {
+              "w": 20,
+              "from": "inte kan oskadliggöras",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

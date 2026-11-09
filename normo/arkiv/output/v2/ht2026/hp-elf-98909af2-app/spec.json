@@ -1,0 +1,538 @@
+{
+  "slug": "hp-elf-98909af2-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "98909af2-3104-4d41-8f0a-978c3df8720c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "can"
+      },
+      {
+        "text": "be"
+      },
+      {
+        "text": "concluded"
+      },
+      {
+        "text": "early"
+      },
+      {
+        "text": "on"
+      },
+      {
+        "text": "concerning"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "British"
+      },
+      {
+        "text": "and"
+      },
+      {
+        "text": "tea?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Coffee"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "popular"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "throughout"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "17th"
+          },
+          {
+            "text": "century."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "From"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "start,"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "British"
+          },
+          {
+            "text": "were"
+          },
+          {
+            "text": "immediately"
+          },
+          {
+            "text": "obsessed"
+          },
+          {
+            "text": "with"
+          },
+          {
+            "text": "tea."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Until"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "1800s,"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "mainly"
+          },
+          {
+            "text": "used"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "its"
+          },
+          {
+            "text": "curative"
+          },
+          {
+            "text": "properties."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Coffee"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "much"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "expensive"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "in"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "1600s."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__98909af2-3104-4d41-8f0a-978c3df8720c.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "1600-talet: mer kaffe än te",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 43.76,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 34.36
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.26
+        },
+        {
+          "start": 0.32,
+          "end": 0.48
+        },
+        {
+          "start": 0.54,
+          "end": 0.66
+        },
+        {
+          "start": 0.72,
+          "end": 1.38
+        },
+        {
+          "start": 1.46,
+          "end": 1.7
+        },
+        {
+          "start": 1.78,
+          "end": 1.96
+        },
+        {
+          "start": 2,
+          "end": 2.7
+        },
+        {
+          "start": 2.76,
+          "end": 2.86
+        },
+        {
+          "start": 2.9,
+          "end": 3.58
+        },
+        {
+          "start": 3.7,
+          "end": 3.84
+        },
+        {
+          "start": 4.08,
+          "end": 4.38
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 34.36,
+          "chars": [
+            34.36,
+            34.5385,
+            34.717,
+            34.8955,
+            35.074,
+            35.2526,
+            35.4311,
+            35.6096,
+            35.7881,
+            35.9666,
+            36.1451,
+            36.3236,
+            36.3772,
+            36.5557,
+            36.7342,
+            36.9127,
+            36.9663,
+            37.1448,
+            37.3233,
+            37.5018,
+            37.6803,
+            37.8588,
+            37.9124,
+            38.0909,
+            38.2694,
+            38.323,
+            38.5015
+          ]
+        },
+        {
+          "start": 43.1,
+          "chars": [
+            43.1,
+            43.1329,
+            43.1658,
+            43.1986,
+            43.2315,
+            43.2644,
+            43.2742,
+            43.3071,
+            43.34,
+            43.3729,
+            43.3827,
+            43.4156,
+            43.4485,
+            43.4814,
+            43.5142,
+            43.5471
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.96,
+        "end": 42.26
+      },
+      "options": {
+        "hideAt": 12,
+        "showAt": 40.06
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.46,
+          "end": 8.21,
+          "targets": [
+            {
+              "w": 4,
+              "from": "early on",
+              "color": "gul"
+            },
+            {
+              "w": 5,
+              "from": "early on",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 18.94,
+          "end": 19.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.376,
+                  0.3745
+                ],
+                [
+                  0.9529,
+                  0.3745
+                ],
+                [
+                  0.9529,
+                  0.4532
+                ],
+                [
+                  0.376,
+                  0.4532
+                ]
+              ],
+              "color": "bla",
+              "from": "dyr nyhet",
+              "hlFarg": "rosa",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 18.94,
+          "end": 19.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4773
+                ],
+                [
+                  0.5897,
+                  0.4773
+                ],
+                [
+                  0.5897,
+                  0.5559
+                ],
+                [
+                  0,
+                  0.5559
+                ]
+              ],
+              "color": "bla",
+              "from": "dyr nyhet",
+              "hlFarg": "rosa",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 25.5,
+          "end": 26.25,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2196,
+                  0.58
+                ],
+                [
+                  0.9028,
+                  0.58
+                ],
+                [
+                  0.9028,
+                  0.6587
+                ],
+                [
+                  0.2196,
+                  0.6587
+                ]
+              ],
+              "color": "bla",
+              "from": "tio gånger",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.5,
+          "end": 26.25,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6828
+                ],
+                [
+                  0.2402,
+                  0.6828
+                ],
+                [
+                  0.2402,
+                  0.7614
+                ],
+                [
+                  0,
+                  0.7614
+                ]
+              ],
+              "color": "bla",
+              "from": "tio gånger",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 30.52,
+          "end": 31.27,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2397,
+                  0.6828
+                ],
+                [
+                  0.8687,
+                  0.6828
+                ],
+                [
+                  0.8687,
+                  0.7614
+                ],
+                [
+                  0.2397,
+                  0.7614
+                ]
+              ],
+              "color": "bla",
+              "from": "1730",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 43.05
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20261091",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-26.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "fylogeni",
+      "options": [
+        "överraskning",
+        "utvecklingshistoria för djurart",
+        "kraftig tillrättavisning",
+        "slutsats"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "fylogeni",
+      "options": [
+        "överraskning",
+        "utvecklingshistoria för djurart",
+        "kraftig tillrättavisning",
+        "slutsats"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "sisyfosarbete",
+      "options": [
+        "släktskap",
+        "brådskande meddelande",
+        "fruktlöst evighetsarbete",
+        "intensiv klagan"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "sisyfosarbete",
+      "options": [
+        "släktskap",
+        "brådskande meddelande",
+        "fruktlöst evighetsarbete",
+        "intensiv klagan"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "ipso jure",
+      "options": [
+        "genast",
+        "utan påskrift",
+        "i överenstämmelse med",
+        "med rätta"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ipso jure",
+      "options": [
+        "genast",
+        "utan påskrift",
+        "i överenstämmelse med",
+        "med rätta"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "homograf",
+      "options": [
+        "huva",
+        "slyngel",
+        "ord med samma stavning",
+        "järntyp"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "homograf",
+      "options": [
+        "huva",
+        "slyngel",
+        "ord med samma stavning",
+        "järntyp"
+      ],
+      "correct": 2,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

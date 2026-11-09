@@ -1,0 +1,373 @@
+{
+  "slug": "hp-las-a093241d-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "a093241d-4014-4975-a465-7c13d4c59591"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "tema"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "båda"
+      },
+      {
+        "text": "texterna"
+      },
+      {
+        "text": "gemensamt?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "fridfulla"
+          },
+          {
+            "text": "avskedet."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "ofrånkomliga"
+          },
+          {
+            "text": "vemodet."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "flyktiga"
+          },
+          {
+            "text": "skeendenas"
+          },
+          {
+            "text": "ovisshet."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Den"
+          },
+          {
+            "text": "cykliska"
+          },
+          {
+            "text": "upprepningens"
+          },
+          {
+            "text": "trygghet."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__a093241d-4014-4975-a465-7c13d4c59591.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "det som återkommer ger trygghet",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 44.2,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 33.84
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.56
+        },
+        {
+          "start": 0.64,
+          "end": 1.12
+        },
+        {
+          "start": 1.16,
+          "end": 1.28
+        },
+        {
+          "start": 1.32,
+          "end": 1.42
+        },
+        {
+          "start": 1.46,
+          "end": 1.72
+        },
+        {
+          "start": 1.8,
+          "end": 2.28
+        },
+        {
+          "start": 2.34,
+          "end": 3.12
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.84,
+          "chars": [
+            33.84,
+            34.0584,
+            34.2769,
+            34.4953,
+            34.5609,
+            34.7793,
+            34.9977,
+            35.2162,
+            35.2817,
+            35.5001,
+            35.7186,
+            35.937,
+            36.1555,
+            36.3739,
+            36.5923,
+            36.8108,
+            37.0292,
+            37.2477,
+            37.4661,
+            37.5316,
+            37.7501,
+            37.9685,
+            38.187,
+            38.2525,
+            38.4709,
+            38.6894,
+            38.9078,
+            39.1262,
+            39.3447,
+            39.5631,
+            39.7816
+          ]
+        },
+        {
+          "start": 43.84,
+          "chars": [
+            43.84,
+            43.8537,
+            43.8674,
+            43.8811,
+            43.8948,
+            43.9085,
+            43.9126,
+            43.9263,
+            43.94,
+            43.9537,
+            43.9578,
+            43.9715,
+            43.9852,
+            43.9989,
+            44.0126,
+            44.0263
+          ]
+        }
+      ],
+      "circle": {
+        "start": 42.36,
+        "end": 42.7
+      },
+      "options": {
+        "hideAt": 11.34,
+        "showAt": 41.46
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 5.32,
+          "end": 6.07,
+          "targets": [
+            {
+              "w": 4,
+              "from": "båda texterna",
+              "color": "gul"
+            },
+            {
+              "w": 5,
+              "from": "båda texterna",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 16.96,
+          "end": 17.71,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.1779
+                ],
+                [
+                  0.4539,
+                  0.1779
+                ],
+                [
+                  0.4539,
+                  0.2132
+                ],
+                [
+                  0,
+                  0.2132
+                ]
+              ],
+              "color": "bla",
+              "from": "visst",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.24,
+          "end": 26.99,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.611
+                ],
+                [
+                  0.8538,
+                  0.611
+                ],
+                [
+                  0.8538,
+                  0.6464
+                ],
+                [
+                  0,
+                  0.6464
+                ]
+              ],
+              "color": "bla",
+              "from": "varje höst",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 30.8,
+          "end": 31.52,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.904
+                ],
+                [
+                  0.7079,
+                  0.904
+                ],
+                [
+                  0.7079,
+                  0.9394
+                ],
+                [
+                  0,
+                  0.9394
+                ]
+              ],
+              "color": "bla",
+              "from": "förtroende",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 43.79
+  },
+  "layout": {},
+  "variant": "app"
+}

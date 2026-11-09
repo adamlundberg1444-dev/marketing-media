@@ -1,0 +1,301 @@
+{
+  "slug": "hp-ord-39c1292b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "39c1292b-ea27-48fe-b661-2898922399d0"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "på"
+      },
+      {
+        "text": "pin"
+      },
+      {
+        "text": "kiv"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 3,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "hemlighet"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "överdrivet"
+          },
+          {
+            "text": "exakt"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "utan"
+          },
+          {
+            "text": "förvarning"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "helt"
+          },
+          {
+            "text": "hänsynslöst"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "bara"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "retas"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "på pin kiv = för att retas",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 34.74,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 23.46
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.34
+        },
+        {
+          "start": 0.4,
+          "end": 0.9
+        },
+        {
+          "start": 0.98,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.52
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.46,
+          "chars": [
+            23.46,
+            23.6958,
+            23.9316,
+            24.0023,
+            24.2381,
+            24.4739,
+            24.7096,
+            24.7804,
+            25.0161,
+            25.2519,
+            25.4877,
+            25.5584,
+            25.7942,
+            25.865,
+            26.1007,
+            26.3365,
+            26.5723,
+            26.643,
+            26.8788,
+            27.1146,
+            27.3504,
+            27.4211,
+            27.6569,
+            27.8927,
+            28.1284,
+            28.3642
+          ]
+        },
+        {
+          "start": 34.42,
+          "chars": [
+            34.42,
+            34.4296,
+            34.4391,
+            34.4487,
+            34.4583,
+            34.4611,
+            34.4707,
+            34.4803,
+            34.4899,
+            34.4994,
+            34.509,
+            34.5186,
+            34.5281,
+            34.5377,
+            34.5473,
+            34.5501,
+            34.5597,
+            34.5626,
+            34.5722,
+            34.5817,
+            34.5913,
+            34.6009,
+            34.6104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 31.02,
+        "end": 33.24
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.1,
+          "end": 0.85,
+          "targets": [
+            {
+              "w": 0,
+              "from": "På"
+            },
+            {
+              "w": 1,
+              "from": "På"
+            },
+            {
+              "w": 2,
+              "from": "På"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 34.37
+  },
+  "layout": {},
+  "variant": "app"
+}

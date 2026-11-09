@@ -1,0 +1,218 @@
+{
+  "slug": "hp-ord-557ebd4f-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "557ebd4f-9204-40c9-867c-4409b6f15c06"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "obenägen"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "orädd"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "ovillig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "opåverkad"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "onödig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "osäker"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "obenägen = ovillig",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.8,
+    "phases": {
+      "readStart": 0.16,
+      "writeStart": 23.64
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.16,
+          "end": 1.18
+        },
+        {
+          "start": 1.18,
+          "end": 1.18
+        },
+        {
+          "start": 1.18,
+          "end": 1.18
+        },
+        {
+          "start": 1.18,
+          "end": 1.18
+        },
+        {
+          "start": 1.18,
+          "end": 1.18
+        },
+        {
+          "start": 1.18,
+          "end": 1.18
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.64,
+          "chars": [
+            23.64,
+            23.8811,
+            24.1222,
+            24.3633,
+            24.6043,
+            24.8454,
+            25.0865,
+            25.3276,
+            25.5687,
+            25.641,
+            25.8821,
+            25.9544,
+            26.1955,
+            26.4366,
+            26.6777,
+            26.9187,
+            27.1598,
+            27.4009
+          ]
+        },
+        {
+          "start": 35.46,
+          "chars": [
+            35.46,
+            35.4718,
+            35.4837,
+            35.4955,
+            35.5073,
+            35.5192,
+            35.5227,
+            35.5346,
+            35.5464,
+            35.5582,
+            35.5701,
+            35.5736,
+            35.5854,
+            35.589,
+            35.6008,
+            35.6127,
+            35.6245,
+            35.6363,
+            35.6482
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.54,
+        "end": 34.3
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.16,
+          "end": 0.91,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Obenägen"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 35.41
+  },
+  "layout": {},
+  "variant": "app"
+}

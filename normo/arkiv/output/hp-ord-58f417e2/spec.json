@@ -1,0 +1,472 @@
+{
+  "slug": "hp-ord-58f417e2",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "58f417e2-15fd-46ce-a9e1-3124fe233ad5"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD-fråga · Högskoleprovet",
+    "text2": "HT 2015 · fråga 10",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "ord"
+    ],
+    "text": "Leta släktingen med samma stam: en avi ger avisera, gräva under ger undergräva."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "lekamen"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "redskap"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "kropp"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "partikel"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "gräns"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "tecken"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "släkting: lekamlig = kroppslig"
+    },
+    {
+      "text": "gammalt, kyrkligt: kropp vs själ"
+    },
+    {
+      "text": "redskap = verktyg i handen"
+    },
+    {
+      "text": "kropp = motsats till själ",
+      "emphasis": true
+    },
+    {
+      "text": "partikel = liten del"
+    },
+    {
+      "text": "gräns = linje emellan"
+    },
+    {
+      "text": "tecken = står för annat"
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 133.89,
+    "phases": {
+      "readStart": 5.708,
+      "writeStart": 32.31
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.708,
+          "end": 6.486
+        },
+        {
+          "start": 8.716,
+          "end": 9.633
+        },
+        {
+          "start": 9.657,
+          "end": 10.063
+        },
+        {
+          "start": 10.086,
+          "end": 10.829
+        },
+        {
+          "start": 10.864,
+          "end": 11.386
+        },
+        {
+          "start": 11.63,
+          "end": 12.35
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 32.31,
+          "chars": [
+            32.31,
+            32.5425,
+            32.7751,
+            33.0076,
+            33.2402,
+            33.4727,
+            33.7053,
+            33.9378,
+            34.1704,
+            34.4029,
+            34.4727,
+            34.7052,
+            34.9378,
+            35.1703,
+            35.4028,
+            35.6354,
+            35.8679,
+            36.1005,
+            36.333,
+            36.4028,
+            36.6353,
+            36.7051,
+            36.9376,
+            37.1702,
+            37.4027,
+            37.6353,
+            37.8678,
+            38.1004,
+            38.3329,
+            38.5655
+          ]
+        },
+        {
+          "start": 43.336,
+          "chars": [
+            43.336,
+            43.568,
+            43.8,
+            44.032,
+            44.2639,
+            44.4959,
+            44.7279,
+            44.9599,
+            45.1919,
+            45.2615,
+            45.4935,
+            45.7255,
+            45.9574,
+            46.1894,
+            46.4214,
+            46.6534,
+            46.8854,
+            47.1174,
+            47.3494,
+            47.419,
+            47.6509,
+            47.8829,
+            48.1149,
+            48.3469,
+            48.5789,
+            48.6485,
+            48.8805,
+            49.1125,
+            49.1821,
+            49.414,
+            49.646,
+            49.878
+          ]
+        },
+        {
+          "start": 55.112,
+          "chars": [
+            55.112,
+            55.3471,
+            55.5822,
+            55.8173,
+            56.0523,
+            56.2874,
+            56.5225,
+            56.7576,
+            56.8281,
+            57.0632,
+            57.1337,
+            57.3688,
+            57.6039,
+            57.839,
+            58.0741,
+            58.3092,
+            58.5443,
+            58.7793,
+            58.8499,
+            59.085,
+            59.1555,
+            59.3906,
+            59.6257,
+            59.8607,
+            60.0958,
+            60.3309
+          ]
+        },
+        {
+          "start": 70.579,
+          "chars": [
+            70.579,
+            70.8148,
+            71.0505,
+            71.2863,
+            71.5221,
+            71.7578,
+            71.8286,
+            72.0643,
+            72.1351,
+            72.3708,
+            72.6066,
+            72.8424,
+            73.0781,
+            73.3139,
+            73.5496,
+            73.7854,
+            73.8561,
+            74.0919,
+            74.3277,
+            74.5634,
+            74.7992,
+            74.8699,
+            75.1057,
+            75.3415,
+            75.5772
+          ]
+        },
+        {
+          "start": 78.51,
+          "chars": [
+            78.51,
+            78.7496,
+            78.9891,
+            79.2287,
+            79.4682,
+            79.7078,
+            79.9473,
+            80.1869,
+            80.4264,
+            80.4983,
+            80.7378,
+            80.8097,
+            81.0493,
+            81.2888,
+            81.5284,
+            81.7679,
+            82.0075,
+            82.0793,
+            82.3189,
+            82.5584
+          ]
+        },
+        {
+          "start": 91.004,
+          "chars": [
+            91.004,
+            91.2425,
+            91.481,
+            91.7196,
+            91.9581,
+            92.1966,
+            92.2681,
+            92.5067,
+            92.5782,
+            92.8167,
+            93.0553,
+            93.2938,
+            93.5323,
+            93.7708,
+            93.8424,
+            94.0809,
+            94.3194,
+            94.5579,
+            94.7964,
+            95.035,
+            95.2735
+          ]
+        },
+        {
+          "start": 102.106,
+          "chars": [
+            102.106,
+            102.3433,
+            102.5807,
+            102.818,
+            103.0553,
+            103.2926,
+            103.53,
+            103.6012,
+            103.8385,
+            103.9097,
+            104.147,
+            104.3843,
+            104.6217,
+            104.859,
+            104.9302,
+            105.1675,
+            105.4048,
+            105.6422,
+            105.7134,
+            105.9507,
+            106.188,
+            106.4253,
+            106.6627
+          ]
+        },
+        {
+          "start": 128,
+          "chars": [
+            128,
+            128.1622,
+            128.3244,
+            128.4866,
+            128.6488,
+            128.6975,
+            128.8597,
+            129.0219,
+            129.1841,
+            129.3463,
+            129.5085,
+            129.6707,
+            129.8329,
+            129.9951,
+            130.1573,
+            130.2059,
+            130.3681,
+            130.4168,
+            130.579,
+            130.7412,
+            130.9034,
+            131.0656,
+            131.2278
+          ]
+        }
+      ],
+      "circle": {
+        "start": 111.259,
+        "end": 116.124
+      },
+      "options": null,
+      "concept": {
+        "start": 14.102,
+        "end": 30.705,
+        "hideAt": 43.362
+      },
+      "strikes": [
+        {
+          "start": 68.024,
+          "end": 68.774,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 88.066,
+          "end": 88.816,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 99.295,
+          "end": 100.045,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 108.655,
+          "end": 109.405,
+          "targets": [
+            {
+              "opt": 4
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

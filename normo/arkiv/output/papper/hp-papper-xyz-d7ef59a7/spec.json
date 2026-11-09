@@ -1,0 +1,468 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "storlek": 64,
+      "delar": [
+        {
+          "id": "p60",
+          "t": "60 % av "
+        },
+        {
+          "id": "x1",
+          "t": "x ",
+          "it": true
+        },
+        {
+          "id": "ar",
+          "t": "är lika med "
+        },
+        {
+          "id": "p40",
+          "t": "40 % av "
+        },
+        {
+          "id": "y1",
+          "t": "y",
+          "it": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "storlek": 64,
+      "delar": [
+        {
+          "id": "q1",
+          "t": "Hur många procent av "
+        },
+        {
+          "id": "x2",
+          "t": "x ",
+          "it": true
+        },
+        {
+          "id": "q2",
+          "t": "är "
+        },
+        {
+          "id": "y2",
+          "t": "y",
+          "it": true
+        },
+        {
+          "id": "qm",
+          "t": "?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\text{20 \\%}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\text{66 \\%}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\text{100 \\%}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{150 \\%}"
+    }
+  ],
+  "correct": 3,
+  "hook": {
+    "lines": [
+      "Den här HP-frågan",
+      "går baklänges."
+    ],
+    "start": 0.14,
+    "end": 4.06
+  },
+  "arrow": {
+    "start": 0.44,
+    "end": 4.06,
+    "d": "M 960 1030 C 1040 860, 1040 640, 950 520",
+    "head": "M 1014 547 L 950 520 L 958 589"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{40}{60}",
+          "at": 9.52,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "\\approx",
+          "at": 12.67,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "66\\,\\%",
+          "at": 12.87,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "0{,}6x",
+          "at": 22.35,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 24.21,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "0{,}4y",
+          "at": 26.1,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{0{,}6x}{0{,}4}",
+          "at": 27.72,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 28.92,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "y",
+          "at": 29.12,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{6x}{4}",
+          "at": 31.56,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 35.26,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "y",
+          "at": 35.46,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 3,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "1{,}5x",
+          "at": 37.01,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 37.96,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "y",
+          "at": 37.96,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 4,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "y",
+          "at": 41.04,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 41.24,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R1",
+          "tex": "150\\,\\%",
+          "at": 43.61,
+          "hand": true,
+          "color": "gron"
+        },
+        {
+          "col": "R2",
+          "tex": "\\text{av }x",
+          "at": 45.29,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 15.46
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 15.71
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 5,
+      "col": "R1",
+      "at": 44.06
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q1",
+        "x2",
+        "q2",
+        "y2",
+        "qm"
+      ],
+      "at": 4.3,
+      "end": 8.37
+    },
+    {
+      "ids": [
+        "p60",
+        "x1"
+      ],
+      "at": 20.33,
+      "end": 27.72
+    },
+    {
+      "ids": [
+        "p40",
+        "y1"
+      ],
+      "at": 24.21,
+      "end": 27.72
+    }
+  ],
+  "farg": [],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 4.1,
+    "tillbaka": 45.73
+  },
+  "lage": {
+    "alt": 640,
+    "krok": 1010
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.64,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 700,
+      "dur": 0.5
+    },
+    {
+      "at": 4.3,
+      "zoom": 1.18,
+      "x": 520,
+      "y": 520,
+      "dur": 0.45
+    },
+    {
+      "at": 8.27,
+      "zoom": 1.18,
+      "x": 520,
+      "y": 700,
+      "dur": 0.4
+    },
+    {
+      "at": 20.23,
+      "zoom": 1.18,
+      "x": 520,
+      "y": 620,
+      "dur": 0.4
+    },
+    {
+      "at": 27.62,
+      "zoom": 1.18,
+      "x": 520,
+      "y": 840,
+      "dur": 0.4
+    },
+    {
+      "at": 40.84,
+      "zoom": 1.18,
+      "x": 520,
+      "y": 1000,
+      "dur": 0.4
+    },
+    {
+      "at": 45.43,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska jämföra y med x",
+      "start": 4.3,
+      "end": 7.13
+    },
+    {
+      "text": "Inte tvärtom",
+      "start": 7.13,
+      "end": 8.37
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 8.37,
+      "end": 9.52
+    },
+    {
+      "text": "40 delat med 60",
+      "start": 9.52,
+      "end": 11.65
+    },
+    {
+      "text": "Det blir ungefär 66 procent",
+      "start": 11.65,
+      "end": 14.33
+    },
+    {
+      "text": "alltså B",
+      "start": 14.33,
+      "end": 15.46
+    },
+    {
+      "text": "Nej. Det säger hur stort",
+      "start": 15.46,
+      "end": 17.75
+    },
+    {
+      "text": "x är jämfört med y",
+      "start": 17.75,
+      "end": 20.07
+    },
+    {
+      "text": "60 procent av x är 0,6x",
+      "start": 20.33,
+      "end": 24.21
+    },
+    {
+      "text": "40 procent av y är 0,4y",
+      "start": 24.21,
+      "end": 27.679000000000002
+    },
+    {
+      "text": "Dela båda leden med 0,4",
+      "start": 27.72,
+      "end": 30.76
+    },
+    {
+      "text": "0,6 delat med 0,4 är",
+      "start": 30.92,
+      "end": 33.88
+    },
+    {
+      "text": "ju bara 6 delat med 4",
+      "start": 33.88,
+      "end": 36.15
+    },
+    {
+      "text": "Det är 1,5",
+      "start": 36.15,
+      "end": 37.96
+    },
+    {
+      "text": "Så y är 1,5x",
+      "start": 37.96,
+      "end": 41.04
+    },
+    {
+      "text": "Och 1,5 gånger x är",
+      "start": 41.04,
+      "end": 43.61
+    },
+    {
+      "text": "150 procent av x",
+      "start": 43.61,
+      "end": 46.33
+    },
+    {
+      "text": "Svaret är D",
+      "start": 46.33,
+      "end": 48.09
+    }
+  ],
+  "circle": {
+    "start": 47.33,
+    "end": 48.03
+  },
+  "duration": 49.09
+}

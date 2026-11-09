@@ -1,0 +1,679 @@
+{
+  "slug": "hp-kva-9871a2f1-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "9871a2f1-986b-402a-9827-eae6a49be625"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "triangeln"
+      },
+      {
+        "text": "ABC"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "text": "A"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "text": "B"
+      },
+      {
+        "text": "lika"
+      },
+      {
+        "text": "stora."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "Vinkeln"
+      },
+      {
+        "text": "C"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "Summan"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "text": "A"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "text": "B"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 24,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "A + B + C = 180°"
+    },
+    {
+      "text": "2x + C = 180°",
+      "gron": [
+        "2x"
+      ],
+      "farg": {
+        "0": "#0E9F6E",
+        "1": "#0E9F6E"
+      }
+    },
+    {
+      "text": "C = 180° - 2x",
+      "rod": [
+        "- 2x"
+      ],
+      "farg": {
+        "9": "#D93025",
+        "10": "#D93025",
+        "11": "#D93025",
+        "12": "#D93025"
+      }
+    },
+    {
+      "text": "x = 70°: C = 40°, A + B = 140°"
+    },
+    {
+      "text": "x = 30°: C = 120°, A + B = 60°",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 56.76,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 12.86
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.24
+        },
+        {
+          "start": 0.28,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 2.5
+        },
+        {
+          "start": 2.5,
+          "end": 2.6
+        },
+        {
+          "start": 2.6,
+          "end": 3.14
+        },
+        {
+          "start": 3.14,
+          "end": 3.28
+        },
+        {
+          "start": 3.52,
+          "end": 3.58
+        },
+        {
+          "start": 3.58,
+          "end": 4.059
+        },
+        {
+          "start": 4.059,
+          "end": 4.44
+        },
+        {
+          "start": 4.54,
+          "end": 4.84
+        },
+        {
+          "start": 4.92,
+          "end": 5.34
+        },
+        {
+          "start": 5.34,
+          "end": 6.2576
+        },
+        {
+          "start": 6.2576,
+          "end": 7.1
+        },
+        {
+          "start": 7.1,
+          "end": 7.48
+        },
+        {
+          "start": 7.58,
+          "end": 7.74
+        },
+        {
+          "start": 7.74,
+          "end": 8.06
+        },
+        {
+          "start": 8.06,
+          "end": 8.38
+        },
+        {
+          "start": 8.38,
+          "end": 9.04
+        },
+        {
+          "start": 9.14,
+          "end": 9.28
+        },
+        {
+          "start": 9.28,
+          "end": 9.42
+        },
+        {
+          "start": 9.42,
+          "end": 9.74
+        },
+        {
+          "start": 9.8,
+          "end": 9.96
+        },
+        {
+          "start": 9.96,
+          "end": 10.04
+        },
+        {
+          "start": 10.04,
+          "end": 10.06
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.86,
+          "chars": [
+            12.86,
+            13.1097,
+            13.1846,
+            13.4342,
+            13.5091,
+            13.7588,
+            13.8337,
+            14.0833,
+            14.1582,
+            14.4079,
+            14.4828,
+            14.7325,
+            14.8074,
+            15.057,
+            15.3067,
+            15.5563
+          ]
+        },
+        {
+          "start": 17.42,
+          "chars": [
+            17.42,
+            17.6743,
+            17.9286,
+            18.0049,
+            18.2592,
+            18.3355,
+            18.5898,
+            18.6661,
+            18.9205,
+            18.9967,
+            19.2511,
+            19.5054,
+            19.7597
+          ]
+        },
+        {
+          "start": 22.6,
+          "chars": [
+            22.6,
+            22.8543,
+            22.9306,
+            23.1849,
+            23.2612,
+            23.5155,
+            23.7698,
+            24.0242,
+            24.2785,
+            24.3548,
+            24.6091,
+            24.6854,
+            24.9397
+          ]
+        },
+        {
+          "start": 28.04,
+          "chars": [
+            28.04,
+            28.2752,
+            28.3458,
+            28.581,
+            28.6516,
+            28.8868,
+            29.122,
+            29.3572,
+            29.5924,
+            29.663,
+            29.8982,
+            29.9688,
+            30.204,
+            30.2746,
+            30.5098,
+            30.745,
+            30.9802,
+            31.2154,
+            31.286,
+            31.5212,
+            31.5918,
+            31.827,
+            31.8976,
+            32.1328,
+            32.2033,
+            32.4386,
+            32.5091,
+            32.7443,
+            32.9796,
+            33.2148
+          ]
+        },
+        {
+          "start": 39.66,
+          "chars": [
+            39.66,
+            39.8952,
+            39.9658,
+            40.201,
+            40.2716,
+            40.5068,
+            40.742,
+            40.9772,
+            41.2124,
+            41.283,
+            41.5182,
+            41.5888,
+            41.824,
+            41.8946,
+            42.1298,
+            42.365,
+            42.6002,
+            42.8354,
+            43.0707,
+            43.1412,
+            43.3764,
+            43.447,
+            43.6822,
+            43.7528,
+            43.988,
+            44.0586,
+            44.2938,
+            44.3643,
+            44.5996,
+            44.8348
+          ]
+        },
+        {
+          "start": 55.64,
+          "chars": [
+            55.64,
+            55.6496,
+            55.6591,
+            55.6687,
+            55.6783,
+            55.6811,
+            55.6907,
+            55.7003,
+            55.7099,
+            55.7194,
+            55.729,
+            55.7386,
+            55.7481,
+            55.7577,
+            55.7673,
+            55.7701,
+            55.7797,
+            55.7826,
+            55.7922,
+            55.8017,
+            55.8113,
+            55.8209,
+            55.8304
+          ]
+        }
+      ],
+      "circle": {
+        "start": 51.78,
+        "end": 55.26
+      },
+      "options": {
+        "hideAt": 12.56,
+        "showAt": 50.88
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 4.54,
+          "end": 5.29,
+          "targets": [
+            {
+              "w": 4,
+              "from": "lika stora",
+              "color": "blå"
+            },
+            {
+              "w": 5,
+              "from": "lika stora",
+              "color": "blå"
+            },
+            {
+              "w": 6,
+              "from": "lika stora",
+              "color": "blå"
+            },
+            {
+              "w": 7,
+              "from": "lika stora",
+              "color": "blå"
+            },
+            {
+              "w": 8,
+              "from": "lika stora",
+              "color": "blå"
+            },
+            {
+              "w": 9,
+              "from": "lika stora",
+              "color": "blå"
+            },
+            {
+              "w": 10,
+              "from": "lika stora",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 7.1,
+          "end": 7.85,
+          "targets": [
+            {
+              "w": 11,
+              "from": "vinkeln C",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "vinkeln C",
+              "color": "gul"
+            },
+            {
+              "w": 13,
+              "from": "vinkeln C",
+              "color": "gul"
+            },
+            {
+              "w": 14,
+              "from": "vinkeln C",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 8.38,
+          "end": 9.13,
+          "targets": [
+            {
+              "w": 15,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 16,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 17,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 18,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 19,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 20,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 21,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 22,
+              "from": "summan",
+              "color": "lila"
+            },
+            {
+              "w": 23,
+              "from": "summan",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 1,
+          "farg": "#D93025",
+          "from": "Då är",
+          "strykFrom": "vinkeln C",
+          "eq": 7,
+          "n": 13,
+          "op": "- 2x",
+          "stryk": [
+            {
+              "from": 0,
+              "to": 1,
+              "sida": "vanster"
+            }
+          ],
+          "start": 21.2,
+          "strykAt": 21.9
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 55.59
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3,
+    "appKeyLines": [
+      3,
+      4
+    ]
+  },
+  "variant": "app"
+}

@@ -1,0 +1,524 @@
+{
+  "slug": "hp-elf-6db24829-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "6db24829-0f72-4813-ba3c-6d98ca6b1b4e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "main"
+      },
+      {
+        "text": "argument"
+      },
+      {
+        "text": "here?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Male"
+          },
+          {
+            "text": "stereotyping"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "female"
+          },
+          {
+            "text": "abilities"
+          },
+          {
+            "text": "should"
+          },
+          {
+            "text": "not"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "taken"
+          },
+          {
+            "text": "too"
+          },
+          {
+            "text": "seriously."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Too"
+          },
+          {
+            "text": "much"
+          },
+          {
+            "text": "attention"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "beneficial"
+          },
+          {
+            "text": "career"
+          },
+          {
+            "text": "factors"
+          },
+          {
+            "text": "may"
+          },
+          {
+            "text": "ultimately"
+          },
+          {
+            "text": "defeat"
+          },
+          {
+            "text": "its"
+          },
+          {
+            "text": "own"
+          },
+          {
+            "text": "purpose."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "A"
+          },
+          {
+            "text": "consistent"
+          },
+          {
+            "text": "prevention"
+          },
+          {
+            "text": "focus"
+          },
+          {
+            "text": "may"
+          },
+          {
+            "text": "minimize"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "risk"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "stereotype"
+          },
+          {
+            "text": "threat."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Positive"
+          },
+          {
+            "text": "ideas"
+          },
+          {
+            "text": "about"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "future"
+          },
+          {
+            "text": "career"
+          },
+          {
+            "text": "help"
+          },
+          {
+            "text": "women"
+          },
+          {
+            "text": "overcome"
+          },
+          {
+            "text": "prejudice."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__6db24829-0f72-4813-ba3c-6d98ca6b1b4e.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "fokus på fördelar motverkar fördomar",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 57.72,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 44.28
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.26
+        },
+        {
+          "start": 0.34,
+          "end": 0.5
+        },
+        {
+          "start": 0.62,
+          "end": 0.74
+        },
+        {
+          "start": 0.82,
+          "end": 1.1
+        },
+        {
+          "start": 1.32,
+          "end": 1.86
+        },
+        {
+          "start": 1.88,
+          "end": 2.16
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 44.28,
+          "chars": [
+            44.28,
+            44.5105,
+            44.7411,
+            44.9716,
+            45.2022,
+            45.4327,
+            45.5019,
+            45.7324,
+            45.963,
+            46.0321,
+            46.2627,
+            46.4932,
+            46.7237,
+            46.9543,
+            47.1848,
+            47.4154,
+            47.6459,
+            47.8765,
+            47.9456,
+            48.1762,
+            48.4067,
+            48.6372,
+            48.8678,
+            49.0983,
+            49.3289,
+            49.5594,
+            49.79,
+            50.0205,
+            50.0897,
+            50.3202,
+            50.5507,
+            50.7813,
+            51.0118,
+            51.2424,
+            51.4729,
+            51.7035
+          ]
+        },
+        {
+          "start": 57.4,
+          "chars": [
+            57.4,
+            57.4137,
+            57.4274,
+            57.4411,
+            57.4548,
+            57.4685,
+            57.4726,
+            57.4863,
+            57.5,
+            57.5137,
+            57.5178,
+            57.5315,
+            57.5452,
+            57.5589,
+            57.5726,
+            57.5863
+          ]
+        }
+      ],
+      "circle": {
+        "start": 55.62,
+        "end": 56.22
+      },
+      "options": {
+        "hideAt": 11.18,
+        "showAt": 54.72
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 5.38,
+          "end": 6.13,
+          "targets": [
+            {
+              "w": 3,
+              "from": "main argument",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "main argument",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.02,
+          "end": 17.77,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.3132
+                ],
+                [
+                  0.5119,
+                  0.3132
+                ],
+                [
+                  0.5119,
+                  0.3664
+                ],
+                [
+                  0,
+                  0.3664
+                ]
+              ],
+              "color": "bla",
+              "from": "prevention",
+              "hlFarg": "rosa",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.02,
+          "end": 26.77,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2129,
+                  0.5216
+                ],
+                [
+                  0.9219,
+                  0.5216
+                ],
+                [
+                  0.9219,
+                  0.5748
+                ],
+                [
+                  0.2129,
+                  0.5748
+                ]
+              ],
+              "color": "bla",
+              "from": "by contrast",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 26.02,
+          "end": 26.77,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5911
+                ],
+                [
+                  0.693,
+                  0.5911
+                ],
+                [
+                  0.693,
+                  0.6443
+                ],
+                [
+                  0,
+                  0.6443
+                ]
+              ],
+              "color": "bla",
+              "from": "by contrast",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 40.18,
+          "end": 40.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3899,
+                  0.8691
+                ],
+                [
+                  0.7655,
+                  0.8691
+                ],
+                [
+                  0.7655,
+                  0.9223
+                ],
+                [
+                  0.3899,
+                  0.9223
+                ]
+              ],
+              "color": "bla",
+              "from": "sänka",
+              "hlFarg": "lila",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 40.18,
+          "end": 40.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.9386
+                ],
+                [
+                  0.2462,
+                  0.9386
+                ],
+                [
+                  0.2462,
+                  0.9918
+                ],
+                [
+                  0,
+                  0.9918
+                ]
+              ],
+              "color": "bla",
+              "from": "sänka",
+              "hlFarg": "lila",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 57.35
+  },
+  "layout": {},
+  "variant": "app"
+}

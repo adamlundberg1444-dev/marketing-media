@@ -1,0 +1,466 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "t": "Björn tillverkar "
+        },
+        {
+          "t": "en typ av smycken "
+        },
+        {
+          "t": "där "
+        },
+        {
+          "id": "p80",
+          "t": "80 % av vikten "
+        },
+        {
+          "id": "silv",
+          "t": "utgörs av silver. "
+        },
+        {
+          "id": "n200",
+          "t": "200 likadana smycken "
+        },
+        {
+          "id": "inn",
+          "t": "innehåller "
+        },
+        {
+          "id": "h4",
+          "t": "4 hg silver. "
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "fq",
+          "t": "Hur mycket väger "
+        },
+        {
+          "id": "fq2",
+          "t": "varje smycke?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\text{1,6 g}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\text{2,0 g}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\text{2,5 g}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{3,2 g}"
+    }
+  ],
+  "correct": 2,
+  "hook": {
+    "lines": [
+      "Lätt HP-fråga.",
+      "Men silvret lurar."
+    ],
+    "start": 0,
+    "end": 5.91
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 5.91,
+    "d": "M 930 1000 C 1010 820, 1000 620, 900 480",
+    "head": "M 966 516 L 900 480 L 900 556"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 16.191,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "4\\text{ hg}"
+            }
+          ]
+        },
+        {
+          "at": 17.651,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "400\\text{ g}"
+            }
+          ]
+        },
+        {
+          "at": 18.761,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "400\\text{ g}",
+              "dela": "200"
+            }
+          ]
+        },
+        {
+          "at": 21.461,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "400\\text{ g}",
+              "dela": "200"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "2\\text{ g}",
+              "at": 21.461
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "m",
+          "at": 25.051,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 25.351,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "2\\text{ g}",
+          "at": 25.911,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 35.071,
+          "termer": [
+            {
+              "k": "p",
+              "tex": "0{,}8m"
+            },
+            "=",
+            {
+              "k": "t",
+              "tex": "2",
+              "at": 37.121
+            }
+          ]
+        },
+        {
+          "at": 37.891,
+          "termer": [
+            {
+              "k": "p",
+              "tex": "m"
+            },
+            "=",
+            {
+              "k": "t",
+              "tex": "2",
+              "dela": "0{,}8"
+            }
+          ]
+        },
+        {
+          "at": 40.621,
+          "termer": [
+            {
+              "k": "p",
+              "tex": "m"
+            },
+            "=",
+            {
+              "k": "t",
+              "tex": "\\frac{20}{8}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "m",
+          "at": 43.391,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 43.691,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "2{,}5\\text{ g}",
+          "at": 44.861,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 1,
+      "col": "R",
+      "at": 27.742
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 3,
+      "col": "R",
+      "at": 45.311
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "fq",
+        "fq2"
+      ],
+      "at": 13.521,
+      "end": 16.191
+    },
+    {
+      "ids": [
+        "n200",
+        "inn",
+        "h4"
+      ],
+      "at": 16.191,
+      "end": 23.321
+    },
+    {
+      "ids": [
+        "p80",
+        "silv"
+      ],
+      "at": 31.132,
+      "end": 37.891
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "n200"
+      ],
+      "color": "rod",
+      "at": 7.19,
+      "end": 11.681
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 5.69,
+    "tillbaka": 46.071
+  },
+  "lage": {
+    "fraga": 200,
+    "alt": 590,
+    "krok": 980,
+    "rader": 640
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.42,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 640,
+      "dur": 0.5
+    },
+    {
+      "at": 5.79,
+      "zoom": 1.12,
+      "x": 505,
+      "y": 400,
+      "dur": 0.45
+    },
+    {
+      "at": 16.091,
+      "zoom": 1.15,
+      "x": 505,
+      "y": 640,
+      "dur": 0.45
+    },
+    {
+      "at": 32.781,
+      "zoom": 1.15,
+      "x": 505,
+      "y": 760,
+      "dur": 0.4
+    },
+    {
+      "at": 42.451,
+      "zoom": 1.15,
+      "x": 505,
+      "y": 860,
+      "dur": 0.4
+    },
+    {
+      "at": 45.771,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Björn har gjort 200 likadana smycken",
+      "start": 5.89,
+      "end": 9.41
+    },
+    {
+      "text": "Lång helg",
+      "start": 9.41,
+      "end": 10.41
+    },
+    {
+      "text": "gissar jag",
+      "start": 10.41,
+      "end": 11.67
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 11.681,
+      "end": 13.521
+    },
+    {
+      "text": "Vi ska hitta vikten på",
+      "start": 13.521,
+      "end": 14.841
+    },
+    {
+      "text": "ett smycke",
+      "start": 14.841,
+      "end": 16.041
+    },
+    {
+      "text": "4 hg är 400 gram",
+      "start": 16.191,
+      "end": 18.761
+    },
+    {
+      "text": "Delat på 200 smycken blir",
+      "start": 18.761,
+      "end": 21.001
+    },
+    {
+      "text": "det 2 gram silver var",
+      "start": 21.001,
+      "end": 23.321
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 23.321,
+      "end": 24.471
+    },
+    {
+      "text": "då väger smycket 2 gram",
+      "start": 24.471,
+      "end": 26.601
+    },
+    {
+      "text": "alltså B",
+      "start": 26.601,
+      "end": 27.741
+    },
+    {
+      "text": "Nej. 2 gram är bara silvret",
+      "start": 27.742,
+      "end": 30.592
+    },
+    {
+      "text": "Det är 80 procent av smycket",
+      "start": 30.592,
+      "end": 32.881
+    },
+    {
+      "text": "Kalla vikten m",
+      "start": 32.881,
+      "end": 35.071
+    },
+    {
+      "text": "80 procent av m är",
+      "start": 35.071,
+      "end": 37.121
+    },
+    {
+      "text": "2 gram",
+      "start": 37.121,
+      "end": 37.891
+    },
+    {
+      "text": "Dela med 0,8",
+      "start": 37.891,
+      "end": 39.781
+    },
+    {
+      "text": "Det är samma som 20",
+      "start": 39.781,
+      "end": 41.281
+    },
+    {
+      "text": "delat med 8",
+      "start": 41.281,
+      "end": 42.551
+    },
+    {
+      "text": "Alltså väger varje smycke 2,5 gram",
+      "start": 42.551,
+      "end": 46.671
+    },
+    {
+      "text": "Svaret är C",
+      "start": 46.671,
+      "end": 48.391
+    }
+  ],
+  "circle": {
+    "start": 47.771,
+    "end": 48.471000000000004
+  },
+  "duration": 49.391
+}

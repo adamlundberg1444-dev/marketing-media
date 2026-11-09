@@ -1,0 +1,243 @@
+{
+  "slug": "hp-ord-8fe210b2-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "8fe210b2-3126-4ea9-9ee3-0b1337b5a823"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "morän"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "dalgång"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "ismassa"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "liten"
+          },
+          {
+            "text": "sjö"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "fjällbäck"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "jordart"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "morän = jordart från inlandsisen",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 36.38,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 24.18
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 24.18,
+          "chars": [
+            24.18,
+            24.3916,
+            24.6033,
+            24.8149,
+            25.0266,
+            25.2382,
+            25.3017,
+            25.5134,
+            25.5768,
+            25.7885,
+            26.0001,
+            26.2118,
+            26.4234,
+            26.6351,
+            26.8467,
+            27.0584,
+            27.1218,
+            27.3335,
+            27.5451,
+            27.7568,
+            27.9684,
+            28.0319,
+            28.2436,
+            28.4552,
+            28.6668,
+            28.8785,
+            29.0901,
+            29.3018,
+            29.5134,
+            29.7251,
+            29.9367,
+            30.1484
+          ]
+        },
+        {
+          "start": 34.9,
+          "chars": [
+            34.9,
+            34.9096,
+            34.9191,
+            34.9287,
+            34.9383,
+            34.9411,
+            34.9507,
+            34.9603,
+            34.9699,
+            34.9794,
+            34.989,
+            34.9986,
+            35.0081,
+            35.0177,
+            35.0273,
+            35.0301,
+            35.0397,
+            35.0426,
+            35.0522,
+            35.0617,
+            35.0713,
+            35.0809,
+            35.0904
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.659,
+        "end": 34.88
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.12,
+          "end": 0.8,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Morän"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 34.85
+  },
+  "layout": {},
+  "variant": "app"
+}

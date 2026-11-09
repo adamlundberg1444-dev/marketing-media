@@ -1,0 +1,319 @@
+{
+  "slug": "hp-xyz-638f968e",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "638f968e-f9ec-4e68-b544-7032adb9854b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "VT 2018 · fråga 1",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "\\frac{a}{b} + \\frac{c}{d} = \\frac{ad + cb}{bd}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": "\\frac{5}{2} - \\frac{8}{5}",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "-0,3"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "0,9"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "1,2"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "1,7"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{5}{2} = \\frac{5 \\cdot 5}{2 \\cdot 5} = \\frac{25}{10}"
+    },
+    {
+      "text": "\\frac{8}{5} = \\frac{8 \\cdot 2}{5 \\cdot 2} = \\frac{16}{10}"
+    },
+    {
+      "text": "\\frac{25}{10} - \\frac{16}{10} = \\frac{9}{10}"
+    },
+    {
+      "text": "\\frac{9}{10} = 0{,}9",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 61.41,
+    "phases": {
+      "readStart": 3.421,
+      "writeStart": 17.154
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.421,
+          "end": 3.619
+        },
+        {
+          "start": 3.677,
+          "end": 3.723
+        },
+        {
+          "start": 3.723,
+          "end": 5.1573
+        },
+        {
+          "start": 5.1573,
+          "end": 6.126
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 17.154,
+          "chars": [
+            17.154,
+            17.392,
+            17.6301,
+            17.8681,
+            17.9395,
+            18.1776,
+            18.249,
+            18.487,
+            18.5584,
+            18.7965,
+            18.8679,
+            19.1059,
+            19.344,
+            19.582,
+            19.6534,
+            19.8915,
+            19.9629,
+            20.2009,
+            20.2723,
+            20.5104,
+            20.5818,
+            20.8198,
+            21.0579,
+            21.2959,
+            21.534
+          ]
+        },
+        {
+          "start": 28.889,
+          "chars": [
+            28.889,
+            29.127,
+            29.3651,
+            29.6031,
+            29.6745,
+            29.9126,
+            29.984,
+            30.222,
+            30.2934,
+            30.5315,
+            30.6029,
+            30.8409,
+            31.079,
+            31.317,
+            31.3884,
+            31.6265,
+            31.6979,
+            31.9359,
+            32.0073,
+            32.2454,
+            32.3168,
+            32.5548,
+            32.7929,
+            33.0309,
+            33.269
+          ]
+        },
+        {
+          "start": 37.918,
+          "chars": [
+            37.918,
+            38.1583,
+            38.3987,
+            38.639,
+            38.8794,
+            39.1197,
+            39.1918,
+            39.4322,
+            39.5043,
+            39.7447,
+            39.985,
+            40.2253,
+            40.4657,
+            40.706,
+            40.7782,
+            41.0185,
+            41.0906,
+            41.331,
+            41.5713,
+            41.8117
+          ]
+        },
+        {
+          "start": 46.712,
+          "chars": [
+            46.712,
+            46.9727,
+            47.2334,
+            47.4941,
+            47.7548,
+            47.833,
+            48.0937,
+            48.1719,
+            48.4326,
+            48.6933
+          ]
+        },
+        {
+          "start": 55.659,
+          "chars": [
+            55.659,
+            55.8635,
+            56.0679,
+            56.2724,
+            56.4769,
+            56.6813,
+            56.7427,
+            56.9471,
+            57.1516,
+            57.3561,
+            57.4174,
+            57.6219,
+            57.6832,
+            57.8877,
+            58.0921,
+            58.2966,
+            58.5011,
+            58.7055
+          ]
+        }
+      ],
+      "circle": {
+        "start": 51.987,
+        "end": 54.355
+      },
+      "options": null,
+      "concept": {
+        "start": 7.944,
+        "end": 15.525,
+        "hideAt": 28.809
+      },
+      "strikes": [],
+      "marks": [
+        {
+          "start": 28.889,
+          "end": 37.097,
+          "items": [
+            {
+              "li": 0,
+              "note": "× 5",
+              "side": "right"
+            }
+          ]
+        },
+        {
+          "start": 37.918,
+          "end": 45.709,
+          "items": [
+            {
+              "li": 1,
+              "note": "× 2",
+              "side": "right"
+            }
+          ]
+        }
+      ],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

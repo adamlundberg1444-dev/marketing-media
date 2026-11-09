@@ -1,0 +1,451 @@
+{
+  "slug": "hp-xyz-04f95407-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "04f95407-8355-4db4-a0d1-0ee706a8dcff"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilken"
+      },
+      {
+        "text": "area"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "triangeln"
+      },
+      {
+        "text": "ABC?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " 14 \\text{ cm}^2 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 17{,}5 \\text{ cm}^2 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 20 \\text{ cm}^2 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 25 \\text{ cm}^2 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/04f95407-8355-4db4-a0d1-0ee706a8dcff.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "A = \\frac{b \\cdot h}{2}"
+    },
+    {
+      "text": "h^2 + 3^2 = 5^2"
+    },
+    {
+      "text": "h = \\sqrt{25 - 9} = 4"
+    },
+    {
+      "text": "A = \\frac{10 \\cdot 4}{2} = 20 cm^2",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 76.94,
+    "phases": {
+      "readStart": 0,
+      "writeStart": 5.1
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0,
+          "end": 0.6432
+        },
+        {
+          "start": 0.6432,
+          "end": 1.1465
+        },
+        {
+          "start": 1.1465,
+          "end": 1.58
+        },
+        {
+          "start": 1.58,
+          "end": 2.16
+        },
+        {
+          "start": 2.16,
+          "end": 4.08
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 5.1,
+          "chars": [
+            5.1,
+            5.3627,
+            5.4415,
+            5.7042,
+            5.783,
+            6.0457,
+            6.1245,
+            6.3871,
+            6.466,
+            6.7286,
+            6.9913
+          ]
+        },
+        {
+          "start": 27.71,
+          "chars": [
+            27.71,
+            27.968,
+            28.2261,
+            28.3035,
+            28.5615,
+            28.639,
+            28.897,
+            29.155,
+            29.2325,
+            29.4905,
+            29.5679,
+            29.826
+          ]
+        },
+        {
+          "start": 30.084,
+          "chars": [
+            30.084,
+            30.3337,
+            30.4086,
+            30.6582,
+            30.7331,
+            30.9828,
+            31.2324,
+            31.4821,
+            31.557,
+            31.8067,
+            31.8816,
+            32.1312,
+            32.3809,
+            32.4558,
+            32.7054,
+            32.7803
+          ]
+        },
+        {
+          "start": 45.125,
+          "chars": [
+            45.125,
+            45.3667,
+            45.4393,
+            45.681,
+            45.7535,
+            45.9953,
+            46.237,
+            46.3095,
+            46.5513,
+            46.6238,
+            46.8655,
+            47.1073,
+            47.349,
+            47.4215,
+            47.6633,
+            47.7358,
+            47.9775,
+            48.2193,
+            48.2918,
+            48.5335,
+            48.7753
+          ]
+        },
+        {
+          "start": 68.12,
+          "chars": [
+            68.12,
+            68.3567,
+            68.5935,
+            68.8302,
+            69.067,
+            69.138,
+            69.3748,
+            69.6115,
+            69.8482,
+            70.085,
+            70.3217,
+            70.5585,
+            70.7952,
+            71.032,
+            71.2687,
+            71.3398,
+            71.5765,
+            71.6475,
+            71.8843,
+            72.121,
+            72.3578,
+            72.5945,
+            72.8313
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.122,
+        "end": 54.82
+      },
+      "options": {
+        "hideAt": 4.8,
+        "showAt": 52.222
+      },
+      "concept": null,
+      "strikes": [
+        {
+          "start": 56.656,
+          "end": 57.406,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 57.756,
+          "end": 58.506,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 68.12,
+          "end": 68.87,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.68,
+          "end": 1.43,
+          "targets": [
+            {
+              "w": 0,
+              "from": "arean",
+              "color": "gul"
+            },
+            {
+              "w": 1,
+              "from": "arean",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "arean",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "arean",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "arean",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 1.58,
+          "end": 2.33,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.066,
+                  0.761
+                ],
+                [
+                  0.884,
+                  0.761
+                ],
+                [
+                  0.641,
+                  0.138
+                ]
+              ],
+              "from": "triangeln",
+              "color": "gul",
+              "seg": 0,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 10.56,
+          "end": 11.31,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.066,
+                  0.761
+                ],
+                [
+                  0.884,
+                  0.761
+                ]
+              ],
+              "from": "Basen A B",
+              "color": "orange",
+              "keep": true,
+              "seg": 1,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 17.587,
+          "end": 18.337,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.641,
+                  0.138
+                ],
+                [
+                  0.641,
+                  0.761
+                ]
+              ],
+              "from": "Höjden",
+              "color": "lila",
+              "keep": true,
+              "seg": 2,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 27.78,
+          "end": 28.53,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.641,
+                  0.138
+                ],
+                [
+                  0.641,
+                  0.761
+                ],
+                [
+                  0.884,
+                  0.761
+                ]
+              ],
+              "from": "lilla",
+              "color": "blå",
+              "seg": 3,
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appKeepCta": true,
+    "appOptionsHide": true,
+    "appKeyLines": [
+      3
+    ]
+  },
+  "variant": "app"
+}

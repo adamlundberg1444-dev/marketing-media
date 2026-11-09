@@ -1,0 +1,583 @@
+{
+  "slug": "hp-mek-ea42d3f9",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "ea42d3f9-af89-4d5d-bac2-bae95e7054d1"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "VT 2025 · fråga 27",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Ett ord i meningen styr luckan: rentav trappar upp, men vänder, ju mer lovar en riktning."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Göteborg"
+      },
+      {
+        "text": "grundades"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "1620-talet"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "viktig"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "begynnande"
+      },
+      {
+        "text": "militärstaten"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "stormakten"
+      },
+      {
+        "text": "Sverige"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "planerades"
+      },
+      {
+        "text": "därför"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "början"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "starkt"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "stad."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 25,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "utpost"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "inhägnad"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "knutpunkt"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "befäst"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "inkörsport"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "anlagd"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "hamnstad"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "sjösatt"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "inhägnad = omgärdad av staket"
+    },
+    {
+      "text": "befäst = försedd med murar",
+      "emphasis": true
+    },
+    {
+      "text": "anlagd = grundad, utlagd"
+    },
+    {
+      "text": "sjösatt = lagd i vattnet"
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 114.041,
+    "phases": {
+      "readStart": 4.64,
+      "writeStart": 43.99
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.64,
+          "end": 5.209
+        },
+        {
+          "start": 5.232,
+          "end": 5.743
+        },
+        {
+          "start": 5.813,
+          "end": 5.894
+        },
+        {
+          "start": 5.894,
+          "end": 7.508
+        },
+        {
+          "start": 7.508,
+          "end": 7.636
+        },
+        {
+          "start": 7.682,
+          "end": 7.74
+        },
+        {
+          "start": 7.798,
+          "end": 8.321
+        },
+        {
+          "start": 8.321,
+          "end": 10.422
+        },
+        {
+          "start": 10.422,
+          "end": 10.422
+        },
+        {
+          "start": 10.422,
+          "end": 10.55
+        },
+        {
+          "start": 10.596,
+          "end": 11.13
+        },
+        {
+          "start": 11.177,
+          "end": 12.129
+        },
+        {
+          "start": 12.175,
+          "end": 12.245
+        },
+        {
+          "start": 12.268,
+          "end": 12.895
+        },
+        {
+          "start": 12.953,
+          "end": 13.522
+        },
+        {
+          "start": 13.893,
+          "end": 14.021
+        },
+        {
+          "start": 14.044,
+          "end": 14.648
+        },
+        {
+          "start": 14.695,
+          "end": 15.008
+        },
+        {
+          "start": 15.031,
+          "end": 15.147
+        },
+        {
+          "start": 15.194,
+          "end": 15.647
+        },
+        {
+          "start": 15.705,
+          "end": 15.844
+        },
+        {
+          "start": 15.914,
+          "end": 15.96
+        },
+        {
+          "start": 16.03,
+          "end": 16.575
+        },
+        {
+          "start": 16.575,
+          "end": 18.491
+        },
+        {
+          "start": 18.491,
+          "end": 19.188
+        },
+        {
+          "start": 21.731,
+          "end": 22.428
+        },
+        {
+          "start": 22.428,
+          "end": 22.683
+        },
+        {
+          "start": 22.683,
+          "end": 23.473
+        },
+        {
+          "start": 23.566,
+          "end": 24.355
+        },
+        {
+          "start": 24.355,
+          "end": 24.494
+        },
+        {
+          "start": 24.494,
+          "end": 25.168
+        },
+        {
+          "start": 25.307,
+          "end": 26.131
+        },
+        {
+          "start": 26.131,
+          "end": 26.503
+        },
+        {
+          "start": 26.503,
+          "end": 27.118
+        },
+        {
+          "start": 27.397,
+          "end": 28.07
+        },
+        {
+          "start": 28.07,
+          "end": 28.175
+        },
+        {
+          "start": 28.175,
+          "end": 29.011
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 43.99,
+          "chars": [
+            43.99,
+            44.2234,
+            44.4567,
+            44.6901,
+            44.9234,
+            45.1568,
+            45.3902,
+            45.6235,
+            45.8569,
+            45.9269,
+            46.1602,
+            46.2302,
+            46.4636,
+            46.697,
+            46.9303,
+            47.1637,
+            47.397,
+            47.6304,
+            47.8638,
+            48.0971,
+            48.1671,
+            48.4005,
+            48.6338,
+            48.7038,
+            48.9372,
+            49.1706,
+            49.4039,
+            49.6373,
+            49.8706
+          ]
+        },
+        {
+          "start": 56.655,
+          "chars": [
+            56.655,
+            56.8901,
+            57.1252,
+            57.3603,
+            57.5953,
+            57.8304,
+            58.0655,
+            58.136,
+            58.3711,
+            58.4417,
+            58.6767,
+            58.9118,
+            59.1469,
+            59.382,
+            59.6171,
+            59.8522,
+            60.0873,
+            60.1578,
+            60.3929,
+            60.628,
+            60.863,
+            60.9336,
+            61.1687,
+            61.4037,
+            61.6388,
+            61.8739
+          ]
+        },
+        {
+          "start": 76.297,
+          "chars": [
+            76.297,
+            76.533,
+            76.769,
+            77.0049,
+            77.2409,
+            77.4769,
+            77.7129,
+            77.7837,
+            78.0197,
+            78.0905,
+            78.3264,
+            78.5624,
+            78.7984,
+            79.0344,
+            79.2704,
+            79.5064,
+            79.7423,
+            79.9783,
+            80.0491,
+            80.2851,
+            80.5211,
+            80.7571,
+            80.993,
+            81.229
+          ]
+        },
+        {
+          "start": 87.639,
+          "chars": [
+            87.639,
+            87.8755,
+            88.112,
+            88.3485,
+            88.585,
+            88.8215,
+            89.0581,
+            89.2946,
+            89.3655,
+            89.602,
+            89.673,
+            89.9095,
+            90.146,
+            90.3825,
+            90.619,
+            90.69,
+            90.9265,
+            90.9974,
+            91.2339,
+            91.4705,
+            91.707,
+            91.9435,
+            92.18,
+            92.4165
+          ]
+        },
+        {
+          "start": 108.104,
+          "chars": [
+            108.104,
+            108.3074,
+            108.5107,
+            108.7141,
+            108.9175,
+            109.1209,
+            109.1819,
+            109.3852,
+            109.5886,
+            109.792,
+            109.9954,
+            110.0564,
+            110.2598,
+            110.3208,
+            110.5241,
+            110.7275,
+            110.9309,
+            111.1343,
+            111.3376
+          ]
+        }
+      ],
+      "circle": {
+        "start": 99.138,
+        "end": 107.079
+      },
+      "options": null,
+      "concept": {
+        "start": 30.647,
+        "end": 42.849,
+        "hideAt": 54.229
+      },
+      "strikes": [
+        {
+          "start": 54.22,
+          "end": 54.97,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 85.493,
+          "end": 86.243,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 96.94,
+          "end": 97.69,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 30.647,
+          "end": 31.397,
+          "targets": [
+            {
+              "w": 17
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

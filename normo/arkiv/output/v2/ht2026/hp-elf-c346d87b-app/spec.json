@@ -1,0 +1,522 @@
+{
+  "slug": "hp-elf-c346d87b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "c346d87b-0cc9-449c-9ee6-7e2a926a1c6e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "How"
+      },
+      {
+        "text": "was"
+      },
+      {
+        "text": "tea"
+      },
+      {
+        "text": "drinking"
+      },
+      {
+        "text": "viewed"
+      },
+      {
+        "text": "by"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "19th-century"
+      },
+      {
+        "text": "British"
+      },
+      {
+        "text": "authorities?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "an"
+          },
+          {
+            "text": "unnecessary"
+          },
+          {
+            "text": "luxury"
+          },
+          {
+            "text": "that"
+          },
+          {
+            "text": "should"
+          },
+          {
+            "text": "preferably"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "avoided."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "practice"
+          },
+          {
+            "text": "that"
+          },
+          {
+            "text": "should"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "reserved"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "upper"
+          },
+          {
+            "text": "classes."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "useful"
+          },
+          {
+            "text": "instrument"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "developing"
+          },
+          {
+            "text": "state"
+          },
+          {
+            "text": "interests."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "an"
+          },
+          {
+            "text": "effective"
+          },
+          {
+            "text": "way"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "keep"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "lower"
+          },
+          {
+            "text": "classes"
+          },
+          {
+            "text": "satisfied."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__c346d87b-0cc9-449c-9ee6-7e2a926a1c6e.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "te = verktyg för imperiet",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.06,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 33.12
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.28
+        },
+        {
+          "start": 0.32,
+          "end": 0.56
+        },
+        {
+          "start": 0.64,
+          "end": 0.82
+        },
+        {
+          "start": 0.88,
+          "end": 1.26
+        },
+        {
+          "start": 1.4,
+          "end": 1.68
+        },
+        {
+          "start": 1.72,
+          "end": 1.82
+        },
+        {
+          "start": 1.86,
+          "end": 1.96
+        },
+        {
+          "start": 2,
+          "end": 2.98
+        },
+        {
+          "start": 3.14,
+          "end": 3.5
+        },
+        {
+          "start": 3.64,
+          "end": 4.52
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.12,
+          "chars": [
+            33.12,
+            33.347,
+            33.5741,
+            33.6422,
+            33.8692,
+            33.9373,
+            34.1643,
+            34.3914,
+            34.6184,
+            34.8454,
+            35.0724,
+            35.2995,
+            35.5265,
+            35.5946,
+            35.8216,
+            36.0486,
+            36.2757,
+            36.3438,
+            36.5708,
+            36.7978,
+            37.0249,
+            37.2519,
+            37.4789,
+            37.7059,
+            37.933
+          ]
+        },
+        {
+          "start": 42.06,
+          "chars": [
+            42.06,
+            42.0696,
+            42.0791,
+            42.0887,
+            42.0983,
+            42.1011,
+            42.1107,
+            42.1203,
+            42.1299,
+            42.1394,
+            42.149,
+            42.1586,
+            42.1681,
+            42.1777,
+            42.1873,
+            42.1901,
+            42.1997,
+            42.2026,
+            42.2122,
+            42.2217,
+            42.2313,
+            42.2409,
+            42.2504
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.26,
+        "end": 40.56
+      },
+      "options": {
+        "hideAt": 12.16,
+        "showAt": 39.36
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.34,
+          "end": 8.09,
+          "targets": [
+            {
+              "w": 9,
+              "from": "authorities",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 16.88,
+          "end": 17.63,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0884,
+                  0.3123
+                ],
+                [
+                  0.7274,
+                  0.3123
+                ],
+                [
+                  0.7274,
+                  0.3483
+                ],
+                [
+                  0.0884,
+                  0.3483
+                ]
+              ],
+              "color": "bla",
+              "from": "verktyg",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 22.68,
+          "end": 23.34,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4534,
+                  0.6105
+                ],
+                [
+                  0.9154,
+                  0.6105
+                ],
+                [
+                  0.9154,
+                  0.6465
+                ],
+                [
+                  0.4534,
+                  0.6465
+                ]
+              ],
+              "color": "bla",
+              "from": "regeringen",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 22.68,
+          "end": 23.34,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6575
+                ],
+                [
+                  0.3532,
+                  0.6575
+                ],
+                [
+                  0.3532,
+                  0.6935
+                ],
+                [
+                  0,
+                  0.6935
+                ]
+              ],
+              "color": "bla",
+              "from": "regeringen",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.98,
+          "end": 26.73,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.477,
+                  0.7143
+                ],
+                [
+                  0.9208,
+                  0.7143
+                ],
+                [
+                  0.9208,
+                  0.7503
+                ],
+                [
+                  0.477,
+                  0.7503
+                ]
+              ],
+              "color": "bla",
+              "from": "politik",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 25.98,
+          "end": 26.73,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7613
+                ],
+                [
+                  0.6486,
+                  0.7613
+                ],
+                [
+                  0.6486,
+                  0.7973
+                ],
+                [
+                  0,
+                  0.7973
+                ]
+              ],
+              "color": "bla",
+              "from": "politik",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 42.01
+  },
+  "layout": {},
+  "variant": "app"
+}

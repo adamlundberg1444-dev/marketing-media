@@ -1,0 +1,505 @@
+{
+  "slug": "hp-elf-50ef1296",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "50ef1296-8db3-4785-89d4-278c4d146b3b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ELF · fråga 37 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Which"
+      },
+      {
+        "text": "of"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "following"
+      },
+      {
+        "text": "statements"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "most"
+      },
+      {
+        "text": "in"
+      },
+      {
+        "text": "agreement"
+      },
+      {
+        "text": "with"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "text?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 12,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Humans"
+          },
+          {
+            "text": "differ"
+          },
+          {
+            "text": "substantially"
+          },
+          {
+            "text": "from"
+          },
+          {
+            "text": "other"
+          },
+          {
+            "text": "primates"
+          },
+          {
+            "text": "in"
+          },
+          {
+            "text": "their"
+          },
+          {
+            "text": "willingness"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "cooperate."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Cooperative"
+          },
+          {
+            "text": "behavior"
+          },
+          {
+            "text": "appears"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "or"
+          },
+          {
+            "text": "less"
+          },
+          {
+            "text": "exclusive"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "primates."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Cooperation"
+          },
+          {
+            "text": "patterns"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "identical"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "chimps"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "other"
+          },
+          {
+            "text": "primate"
+          },
+          {
+            "text": "species."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "principle"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "mutual"
+          },
+          {
+            "text": "benefits"
+          },
+          {
+            "text": "seems"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "guide"
+          },
+          {
+            "text": "much"
+          },
+          {
+            "text": "primate"
+          },
+          {
+            "text": "cooperation."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/elf__50ef1296-8db3-4785-89d4-278c4d146b3b.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "reciprocity = ömsesidig nytta",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.755,
+    "phases": {
+      "readStart": 1.863,
+      "writeStart": 21.985
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.863,
+          "end": 2.095
+        },
+        {
+          "start": 2.13,
+          "end": 2.188
+        },
+        {
+          "start": 2.234,
+          "end": 2.304
+        },
+        {
+          "start": 2.35,
+          "end": 2.699
+        },
+        {
+          "start": 2.734,
+          "end": 3.163
+        },
+        {
+          "start": 3.21,
+          "end": 3.279
+        },
+        {
+          "start": 3.349,
+          "end": 3.558
+        },
+        {
+          "start": 3.604,
+          "end": 3.662
+        },
+        {
+          "start": 3.686,
+          "end": 4.069
+        },
+        {
+          "start": 4.104,
+          "end": 4.22
+        },
+        {
+          "start": 4.243,
+          "end": 4.313
+        },
+        {
+          "start": 4.347,
+          "end": 4.835
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 21.985,
+          "chars": [
+            21.985,
+            22.1947,
+            22.4045,
+            22.6142,
+            22.824,
+            23.0337,
+            23.2434,
+            23.4532,
+            23.6629,
+            23.8727,
+            24.0824,
+            24.2921,
+            24.3551,
+            24.5648,
+            24.6277,
+            24.8375,
+            25.0472,
+            25.2569,
+            25.4667,
+            25.6764,
+            25.8862,
+            26.0959,
+            26.3056,
+            26.5154,
+            26.5783,
+            26.788,
+            26.9978,
+            27.2075,
+            27.4173
+          ]
+        },
+        {
+          "start": 34.717,
+          "chars": [
+            34.717,
+            34.961,
+            35.2049,
+            35.4489,
+            35.6929,
+            35.9369,
+            36.0101,
+            36.254,
+            36.498,
+            36.742,
+            36.8152,
+            37.0591,
+            37.3031,
+            37.5471,
+            37.7911,
+            38.035
+          ]
+        }
+      ],
+      "circle": {
+        "start": 33.238,
+        "end": 34.224
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 29.042,
+          "end": 29.792,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 6.439,
+          "end": 7.189,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1692,
+                  0.1842
+                ],
+                [
+                  0.7949,
+                  0.1842
+                ],
+                [
+                  0.7949,
+                  0.2304
+                ],
+                [
+                  0.1692,
+                  0.2304
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 13.708,
+          "end": 14.458,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6245
+                ],
+                [
+                  0.4157,
+                  0.6245
+                ],
+                [
+                  0.4157,
+                  0.6706
+                ],
+                [
+                  0.0435,
+                  0.6706
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 14.808,
+          "end": 15.558,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5104,
+                  0.677
+                ],
+                [
+                  0.8092,
+                  0.677
+                ],
+                [
+                  0.8092,
+                  0.7231
+                ],
+                [
+                  0.5104,
+                  0.7231
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 5.439,
+          "end": 12.662,
+          "omrade": [
+            0,
+            0.166,
+            1,
+            0.3521
+          ]
+        },
+        {
+          "start": 12.708,
+          "end": 21.174,
+          "omrade": [
+            0,
+            0.5537,
+            1,
+            0.8448
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "hp-ord-88e0d79b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "88e0d79b-e2e9-4bd4-98e4-9a71e00fba54"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "skavanker"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "klagomål"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "obehag"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "småsaker"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "brister"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "oklarheter"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "skavanker = brister",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 31.76,
+    "phases": {
+      "readStart": 0.18,
+      "writeStart": 19.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.18,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 19.34,
+          "chars": [
+            19.34,
+            19.5799,
+            19.8198,
+            20.0597,
+            20.2995,
+            20.5394,
+            20.7793,
+            21.0192,
+            21.2591,
+            21.499,
+            21.5709,
+            21.8108,
+            21.8828,
+            22.1227,
+            22.3626,
+            22.6025,
+            22.8423,
+            23.0822,
+            23.3221
+          ]
+        },
+        {
+          "start": 30.26,
+          "chars": [
+            30.26,
+            30.2805,
+            30.3011,
+            30.3216,
+            30.3422,
+            30.3627,
+            30.3689,
+            30.3895,
+            30.41,
+            30.4305,
+            30.4367,
+            30.4573,
+            30.4778,
+            30.4984,
+            30.5189,
+            30.5395
+          ]
+        }
+      ],
+      "circle": {
+        "start": 28.96,
+        "end": 30.26
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.18,
+          "end": 0.93,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Skavanker"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 30.21
+  },
+  "layout": {},
+  "variant": "app"
+}

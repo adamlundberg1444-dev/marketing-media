@@ -1,0 +1,737 @@
+{
+  "slug": "hp-kva-719e1be5",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "719e1be5-5af0-4641-898d-905e08035c3d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA · fråga 18 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Denise"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "göra"
+      },
+      {
+        "text": "fyra"
+      },
+      {
+        "text": "slumpmässiga"
+      },
+      {
+        "text": "kast"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "mynt."
+      },
+      {
+        "text": "Hon"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "fylla"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "tabell"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "hon"
+      },
+      {
+        "text": "noterar"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "varje"
+      },
+      {
+        "text": "kast"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "utfallet"
+      },
+      {
+        "text": "blir"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "text": "eller"
+      },
+      {
+        "text": "klave."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "Sannolikheten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "tabellen"
+      },
+      {
+        "text": "blir:"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "1:"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "2:"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "3:"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "4:"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "Sannolikheten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "tabellen"
+      },
+      {
+        "text": "blir:"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "1:"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "2:"
+      },
+      {
+        "text": "klave"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "3:"
+      },
+      {
+        "text": "krona"
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kast"
+      },
+      {
+        "text": "4:"
+      },
+      {
+        "text": "klave"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 63,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "I: \\left(\\frac{1}{2}\\right)^4 = \\frac{1}{16}"
+    },
+    {
+      "text": "II: \\left(\\frac{1}{2}\\right)^4 = \\frac{1}{16}"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 52.134,
+    "phases": {
+      "readStart": 1.278,
+      "writeStart": 30.812
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.278,
+          "end": 1.661
+        },
+        {
+          "start": 1.696,
+          "end": 1.835
+        },
+        {
+          "start": 1.858,
+          "end": 2.009
+        },
+        {
+          "start": 2.067,
+          "end": 2.346
+        },
+        {
+          "start": 2.392,
+          "end": 2.973
+        },
+        {
+          "start": 3.066,
+          "end": 3.461
+        },
+        {
+          "start": 3.542,
+          "end": 3.67
+        },
+        {
+          "start": 3.704,
+          "end": 3.786
+        },
+        {
+          "start": 3.832,
+          "end": 4.285
+        },
+        {
+          "start": 4.563,
+          "end": 4.703
+        },
+        {
+          "start": 4.726,
+          "end": 4.842
+        },
+        {
+          "start": 4.889,
+          "end": 5.132
+        },
+        {
+          "start": 5.214,
+          "end": 5.33
+        },
+        {
+          "start": 5.399,
+          "end": 5.469
+        },
+        {
+          "start": 5.516,
+          "end": 5.933
+        },
+        {
+          "start": 6.05,
+          "end": 6.212
+        },
+        {
+          "start": 6.259,
+          "end": 6.468
+        },
+        {
+          "start": 6.549,
+          "end": 7.002
+        },
+        {
+          "start": 7.048,
+          "end": 7.129
+        },
+        {
+          "start": 7.153,
+          "end": 7.361
+        },
+        {
+          "start": 7.42,
+          "end": 7.733
+        },
+        {
+          "start": 7.803,
+          "end": 7.896
+        },
+        {
+          "start": 8.012,
+          "end": 8.418
+        },
+        {
+          "start": 8.464,
+          "end": 8.743
+        },
+        {
+          "start": 8.836,
+          "end": 9.277
+        },
+        {
+          "start": 9.358,
+          "end": 9.556
+        },
+        {
+          "start": 9.602,
+          "end": 10.101
+        },
+        {
+          "start": 10.485,
+          "end": 11.019
+        },
+        {
+          "start": 11.019,
+          "end": 11.913
+        },
+        {
+          "start": 11.913,
+          "end": 12.772
+        },
+        {
+          "start": 12.853,
+          "end": 12.981
+        },
+        {
+          "start": 13.062,
+          "end": 13.422
+        },
+        {
+          "start": 13.469,
+          "end": 13.771
+        },
+        {
+          "start": 13.945,
+          "end": 14.316
+        },
+        {
+          "start": 14.386,
+          "end": 14.676
+        },
+        {
+          "start": 14.85,
+          "end": 15.419
+        },
+        {
+          "start": 15.698,
+          "end": 16.046
+        },
+        {
+          "start": 16.162,
+          "end": 16.383
+        },
+        {
+          "start": 16.418,
+          "end": 16.882
+        },
+        {
+          "start": 17.103,
+          "end": 17.486
+        },
+        {
+          "start": 17.648,
+          "end": 18.032
+        },
+        {
+          "start": 18.148,
+          "end": 18.693
+        },
+        {
+          "start": 18.891,
+          "end": 19.239
+        },
+        {
+          "start": 19.332,
+          "end": 19.657
+        },
+        {
+          "start": 19.703,
+          "end": 20.191
+        },
+        {
+          "start": 20.539,
+          "end": 21.178
+        },
+        {
+          "start": 21.178,
+          "end": 21.84
+        },
+        {
+          "start": 21.84,
+          "end": 22.583
+        },
+        {
+          "start": 22.641,
+          "end": 22.745
+        },
+        {
+          "start": 22.803,
+          "end": 23.152
+        },
+        {
+          "start": 23.175,
+          "end": 23.511
+        },
+        {
+          "start": 23.674,
+          "end": 24.034
+        },
+        {
+          "start": 24.115,
+          "end": 24.394
+        },
+        {
+          "start": 24.556,
+          "end": 25.056
+        },
+        {
+          "start": 25.276,
+          "end": 25.683
+        },
+        {
+          "start": 25.81,
+          "end": 26.124
+        },
+        {
+          "start": 26.205,
+          "end": 26.727
+        },
+        {
+          "start": 26.948,
+          "end": 27.32
+        },
+        {
+          "start": 27.459,
+          "end": 27.807
+        },
+        {
+          "start": 27.923,
+          "end": 28.422
+        },
+        {
+          "start": 28.608,
+          "end": 29.015
+        },
+        {
+          "start": 29.177,
+          "end": 29.595
+        },
+        {
+          "start": 29.734,
+          "end": 30.21
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.812,
+          "chars": [
+            30.812,
+            31.0572,
+            31.3024,
+            31.3759,
+            31.6211,
+            31.8663,
+            32.1115,
+            32.3566,
+            32.6018,
+            32.847,
+            32.9205,
+            33.1657,
+            33.2393,
+            33.4845,
+            33.7296,
+            33.9748
+          ]
+        },
+        {
+          "start": 38.462,
+          "chars": [
+            38.462,
+            38.7055,
+            38.949,
+            39.1925,
+            39.2655,
+            39.509,
+            39.7525,
+            39.996,
+            40.2395,
+            40.483,
+            40.7265,
+            40.7995,
+            41.043,
+            41.116,
+            41.3595,
+            41.603,
+            41.8465
+          ]
+        },
+        {
+          "start": 42.09,
+          "chars": [
+            42.09,
+            42.3861,
+            42.4749,
+            42.771,
+            42.8598,
+            43.1559
+          ]
+        },
+        {
+          "start": 46.592,
+          "chars": [
+            46.592,
+            46.7833,
+            46.9746,
+            47.166,
+            47.3573,
+            47.5486,
+            47.606,
+            47.7973,
+            47.9886,
+            48.18,
+            48.2374,
+            48.4287,
+            48.4861,
+            48.6774,
+            48.8687,
+            49.06,
+            49.2514,
+            49.4427
+          ]
+        }
+      ],
+      "circle": {
+        "start": 45.317,
+        "end": 46.257
+      },
+      "options": {
+        "hideAt": 30.512,
+        "showAt": 44.417
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

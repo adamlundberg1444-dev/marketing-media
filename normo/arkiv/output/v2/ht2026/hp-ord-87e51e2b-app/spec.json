@@ -1,0 +1,253 @@
+{
+  "slug": "hp-ord-87e51e2b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "87e51e2b-38e7-4e94-a299-0d70c669ce0a"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "hippocampus"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "hudsjukdom"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "djurkyrkogård"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "del"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "hjärnan"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "äldre"
+          },
+          {
+            "text": "boksamling"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "vattenlevande"
+          },
+          {
+            "text": "växt"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "hippocampus = del av hjärnan",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 38.08,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 25.78
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        },
+        {
+          "start": 1.24,
+          "end": 1.24
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 25.78,
+          "chars": [
+            25.78,
+            25.9697,
+            26.1594,
+            26.349,
+            26.5387,
+            26.7284,
+            26.9181,
+            27.1078,
+            27.2975,
+            27.4871,
+            27.6768,
+            27.8665,
+            27.9234,
+            28.1131,
+            28.17,
+            28.3597,
+            28.5494,
+            28.739,
+            28.796,
+            28.9856,
+            29.1753,
+            29.2322,
+            29.4219,
+            29.6116,
+            29.8013,
+            29.991,
+            30.1806,
+            30.3703
+          ]
+        },
+        {
+          "start": 37.28,
+          "chars": [
+            37.28,
+            37.3184,
+            37.3567,
+            37.3951,
+            37.4334,
+            37.4718,
+            37.4833,
+            37.5216,
+            37.56,
+            37.5984,
+            37.6099,
+            37.6482,
+            37.6866,
+            37.7249,
+            37.7633,
+            37.8016
+          ]
+        }
+      ],
+      "circle": {
+        "start": 34.24,
+        "end": 36.58
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.12,
+          "end": 0.87,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Hippocampus"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 37.23
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "hp-ord-b6d29b92-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "b6d29b92-436c-451a-b7f9-9a81c77d18a2"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "konstitution"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "riktning"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "erfarenhet"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "uppbyggnad"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "motstånd"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "föreställning"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "konstitution = uppbyggnad",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 34.98,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 23.84
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 1.32
+        },
+        {
+          "start": 1.32,
+          "end": 1.32
+        },
+        {
+          "start": 1.32,
+          "end": 1.32
+        },
+        {
+          "start": 1.32,
+          "end": 1.32
+        },
+        {
+          "start": 1.32,
+          "end": 1.32
+        },
+        {
+          "start": 1.32,
+          "end": 1.32
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.84,
+          "chars": [
+            23.84,
+            24.0688,
+            24.2976,
+            24.5264,
+            24.7553,
+            24.9841,
+            25.2129,
+            25.4417,
+            25.6705,
+            25.8993,
+            26.1281,
+            26.3569,
+            26.5858,
+            26.6544,
+            26.8832,
+            26.9519,
+            27.1807,
+            27.4095,
+            27.6383,
+            27.8671,
+            28.0959,
+            28.3247,
+            28.5536,
+            28.7824,
+            29.0112
+          ]
+        },
+        {
+          "start": 33.54,
+          "chars": [
+            33.54,
+            33.5647,
+            33.5893,
+            33.614,
+            33.6386,
+            33.6633,
+            33.6707,
+            33.6953,
+            33.72,
+            33.7447,
+            33.7521,
+            33.7767,
+            33.8014,
+            33.826,
+            33.8507,
+            33.8753
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.08,
+        "end": 33.48
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.12,
+          "end": 0.87,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Konstitution"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 33.49
+  },
+  "layout": {},
+  "variant": "app"
+}

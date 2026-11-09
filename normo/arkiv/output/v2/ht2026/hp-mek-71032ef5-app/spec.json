@@ -1,0 +1,409 @@
+{
+  "slug": "hp-mek-71032ef5-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "71032ef5-5fb4-4e29-a122-0f7faeb1fd80"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "På"
+      },
+      {
+        "text": "fasadens"
+      },
+      {
+        "text": "fris"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "meter"
+      },
+      {
+        "text": "höga"
+      },
+      {
+        "text": "bokstäver,"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "minne"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "påven"
+      },
+      {
+        "text": "Paulus"
+      },
+      {
+        "text": "V"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "var"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "Peterskyrkans"
+      },
+      {
+        "text": "byggherrar."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 23,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "inskription"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "obelisk"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "notation"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "parafras"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "inskription"
+    ],
+    "gapFarg": [
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "inskription = inhuggen text",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 44.93,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 37.56
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.22
+        },
+        {
+          "start": 0.26,
+          "end": 1.04
+        },
+        {
+          "start": 1.12,
+          "end": 1.58
+        },
+        {
+          "start": 1.66,
+          "end": 1.98
+        },
+        {
+          "start": 2.08,
+          "end": 2.42
+        },
+        {
+          "start": 2.42,
+          "end": 5.2
+        },
+        {
+          "start": 5.2,
+          "end": 5.34
+        },
+        {
+          "start": 5.44,
+          "end": 5.64
+        },
+        {
+          "start": 5.7,
+          "end": 6.1
+        },
+        {
+          "start": 6.18,
+          "end": 6.54
+        },
+        {
+          "start": 6.58,
+          "end": 7.28
+        },
+        {
+          "start": 7.82,
+          "end": 7.96
+        },
+        {
+          "start": 8,
+          "end": 8.28
+        },
+        {
+          "start": 8.36,
+          "end": 8.52
+        },
+        {
+          "start": 8.6,
+          "end": 9.16
+        },
+        {
+          "start": 9.24,
+          "end": 9.84
+        },
+        {
+          "start": 9.84,
+          "end": 11.36
+        },
+        {
+          "start": 11.36,
+          "end": 11.48
+        },
+        {
+          "start": 11.52,
+          "end": 11.66
+        },
+        {
+          "start": 11.74,
+          "end": 11.82
+        },
+        {
+          "start": 11.88,
+          "end": 11.96
+        },
+        {
+          "start": 12.02,
+          "end": 12.98
+        },
+        {
+          "start": 13.02,
+          "end": 13.8
+        },
+        {
+          "start": 13.8,
+          "end": 13.8
+        },
+        {
+          "start": 13.8,
+          "end": 13.8
+        },
+        {
+          "start": 13.8,
+          "end": 13.8
+        },
+        {
+          "start": 13.8,
+          "end": 13.8
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 37.56,
+          "chars": [
+            37.56,
+            37.76,
+            37.96,
+            38.16,
+            38.36,
+            38.56,
+            38.76,
+            38.96,
+            39.16,
+            39.36,
+            39.56,
+            39.76,
+            39.82,
+            40.02,
+            40.08,
+            40.28,
+            40.48,
+            40.68,
+            40.88,
+            41.08,
+            41.28,
+            41.48,
+            41.68,
+            41.74,
+            41.94,
+            42.14,
+            42.34
+          ]
+        },
+        {
+          "start": 44.98,
+          "chars": [
+            44.98,
+            44.9896,
+            44.9991,
+            45.0087,
+            45.0183,
+            45.0211,
+            45.0307,
+            45.0403,
+            45.0499,
+            45.0594,
+            45.069,
+            45.0786,
+            45.0881,
+            45.0977,
+            45.1073,
+            45.1101,
+            45.1197,
+            45.1226,
+            45.1322,
+            45.1417,
+            45.1513,
+            45.1609,
+            45.1704
+          ]
+        }
+      ],
+      "circle": {
+        "start": 33.8,
+        "end": 36.16
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 20.14,
+          "end": 20.89,
+          "targets": [
+            {
+              "w": 8,
+              "from": "meter höga",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "meter höga",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "meter höga",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 24.48,
+          "end": 25.23,
+          "targets": [
+            {
+              "w": 11,
+              "from": "till minne",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "till minne",
+              "color": "gul"
+            },
+            {
+              "w": 13,
+              "from": "till minne",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

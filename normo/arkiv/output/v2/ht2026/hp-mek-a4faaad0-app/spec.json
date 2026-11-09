@@ -1,0 +1,375 @@
+{
+  "slug": "hp-mek-a4faaad0-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "a4faaad0-e336-4191-aa44-5b7a7439d380"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bostadsrättsföreningens"
+      },
+      {
+        "text": "styrelse"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "beslutat"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "placera"
+      },
+      {
+        "text": "sopor"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "otillåtna"
+      },
+      {
+        "text": "platser"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "debiteras"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "bortforslingen."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "påvisas"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "ertappas"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "utpekas"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "synliggörs"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "ertappas"
+    ],
+    "gapFarg": [
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "ertappas med = bli påkommen med",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 53.23,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 45.96
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 1.54
+        },
+        {
+          "start": 1.62,
+          "end": 2.16
+        },
+        {
+          "start": 2.26,
+          "end": 2.38
+        },
+        {
+          "start": 2.42,
+          "end": 3.1
+        },
+        {
+          "start": 3.56,
+          "end": 3.68
+        },
+        {
+          "start": 3.74,
+          "end": 3.98
+        },
+        {
+          "start": 4.059,
+          "end": 4.38
+        },
+        {
+          "start": 4.38,
+          "end": 6.42
+        },
+        {
+          "start": 6.42,
+          "end": 6.58
+        },
+        {
+          "start": 6.62,
+          "end": 6.7
+        },
+        {
+          "start": 6.74,
+          "end": 7.18
+        },
+        {
+          "start": 7.26,
+          "end": 7.82
+        },
+        {
+          "start": 7.88,
+          "end": 8
+        },
+        {
+          "start": 8.08,
+          "end": 8.78
+        },
+        {
+          "start": 8.84,
+          "end": 9.32
+        },
+        {
+          "start": 9.78,
+          "end": 9.96
+        },
+        {
+          "start": 10.02,
+          "end": 10.8
+        },
+        {
+          "start": 10.86,
+          "end": 11
+        },
+        {
+          "start": 11.06,
+          "end": 11.94
+        },
+        {
+          "start": 11.94,
+          "end": 11.94
+        },
+        {
+          "start": 11.94,
+          "end": 11.94
+        },
+        {
+          "start": 11.94,
+          "end": 11.94
+        },
+        {
+          "start": 11.94,
+          "end": 11.94
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 45.96,
+          "chars": [
+            45.96,
+            46.136,
+            46.312,
+            46.488,
+            46.664,
+            46.84,
+            47.016,
+            47.192,
+            47.368,
+            47.4208,
+            47.5968,
+            47.7728,
+            47.9488,
+            48.0016,
+            48.1776,
+            48.2304,
+            48.4064,
+            48.5824,
+            48.7584,
+            48.8112,
+            48.9872,
+            49.1632,
+            49.3392,
+            49.5152,
+            49.6912,
+            49.8672,
+            50.0432,
+            50.2192,
+            50.272,
+            50.448,
+            50.624
+          ]
+        },
+        {
+          "start": 53.28,
+          "chars": [
+            53.28,
+            53.2926,
+            53.3052,
+            53.3177,
+            53.3303,
+            53.3429,
+            53.3467,
+            53.3592,
+            53.3718,
+            53.3844,
+            53.3882,
+            53.4008,
+            53.4045,
+            53.4171,
+            53.4297,
+            53.4423,
+            53.4548,
+            53.4674
+          ]
+        }
+      ],
+      "circle": {
+        "start": 42.7,
+        "end": 44.28
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 15.96,
+          "end": 16.71,
+          "targets": [
+            {
+              "w": 13,
+              "from": "otillåtna platser",
+              "color": "gul"
+            },
+            {
+              "w": 14,
+              "from": "otillåtna platser",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 33.44,
+          "end": 34.19,
+          "targets": [
+            {
+              "w": 8,
+              "from": "med att",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "med att",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "med att",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261583",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-14.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "habitué",
+      "options": [
+        "värdshus",
+        "litet russin",
+        "stamgäst",
+        "skeppskök"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "habitué",
+      "options": [
+        "värdshus",
+        "litet russin",
+        "stamgäst",
+        "skeppskök"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "grafologi",
+      "options": [
+        "läran om handstilen",
+        "månggifte",
+        "en skalbagge",
+        "uniform"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "grafologi",
+      "options": [
+        "läran om handstilen",
+        "månggifte",
+        "en skalbagge",
+        "uniform"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "polykrom",
+      "options": [
+        "manlig, kraftfull",
+        "frånstötande",
+        "snål",
+        "mångfärgad"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "polykrom",
+      "options": [
+        "manlig, kraftfull",
+        "frånstötande",
+        "snål",
+        "mångfärgad"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "blodskam",
+      "options": [
+        "rundskrivelse",
+        "incest",
+        "snabbskrift",
+        "djurkretsens stjärnbilder"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "blodskam",
+      "options": [
+        "rundskrivelse",
+        "incest",
+        "snabbskrift",
+        "djurkretsens stjärnbilder"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

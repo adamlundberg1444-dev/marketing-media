@@ -1,0 +1,336 @@
+{
+  "slug": "hp-xyz-41d3422c",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "41d3422c-8289-4747-98bf-4206f234d304"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "VT 2018 · fråga 9",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "a = b \\iff a + c = b + c"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": "\\frac{9x - 13}{2} = 1",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " \\frac{11}{9} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " \\frac{14}{9} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " \\frac{5}{3} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": "\\frac{14}{3}",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "9x - 13 = 2"
+    },
+    {
+      "text": "9x = 2 + 13 = 15"
+    },
+    {
+      "text": "x = \\frac{15}{9}"
+    },
+    {
+      "text": "\\frac{15}{9} = \\frac{5\\cdot3}{3\\cdot3} = \\frac{5}{3}",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 57.198,
+    "phases": {
+      "readStart": 4.06,
+      "writeStart": 17.757
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.06,
+          "end": 8.924
+        },
+        {
+          "start": 8.924,
+          "end": 9.273
+        },
+        {
+          "start": 9.331,
+          "end": 9.528
+        },
+        {
+          "start": 9.528,
+          "end": 9.7634
+        },
+        {
+          "start": 9.7634,
+          "end": 10.062
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 17.757,
+          "chars": [
+            17.757,
+            18.0197,
+            18.2824,
+            18.3612,
+            18.6239,
+            18.7027,
+            18.9653,
+            19.228,
+            19.3068,
+            19.5695,
+            19.6483
+          ]
+        },
+        {
+          "start": 26.279,
+          "chars": [
+            26.279,
+            26.5287,
+            26.7783,
+            26.8532,
+            27.1029,
+            27.1778,
+            27.4274,
+            27.5023,
+            27.752,
+            27.8269,
+            28.0766,
+            28.3262,
+            28.4011,
+            28.6508,
+            28.7257,
+            28.9753
+          ]
+        },
+        {
+          "start": 33.42,
+          "chars": [
+            33.42,
+            33.693,
+            33.7749,
+            34.048,
+            34.1299,
+            34.4029,
+            34.6759,
+            34.949
+          ]
+        },
+        {
+          "start": 39.133,
+          "chars": [
+            39.133,
+            39.3733,
+            39.6137,
+            39.854,
+            40.0944,
+            40.1665,
+            40.4068,
+            40.479,
+            40.7193,
+            40.9597,
+            41.2,
+            41.4403,
+            41.6807,
+            41.921,
+            42.1614,
+            42.2335,
+            42.4738,
+            42.546,
+            42.7863,
+            43.0267
+          ]
+        },
+        {
+          "start": 51.609,
+          "chars": [
+            51.609,
+            51.7918,
+            51.9746,
+            52.1573,
+            52.3401,
+            52.5229,
+            52.5777,
+            52.7605,
+            52.9433,
+            53.1261,
+            53.3089,
+            53.3637,
+            53.5465,
+            53.6013,
+            53.7841,
+            53.9669,
+            54.1497,
+            54.3324,
+            54.5152
+          ]
+        }
+      ],
+      "circle": {
+        "start": 47.926,
+        "end": 50.468
+      },
+      "options": null,
+      "concept": {
+        "start": 11.125,
+        "end": 16.372,
+        "hideAt": 25.883
+      },
+      "strikes": [
+        {
+          "start": 39.133,
+          "end": 39.883,
+          "targets": [
+            {
+              "li": 3,
+              "from": 8,
+              "to": 9,
+              "snett": false
+            }
+          ]
+        },
+        {
+          "start": 40.233,
+          "end": 40.983,
+          "targets": [
+            {
+              "li": 3,
+              "from": 12,
+              "to": 13,
+              "snett": false
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 0,
+          "op": "+ 13",
+          "eq": 8,
+          "stryk": {
+            "from": 5,
+            "to": 6,
+            "sida": "vanster"
+          },
+          "start": 26.279,
+          "end": 32.328
+        },
+        {
+          "li": 1,
+          "op": "/ 9",
+          "eq": 3,
+          "stryk": null,
+          "start": 33.42,
+          "end": 37.542
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

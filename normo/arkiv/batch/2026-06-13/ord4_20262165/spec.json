@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20262165",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-28.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "framfusig",
+      "options": [
+        "osjälvständig",
+        "ständig",
+        "välvd",
+        "påflugen"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "framfusig",
+      "options": [
+        "osjälvständig",
+        "ständig",
+        "välvd",
+        "påflugen"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "bunker",
+      "options": [
+        "vävnadsdöd",
+        "tvättfat för underlivet",
+        "stridsvärn",
+        "barnförlamning"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "bunker",
+      "options": [
+        "vävnadsdöd",
+        "tvättfat för underlivet",
+        "stridsvärn",
+        "barnförlamning"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "konfirmation",
+      "options": [
+        "förlossningskonst",
+        "bekräftelse",
+        "som startar något nytt",
+        "reklambroschyr"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "konfirmation",
+      "options": [
+        "förlossningskonst",
+        "bekräftelse",
+        "som startar något nytt",
+        "reklambroschyr"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "fortuna",
+      "options": [
+        "krona",
+        "nollskärningspunkt",
+        "öde",
+        "kvinnotjusare"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "fortuna",
+      "options": [
+        "krona",
+        "nollskärningspunkt",
+        "öde",
+        "kvinnotjusare"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "slug": "hp-xyz-6f8021e7-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "6f8021e7-a01c-48a5-bca4-b7ff50e64baa"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " L: y = \\frac{3}{2}x + 6 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Linjen"
+      },
+      {
+        "text": "L"
+      },
+      {
+        "text": "skär"
+      },
+      {
+        "tex": " y ",
+        "display": false
+      },
+      {
+        "text": "-axeln"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "punkten"
+      },
+      {
+        "tex": " \\left(0, \\frac{3}{a}\\right) ",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "tex": " a ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " \\frac{1}{2} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " \\frac{2}{3} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " \\frac{3}{2} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 6 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "y = kx + m"
+    },
+    {
+      "text": "m = 6"
+    },
+    {
+      "text": "\\frac{3}{a} = 6"
+    },
+    {
+      "text": "a = \\frac{3}{6} = \\frac{1}{2}",
+      "emphasis": true,
+      "rod": [
+        "\\frac{3}{6}",
+        "\\frac{1}{2}"
+      ],
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "10": "#D93025",
+        "11": "#D93025",
+        "12": "#D93025"
+      }
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 47.23,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 13.48
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.62
+        },
+        {
+          "start": 0.62,
+          "end": 4.6
+        },
+        {
+          "start": 4.6,
+          "end": 4.96
+        },
+        {
+          "start": 4.96,
+          "end": 5.3455
+        },
+        {
+          "start": 5.3455,
+          "end": 5.68
+        },
+        {
+          "start": 5.68,
+          "end": 5.76
+        },
+        {
+          "start": 5.82,
+          "end": 6.36
+        },
+        {
+          "start": 6.36,
+          "end": 7.5141
+        },
+        {
+          "start": 7.5141,
+          "end": 8.1884
+        },
+        {
+          "start": 8.1884,
+          "end": 8.7848
+        },
+        {
+          "start": 8.7848,
+          "end": 9.3165
+        },
+        {
+          "start": 9.3165,
+          "end": 9.7185
+        },
+        {
+          "start": 9.7185,
+          "end": 10.4057
+        },
+        {
+          "start": 10.4057,
+          "end": 11.08
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.48,
+          "chars": [
+            13.48,
+            13.7486,
+            13.8292,
+            14.0978,
+            14.1784,
+            14.447,
+            14.7156,
+            14.7962,
+            15.0648,
+            15.1454
+          ]
+        },
+        {
+          "start": 25.82,
+          "chars": [
+            25.82,
+            26.1372,
+            26.2324,
+            26.5496,
+            26.6448
+          ]
+        },
+        {
+          "start": 34.44,
+          "chars": [
+            34.44,
+            34.7225,
+            35.005,
+            35.2875,
+            35.3723,
+            35.6547,
+            35.7395
+          ]
+        },
+        {
+          "start": 40.54,
+          "chars": [
+            40.54,
+            40.7871,
+            40.8612,
+            41.1082,
+            41.1824,
+            41.4294,
+            41.6765,
+            41.9235,
+            41.9976,
+            42.2447,
+            42.3188,
+            42.5659,
+            42.8129
+          ]
+        },
+        {
+          "start": 47.28,
+          "chars": [
+            47.28,
+            47.2937,
+            47.3074,
+            47.3211,
+            47.3348,
+            47.3485,
+            47.3526,
+            47.3663,
+            47.38,
+            47.3937,
+            47.3978,
+            47.4115,
+            47.4252,
+            47.4389,
+            47.4526,
+            47.4663
+          ]
+        }
+      ],
+      "circle": {
+        "start": 44.42,
+        "end": 45.58
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.1,
+          "end": 0.85,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Linjen",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 5.82,
+          "end": 6.57,
+          "targets": [
+            {
+              "w": 8,
+              "from": "punkten",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 0,
+          "farg": "#D93025",
+          "from": "kx försvinner",
+          "forkorta": [
+            {
+              "from": 4,
+              "to": 7
+            }
+          ],
+          "start": 21.38,
+          "strykAt": 22.38
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

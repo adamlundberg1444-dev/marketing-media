@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20262546",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-17.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "deficit",
+      "options": [
+        "fält",
+        "lustspel",
+        "förlikning",
+        "underskott"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "deficit",
+      "options": [
+        "fält",
+        "lustspel",
+        "förlikning",
+        "underskott"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "schvung",
+      "options": [
+        "blodöverföring",
+        "förberedelse före tryck",
+        "fart och kraft",
+        "ånga"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "schvung",
+      "options": [
+        "blodöverföring",
+        "förberedelse före tryck",
+        "fart och kraft",
+        "ånga"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "test",
+      "options": [
+        "delstatssystem",
+        "ytstruktur",
+        "överdriven känslosamhet",
+        "hårtofs"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "test",
+      "options": [
+        "delstatssystem",
+        "ytstruktur",
+        "överdriven känslosamhet",
+        "hårtofs"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "resår",
+      "options": [
+        "spänning",
+        "akrobatik på häst",
+        "töjbart material",
+        "överraskning"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "resår",
+      "options": [
+        "spänning",
+        "akrobatik på häst",
+        "töjbart material",
+        "överraskning"
+      ],
+      "correct": 2,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

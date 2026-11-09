@@ -1,0 +1,507 @@
+{
+  "slug": "hp-las-d56505a1",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "d56505a1-bb1e-41db-99c9-cb2c80ef35c2"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 17 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilken"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "händelser"
+      },
+      {
+        "text": "lyfter"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "fram"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "möjligt"
+      },
+      {
+        "text": "upphov"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "livet"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "jorden?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Kemiska"
+          },
+          {
+            "text": "reaktioner"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "jordens"
+          },
+          {
+            "text": "urberg."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Kollisioner"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "himlakroppar."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Isbildning"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "månar."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Molekylära"
+          },
+          {
+            "text": "reaktioner"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "kolväten."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__d56505a1-bb1e-41db-99c9-cb2c80ef35c2.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kollisioner = livets byggstenar",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 40.061,
+    "phases": {
+      "readStart": 3.976,
+      "writeStart": 22.982
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.976,
+          "end": 4.417
+        },
+        {
+          "start": 4.51,
+          "end": 4.591
+        },
+        {
+          "start": 4.638,
+          "end": 4.94
+        },
+        {
+          "start": 4.963,
+          "end": 5.346
+        },
+        {
+          "start": 5.381,
+          "end": 5.636
+        },
+        {
+          "start": 5.671,
+          "end": 5.996
+        },
+        {
+          "start": 6.042,
+          "end": 6.263
+        },
+        {
+          "start": 6.356,
+          "end": 6.507
+        },
+        {
+          "start": 6.565,
+          "end": 6.635
+        },
+        {
+          "start": 6.751,
+          "end": 7.203
+        },
+        {
+          "start": 7.285,
+          "end": 7.54
+        },
+        {
+          "start": 7.598,
+          "end": 7.726
+        },
+        {
+          "start": 7.749,
+          "end": 7.981
+        },
+        {
+          "start": 8.016,
+          "end": 8.074
+        },
+        {
+          "start": 8.132,
+          "end": 8.539
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.982,
+          "chars": [
+            22.982,
+            23.1604,
+            23.3387,
+            23.5171,
+            23.6955,
+            23.8739,
+            24.0522,
+            24.2306,
+            24.409,
+            24.5874,
+            24.7657,
+            24.9441,
+            24.9976,
+            25.176,
+            25.2295,
+            25.4079,
+            25.5863,
+            25.7646,
+            25.943,
+            26.1214,
+            26.2998,
+            26.3533,
+            26.5316,
+            26.71,
+            26.8884,
+            27.0668,
+            27.2451,
+            27.4235,
+            27.6019,
+            27.7803,
+            27.9586
+          ]
+        },
+        {
+          "start": 34.972,
+          "chars": [
+            34.972,
+            35.0959,
+            35.2198,
+            35.3436,
+            35.4675,
+            35.5047,
+            35.6285,
+            35.7524,
+            35.8763,
+            36.0002,
+            36.124,
+            36.2479,
+            36.3718,
+            36.4957,
+            36.6195,
+            36.6567,
+            36.7806,
+            36.8177,
+            36.9416,
+            37.0655,
+            37.1894,
+            37.3132,
+            37.4371
+          ]
+        }
+      ],
+      "circle": {
+        "start": 33.702,
+        "end": 34.514
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 28.878,
+          "end": 29.628,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 9.922,
+          "end": 10.672,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.396,
+                  0.5931
+                ],
+                [
+                  0.9476,
+                  0.5931
+                ],
+                [
+                  0.9476,
+                  0.6368
+                ],
+                [
+                  0.396,
+                  0.6368
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 11.022,
+          "end": 11.772,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6429
+                ],
+                [
+                  0.9478,
+                  0.6429
+                ],
+                [
+                  0.9478,
+                  0.6867
+                ],
+                [
+                  0.0435,
+                  0.6867
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 12.122,
+          "end": 12.872,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6928
+                ],
+                [
+                  0.4848,
+                  0.6928
+                ],
+                [
+                  0.4848,
+                  0.7366
+                ],
+                [
+                  0.0435,
+                  0.7366
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 19.258,
+          "end": 20.008,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.2249
+                ],
+                [
+                  0.8663,
+                  0.2249
+                ],
+                [
+                  0.8663,
+                  0.2686
+                ],
+                [
+                  0.0435,
+                  0.2686
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 20.358,
+          "end": 21.108,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.2747
+                ],
+                [
+                  0.691,
+                  0.2747
+                ],
+                [
+                  0.691,
+                  0.3185
+                ],
+                [
+                  0.0435,
+                  0.3185
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 8.922,
+          "end": 18.165,
+          "omrade": [
+            0,
+            0.476,
+            1,
+            0.7524
+          ]
+        },
+        {
+          "start": 18.258,
+          "end": 22.172,
+          "omrade": [
+            0,
+            0.1576,
+            1,
+            0.503
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

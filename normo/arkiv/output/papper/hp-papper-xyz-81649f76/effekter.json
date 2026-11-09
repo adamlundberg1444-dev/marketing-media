@@ -1,0 +1,89 @@
+[
+ {
+  "t": 0.3,
+  "typ": "swoosh",
+  "niva": -2
+ },
+ {
+  "t": 5.03,
+  "typ": "swoosh",
+  "niva": -4
+ },
+ {
+  "t": 5.93,
+  "typ": "penna"
+ },
+ {
+  "t": 9.62,
+  "typ": "penna"
+ },
+ {
+  "t": 12.98,
+  "typ": "penna"
+ },
+ {
+  "t": 14.49,
+  "typ": "swoosh",
+  "niva": -6
+ },
+ {
+  "t": 19,
+  "typ": "klick",
+  "niva": -6
+ },
+ {
+  "t": 21.22,
+  "typ": "swoosh",
+  "niva": -4
+ },
+ {
+  "t": 24.09,
+  "typ": "swoosh",
+  "niva": -4
+ },
+ {
+  "t": 25.84,
+  "typ": "klick"
+ },
+ {
+  "t": 26.09,
+  "typ": "klick"
+ },
+ {
+  "t": 31.76,
+  "typ": "klick",
+  "niva": -6
+ },
+ {
+  "t": 33.28,
+  "typ": "penna"
+ },
+ {
+  "t": 41.18,
+  "typ": "swoosh",
+  "niva": -10
+ },
+ {
+  "t": 44.73,
+  "typ": "pop",
+  "niva": -8
+ },
+ {
+  "t": 45.9,
+  "typ": "penna",
+  "niva": -6
+ },
+ {
+  "t": 48.55,
+  "typ": "klick",
+  "niva": -6
+ },
+ {
+  "t": 52.46,
+  "typ": "pop"
+ },
+ {
+  "t": 54.07,
+  "typ": "pling"
+ }
+]

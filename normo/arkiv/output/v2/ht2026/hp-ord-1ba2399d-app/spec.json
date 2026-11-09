@@ -1,0 +1,230 @@
+{
+  "slug": "hp-ord-1ba2399d-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "1ba2399d-fab3-477f-aea5-564bbd63da17"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "patogen"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "känslostyrd"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "människofientlig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "välutvecklad"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "sjukdomsframkallande"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "lögnaktig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "patogen = sjukdomsframkallande",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.78,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 26.46
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.98
+        },
+        {
+          "start": 0.98,
+          "end": 0.98
+        },
+        {
+          "start": 0.98,
+          "end": 0.98
+        },
+        {
+          "start": 0.98,
+          "end": 0.98
+        },
+        {
+          "start": 0.98,
+          "end": 0.98
+        },
+        {
+          "start": 0.98,
+          "end": 0.98
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 26.46,
+          "chars": [
+            26.46,
+            26.6922,
+            26.9245,
+            27.1567,
+            27.389,
+            27.6212,
+            27.8534,
+            28.0857,
+            28.1553,
+            28.3876,
+            28.4572,
+            28.6895,
+            28.9217,
+            29.154,
+            29.3862,
+            29.6184,
+            29.8507,
+            30.0829,
+            30.3151,
+            30.5474,
+            30.7796,
+            31.0119,
+            31.2441,
+            31.4763,
+            31.7086,
+            31.9408,
+            32.173,
+            32.4053,
+            32.6375,
+            32.8698
+          ]
+        },
+        {
+          "start": 41.4,
+          "chars": [
+            41.4,
+            41.4118,
+            41.4237,
+            41.4355,
+            41.4473,
+            41.4592,
+            41.4627,
+            41.4746,
+            41.4864,
+            41.4982,
+            41.5101,
+            41.5136,
+            41.5254,
+            41.529,
+            41.5408,
+            41.5527,
+            41.5645,
+            41.5763,
+            41.5882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 38.44,
+        "end": 41.28
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.1,
+          "end": 0.85,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Patogen"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 41.35
+  },
+  "layout": {},
+  "variant": "app"
+}

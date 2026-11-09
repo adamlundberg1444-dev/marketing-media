@@ -1,0 +1,529 @@
+{
+  "slug": "hp-las-27dfeefd",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "27dfeefd-91ba-4815-92b5-2e827ad74191"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 12 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "viktigt"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "man"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "anställd"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "kunna"
+      },
+      {
+        "text": "hantera"
+      },
+      {
+        "text": "farorna"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "”gränslöst"
+      },
+      {
+        "text": "arbete”?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "förmågan"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "växla"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "flera"
+          },
+          {
+            "text": "olika"
+          },
+          {
+            "text": "arbetsuppgifter."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "markerar"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "arbetsgivaren"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "ansvar"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "arbetsplaneringen."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "låter"
+          },
+          {
+            "text": "arbetstempot"
+          },
+          {
+            "text": "variera"
+          },
+          {
+            "text": "beroende"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "arbetsgivarens"
+          },
+          {
+            "text": "tidsplan."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "kan"
+          },
+          {
+            "text": "bedöma"
+          },
+          {
+            "text": "när"
+          },
+          {
+            "text": "ett"
+          },
+          {
+            "text": "arbetsmoment"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "slutfört."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__27dfeefd-91ba-4815-92b5-2e827ad74191.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "avklarad = slutförd",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 43.205,
+    "phases": {
+      "readStart": 1.178,
+      "writeStart": 24.919
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.178,
+          "end": 1.468
+        },
+        {
+          "start": 1.538,
+          "end": 1.607
+        },
+        {
+          "start": 1.724,
+          "end": 2.362
+        },
+        {
+          "start": 2.443,
+          "end": 2.606
+        },
+        {
+          "start": 2.664,
+          "end": 2.966
+        },
+        {
+          "start": 2.989,
+          "end": 3.453
+        },
+        {
+          "start": 3.5,
+          "end": 3.895
+        },
+        {
+          "start": 3.953,
+          "end": 4.022
+        },
+        {
+          "start": 4.046,
+          "end": 4.127
+        },
+        {
+          "start": 4.162,
+          "end": 4.255
+        },
+        {
+          "start": 4.289,
+          "end": 4.429
+        },
+        {
+          "start": 4.498,
+          "end": 5.114
+        },
+        {
+          "start": 5.555,
+          "end": 5.729
+        },
+        {
+          "start": 5.787,
+          "end": 5.996
+        },
+        {
+          "start": 6.031,
+          "end": 6.542
+        },
+        {
+          "start": 6.611,
+          "end": 7.192
+        },
+        {
+          "start": 7.308,
+          "end": 7.575
+        },
+        {
+          "start": 7.621,
+          "end": 8.388
+        },
+        {
+          "start": 8.457,
+          "end": 9.166
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 24.919,
+          "chars": [
+            24.919,
+            25.1589,
+            25.3988,
+            25.6387,
+            25.8785,
+            26.1184,
+            26.3583,
+            26.5982,
+            26.8381,
+            26.9101,
+            27.1499,
+            27.2219,
+            27.4618,
+            27.7017,
+            27.9416,
+            28.1815,
+            28.4213,
+            28.6612,
+            28.9011
+          ]
+        },
+        {
+          "start": 36.654,
+          "chars": [
+            36.654,
+            36.8937,
+            37.1334,
+            37.3731,
+            37.6128,
+            37.8525,
+            37.9244,
+            38.1641,
+            38.4038,
+            38.6435,
+            38.8832,
+            38.9552,
+            39.1949,
+            39.2668,
+            39.5065,
+            39.7462,
+            39.9859,
+            40.2256,
+            40.4653
+          ]
+        }
+      ],
+      "circle": {
+        "start": 35.313,
+        "end": 36.172
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 29.898,
+          "end": 30.648,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 11.118,
+          "end": 11.868,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5923,
+                  0.5868
+                ],
+                [
+                  0.8571,
+                  0.5868
+                ],
+                [
+                  0.8571,
+                  0.6458
+                ],
+                [
+                  0.5923,
+                  0.6458
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 12.218,
+          "end": 12.968,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.654
+                ],
+                [
+                  0.3958,
+                  0.654
+                ],
+                [
+                  0.3958,
+                  0.713
+                ],
+                [
+                  0.0435,
+                  0.713
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 19.476,
+          "end": 20.226,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3772,
+                  0.3028
+                ],
+                [
+                  0.6867,
+                  0.3028
+                ],
+                [
+                  0.6867,
+                  0.3617
+                ],
+                [
+                  0.3772,
+                  0.3617
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 10.118,
+          "end": 18.432,
+          "omrade": [
+            0,
+            0.4291,
+            1,
+            0.8686
+          ]
+        },
+        {
+          "start": 18.676,
+          "end": 24.549,
+          "omrade": [
+            0,
+            0.2123,
+            1,
+            0.5327
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

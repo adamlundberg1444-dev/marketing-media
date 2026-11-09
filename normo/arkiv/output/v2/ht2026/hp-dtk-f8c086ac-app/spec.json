@@ -1,0 +1,512 @@
+{
+  "slug": "hp-dtk-f8c086ac-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "f8c086ac-2fd8-4765-bc54-f04c9f86b1ac"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Studera"
+      },
+      {
+        "text": "försäljningen"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "kronor"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "tryckta"
+      },
+      {
+        "text": "böcker"
+      },
+      {
+        "text": "2020."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "andel"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "denna"
+      },
+      {
+        "text": "försäljning"
+      },
+      {
+        "text": "utgjordes"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "formatet"
+      },
+      {
+        "text": "inbundet?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 18,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "En"
+          },
+          {
+            "text": "tredjedel"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Två"
+          },
+          {
+            "text": "femtedelar"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Hälften"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Två"
+          },
+          {
+            "text": "tredjedelar"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/app_bild/f8c086ac-2fd8-4765-bc54-f04c9f86b1ac.png",
+    "imageMax": 700
+  },
+  "writeLines": [
+    {
+      "text": "1{,}5 + 0{,}37 + 1{,}14 ≈ 3",
+      "gron": [
+        {
+          "text": "3",
+          "nth": 2
+        }
+      ],
+      "farg": {
+        "20": "#0E9F6E"
+      }
+    },
+    {
+      "text": "andel = \\frac{del}{helhet}"
+    },
+    {
+      "text": "\\frac{1{,}5}{3} = \\frac{1}{2}",
+      "rod": [
+        "\\frac{1}{2}"
+      ],
+      "emphasis": true,
+      "farg": {
+        "8": "#D93025",
+        "9": "#D93025",
+        "10": "#D93025"
+      }
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 73.02,
+    "phases": {
+      "readStart": 0.22,
+      "writeStart": 43.28
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.22,
+          "end": 0.66
+        },
+        {
+          "start": 0.74,
+          "end": 1.42
+        },
+        {
+          "start": 1.52,
+          "end": 1.6
+        },
+        {
+          "start": 1.64,
+          "end": 2.24
+        },
+        {
+          "start": 2.32,
+          "end": 2.44
+        },
+        {
+          "start": 2.5,
+          "end": 2.88
+        },
+        {
+          "start": 2.92,
+          "end": 3.42
+        },
+        {
+          "start": 3.68,
+          "end": 4.8
+        },
+        {
+          "start": 6.04,
+          "end": 6.2
+        },
+        {
+          "start": 6.32,
+          "end": 6.58
+        },
+        {
+          "start": 6.68,
+          "end": 7.14
+        },
+        {
+          "start": 7.14,
+          "end": 7.1588
+        },
+        {
+          "start": 7.1588,
+          "end": 7.1886
+        },
+        {
+          "start": 7.1886,
+          "end": 7.24
+        },
+        {
+          "start": 7.24,
+          "end": 7.92
+        },
+        {
+          "start": 8,
+          "end": 8.1
+        },
+        {
+          "start": 8.14,
+          "end": 8.78
+        },
+        {
+          "start": 9.04,
+          "end": 9.84
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 43.28,
+          "chars": [
+            43.28,
+            43.5208,
+            43.7617,
+            44.0025,
+            44.0748,
+            44.3156,
+            44.3878,
+            44.6287,
+            44.8695,
+            45.1103,
+            45.3512,
+            45.4234,
+            45.6643,
+            45.7365,
+            45.9773,
+            46.2182,
+            46.459,
+            46.6998,
+            46.7721,
+            47.0129,
+            47.0852
+          ]
+        },
+        {
+          "start": 58.5,
+          "chars": [
+            58.5,
+            58.7,
+            58.9,
+            59.1,
+            59.3,
+            59.5,
+            59.56,
+            59.76,
+            59.82,
+            60.02,
+            60.22,
+            60.42,
+            60.62,
+            60.82,
+            61.02,
+            61.22,
+            61.42,
+            61.62
+          ]
+        },
+        {
+          "start": 63.36,
+          "chars": [
+            63.36,
+            63.6165,
+            63.8729,
+            64.1294,
+            64.3858,
+            64.6423,
+            64.7192,
+            64.9757,
+            65.0526,
+            65.3091,
+            65.5655
+          ]
+        },
+        {
+          "start": 71.78,
+          "chars": [
+            71.78,
+            71.7918,
+            71.8037,
+            71.8155,
+            71.8273,
+            71.8392,
+            71.8427,
+            71.8546,
+            71.8664,
+            71.8782,
+            71.8901,
+            71.8936,
+            71.9054,
+            71.909,
+            71.9208,
+            71.9327,
+            71.9445,
+            71.9563,
+            71.9682
+          ]
+        }
+      ],
+      "circle": {
+        "start": 70.6,
+        "end": 71.52
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 2.5,
+          "end": 3.25,
+          "targets": [
+            {
+              "w": 5,
+              "from": "tryckta",
+              "color": "blå"
+            },
+            {
+              "w": 6,
+              "from": "tryckta",
+              "color": "blå"
+            },
+            {
+              "w": 7,
+              "from": "tryckta",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 9.04,
+          "end": 9.79,
+          "targets": [
+            {
+              "w": 17,
+              "from": "inbundet",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 12.46,
+          "end": 13.21,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.145,
+                0.775,
+                0.41,
+                0.895
+              ],
+              "from": "Tryckta",
+              "color": "blå",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.04,
+          "end": 26.79,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.1697,
+                0.1002,
+                0.1922,
+                0.7683
+              ],
+              "from": "inbundet",
+              "color": "gul",
+              "keep": true,
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 32.74,
+          "end": 33.49,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.27,
+                0.6038,
+                0.2929,
+                0.7683
+              ],
+              "from": "Pocket",
+              "color": "lila",
+              "keep": true,
+              "seg": 3,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 37.08,
+          "end": 37.83,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.3705,
+                0.2576,
+                0.393,
+                0.7683
+              ],
+              "from": "övriga",
+              "color": "lila",
+              "keep": true,
+              "seg": 3,
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 11.46,
+          "end": 22.68,
+          "omrade": [
+            0.1,
+            0.765,
+            0.62,
+            0.905
+          ]
+        },
+        {
+          "start": 23.64,
+          "end": 41.34,
+          "omrade": [
+            0,
+            0.08,
+            0.7,
+            0.785
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 71.73
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "imageMax": 700,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1
+  },
+  "variant": "app"
+}

@@ -1,0 +1,612 @@
+{
+  "slug": "hp-nog-93b3bf98",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "93b3bf98-c0cb-4c43-9b82-2b2de5a43460"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.9,
+    "optionGapScale": 0.7,
+    "optionIndent": 0,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "NOG-fråga · Högskoleprovet",
+    "text2": "HT 2015 · fråga 26",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "nog"
+    ],
+    "text": "Innan du kryssar E: pröva faktiskt de två påståendena tillsammans."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Är"
+      },
+      {
+        "tex": "z < 0",
+        "display": false
+      },
+      {
+        "text": "?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "tex": "xz > yz",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "tex": "xy > yz",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "xz > yz"
+    },
+    {
+      "text": "xz - yz > 0"
+    },
+    {
+      "text": "(x - y)z > 0"
+    },
+    {
+      "text": "z > 0 och z < 0 möjligt"
+    },
+    {
+      "text": "xy > yz"
+    },
+    {
+      "text": "xy - yz > 0"
+    },
+    {
+      "text": "y(x - z) > 0"
+    },
+    {
+      "text": "z fritt även här"
+    },
+    {
+      "text": "x = 2, y = 1, z = 1 duger"
+    },
+    {
+      "text": "x = 1, y = 2, z = -1 duger"
+    },
+    {
+      "text": "Inget entydigt svar",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 125.577,
+    "phases": {
+      "readStart": 3.34,
+      "writeStart": 28.381
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.34,
+          "end": 3.479
+        },
+        {
+          "start": 3.479,
+          "end": 5.7657
+        },
+        {
+          "start": 5.7657,
+          "end": 7.5951
+        },
+        {
+          "start": 7.5951,
+          "end": 8.6857
+        },
+        {
+          "start": 8.6857,
+          "end": 11.3945
+        },
+        {
+          "start": 11.3945,
+          "end": 12.4851
+        },
+        {
+          "start": 12.4851,
+          "end": 15.194
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 28.381,
+          "chars": [
+            28.381,
+            28.6635,
+            28.946,
+            29.0308,
+            29.3133,
+            29.398,
+            29.6805
+          ]
+        },
+        {
+          "start": 32.682,
+          "chars": [
+            32.682,
+            32.9447,
+            33.2074,
+            33.2862,
+            33.5489,
+            33.6277,
+            33.8903,
+            34.153,
+            34.2318,
+            34.4945,
+            34.5733
+          ]
+        },
+        {
+          "start": 41.139,
+          "chars": [
+            41.139,
+            41.397,
+            41.6551,
+            41.7325,
+            41.9905,
+            42.068,
+            42.326,
+            42.584,
+            42.8421,
+            42.9195,
+            43.1775,
+            43.255
+          ]
+        },
+        {
+          "start": 49.735,
+          "chars": [
+            49.735,
+            49.9743,
+            50.0461,
+            50.2855,
+            50.3573,
+            50.5966,
+            50.6684,
+            50.9078,
+            51.1471,
+            51.3864,
+            51.4582,
+            51.6976,
+            51.7694,
+            52.0087,
+            52.0805,
+            52.3198,
+            52.3916,
+            52.631,
+            52.8703,
+            53.1097,
+            53.349,
+            53.5883,
+            53.8277
+          ]
+        },
+        {
+          "start": 60.587,
+          "chars": [
+            60.587,
+            60.8695,
+            61.152,
+            61.2368,
+            61.5193,
+            61.604,
+            61.8865
+          ]
+        },
+        {
+          "start": 64.667,
+          "chars": [
+            64.667,
+            64.9297,
+            65.1924,
+            65.2712,
+            65.5339,
+            65.6127,
+            65.8753,
+            66.138,
+            66.2168,
+            66.4795,
+            66.5583
+          ]
+        },
+        {
+          "start": 68.84,
+          "chars": [
+            68.84,
+            69.098,
+            69.3561,
+            69.6141,
+            69.6915,
+            69.9496,
+            70.027,
+            70.285,
+            70.5431,
+            70.6205,
+            70.8785,
+            70.956
+          ]
+        },
+        {
+          "start": 77.007,
+          "chars": [
+            77.007,
+            77.2522,
+            77.3257,
+            77.5709,
+            77.8161,
+            78.0613,
+            78.3065,
+            78.5516,
+            78.6252,
+            78.8704,
+            79.1155,
+            79.3607,
+            79.6059,
+            79.6795,
+            79.9246,
+            80.1698
+          ]
+        },
+        {
+          "start": 84.074,
+          "chars": [
+            84.074,
+            84.3127,
+            84.3843,
+            84.623,
+            84.6947,
+            84.9334,
+            85.1721,
+            85.2437,
+            85.4824,
+            85.554,
+            85.7928,
+            85.8644,
+            86.1031,
+            86.3418,
+            86.4134,
+            86.6521,
+            86.7238,
+            86.9625,
+            87.0341,
+            87.2728,
+            87.3444,
+            87.5831,
+            87.8219,
+            88.0606,
+            88.2993
+          ]
+        },
+        {
+          "start": 95.167,
+          "chars": [
+            95.167,
+            95.4048,
+            95.4761,
+            95.7139,
+            95.7852,
+            96.023,
+            96.2607,
+            96.3321,
+            96.5698,
+            96.6412,
+            96.8789,
+            96.9502,
+            97.188,
+            97.4258,
+            97.4971,
+            97.7349,
+            97.8062,
+            98.044,
+            98.1153,
+            98.3531,
+            98.5908,
+            98.6622,
+            98.8999,
+            99.1377,
+            99.3755,
+            99.6132
+          ]
+        },
+        {
+          "start": 107.304,
+          "chars": [
+            107.304,
+            107.5439,
+            107.7838,
+            108.0237,
+            108.2635,
+            108.5034,
+            108.5754,
+            108.8153,
+            109.0552,
+            109.2951,
+            109.5349,
+            109.7748,
+            110.0147,
+            110.2546,
+            110.4945,
+            110.5665,
+            110.8063,
+            111.0462,
+            111.2861
+          ]
+        },
+        {
+          "start": 120.082,
+          "chars": [
+            120.082,
+            120.2592,
+            120.4364,
+            120.6137,
+            120.7909,
+            120.9681,
+            121.0213,
+            121.1985,
+            121.3757,
+            121.5529,
+            121.7301,
+            121.7833,
+            121.9605,
+            122.0137,
+            122.1909,
+            122.3681,
+            122.5453,
+            122.7226,
+            122.8998
+          ]
+        }
+      ],
+      "circle": {
+        "start": 113.495,
+        "end": 118.268
+      },
+      "options": {
+        "hideAt": 27.698,
+        "showAt": 112.595
+      },
+      "concept": {
+        "start": 16.988,
+        "end": 27.298,
+        "hideAt": 32.641
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 28.381,
+          "end": 29.131,
+          "targets": [
+            {
+              "w": 4
+            }
+          ]
+        },
+        {
+          "start": 60.587,
+          "end": 61.337,
+          "targets": [
+            {
+              "w": 6
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 0,
+          "op": "- yz",
+          "eq": 3,
+          "stryk": {
+            "from": 5,
+            "to": 6,
+            "sida": "hoger"
+          },
+          "start": 32.682,
+          "end": 40.042
+        },
+        {
+          "li": 4,
+          "op": "- yz",
+          "eq": 3,
+          "stryk": {
+            "from": 5,
+            "to": 6,
+            "sida": "hoger"
+          },
+          "start": 64.667,
+          "end": 67.929
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

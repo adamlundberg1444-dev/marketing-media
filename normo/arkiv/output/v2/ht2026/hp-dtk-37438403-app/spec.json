@@ -1,0 +1,496 @@
+{
+  "slug": "hp-dtk-37438403-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "37438403-a5b2-4a74-b2da-3a4617e69f9b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Studera"
+      },
+      {
+        "text": "antalet"
+      },
+      {
+        "text": "anmälningar"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "gällde"
+      },
+      {
+        "text": "pojkar"
+      },
+      {
+        "text": "respektive"
+      },
+      {
+        "text": "flickor"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "grundskolan"
+      },
+      {
+        "text": "2017."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "fler"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "anmälningarna"
+      },
+      {
+        "text": "gällde"
+      },
+      {
+        "text": "pojkar?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 18,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "689"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "804"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "904"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "2"
+          },
+          {
+            "text": "080"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/37438403-a5b2-4a74-b2da-3a4617e69f9b.png",
+    "imageMax": 860
+  },
+  "writeLines": [
+    {
+      "text": "fler = pojkar - flickor"
+    },
+    {
+      "text": "2\\,080 - 1\\,276"
+    },
+    {
+      "text": "2\\,080 - 1\\,200 = 880",
+      "rod": [
+        "- 1\\,200"
+      ],
+      "farg": {
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025",
+        "9": "#D93025",
+        "10": "#D93025",
+        "11": "#D93025",
+        "12": "#D93025"
+      }
+    },
+    {
+      "text": "880 - 76 = 804",
+      "rod": [
+        "- 76"
+      ],
+      "emphasis": true,
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "7": "#D93025"
+      }
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 62.7,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 32.8
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.64
+        },
+        {
+          "start": 0.64,
+          "end": 0.9995
+        },
+        {
+          "start": 0.9995,
+          "end": 1.5
+        },
+        {
+          "start": 1.5,
+          "end": 1.62
+        },
+        {
+          "start": 1.66,
+          "end": 1.98
+        },
+        {
+          "start": 2.02,
+          "end": 2.54
+        },
+        {
+          "start": 2.76,
+          "end": 3.4
+        },
+        {
+          "start": 3.46,
+          "end": 3.96
+        },
+        {
+          "start": 4,
+          "end": 4.08
+        },
+        {
+          "start": 4.12,
+          "end": 4.9
+        },
+        {
+          "start": 4.96,
+          "end": 6.04
+        },
+        {
+          "start": 7.32,
+          "end": 7.58
+        },
+        {
+          "start": 7.64,
+          "end": 7.92
+        },
+        {
+          "start": 7.98,
+          "end": 8.46
+        },
+        {
+          "start": 8.46,
+          "end": 8.4794
+        },
+        {
+          "start": 8.4794,
+          "end": 8.54
+        },
+        {
+          "start": 8.54,
+          "end": 8.82
+        },
+        {
+          "start": 8.88,
+          "end": 9.38
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 32.8,
+          "chars": [
+            32.8,
+            33.0373,
+            33.2747,
+            33.512,
+            33.7493,
+            33.8205,
+            34.0578,
+            34.129,
+            34.3664,
+            34.6037,
+            34.841,
+            35.0783,
+            35.3157,
+            35.553,
+            35.6242,
+            35.8615,
+            35.9327,
+            36.17,
+            36.4074,
+            36.6447,
+            36.882,
+            37.1193,
+            37.3567
+          ]
+        },
+        {
+          "start": 40.84,
+          "chars": [
+            40.84,
+            41.0943,
+            41.1706,
+            41.4249,
+            41.6792,
+            41.9335,
+            42.0098,
+            42.2642,
+            42.3405,
+            42.5948,
+            42.6711,
+            42.9254,
+            43.1797
+          ]
+        },
+        {
+          "start": 46.56,
+          "chars": [
+            46.56,
+            46.8036,
+            46.8767,
+            47.1204,
+            47.364,
+            47.6077,
+            47.6808,
+            47.9244,
+            47.9975,
+            48.2412,
+            48.3143,
+            48.5579,
+            48.8016,
+            49.0452,
+            49.1183,
+            49.362,
+            49.4351,
+            49.6787,
+            49.9224
+          ]
+        },
+        {
+          "start": 53.28,
+          "chars": [
+            53.28,
+            53.5313,
+            53.7825,
+            54.0337,
+            54.1091,
+            54.3604,
+            54.4357,
+            54.687,
+            54.9383,
+            55.0136,
+            55.2649,
+            55.3402,
+            55.5915,
+            55.8428
+          ]
+        },
+        {
+          "start": 61.46,
+          "chars": [
+            61.46,
+            61.4737,
+            61.4874,
+            61.5011,
+            61.5148,
+            61.5285,
+            61.5326,
+            61.5463,
+            61.56,
+            61.5737,
+            61.5778,
+            61.5915,
+            61.6052,
+            61.6189,
+            61.6326,
+            61.6463
+          ]
+        }
+      ],
+      "circle": {
+        "start": 60.48,
+        "end": 61.2
+      },
+      "options": {
+        "hideAt": 10.72,
+        "showAt": 59.58
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 2.02,
+          "end": 2.77,
+          "targets": [
+            {
+              "w": 5,
+              "from": "pojkar",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 3.46,
+          "end": 4.21,
+          "targets": [
+            {
+              "w": 7,
+              "from": "flickor",
+              "color": "lila"
+            },
+            {
+              "w": 8,
+              "from": "flickor",
+              "color": "lila"
+            },
+            {
+              "w": 9,
+              "from": "flickor",
+              "color": "lila"
+            },
+            {
+              "w": 10,
+              "from": "flickor",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 20.08,
+          "end": 20.83,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.336,
+                0.762,
+                0.38,
+                0.932
+              ],
+              "from": "mörka",
+              "color": "gul",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.88,
+          "end": 26.63,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.383,
+                0.82,
+                0.429,
+                0.932
+              ],
+              "from": "ljusgrå",
+              "color": "lila",
+              "keep": true,
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 11.42,
+          "end": 30.58,
+          "omrade": [
+            0.08,
+            0.74,
+            0.62,
+            0.965
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 61.41
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 860,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2,
+    "appKeyLines": [
+      3
+    ]
+  },
+  "variant": "app"
+}

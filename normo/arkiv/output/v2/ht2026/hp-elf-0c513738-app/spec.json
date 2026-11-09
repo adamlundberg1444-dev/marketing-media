@@ -1,0 +1,615 @@
+{
+  "slug": "hp-elf-0c513738-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "0c513738-e5a2-473a-a23d-1da9a5fe3486"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "main"
+      },
+      {
+        "text": "point"
+      },
+      {
+        "text": "here?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Letting"
+          },
+          {
+            "text": "people"
+          },
+          {
+            "text": "know"
+          },
+          {
+            "text": "they"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "being"
+          },
+          {
+            "text": "watched"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "an"
+          },
+          {
+            "text": "efficient"
+          },
+          {
+            "text": "way"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "promote"
+          },
+          {
+            "text": "good"
+          },
+          {
+            "text": "behavior."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Present-day"
+          },
+          {
+            "text": "public"
+          },
+          {
+            "text": "behavior"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "becoming"
+          },
+          {
+            "text": "increasingly"
+          },
+          {
+            "text": "problematic"
+          },
+          {
+            "text": "from"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "point"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "view"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "morality."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Surveillance"
+          },
+          {
+            "text": "may"
+          },
+          {
+            "text": "lead"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "self-censorship"
+          },
+          {
+            "text": "as"
+          },
+          {
+            "text": "far"
+          },
+          {
+            "text": "as"
+          },
+          {
+            "text": "opinions"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "behavior"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "concerned."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Governments"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "nowadays"
+          },
+          {
+            "text": "seen"
+          },
+          {
+            "text": "as"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "reliable"
+          },
+          {
+            "text": "by"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "public"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "most"
+          },
+          {
+            "text": "monetary"
+          },
+          {
+            "text": "institutions."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__0c513738-e5a2-473a-a23d-1da9a5fe3486.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "övervakning ger självcensur",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.6,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 33.82
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.2
+        },
+        {
+          "start": 0.26,
+          "end": 0.38
+        },
+        {
+          "start": 0.42,
+          "end": 0.52
+        },
+        {
+          "start": 0.6,
+          "end": 0.92
+        },
+        {
+          "start": 1,
+          "end": 1.38
+        },
+        {
+          "start": 1.42,
+          "end": 1.8
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.82,
+          "chars": [
+            33.82,
+            34.027,
+            34.2341,
+            34.4411,
+            34.6481,
+            34.8552,
+            35.0622,
+            35.2692,
+            35.4763,
+            35.6833,
+            35.8903,
+            36.0973,
+            36.1595,
+            36.3665,
+            36.5735,
+            36.7805,
+            36.8427,
+            37.0497,
+            37.2567,
+            37.4637,
+            37.6708,
+            37.8778,
+            38.0848,
+            38.2919,
+            38.4989,
+            38.7059,
+            38.913
+          ]
+        },
+        {
+          "start": 42.32,
+          "chars": [
+            42.32,
+            42.3296,
+            42.3391,
+            42.3487,
+            42.3583,
+            42.3611,
+            42.3707,
+            42.3803,
+            42.3899,
+            42.3994,
+            42.409,
+            42.4186,
+            42.4281,
+            42.4377,
+            42.4473,
+            42.4501,
+            42.4597,
+            42.4626,
+            42.4722,
+            42.4817,
+            42.4913,
+            42.5009,
+            42.5104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.76,
+        "end": 41.1
+      },
+      "options": {
+        "hideAt": 10.38,
+        "showAt": 39.86
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 5.16,
+          "end": 5.91,
+          "targets": [
+            {
+              "w": 3,
+              "from": "main point",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "main point",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.58,
+          "end": 18.33,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4463,
+                  0.0979
+                ],
+                [
+                  0.8074,
+                  0.0979
+                ],
+                [
+                  0.8074,
+                  0.1476
+                ],
+                [
+                  0.4463,
+                  0.1476
+                ]
+              ],
+              "color": "bla",
+              "from": "övervakade",
+              "hlFarg": "lila",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 17.58,
+          "end": 18.33,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.1629
+                ],
+                [
+                  0.994,
+                  0.1629
+                ],
+                [
+                  0.994,
+                  0.2126
+                ],
+                [
+                  0,
+                  0.2126
+                ]
+              ],
+              "color": "bla",
+              "from": "övervakade",
+              "hlFarg": "lila",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 17.58,
+          "end": 18.33,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.2278
+                ],
+                [
+                  0.1768,
+                  0.2278
+                ],
+                [
+                  0.1768,
+                  0.2776
+                ],
+                [
+                  0,
+                  0.2776
+                ]
+              ],
+              "color": "bla",
+              "from": "övervakade",
+              "hlFarg": "lila",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 20.94,
+          "end": 21.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2277,
+                  0.3578
+                ],
+                [
+                  0.8923,
+                  0.3578
+                ],
+                [
+                  0.8923,
+                  0.4075
+                ],
+                [
+                  0.2277,
+                  0.4075
+                ]
+              ],
+              "color": "bla",
+              "from": "baksida",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 20.94,
+          "end": 21.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4227
+                ],
+                [
+                  0.6065,
+                  0.4227
+                ],
+                [
+                  0.6065,
+                  0.4725
+                ],
+                [
+                  0,
+                  0.4725
+                ]
+              ],
+              "color": "bla",
+              "from": "baksida",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 29.7,
+          "end": 30.45,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0763,
+                  0.5527
+                ],
+                [
+                  0.8819,
+                  0.5527
+                ],
+                [
+                  0.8819,
+                  0.6024
+                ],
+                [
+                  0.0763,
+                  0.6024
+                ]
+              ],
+              "color": "bla",
+              "from": "staten",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 29.7,
+          "end": 30.45,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6176
+                ],
+                [
+                  0.7009,
+                  0.6176
+                ],
+                [
+                  0.7009,
+                  0.6674
+                ],
+                [
+                  0,
+                  0.6674
+                ]
+              ],
+              "color": "bla",
+              "from": "staten",
+              "hlFarg": "gul",
+              "mi": 6
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 42.27
+  },
+  "layout": {},
+  "variant": "app"
+}

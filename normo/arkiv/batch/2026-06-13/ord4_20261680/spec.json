@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261680",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-03.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "auktor",
+      "options": [
+        "lasts vikt-volymförhållande",
+        "judetyska",
+        "upphovsman",
+        "karpfisk"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "auktor",
+      "options": [
+        "lasts vikt-volymförhållande",
+        "judetyska",
+        "upphovsman",
+        "karpfisk"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "erbarmlig",
+      "options": [
+        "mycket dålig",
+        "dubbelkönad",
+        "ouppfostrad",
+        "kraftig; tydlig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "erbarmlig",
+      "options": [
+        "mycket dålig",
+        "dubbelkönad",
+        "ouppfostrad",
+        "kraftig; tydlig"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "aktionsradie",
+      "options": [
+        "hänvisning",
+        "avtalat möte",
+        "räckvidd",
+        "tankevilla"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "aktionsradie",
+      "options": [
+        "hänvisning",
+        "avtalat möte",
+        "räckvidd",
+        "tankevilla"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "lända",
+      "options": [
+        "göra så att man minns",
+        "infoga en kommentar",
+        "åstadkomma",
+        "motbevisa"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "lända",
+      "options": [
+        "göra så att man minns",
+        "infoga en kommentar",
+        "åstadkomma",
+        "motbevisa"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "v1",
+          "t": "Vilket svarsalternativ "
+        },
+        {
+          "id": "v2",
+          "t": "är lika med"
+        }
+      ]
+    },
+    [
+      {
+        "id": "p14",
+        "t": "14",
+        "uttryck": true
+      },
+      {
+        "id": "pr",
+        "t": " procent av "
+      },
+      {
+        "id": "s700",
+        "t": "700"
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\frac{700}{14}"
+    },
+    {
+      "letter": "B",
+      "tex": "14 \\cdot 7"
+    },
+    {
+      "letter": "C",
+      "tex": "\\frac{14 \\cdot 7}{100}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\frac{14}{700}"
+    }
+  ],
+  "correct": 1,
+  "hook": {
+    "lines": [
+      "Två nollor avgör",
+      "den här HP-frågan."
+    ],
+    "start": 0,
+    "end": 4.329
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 4.329,
+    "d": "M 930 1030 C 1010 850, 1000 620, 880 470",
+    "head": "M 948 508 L 880 470 L 882 547"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "=",
+          "tex": "\\frac{14}{700}",
+          "at": 17.101,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 27.919,
+          "termer": [
+            {
+              "k": "p",
+              "tex": "\\frac{14}{100}"
+            }
+          ]
+        },
+        {
+          "at": 29.979,
+          "termer": [
+            {
+              "k": "p",
+              "tex": "\\frac{14}{100}"
+            },
+            {
+              "k": "d",
+              "tex": "\\cdot"
+            },
+            {
+              "k": "s",
+              "tex": "700"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "14\\cdot 7",
+          "at": 35.449,
+          "hand": true,
+          "color": "gron"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 37.74,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "98",
+          "at": 37.89,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "=",
+      "at": 21.22
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "L",
+      "at": 39.81
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "p14",
+        "pr",
+        "s700"
+      ],
+      "at": 12.361,
+      "end": 15.951
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "s700"
+      ],
+      "color": "rod",
+      "at": 5.811,
+      "end": 10.311
+    },
+    {
+      "ids": [
+        "s700"
+      ],
+      "color": "gron",
+      "at": 33.509,
+      "end": 37.13
+    }
+  ],
+  "bagar": [],
+  "skamt": {
+    "ut": 4.811,
+    "tillbaka": 10.311,
+    "studsa": {
+      "ids": [
+        "s700"
+      ],
+      "at": 7.571,
+      "end": 10.311
+    }
+  },
+  "alt": {
+    "losning": 4.611,
+    "tillbaka": 40.2
+  },
+  "lage": {
+    "alt": 560,
+    "krok": 1010,
+    "rader": 660
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.44,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 640,
+      "dur": 0.5
+    },
+    {
+      "at": 4.611,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 10.611,
+      "zoom": 1.15,
+      "x": 505,
+      "y": 460,
+      "dur": 0.45
+    },
+    {
+      "at": 15.851,
+      "zoom": 1.15,
+      "x": 505,
+      "y": 640,
+      "dur": 0.45
+    },
+    {
+      "at": 37.03,
+      "zoom": 1.15,
+      "x": 505,
+      "y": 760,
+      "dur": 0.4
+    },
+    {
+      "at": 39.9,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "700 har två nollor som",
+      "start": 4.811,
+      "end": 7.291
+    },
+    {
+      "text": "bara står och väntar på",
+      "start": 7.291,
+      "end": 8.951
+    },
+    {
+      "text": "sin tur",
+      "start": 8.951,
+      "end": 10.311
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 10.311,
+      "end": 12.361
+    },
+    {
+      "text": "Vi ska hitta 14 procent",
+      "start": 12.361,
+      "end": 14.661
+    },
+    {
+      "text": "av 700",
+      "start": 14.661,
+      "end": 15.951
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 15.951,
+      "end": 17.101
+    },
+    {
+      "text": "14 delat med 700",
+      "start": 17.101,
+      "end": 19.521
+    },
+    {
+      "text": "Det ger D",
+      "start": 19.521,
+      "end": 21.021
+    },
+    {
+      "text": "Nej. Det är hur stor",
+      "start": 21.22,
+      "end": 23.24
+    },
+    {
+      "text": "del 14 är av 700",
+      "start": 23.24,
+      "end": 26.199
+    },
+    {
+      "text": "14 procent är 14 hundradelar",
+      "start": 26.199,
+      "end": 29.979
+    },
+    {
+      "text": "Gånger 700",
+      "start": 29.979,
+      "end": 31.749
+    },
+    {
+      "text": "Hundradelarna äter upp de två nollorna",
+      "start": 31.749,
+      "end": 34.629
+    },
+    {
+      "text": "Kvar är 14 gånger 7",
+      "start": 34.629,
+      "end": 37.13
+    },
+    {
+      "text": "Det blir 98",
+      "start": 37.13,
+      "end": 38.63
+    },
+    {
+      "text": "nära 100. Rimligt",
+      "start": 38.63,
+      "end": 40.8
+    },
+    {
+      "text": "Svaret är B",
+      "start": 40.8,
+      "end": 42.480000000000004
+    }
+  ],
+  "circle": {
+    "start": 41.68,
+    "end": 42.38
+  },
+  "duration": 43.48
+}

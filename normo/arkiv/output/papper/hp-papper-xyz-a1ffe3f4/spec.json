@@ -1,0 +1,683 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "m1",
+          "t": "Medelvärdet av de tre talen "
+        },
+        {
+          "id": "t1",
+          "t": "3, 5 och "
+        },
+        {
+          "id": "x1",
+          "t": "x ",
+          "it": true
+        },
+        {
+          "id": "a7",
+          "t": "är 7. "
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "m2",
+          "t": "Medelvärdet av de två talen "
+        },
+        {
+          "id": "t2",
+          "t": "4 och "
+        },
+        {
+          "id": "y1",
+          "t": "y ",
+          "it": true
+        },
+        {
+          "id": "a9",
+          "t": "är 9. "
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "q1",
+          "t": "Vad är medelvärdet av "
+        },
+        {
+          "id": "x2",
+          "t": "x",
+          "it": true
+        },
+        {
+          "id": "q2",
+          "t": " och "
+        },
+        {
+          "id": "y2",
+          "t": "y",
+          "it": true
+        },
+        {
+          "id": "qm",
+          "t": "?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\text{8}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\text{11,5}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\text{13}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{13,5}"
+    }
+  ],
+  "correct": 3,
+  "hook": {
+    "lines": [
+      "Två medelvärden på HP.",
+      "Men vi vill ha x och y."
+    ],
+    "start": 0,
+    "end": 5.741
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 5.741,
+    "d": "M 960 1130 C 1040 960, 1040 760, 950 640",
+    "head": "M 1014 667 L 950 640 L 958 709"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{7+9}{2}",
+          "at": 13.811,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 16.131,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "8",
+          "at": 16.291,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 22.32,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "3"
+            },
+            {
+              "k": "p1",
+              "tex": "+"
+            },
+            {
+              "k": "b",
+              "tex": "5"
+            },
+            {
+              "k": "p2",
+              "tex": "+"
+            },
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 24.499
+            },
+            {
+              "k": "h",
+              "tex": "3\\cdot 7",
+              "at": 25.68
+            }
+          ]
+        },
+        {
+          "at": 26.62,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "3"
+            },
+            {
+              "k": "p1",
+              "tex": "+"
+            },
+            {
+              "k": "b",
+              "tex": "5"
+            },
+            {
+              "k": "p2",
+              "tex": "+"
+            },
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "h",
+              "tex": "21"
+            }
+          ]
+        },
+        {
+          "at": 28.89,
+          "termer": [
+            {
+              "k": "e",
+              "tex": "8",
+              "fran": [
+                "a",
+                "p1",
+                "b"
+              ]
+            },
+            {
+              "k": "p2",
+              "tex": "+"
+            },
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "h",
+              "tex": "21"
+            }
+          ]
+        },
+        {
+          "at": 30.34,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "h",
+              "tex": "21"
+            },
+            {
+              "k": "p2",
+              "tex": "-"
+            },
+            {
+              "k": "e",
+              "tex": "8"
+            }
+          ]
+        },
+        {
+          "at": 31.79,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "13",
+              "fran": [
+                "h",
+                "p2",
+                "e"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 33.17,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "4"
+            },
+            {
+              "k": "p",
+              "tex": "+"
+            },
+            {
+              "k": "y",
+              "tex": "y"
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 35.53
+            },
+            {
+              "k": "h",
+              "tex": "2\\cdot 9",
+              "at": 36.69
+            }
+          ]
+        },
+        {
+          "at": 37.68,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "4"
+            },
+            {
+              "k": "p",
+              "tex": "+"
+            },
+            {
+              "k": "y",
+              "tex": "y"
+            },
+            "=",
+            {
+              "k": "h",
+              "tex": "18"
+            }
+          ]
+        },
+        {
+          "at": 39.71,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "y",
+              "tex": "y"
+            },
+            "=",
+            {
+              "k": "h",
+              "tex": "18"
+            },
+            {
+              "k": "p",
+              "tex": "-"
+            },
+            {
+              "k": "a",
+              "tex": "4"
+            }
+          ]
+        },
+        {
+          "at": 41.11,
+          "termer": [
+            {
+              "k": "y",
+              "tex": "y"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "14",
+              "fran": [
+                "h",
+                "p",
+                "a"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{13+14}{2}",
+          "at": 42.55,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 45.51,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{27}{2}",
+          "at": 45.71,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R2",
+          "tex": "=13{,}5",
+          "at": 47.63,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 18.3
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 18.55
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 3,
+      "col": "R2",
+      "at": 48.08
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q1",
+        "x2",
+        "q2",
+        "y2",
+        "qm"
+      ],
+      "at": 9.471,
+      "end": 12.471
+    },
+    {
+      "ids": [
+        "m1",
+        "t1",
+        "x1",
+        "a7"
+      ],
+      "at": 22.32,
+      "end": 33.17
+    },
+    {
+      "ids": [
+        "m2",
+        "t2",
+        "y1",
+        "a9"
+      ],
+      "at": 33.17,
+      "end": 42.55
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "x1",
+        "y1"
+      ],
+      "color": "rod",
+      "at": 6.661,
+      "end": 9.471
+    },
+    {
+      "ids": [
+        "a7",
+        "a9"
+      ],
+      "color": "rod",
+      "at": 15.231,
+      "end": 22.32
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 5.821,
+    "tillbaka": 48.98
+  },
+  "lage": {
+    "fraga": 190,
+    "alt": 720,
+    "rader": 720,
+    "krok": 1100
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.42,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 600,
+      "dur": 0.5
+    },
+    {
+      "at": 5.921,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 420,
+      "dur": 0.45
+    },
+    {
+      "at": 12.371,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 640,
+      "dur": 0.4
+    },
+    {
+      "at": 22.22,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 640,
+      "dur": 0.4
+    },
+    {
+      "at": 33.07,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 760,
+      "dur": 0.4
+    },
+    {
+      "at": 42.45,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 900,
+      "dur": 0.4
+    },
+    {
+      "at": 48.68,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "x och y gömmer sig",
+      "start": 6.021,
+      "end": 7.321
+    },
+    {
+      "text": "i varsitt medelvärde",
+      "start": 7.321,
+      "end": 9.471
+    },
+    {
+      "text": "Vi ska hitta medelvärdet av",
+      "start": 9.471,
+      "end": 11.571
+    },
+    {
+      "text": "x och y",
+      "start": 11.571,
+      "end": 12.471
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 12.471,
+      "end": 13.591
+    },
+    {
+      "text": "ta medelvärdet av 7 och 9",
+      "start": 13.591,
+      "end": 16.131
+    },
+    {
+      "text": "Det ger 8",
+      "start": 16.131,
+      "end": 17.191
+    },
+    {
+      "text": "alltså A",
+      "start": 17.191,
+      "end": 18.3
+    },
+    {
+      "text": "Nej. Det är x och",
+      "start": 18.3,
+      "end": 19.6
+    },
+    {
+      "text": "y vi ska ha",
+      "start": 19.6,
+      "end": 20.61
+    },
+    {
+      "text": "inte medelvärdena",
+      "start": 20.61,
+      "end": 22.32
+    },
+    {
+      "text": "Tre tal med medelvärdet 7",
+      "start": 22.32,
+      "end": 24.499
+    },
+    {
+      "text": "har summan 3 gånger 7",
+      "start": 24.499,
+      "end": 26.72
+    },
+    {
+      "text": "alltså 21",
+      "start": 26.72,
+      "end": 28.2
+    },
+    {
+      "text": "3 plus 5 är 8",
+      "start": 28.2,
+      "end": 29.86
+    },
+    {
+      "text": "Åttan byter sida",
+      "start": 29.86,
+      "end": 31.32
+    },
+    {
+      "text": "och x är 13",
+      "start": 31.32,
+      "end": 33.17
+    },
+    {
+      "text": "Två tal med medelvärdet 9",
+      "start": 33.17,
+      "end": 35.53
+    },
+    {
+      "text": "har summan 2 gånger 9",
+      "start": 35.53,
+      "end": 37.78
+    },
+    {
+      "text": "alltså 18",
+      "start": 37.78,
+      "end": 39.17
+    },
+    {
+      "text": "Fyran byter sida",
+      "start": 39.17,
+      "end": 40.82
+    },
+    {
+      "text": "och y är 14",
+      "start": 40.82,
+      "end": 42.55
+    },
+    {
+      "text": "Medelvärdet av 13 och 14",
+      "start": 42.55,
+      "end": 45.37
+    },
+    {
+      "text": "är 27 delat med 2",
+      "start": 45.37,
+      "end": 47.45
+    },
+    {
+      "text": "Det blir 13,5",
+      "start": 47.45,
+      "end": 49.58
+    },
+    {
+      "text": "Svaret är D",
+      "start": 49.58,
+      "end": 50.96
+    }
+  ],
+  "circle": {
+    "start": 50.36,
+    "end": 51.06
+  },
+  "duration": 51.96
+}

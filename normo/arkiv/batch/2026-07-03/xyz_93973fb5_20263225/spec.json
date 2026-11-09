@@ -1,0 +1,46 @@
+{
+  "slug": "xyz_93973fb5_20263225",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "XYZ från\nhögskoleprovet",
+      "pillText": "XYZ-fråga",
+      "bgImage": "tiktok/assets/intro/intro-13.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "Hur stor är vinkeln \\(v\\)?",
+      "options": [
+        "\\(92^\\circ\\)",
+        "\\(97^\\circ\\)",
+        "\\(103^\\circ\\)",
+        "\\(105^\\circ\\)"
+      ],
+      "image": "tiktok/assets/xyz/93973fb5-0475-4bee-9410-5b6ba781e3eb.png",
+      "figCompact": true,
+      "optsGrid": true
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "Hur stor är vinkeln \\(v\\)?",
+      "options": [
+        "\\(92^\\circ\\)",
+        "\\(97^\\circ\\)",
+        "\\(103^\\circ\\)",
+        "\\(105^\\circ\\)"
+      ],
+      "image": "tiktok/assets/xyz/93973fb5-0475-4bee-9410-5b6ba781e3eb.png",
+      "figCompact": true,
+      "optsGrid": true,
+      "correct": 2
+    },
+    {
+      "kind": "cta",
+      "title": "Öva gratis\ninför HP"
+    }
+  ]
+}

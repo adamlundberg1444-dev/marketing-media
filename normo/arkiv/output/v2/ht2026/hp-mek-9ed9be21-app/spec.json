@@ -1,0 +1,378 @@
+{
+  "slug": "hp-mek-9ed9be21-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "9ed9be21-c48e-44dc-a037-5442462bc967"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Spänningar"
+      },
+      {
+        "text": "mellan"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "federala"
+      },
+      {
+        "text": "makten"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Washington"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "mycket"
+      },
+      {
+        "text": "olika"
+      },
+      {
+        "text": "delstaterna"
+      },
+      {
+        "text": "går"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "röd,"
+      },
+      {
+        "text": "ibland"
+      },
+      {
+        "text": "rödglödgad,"
+      },
+      {
+        "text": "tråd"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "text": "USA:s"
+      },
+      {
+        "text": "historia."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 23,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "ömsesidigt"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "sinsemellan"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "vardera"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "respektive"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "sinsemellan"
+    ],
+    "gapFarg": [
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "sinsemellan = inbördes",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 54.11,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 42.92
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.78
+        },
+        {
+          "start": 0.84,
+          "end": 1.08
+        },
+        {
+          "start": 1.12,
+          "end": 1.26
+        },
+        {
+          "start": 1.34,
+          "end": 1.82
+        },
+        {
+          "start": 1.88,
+          "end": 2.28
+        },
+        {
+          "start": 2.32,
+          "end": 2.38
+        },
+        {
+          "start": 2.42,
+          "end": 3.06
+        },
+        {
+          "start": 3.56,
+          "end": 3.7
+        },
+        {
+          "start": 3.76,
+          "end": 4.12
+        },
+        {
+          "start": 4.12,
+          "end": 5.86
+        },
+        {
+          "start": 5.86,
+          "end": 6.56
+        },
+        {
+          "start": 6.68,
+          "end": 7.32
+        },
+        {
+          "start": 7.4,
+          "end": 8.24
+        },
+        {
+          "start": 8.78,
+          "end": 9.02
+        },
+        {
+          "start": 9.08,
+          "end": 9.2
+        },
+        {
+          "start": 9.28,
+          "end": 9.58
+        },
+        {
+          "start": 9.82,
+          "end": 10.24
+        },
+        {
+          "start": 10.76,
+          "end": 11.54
+        },
+        {
+          "start": 11.7,
+          "end": 13
+        },
+        {
+          "start": 13.12,
+          "end": 13.92
+        },
+        {
+          "start": 14.02,
+          "end": 14.26
+        },
+        {
+          "start": 14.26,
+          "end": 14.88
+        },
+        {
+          "start": 14.88,
+          "end": 15.52
+        },
+        {
+          "start": 15.52,
+          "end": 15.52
+        },
+        {
+          "start": 15.52,
+          "end": 15.52
+        },
+        {
+          "start": 15.52,
+          "end": 15.52
+        },
+        {
+          "start": 15.52,
+          "end": 15.52
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 42.92,
+          "chars": [
+            42.92,
+            43.157,
+            43.394,
+            43.631,
+            43.868,
+            44.105,
+            44.3419,
+            44.5789,
+            44.8159,
+            45.0529,
+            45.2899,
+            45.5269,
+            45.598,
+            45.835,
+            45.9061,
+            46.1431,
+            46.3801,
+            46.617,
+            46.854,
+            47.091,
+            47.328,
+            47.565
+          ]
+        },
+        {
+          "start": 54.16,
+          "chars": [
+            54.16,
+            54.1726,
+            54.1852,
+            54.1977,
+            54.2103,
+            54.2229,
+            54.2267,
+            54.2392,
+            54.2518,
+            54.2644,
+            54.2682,
+            54.2808,
+            54.2845,
+            54.2971,
+            54.3097,
+            54.3223,
+            54.3348,
+            54.3474
+          ]
+        }
+      ],
+      "circle": {
+        "start": 39.56,
+        "end": 41.54
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 21.74,
+          "end": 22.49,
+          "targets": [
+            {
+              "w": 10,
+              "from": "mycket olika",
+              "color": "gul"
+            },
+            {
+              "w": 11,
+              "from": "mycket olika",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "mycket olika",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,407 @@
+{
+  "slug": "hp-elf-d5960c6a-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "d5960c6a-f8ea-473c-800c-5bd333a54580"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Fyll"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "lucka"
+      },
+      {
+        "text": "31"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Appropriately"
+          },
+          {
+            "text": "for"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Suggestive"
+          },
+          {
+            "text": "of"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Shockingly"
+          },
+          {
+            "text": "for"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Symbolic"
+          },
+          {
+            "text": "of"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__d5960c6a-f8ea-473c-800c-5bd333a54580.png",
+    "imageMax": null,
+    "passageFill": {
+      "box": [
+        0.679443359375,
+        0.41593886462882096,
+        0.9471842447916666,
+        0.4640249727074236
+      ],
+      "text": "Shockingly for"
+    }
+  },
+  "writeLines": [
+    {
+      "text": "shockingly = chockerande",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 50.99,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 45.26
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.3
+        },
+        {
+          "start": 0.36,
+          "end": 0.58
+        },
+        {
+          "start": 0.66,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.92
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 45.26,
+          "chars": [
+            45.26,
+            45.4069,
+            45.5538,
+            45.7007,
+            45.8476,
+            45.9945,
+            46.1414,
+            46.2883,
+            46.4352,
+            46.5821,
+            46.729,
+            46.7731,
+            46.92,
+            46.9641,
+            47.111,
+            47.2579,
+            47.4048,
+            47.5517,
+            47.6986,
+            47.8455,
+            47.9924,
+            48.1393,
+            48.2862,
+            48.4331
+          ]
+        },
+        {
+          "start": 51.04,
+          "chars": [
+            51.04,
+            51.0537,
+            51.0674,
+            51.0811,
+            51.0948,
+            51.1085,
+            51.1126,
+            51.1263,
+            51.14,
+            51.1537,
+            51.1578,
+            51.1715,
+            51.1852,
+            51.1989,
+            51.2126,
+            51.2263
+          ]
+        }
+      ],
+      "circle": {
+        "start": 38.2,
+        "end": 43.32
+      },
+      "options": {
+        "hideAt": 2.4,
+        "showAt": 33.92,
+        "hide2": 43.96,
+        "show2": null,
+        "fyll": 45.26
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 5.74,
+          "end": 6.49,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.8828,
+                  0.3484
+                ],
+                [
+                  0.9618,
+                  0.3484
+                ],
+                [
+                  0.9618,
+                  0.3968
+                ],
+                [
+                  0.8828,
+                  0.3968
+                ]
+              ],
+              "color": "bla",
+              "from": "two people",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 5.74,
+          "end": 6.49,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4117
+                ],
+                [
+                  0.6748,
+                  0.4117
+                ],
+                [
+                  0.6748,
+                  0.4601
+                ],
+                [
+                  0,
+                  0.4601
+                ]
+              ],
+              "color": "bla",
+              "from": "two people",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 4.04,
+          "end": 4.79,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6742,
+                  0.4198
+                ],
+                [
+                  0.9524,
+                  0.4198
+                ],
+                [
+                  0.9524,
+                  0.4616
+                ],
+                [
+                  0.6742,
+                  0.4616
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 4.04,
+          "end": 4.79,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4749
+                ],
+                [
+                  0.4956,
+                  0.4749
+                ],
+                [
+                  0.4956,
+                  0.5234
+                ],
+                [
+                  0,
+                  0.5234
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 19.48,
+          "end": 20.23,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1887,
+                  0.8044
+                ],
+                [
+                  0.9518,
+                  0.8044
+                ],
+                [
+                  0.9518,
+                  0.8528
+                ],
+                [
+                  0.1887,
+                  0.8528
+                ]
+              ],
+              "color": "bla",
+              "from": "criticised",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 19.48,
+          "end": 20.23,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8676
+                ],
+                [
+                  0.9405,
+                  0.8676
+                ],
+                [
+                  0.9405,
+                  0.9161
+                ],
+                [
+                  0,
+                  0.9161
+                ]
+              ],
+              "color": "bla",
+              "from": "criticised",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

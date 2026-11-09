@@ -1,0 +1,677 @@
+{
+  "slug": "hp-las-30c26c63",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "30c26c63-b971-46a5-9344-2c5b7e7105e4"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 16 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "påstående"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "socialdemokratiska"
+      },
+      {
+        "text": "partiet"
+      },
+      {
+        "text": "sammanfattar"
+      },
+      {
+        "text": "bäst"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "utveckling"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "beskrivs"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "recensionen?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 14,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "motvilligt"
+          },
+          {
+            "text": "tvingats"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "överge"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "modellen."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "måste"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "allt"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "utsträckning"
+          },
+          {
+            "text": "söka"
+          },
+          {
+            "text": "stöd"
+          },
+          {
+            "text": "från"
+          },
+          {
+            "text": "nya"
+          },
+          {
+            "text": "väljargrupper."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "kommer"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "tiden"
+          },
+          {
+            "text": "sannolikt"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "återgå"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "sin"
+          },
+          {
+            "text": "gamla"
+          },
+          {
+            "text": "politik."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "fått"
+          },
+          {
+            "text": "allt"
+          },
+          {
+            "text": "svårare"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "påverka"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "samhällets"
+          },
+          {
+            "text": "utveckling."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__30c26c63-b971-46a5-9344-2c5b7e7105e4.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "allt mindre grepp om samhället",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 44.338,
+    "phases": {
+      "readStart": 1.793,
+      "writeStart": 30.532
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.793,
+          "end": 2.06
+        },
+        {
+          "start": 2.107,
+          "end": 2.664
+        },
+        {
+          "start": 2.734,
+          "end": 2.838
+        },
+        {
+          "start": 2.908,
+          "end": 3.001
+        },
+        {
+          "start": 3.047,
+          "end": 3.929
+        },
+        {
+          "start": 3.976,
+          "end": 4.429
+        },
+        {
+          "start": 4.545,
+          "end": 5.183
+        },
+        {
+          "start": 5.218,
+          "end": 5.52
+        },
+        {
+          "start": 5.601,
+          "end": 5.752
+        },
+        {
+          "start": 5.822,
+          "end": 6.275
+        },
+        {
+          "start": 6.309,
+          "end": 6.402
+        },
+        {
+          "start": 6.437,
+          "end": 6.832
+        },
+        {
+          "start": 6.89,
+          "end": 6.913
+        },
+        {
+          "start": 6.994,
+          "end": 7.9
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.532,
+          "chars": [
+            30.532,
+            30.6865,
+            30.841,
+            30.9956,
+            31.1501,
+            31.1964,
+            31.351,
+            31.5055,
+            31.66,
+            31.8145,
+            31.9691,
+            32.1236,
+            32.1699,
+            32.3245,
+            32.479,
+            32.6335,
+            32.788,
+            32.9425,
+            32.9889,
+            33.1434,
+            33.2979,
+            33.3443,
+            33.4988,
+            33.6533,
+            33.8079,
+            33.9624,
+            34.1169,
+            34.2714,
+            34.426,
+            34.5805
+          ]
+        },
+        {
+          "start": 40.073,
+          "chars": [
+            40.073,
+            40.1939,
+            40.3148,
+            40.4357,
+            40.5566,
+            40.6775,
+            40.7137,
+            40.8346,
+            40.9555,
+            41.0764,
+            41.1127,
+            41.2335,
+            41.3544,
+            41.4753,
+            41.5962,
+            41.7171
+          ]
+        }
+      ],
+      "circle": {
+        "start": 38.28,
+        "end": 39.162
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 35.105,
+          "end": 35.855,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 10.2,
+          "end": 10.95,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.728,
+                  0.1473
+                ],
+                [
+                  0.8867,
+                  0.1473
+                ],
+                [
+                  0.8867,
+                  0.1841
+                ],
+                [
+                  0.728,
+                  0.1841
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 11.3,
+          "end": 12.05,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.1893
+                ],
+                [
+                  0.893,
+                  0.1893
+                ],
+                [
+                  0.893,
+                  0.2261
+                ],
+                [
+                  0.0435,
+                  0.2261
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 12.4,
+          "end": 13.15,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.2313
+                ],
+                [
+                  0.1234,
+                  0.2313
+                ],
+                [
+                  0.1234,
+                  0.2681
+                ],
+                [
+                  0.0435,
+                  0.2681
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 17.098,
+          "end": 17.848,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5332,
+                  0.3312
+                ],
+                [
+                  0.7226,
+                  0.3312
+                ],
+                [
+                  0.7226,
+                  0.3681
+                ],
+                [
+                  0.5332,
+                  0.3681
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 18.198,
+          "end": 18.948,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.3732
+                ],
+                [
+                  0.3112,
+                  0.3732
+                ],
+                [
+                  0.3112,
+                  0.4101
+                ],
+                [
+                  0.0435,
+                  0.4101
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 21.082,
+          "end": 21.832,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6589,
+                  0.6412
+                ],
+                [
+                  0.8434,
+                  0.6412
+                ],
+                [
+                  0.8434,
+                  0.678
+                ],
+                [
+                  0.6589,
+                  0.678
+                ]
+              ],
+              "color": "orange",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 22.182,
+          "end": 22.932,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6831
+                ],
+                [
+                  0.5319,
+                  0.6831
+                ],
+                [
+                  0.5319,
+                  0.72
+                ],
+                [
+                  0.0435,
+                  0.72
+                ]
+              ],
+              "color": "orange",
+              "mi": 6
+            }
+          ]
+        },
+        {
+          "start": 25.182,
+          "end": 25.932,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.7831
+                ],
+                [
+                  0.8272,
+                  0.7831
+                ],
+                [
+                  0.8272,
+                  0.82
+                ],
+                [
+                  0.0435,
+                  0.82
+                ]
+              ],
+              "color": "orange",
+              "mi": 7
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 9.2,
+          "end": 15.587,
+          "omrade": [
+            0,
+            0.1327,
+            1,
+            0.3814
+          ]
+        },
+        {
+          "start": 16.098,
+          "end": 19.948,
+          "omrade": [
+            0,
+            0.1747,
+            1,
+            0.5074
+          ]
+        },
+        {
+          "start": 20.082,
+          "end": 23.932,
+          "omrade": [
+            0,
+            0.5846,
+            1,
+            0.8753
+          ]
+        },
+        {
+          "start": 24.182,
+          "end": 29.628,
+          "omrade": [
+            0,
+            0.6266,
+            1,
+            0.9173
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

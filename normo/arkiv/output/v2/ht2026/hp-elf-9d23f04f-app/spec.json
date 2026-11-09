@@ -1,0 +1,395 @@
+{
+  "slug": "hp-elf-9d23f04f-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "9d23f04f-f67f-4b5d-afb4-e2d476e0505c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Fyll"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "lucka"
+      },
+      {
+        "text": "34"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "crystallise"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "destroy"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "undermine"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "complicate"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__9d23f04f-f67f-4b5d-afb4-e2d476e0505c.png",
+    "imageMax": null,
+    "passageFill": {
+      "box": [
+        0.5226236979166666,
+        0.41738197424892703,
+        0.7903645833333334,
+        0.4646425697424893
+      ],
+      "text": "crystallise"
+    }
+  },
+  "writeLines": [
+    {
+      "text": "crystallise = befästa",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 50.21,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 41.56
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.32
+        },
+        {
+          "start": 0.4,
+          "end": 0.52
+        },
+        {
+          "start": 0.58,
+          "end": 0.96
+        },
+        {
+          "start": 1.14,
+          "end": 1.74
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 41.56,
+          "chars": [
+            41.56,
+            41.7979,
+            42.0357,
+            42.2736,
+            42.5114,
+            42.7493,
+            42.9871,
+            43.225,
+            43.4629,
+            43.7007,
+            43.9386,
+            44.1764,
+            44.2478,
+            44.4856,
+            44.557,
+            44.7949,
+            45.0327,
+            45.2706,
+            45.5084,
+            45.7463,
+            45.9841
+          ]
+        },
+        {
+          "start": 50.26,
+          "chars": [
+            50.26,
+            50.2718,
+            50.2837,
+            50.2955,
+            50.3073,
+            50.3192,
+            50.3227,
+            50.3346,
+            50.3464,
+            50.3582,
+            50.3701,
+            50.3736,
+            50.3854,
+            50.389,
+            50.4008,
+            50.4127,
+            50.4245,
+            50.4363,
+            50.4482
+          ]
+        }
+      ],
+      "circle": {
+        "start": 34.64,
+        "end": 39.96
+      },
+      "options": {
+        "hideAt": 2.3,
+        "showAt": 30.86,
+        "hide2": 40.26,
+        "show2": null,
+        "fyll": 41.56
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 3.94,
+          "end": 4.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.9482,
+                  0.351
+                ],
+                [
+                  1,
+                  0.351
+                ],
+                [
+                  1,
+                  0.3986
+                ],
+                [
+                  0.9482,
+                  0.3986
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 3.94,
+          "end": 4.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4132
+                ],
+                [
+                  0.8655,
+                  0.4132
+                ],
+                [
+                  0.8655,
+                  0.4608
+                ],
+                [
+                  0,
+                  0.4608
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 3.94,
+          "end": 4.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5174,
+                  0.4212
+                ],
+                [
+                  0.7956,
+                  0.4212
+                ],
+                [
+                  0.7956,
+                  0.4623
+                ],
+                [
+                  0.5174,
+                  0.4623
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 3.94,
+          "end": 4.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4754
+                ],
+                [
+                  0.6675,
+                  0.4754
+                ],
+                [
+                  0.6675,
+                  0.523
+                ],
+                [
+                  0,
+                  0.523
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 18.5,
+          "end": 19.25,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.426,
+                  0.8077
+                ],
+                [
+                  0.9575,
+                  0.8077
+                ],
+                [
+                  0.9575,
+                  0.8553
+                ],
+                [
+                  0.426,
+                  0.8553
+                ]
+              ],
+              "color": "bla",
+              "from": "slog",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 18.5,
+          "end": 19.25,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8699
+                ],
+                [
+                  0.5871,
+                  0.8699
+                ],
+                [
+                  0.5871,
+                  0.9175
+                ],
+                [
+                  0,
+                  0.9175
+                ]
+              ],
+              "color": "bla",
+              "from": "slog",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

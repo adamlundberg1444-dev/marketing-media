@@ -1,0 +1,382 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "q",
+        "t": "Vad är"
+      }
+    ],
+    [
+      {
+        "id": "t1",
+        "t": "2,3 · ",
+        "uttryck": true
+      },
+      {
+        "id": "e1",
+        "tex": "10^3"
+      },
+      {
+        "id": "pl",
+        "t": " + "
+      },
+      {
+        "id": "t2",
+        "t": "9,8 · "
+      },
+      {
+        "id": "e2",
+        "tex": "10^2"
+      },
+      {
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "3{,}28 \\cdot 10^3"
+    },
+    {
+      "letter": "B",
+      "tex": "1{,}21 \\cdot 10^4"
+    },
+    {
+      "letter": "C",
+      "tex": "3{,}28 \\cdot 10^4"
+    },
+    {
+      "letter": "D",
+      "tex": "1{,}21 \\cdot 10^6"
+    }
+  ],
+  "correct": 0,
+  "hook": {
+    "lines": [
+      "Lätt HP-fråga.",
+      "Men exponenterna lurar."
+    ],
+    "start": 0.08000000000000002,
+    "end": 4.6899999999999995
+  },
+  "arrow": {
+    "start": 0.38,
+    "end": 4.6899999999999995,
+    "d": "M 880 960 C 980 800, 900 640, 790 575",
+    "head": "M 850 571 L 790 575 L 815 630"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "2{,}3+9{,}8",
+          "at": 7.42,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 10.129,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "12{,}1",
+          "at": 10.429,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 22.22,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "2{,}3\\cdot 10^3"
+            },
+            {
+              "k": "+",
+              "tex": "+"
+            },
+            {
+              "k": "b",
+              "tex": "9{,}8\\cdot 10^2"
+            }
+          ]
+        },
+        {
+          "at": 26.63,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "2300"
+            },
+            {
+              "k": "+",
+              "tex": "+"
+            },
+            {
+              "k": "b",
+              "tex": "9{,}8\\cdot 10^2"
+            }
+          ]
+        },
+        {
+          "at": 31.191,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "2300"
+            },
+            {
+              "k": "+",
+              "tex": "+"
+            },
+            {
+              "k": "b",
+              "tex": "980"
+            }
+          ]
+        },
+        {
+          "at": 34.171,
+          "termer": [
+            {
+              "k": "s",
+              "tex": "3280",
+              "fran": [
+                "a",
+                "+",
+                "b"
+              ]
+            }
+          ]
+        },
+        {
+          "at": 39.39,
+          "termer": [
+            {
+              "k": "s",
+              "tex": "3{,}28\\cdot 10^3",
+              "color": "gron"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 19.489
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 19.739
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 1,
+      "k": "s",
+      "at": 42.2
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "t1",
+        "e1",
+        "pl",
+        "t2",
+        "e2"
+      ],
+      "at": 4.9,
+      "end": 6.42
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "e1",
+        "e2"
+      ],
+      "color": "rod",
+      "at": 3.07,
+      "end": 4.62
+    },
+    {
+      "ids": [
+        "e1",
+        "e2"
+      ],
+      "color": "rod",
+      "at": 20.1,
+      "end": 22.22
+    },
+    {
+      "ids": [
+        "t1",
+        "e1"
+      ],
+      "color": "gron",
+      "at": 24.77,
+      "end": 29.231
+    },
+    {
+      "ids": [
+        "t2",
+        "e2"
+      ],
+      "color": "gron",
+      "at": 29.231,
+      "end": 32.951
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 4.42,
+    "lockbete": {
+      "at": 11.809,
+      "end": 17.839,
+      "markera": {
+        "val": "B",
+        "at": 16.419,
+        "end": 17.839
+      }
+    },
+    "tillbaka": 42.56
+  },
+  "lage": {
+    "alt": 560,
+    "rader": 600,
+    "krok": 940
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.58,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 600,
+      "dur": 0.5
+    },
+    {
+      "at": 4.82,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 520,
+      "dur": 0.45
+    },
+    {
+      "at": 6.02,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 18.539,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 560,
+      "dur": 0.4
+    },
+    {
+      "at": 42.26,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska lägga ihop talen",
+      "start": 4.62,
+      "end": 6.42
+    },
+    {
+      "text": "Lätt. 2,3 plus 9,8 är 12,1",
+      "start": 6.42,
+      "end": 11.809
+    },
+    {
+      "text": "Det blir 1,21 gånger 10",
+      "start": 11.809,
+      "end": 14.979
+    },
+    {
+      "text": "upphöjt till 4",
+      "start": 14.979,
+      "end": 16.419
+    },
+    {
+      "text": "svaret är B",
+      "start": 16.419,
+      "end": 17.939
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 17.939,
+      "end": 19.489
+    },
+    {
+      "text": "Nej, exponenterna är ju olika",
+      "start": 19.489,
+      "end": 22.22
+    },
+    {
+      "text": "Skriv ut talen i stället",
+      "start": 22.22,
+      "end": 24.540000000000003
+    },
+    {
+      "text": "2,3 gånger tusen är tvåtusentrehundra",
+      "start": 24.77,
+      "end": 28.93
+    },
+    {
+      "text": "9,8 gånger hundra är niohundraåttio",
+      "start": 29.231,
+      "end": 32.951
+    },
+    {
+      "text": "Ihop blir det tretusentvåhundraåttio",
+      "start": 32.951,
+      "end": 36.64
+    },
+    {
+      "text": "Kommat tre steg åt vänster",
+      "start": 36.64,
+      "end": 39.34
+    },
+    {
+      "text": "3,28 gånger 10 upphöjt till 3",
+      "start": 39.39,
+      "end": 43.16
+    },
+    {
+      "text": "Svaret är A",
+      "start": 43.16,
+      "end": 45.04
+    }
+  ],
+  "circle": {
+    "start": 44.26,
+    "end": 44.96
+  },
+  "duration": 46.04
+}

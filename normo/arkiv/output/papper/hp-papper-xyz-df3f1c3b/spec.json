@@ -1,0 +1,430 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "x0",
+          "t": "x",
+          "it": true
+        },
+        {
+          "t": ", "
+        },
+        {
+          "id": "y0",
+          "t": "y",
+          "it": true
+        },
+        {
+          "t": " och "
+        },
+        {
+          "id": "z0",
+          "t": "z",
+          "it": true
+        },
+        {
+          "t": " är "
+        },
+        {
+          "id": "ol",
+          "t": "olika heltal "
+        },
+        {
+          "t": "sådana att"
+        }
+      ]
+    },
+    [
+      {
+        "id": "xyz",
+        "t": "xyz",
+        "it": true,
+        "uttryck": true
+      },
+      {
+        "id": "eq",
+        "t": " = "
+      },
+      {
+        "id": "tre",
+        "t": "3"
+      }
+    ],
+    {
+      "just": "vanster",
+      "storlek": 60,
+      "delar": [
+        {
+          "t": "Vilket svarsalternativ "
+        },
+        {
+          "id": "kan",
+          "t": "kan inte "
+        },
+        {
+          "id": "vv",
+          "t": "vara värdet av "
+        },
+        {
+          "id": "qxy",
+          "t": "xy",
+          "it": true
+        },
+        {
+          "id": "qm",
+          "t": "?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-3"
+    },
+    {
+      "letter": "B",
+      "tex": "-1"
+    },
+    {
+      "letter": "C",
+      "tex": "\\text{1}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{3}"
+    }
+  ],
+  "correct": 2,
+  "hook": {
+    "lines": [
+      "Ett ord avgör",
+      "HP-frågan: olika."
+    ],
+    "start": 0,
+    "end": 6.189
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 6.189,
+    "d": "M 930 1120 C 1010 940, 1000 700, 880 540",
+    "head": "M 948 578 L 880 540 L 882 617"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 19.209,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\pm 1,\\ \\pm 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 29.18,
+          "termer": [
+            {
+              "k": "p",
+              "tex": "1\\cdot(-1)\\cdot(-3)"
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 30.85
+            },
+            {
+              "k": "t",
+              "tex": "3",
+              "at": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "xy",
+          "at": 32.2,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 34.96,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "-1,\\ -3,\\ 3",
+          "at": 35.721,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 3,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "xy",
+          "at": 38.971,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 39.491,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "1",
+          "at": 39.691,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 3,
+      "col": "=",
+      "at": 39.841
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 3,
+      "col": "R",
+      "at": 41.801
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "kan",
+        "vv",
+        "qxy",
+        "qm"
+      ],
+      "at": 13.329,
+      "end": 16.629
+    },
+    {
+      "ids": [
+        "ol"
+      ],
+      "at": 23.229,
+      "end": 28.22
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "tre"
+      ],
+      "color": "rod",
+      "at": 8.299,
+      "end": 11.059
+    }
+  ],
+  "bagar": [],
+  "skamt": {
+    "ut": 6.159,
+    "tillbaka": 11.059,
+    "studsa": {
+      "ids": [
+        "xyz"
+      ],
+      "at": 9.779,
+      "end": 11.059
+    }
+  },
+  "alt": {
+    "losning": 5.959,
+    "tillbaka": 42.461
+  },
+  "lage": {
+    "alt": 720,
+    "krok": 1100,
+    "rader": 760
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.5,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 680,
+      "dur": 0.5
+    },
+    {
+      "at": 5.959,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 11.359,
+      "zoom": 1.12,
+      "x": 540,
+      "y": 460,
+      "dur": 0.45
+    },
+    {
+      "at": 16.529,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 700,
+      "dur": 0.45
+    },
+    {
+      "at": 32.1,
+      "zoom": 1.15,
+      "x": 515,
+      "y": 900,
+      "dur": 0.4
+    },
+    {
+      "at": 42.161,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Tre bokstäver som ska dela",
+      "start": 6.159,
+      "end": 8.059
+    },
+    {
+      "text": "på en enda trea",
+      "start": 8.059,
+      "end": 9.779
+    },
+    {
+      "text": "Det blir trångt",
+      "start": 9.779,
+      "end": 11.059
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 11.059,
+      "end": 13.329
+    },
+    {
+      "text": "Vilket värde kan xy inte ha?",
+      "start": 13.329,
+      "end": 16.629
+    },
+    {
+      "text": "Heltal som går jämnt upp",
+      "start": 16.629,
+      "end": 18.429
+    },
+    {
+      "text": "i 3 är 1 och 3",
+      "start": 18.429,
+      "end": 20.799
+    },
+    {
+      "text": "och deras minus",
+      "start": 20.799,
+      "end": 22.049
+    },
+    {
+      "text": "Talen ska vara olika",
+      "start": 22.049,
+      "end": 24.439
+    },
+    {
+      "text": "Och två minus behövs för",
+      "start": 24.439,
+      "end": 26.599
+    },
+    {
+      "text": "att få plus 3",
+      "start": 26.599,
+      "end": 28.22
+    },
+    {
+      "text": "Alltså 1",
+      "start": 28.22,
+      "end": 29.5
+    },
+    {
+      "text": "minus 1 och minus 3",
+      "start": 29.5,
+      "end": 32.2
+    },
+    {
+      "text": "xy är två av dem",
+      "start": 32.2,
+      "end": 33.78
+    },
+    {
+      "text": "gånger varandra",
+      "start": 33.78,
+      "end": 34.96
+    },
+    {
+      "text": "Det ger minus 1",
+      "start": 34.96,
+      "end": 36.751
+    },
+    {
+      "text": "minus 3 eller 3",
+      "start": 36.751,
+      "end": 38.971
+    },
+    {
+      "text": "1 går aldrig",
+      "start": 38.971,
+      "end": 40.501
+    },
+    {
+      "text": "Då måste x och y",
+      "start": 40.501,
+      "end": 41.801
+    },
+    {
+      "text": "vara lika",
+      "start": 41.801,
+      "end": 43.061
+    },
+    {
+      "text": "Svaret är C",
+      "start": 43.061,
+      "end": 44.461
+    }
+  ],
+  "circle": {
+    "start": 43.841,
+    "end": 44.541000000000004
+  },
+  "duration": 45.461
+}

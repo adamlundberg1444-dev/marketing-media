@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20262359",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-23.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "komma på grön kvist",
+      "options": [
+        "gå i vindlar",
+        "få gott om pengar",
+        "hålla isär folkgrupper",
+        "kvickt svar"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "komma på grön kvist",
+      "options": [
+        "gå i vindlar",
+        "få gott om pengar",
+        "hålla isär folkgrupper",
+        "kvickt svar"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "ondgöra",
+      "options": [
+        "ha starkt intresse för",
+        "bli förargad",
+        "ytbehandla trä",
+        "skaffa bevis för"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ondgöra",
+      "options": [
+        "ha starkt intresse för",
+        "bli förargad",
+        "ytbehandla trä",
+        "skaffa bevis för"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "omsider",
+      "options": [
+        "så småningom",
+        "påfallande",
+        "på nytt",
+        "i framtiden"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "omsider",
+      "options": [
+        "så småningom",
+        "påfallande",
+        "på nytt",
+        "i framtiden"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "celebrera",
+      "options": [
+        "råka avslöja sig",
+        "fira",
+        "pracka på någon",
+        "ingripa"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "celebrera",
+      "options": [
+        "råka avslöja sig",
+        "fira",
+        "pracka på någon",
+        "ingripa"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

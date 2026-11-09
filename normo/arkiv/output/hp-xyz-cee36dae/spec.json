@@ -1,0 +1,308 @@
+{
+  "slug": "hp-xyz-cee36dae",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "cee36dae-8281-4251-ae5c-ab34f8527313"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "HT 2025 · fråga 3",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "a = b \\iff a + c = b + c"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": "\\frac{x}{8} = \\frac{1}{3}",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": "\\frac{1}{24}",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": "\\frac{3}{8}",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": "\\frac{8}{3}",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "24"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{x}{8} = \\frac{1}{3}"
+    },
+    {
+      "text": "x = \\frac{1}{3} \\cdot 8"
+    },
+    {
+      "text": "x = \\frac{1 \\cdot 8}{3}"
+    },
+    {
+      "text": "x = \\frac{8}{3}",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 100.876,
+    "phases": {
+      "readStart": 5.757,
+      "writeStart": 48.396
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.757,
+          "end": 8.799
+        },
+        {
+          "start": 8.799,
+          "end": 9.194
+        },
+        {
+          "start": 9.252,
+          "end": 9.589
+        },
+        {
+          "start": 9.635,
+          "end": 9.786
+        },
+        {
+          "start": 9.786,
+          "end": 10.0827
+        },
+        {
+          "start": 10.0827,
+          "end": 10.459
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 48.396,
+          "chars": [
+            48.396,
+            48.6621,
+            48.9281,
+            49.1942,
+            49.274,
+            49.54,
+            49.6198,
+            49.8859,
+            50.1519
+          ]
+        },
+        {
+          "start": 66.923,
+          "chars": [
+            66.923,
+            67.1857,
+            67.2645,
+            67.5272,
+            67.606,
+            67.8687,
+            68.1313,
+            68.394,
+            68.4728,
+            68.7355,
+            68.8143
+          ]
+        },
+        {
+          "start": 74.781,
+          "chars": [
+            74.781,
+            75.0437,
+            75.1225,
+            75.3852,
+            75.464,
+            75.7267,
+            75.8055,
+            76.0681,
+            76.147,
+            76.4096,
+            76.6723
+          ]
+        },
+        {
+          "start": 84.809,
+          "chars": [
+            84.809,
+            85.0915,
+            85.1762,
+            85.4587,
+            85.5435,
+            85.826,
+            86.1085
+          ]
+        },
+        {
+          "start": 94.963,
+          "chars": [
+            94.963,
+            95.1263,
+            95.2896,
+            95.4529,
+            95.6162,
+            95.6652,
+            95.8285,
+            95.9918,
+            96.1551,
+            96.3184,
+            96.4817,
+            96.645,
+            96.8083,
+            96.9716,
+            97.1349,
+            97.1839,
+            97.3472,
+            97.3962,
+            97.5595,
+            97.7228,
+            97.8861,
+            98.0494,
+            98.2127
+          ]
+        }
+      ],
+      "circle": {
+        "start": 90.885,
+        "end": 93.938
+      },
+      "options": null,
+      "concept": {
+        "start": 25.829,
+        "end": 39.529,
+        "hideAt": 48.255
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 40.407,
+          "end": 41.157,
+          "targets": [
+            {
+              "w": 0
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 0,
+          "op": "\\cdot 8",
+          "eq": 4,
+          "stryk": {
+            "from": 2,
+            "to": 2,
+            "sida": "vanster"
+          },
+          "start": 54.991,
+          "end": 65.974
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

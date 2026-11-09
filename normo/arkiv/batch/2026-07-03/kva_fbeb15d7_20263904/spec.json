@@ -1,0 +1,27 @@
+{
+  "slug": "kva_fbeb15d7_20263904",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hade du klarat\nden här på HP?",
+      "pillText": "KVA-fråga",
+      "bgImage": "tiktok/assets/intro/intro-07.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "html",
+      "theme": "greenxyz",
+      "html": "\n    <div style=\"font-size:46px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;line-height:1.3;margin-bottom:26px;\"><span class=\"tex\" data-tex=\"x &gt; 0\"></span></div>\n    \n    <div style=\"font-size:46px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;line-height:1.3;\">Kvantitet I: <span class=\"tex\" data-tex=\"x\"></span><br><br>Kvantitet II: <span class=\"tex\" data-tex=\"\\sqrt{x}\"></span></div>\n    <div style=\"display:flex;flex-direction:column;gap:14px;margin-top:30px;\">\n      \n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">I är större än II</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">II är större än I</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">I är lika med II</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">informationen är otillräcklig</div>\n    </div>"
+    },
+    {
+      "kind": "html",
+      "theme": "green",
+      "html": "\n  <div style=\"display:flex;flex-direction:column;align-items:center;gap:46px;padding:0 30px;\">\n    <span style=\"background:#0A0A0A;color:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:34px;font-weight:900;letter-spacing:3px;text-transform:uppercase;padding:16px 36px;border-radius:100px;\">Inget facit 👀</span>\n    <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:100px;font-weight:900;color:#FFFFFF;text-align:center;line-height:1.05;\">Säker på ditt svar?</div>\n    <div style=\"position:relative;background:#FFFFFF;border:3px solid rgba(10,10,10,0.14);border-radius:36px;padding:40px 48px;max-width:830px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">\n      <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:46px;font-weight:700;color:#0A0A0A;text-align:center;line-height:1.35;\">Kommentera ditt svar, vi vill se hur många som klarar den</div>\n      <div style=\"position:absolute;left:84px;bottom:-27px;width:0;height:0;border-left:24px solid transparent;border-right:24px solid transparent;border-top:30px solid #FFFFFF;\"></div>\n    </div>\n    <div style=\"font-size:78px;margin-top:6px;\">💬 👇</div>\n  </div>"
+    },
+    {
+      "kind": "cta",
+      "title": "En ny HP-övning\nvarje dag"
+    }
+  ]
+}

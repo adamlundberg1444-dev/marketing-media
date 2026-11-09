@@ -1,0 +1,452 @@
+{
+  "slug": "hp-kva-1d06d005-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "1d06d005-2349-420a-bd4e-198fd53290d2"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " 1 < x < 3 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " \\frac{3}{x} ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " \\frac{x}{3} ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "x < 3"
+    },
+    {
+      "text": "1 < \\frac{3}{x}",
+      "rod": [
+        "1"
+      ],
+      "farg": {
+        "0": "#D93025"
+      }
+    },
+    {
+      "text": "x < 3"
+    },
+    {
+      "text": "\\frac{x}{3} < 1",
+      "rod": [
+        "1"
+      ],
+      "farg": {
+        "6": "#D93025"
+      }
+    },
+    {
+      "text": "\\frac{3}{x} > 1 > \\frac{x}{3}"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 48.1,
+    "phases": {
+      "readStart": 0.38,
+      "writeStart": 20.58
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.38,
+          "end": 2.2015
+        },
+        {
+          "start": 2.2015,
+          "end": 3.3017
+        },
+        {
+          "start": 3.3017,
+          "end": 4.3116
+        },
+        {
+          "start": 4.3116,
+          "end": 5.3757
+        },
+        {
+          "start": 5.3757,
+          "end": 6.4758
+        },
+        {
+          "start": 6.4758,
+          "end": 7.5759
+        },
+        {
+          "start": 7.5759,
+          "end": 8.64
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 20.58,
+          "chars": [
+            20.58,
+            20.8972,
+            20.9924,
+            21.3096,
+            21.4048
+          ]
+        },
+        {
+          "start": 25.56,
+          "chars": [
+            25.56,
+            25.7707,
+            25.8339,
+            26.0446,
+            26.1079,
+            26.3186,
+            26.5293
+          ]
+        },
+        {
+          "start": 30.26,
+          "chars": [
+            30.26,
+            30.4267,
+            30.4767,
+            30.6433,
+            30.6933
+          ]
+        },
+        {
+          "start": 32.22,
+          "chars": [
+            32.22,
+            32.4164,
+            32.6129,
+            32.8093,
+            32.8682,
+            33.0646,
+            33.1236
+          ]
+        },
+        {
+          "start": 35.46,
+          "chars": [
+            35.46,
+            35.7143,
+            35.9686,
+            36.2229,
+            36.2992,
+            36.5535,
+            36.6298,
+            36.8842,
+            36.9605,
+            37.2148,
+            37.2911,
+            37.5454,
+            37.7997
+          ]
+        },
+        {
+          "start": 38.054,
+          "chars": [
+            38.054,
+            38.3501,
+            38.4389,
+            38.735,
+            38.8238,
+            39.1199
+          ]
+        },
+        {
+          "start": 46.68,
+          "chars": [
+            46.68,
+            46.6937,
+            46.7074,
+            46.7211,
+            46.7348,
+            46.7485,
+            46.7526,
+            46.7663,
+            46.78,
+            46.7937,
+            46.7978,
+            46.8115,
+            46.8252,
+            46.8389,
+            46.8526,
+            46.8663
+          ]
+        }
+      ],
+      "circle": {
+        "start": 42.66,
+        "end": 46.6
+      },
+      "options": {
+        "hideAt": 17.5,
+        "showAt": 41.76
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.94,
+          "end": 1.69,
+          "targets": [
+            {
+              "w": 0,
+              "from": "mellan",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 5.84,
+          "end": 6.59,
+          "targets": [
+            {
+              "w": 1,
+              "from": "3 delat",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "3 delat",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "3 delat",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 7.6,
+          "end": 8.35,
+          "targets": [
+            {
+              "w": 4,
+              "from": "x delat",
+              "color": "lila"
+            },
+            {
+              "w": 5,
+              "from": "x delat",
+              "color": "lila"
+            },
+            {
+              "w": 6,
+              "from": "x delat",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 0,
+          "farg": "#D93025",
+          "from": "Bråket",
+          "eq": 2,
+          "n": 5,
+          "dela": "x",
+          "stryk": [
+            {
+              "from": 0,
+              "to": 0,
+              "sida": "vanster"
+            }
+          ],
+          "start": 24.42,
+          "strykAt": 25.72
+        },
+        {
+          "li": 2,
+          "farg": "#D93025",
+          "from": "så bråket",
+          "eq": 2,
+          "n": 5,
+          "dela": "3",
+          "stryk": [
+            {
+              "from": 4,
+              "to": 4,
+              "sida": "hoger"
+            }
+          ],
+          "start": 31.16,
+          "strykAt": 32.46
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 46.63
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3,
+    "appKeyLines": [
+      4,
+      5
+    ]
+  },
+  "variant": "app"
+}

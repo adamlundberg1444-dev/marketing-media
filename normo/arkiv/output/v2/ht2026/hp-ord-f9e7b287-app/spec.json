@@ -1,0 +1,221 @@
+{
+  "slug": "hp-ord-f9e7b287-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "f9e7b287-6442-4126-a15b-535012979d04"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "givmild"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "generös"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "vänlig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "belåten"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "fredlig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "omtänksam"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "givmild = generös",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.48,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 22.62
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.1
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.62,
+          "chars": [
+            22.62,
+            22.8624,
+            23.1049,
+            23.3473,
+            23.5897,
+            23.8322,
+            24.0746,
+            24.3171,
+            24.3898,
+            24.6322,
+            24.7049,
+            24.9474,
+            25.1898,
+            25.4323,
+            25.6747,
+            25.9171,
+            26.1596
+          ]
+        },
+        {
+          "start": 35.28,
+          "chars": [
+            35.28,
+            35.2896,
+            35.2991,
+            35.3087,
+            35.3183,
+            35.3211,
+            35.3307,
+            35.3403,
+            35.3499,
+            35.3594,
+            35.369,
+            35.3786,
+            35.3881,
+            35.3977,
+            35.4073,
+            35.4101,
+            35.4197,
+            35.4226,
+            35.4322,
+            35.4417,
+            35.4513,
+            35.4609,
+            35.4704
+          ]
+        }
+      ],
+      "circle": {
+        "start": 31.88,
+        "end": 33.98
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.14,
+          "end": 0.89,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Givmild"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 35.23
+  },
+  "layout": {},
+  "variant": "app"
+}

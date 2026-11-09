@@ -1,0 +1,531 @@
+{
+  "slug": "hp-kva-fd83552a",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "fd83552a-d2d9-466d-b336-318908917d4c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA · fråga 15 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Fyrhörningen"
+      },
+      {
+        "text": "ABCD"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "rektangel."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "Radien"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "cirkel"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "går"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "text": "punkterna"
+      },
+      {
+        "text": "A,"
+      },
+      {
+        "text": "B"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "C"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "Radien"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "cirkel"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "går"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "text": "punkterna"
+      },
+      {
+        "text": "A,"
+      },
+      {
+        "text": "B"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "D"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 33,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "Medelpunkt: diagonalernas mitt"
+    },
+    {
+      "text": "Genom 3 punkter går 1 cirkel"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.458,
+    "phases": {
+      "readStart": 1.677,
+      "writeStart": 15.928
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.677,
+          "end": 2.339
+        },
+        {
+          "start": 2.339,
+          "end": 3.233
+        },
+        {
+          "start": 3.233,
+          "end": 3.361
+        },
+        {
+          "start": 3.419,
+          "end": 3.488
+        },
+        {
+          "start": 3.581,
+          "end": 4.429
+        },
+        {
+          "start": 4.87,
+          "end": 5.404
+        },
+        {
+          "start": 5.404,
+          "end": 6.704
+        },
+        {
+          "start": 6.704,
+          "end": 7.25
+        },
+        {
+          "start": 7.366,
+          "end": 7.424
+        },
+        {
+          "start": 7.482,
+          "end": 7.61
+        },
+        {
+          "start": 7.656,
+          "end": 8.016
+        },
+        {
+          "start": 8.051,
+          "end": 8.155
+        },
+        {
+          "start": 8.202,
+          "end": 8.33
+        },
+        {
+          "start": 8.353,
+          "end": 8.539
+        },
+        {
+          "start": 8.573,
+          "end": 9.015
+        },
+        {
+          "start": 9.084,
+          "end": 9.351
+        },
+        {
+          "start": 9.421,
+          "end": 9.514
+        },
+        {
+          "start": 9.688,
+          "end": 9.781
+        },
+        {
+          "start": 9.816,
+          "end": 10.257
+        },
+        {
+          "start": 10.64,
+          "end": 11.186
+        },
+        {
+          "start": 11.186,
+          "end": 11.557
+        },
+        {
+          "start": 11.557,
+          "end": 11.975
+        },
+        {
+          "start": 12.01,
+          "end": 12.033
+        },
+        {
+          "start": 12.068,
+          "end": 12.161
+        },
+        {
+          "start": 12.196,
+          "end": 12.567
+        },
+        {
+          "start": 12.59,
+          "end": 12.683
+        },
+        {
+          "start": 12.73,
+          "end": 12.869
+        },
+        {
+          "start": 12.892,
+          "end": 13.066
+        },
+        {
+          "start": 13.101,
+          "end": 13.554
+        },
+        {
+          "start": 13.624,
+          "end": 13.879
+        },
+        {
+          "start": 13.96,
+          "end": 14.053
+        },
+        {
+          "start": 14.227,
+          "end": 14.309
+        },
+        {
+          "start": 14.332,
+          "end": 14.715
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 15.928,
+          "chars": [
+            15.928,
+            16.1537,
+            16.3794,
+            16.6051,
+            16.8308,
+            17.0565,
+            17.2822,
+            17.5079,
+            17.7336,
+            17.9593,
+            18.185,
+            18.4107,
+            18.4784,
+            18.7041,
+            18.9298,
+            19.1555,
+            19.3812,
+            19.6069,
+            19.8326,
+            20.0583,
+            20.284,
+            20.5097,
+            20.7354,
+            20.9611,
+            21.1868,
+            21.4125,
+            21.4802,
+            21.7059,
+            21.9316,
+            22.1573
+          ]
+        },
+        {
+          "start": 23.016,
+          "chars": [
+            23.016,
+            23.2187,
+            23.4214,
+            23.624,
+            23.8267,
+            24.0294,
+            24.0902,
+            24.2929,
+            24.3537,
+            24.5564,
+            24.7591,
+            24.9617,
+            25.1644,
+            25.3671,
+            25.5698,
+            25.7725,
+            25.8333,
+            26.0359,
+            26.2386,
+            26.4413,
+            26.5021,
+            26.7048,
+            26.7656,
+            26.9683,
+            27.1709,
+            27.3736,
+            27.5763,
+            27.779
+          ]
+        },
+        {
+          "start": 27.9817,
+          "chars": [
+            27.9817,
+            28.1844,
+            28.2452,
+            28.4478,
+            28.5086,
+            28.7113
+          ]
+        },
+        {
+          "start": 31.088,
+          "chars": [
+            31.088,
+            31.1775,
+            31.2669,
+            31.3564,
+            31.4459,
+            31.4727,
+            31.5622,
+            31.6517,
+            31.7412,
+            31.8306,
+            31.9201,
+            32.0096,
+            32.0991,
+            32.1885,
+            32.278,
+            32.3048,
+            32.3943,
+            32.4212,
+            32.5106,
+            32.6001,
+            32.6896,
+            32.7791,
+            32.8685
+          ]
+        }
+      ],
+      "circle": {
+        "start": 29.697,
+        "end": 30.719
+      },
+      "options": {
+        "hideAt": 15.628,
+        "showAt": 28.797
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

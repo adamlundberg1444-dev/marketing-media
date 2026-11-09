@@ -1,0 +1,669 @@
+{
+  "slug": "hp-mek-6d108143-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "6d108143-07f0-43ca-b752-7cd5092fed4d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "länder"
+      },
+      {
+        "text": "ses"
+      },
+      {
+        "text": "sexuell"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "vård"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "livsnödvändig."
+      },
+      {
+        "text": "I"
+      },
+      {
+        "text": "värsta"
+      },
+      {
+        "text": "fall"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "viss"
+      },
+      {
+        "text": "typ"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "vård,"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "aborter,"
+      },
+      {
+        "text": "olaglig."
+      },
+      {
+        "text": "Att"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "här"
+      },
+      {
+        "text": "vården"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "gör"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "lätt"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "under"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "kris."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 38,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "progressiv"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "negligerad"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "framhävs"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "operativ"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "feldimensionerad"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "underskattas"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "konstruktiv"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "oreglerad"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "överbelastas"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "reproduktiv"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "politiserad"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "nedprioriteras"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "reproduktiv",
+      "politiserad",
+      "nedprioriteras"
+    ],
+    "gapFarg": [
+      "blå",
+      "gul",
+      "lila"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "reproduktiv = om fortplantning",
+      "emphasis": true
+    },
+    {
+      "text": "nedprioriteras = läggs sist"
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 67.97,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 56.56
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.18
+        },
+        {
+          "start": 0.24,
+          "end": 0.52
+        },
+        {
+          "start": 0.56,
+          "end": 0.96
+        },
+        {
+          "start": 1.02,
+          "end": 1.38
+        },
+        {
+          "start": 1.46,
+          "end": 2.1
+        },
+        {
+          "start": 2.2,
+          "end": 2.42
+        },
+        {
+          "start": 2.42,
+          "end": 4.04
+        },
+        {
+          "start": 4.04,
+          "end": 4.44
+        },
+        {
+          "start": 5.06,
+          "end": 5.32
+        },
+        {
+          "start": 5.38,
+          "end": 5.52
+        },
+        {
+          "start": 5.58,
+          "end": 6.76
+        },
+        {
+          "start": 7.78,
+          "end": 7.84
+        },
+        {
+          "start": 7.88,
+          "end": 8.2
+        },
+        {
+          "start": 8.26,
+          "end": 8.58
+        },
+        {
+          "start": 8.62,
+          "end": 8.68
+        },
+        {
+          "start": 8.72,
+          "end": 8.8
+        },
+        {
+          "start": 8.84,
+          "end": 9.04
+        },
+        {
+          "start": 9.1,
+          "end": 9.3
+        },
+        {
+          "start": 9.32,
+          "end": 9.4
+        },
+        {
+          "start": 9.46,
+          "end": 9.78
+        },
+        {
+          "start": 10,
+          "end": 10.14
+        },
+        {
+          "start": 10.2,
+          "end": 10.76
+        },
+        {
+          "start": 11.14,
+          "end": 11.96
+        },
+        {
+          "start": 13.4,
+          "end": 13.48
+        },
+        {
+          "start": 13.5,
+          "end": 13.58
+        },
+        {
+          "start": 13.62,
+          "end": 13.8
+        },
+        {
+          "start": 13.86,
+          "end": 14.24
+        },
+        {
+          "start": 14.32,
+          "end": 14.46
+        },
+        {
+          "start": 14.54,
+          "end": 14.86
+        },
+        {
+          "start": 14.86,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.96
+        },
+        {
+          "start": 17,
+          "end": 17.08
+        },
+        {
+          "start": 17.1,
+          "end": 17.22
+        },
+        {
+          "start": 17.32,
+          "end": 17.74
+        },
+        {
+          "start": 17.74,
+          "end": 19.38
+        },
+        {
+          "start": 19.38,
+          "end": 19.64
+        },
+        {
+          "start": 19.68,
+          "end": 19.76
+        },
+        {
+          "start": 19.82,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        },
+        {
+          "start": 20.42,
+          "end": 20.42
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 56.56,
+          "chars": [
+            56.56,
+            56.7305,
+            56.9009,
+            57.0714,
+            57.2418,
+            57.4123,
+            57.5827,
+            57.7532,
+            57.9236,
+            58.0941,
+            58.2645,
+            58.435,
+            58.4861,
+            58.6566,
+            58.7077,
+            58.8782,
+            59.0486,
+            59.0998,
+            59.2702,
+            59.4407,
+            59.6111,
+            59.7816,
+            59.952,
+            60.1225,
+            60.293,
+            60.4634,
+            60.6339,
+            60.8043,
+            60.9748,
+            61.1452
+          ]
+        },
+        {
+          "start": 61.3157,
+          "chars": [
+            61.3157,
+            61.4861,
+            61.6566,
+            61.827,
+            61.9975,
+            62.168,
+            62.3384,
+            62.5089,
+            62.6793,
+            62.8498,
+            63.0202,
+            63.1907,
+            63.3611,
+            63.5316,
+            63.702,
+            63.7532,
+            63.9236,
+            63.9748,
+            64.1452,
+            64.3157,
+            64.4861,
+            64.6566,
+            64.827,
+            64.8782,
+            65.0486,
+            65.2191,
+            65.3895
+          ]
+        },
+        {
+          "start": 68.02,
+          "chars": [
+            68.02,
+            68.0296,
+            68.0391,
+            68.0487,
+            68.0583,
+            68.0611,
+            68.0707,
+            68.0803,
+            68.0899,
+            68.0994,
+            68.109,
+            68.1186,
+            68.1281,
+            68.1377,
+            68.1473,
+            68.1501,
+            68.1597,
+            68.1626,
+            68.1722,
+            68.1817,
+            68.1913,
+            68.2009,
+            68.2104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 50.02,
+        "end": 54.22
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 25.98,
+          "end": 26.73,
+          "targets": [
+            {
+              "w": 21,
+              "from": "aborter",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 33.86,
+          "end": 34.61,
+          "targets": [
+            {
+              "w": 22,
+              "from": "olaglig",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 41.22,
+          "end": 41.97,
+          "targets": [
+            {
+              "w": 8,
+              "from": "inte som livsnödvändig",
+              "color": "lila"
+            },
+            {
+              "w": 9,
+              "from": "inte som livsnödvändig",
+              "color": "lila"
+            },
+            {
+              "w": 10,
+              "from": "inte som livsnödvändig",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

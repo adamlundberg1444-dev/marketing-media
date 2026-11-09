@@ -1,0 +1,653 @@
+{
+  "slug": "hp-las-895a06cd",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "895a06cd-30e7-42ce-8386-4dd6b1b9477a"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 20 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "påståenden"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "vårt"
+      },
+      {
+        "text": "solsystem"
+      },
+      {
+        "text": "överensstämmer"
+      },
+      {
+        "text": "bäst"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "vad"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "helhet"
+      },
+      {
+        "text": "förmedlar?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "mer"
+          },
+          {
+            "text": "troligt"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "livet"
+          },
+          {
+            "text": "uppstod"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "jorden"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "någon"
+          },
+          {
+            "text": "annan"
+          },
+          {
+            "text": "plats"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "solsystemet."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Månar"
+          },
+          {
+            "text": "utgör"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "typ"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "himlakropp"
+          },
+          {
+            "text": "där"
+          },
+          {
+            "text": "förutsättningarna"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "störst"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "liv"
+          },
+          {
+            "text": "ska"
+          },
+          {
+            "text": "uppstå."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Spår"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "liv"
+          },
+          {
+            "text": "finns"
+          },
+          {
+            "text": "troligtvis"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "fler"
+          },
+          {
+            "text": "platser"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "jorden."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "vårt"
+          },
+          {
+            "text": "solsystem"
+          },
+          {
+            "text": "finns"
+          },
+          {
+            "text": "förmodligen"
+          },
+          {
+            "text": "enbart"
+          },
+          {
+            "text": "livsformer"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "bygger"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "proteinkedjor."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__895a06cd-30e7-42ce-8386-4dd6b1b9477a.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "liv troligen inte bara på jorden",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 39.276,
+    "phases": {
+      "readStart": 1.213,
+      "writeStart": 18.757
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.213,
+          "end": 1.48
+        },
+        {
+          "start": 1.526,
+          "end": 1.573
+        },
+        {
+          "start": 1.596,
+          "end": 1.991
+        },
+        {
+          "start": 2.037,
+          "end": 2.652
+        },
+        {
+          "start": 2.722,
+          "end": 2.768
+        },
+        {
+          "start": 2.792,
+          "end": 2.931
+        },
+        {
+          "start": 2.977,
+          "end": 3.628
+        },
+        {
+          "start": 3.709,
+          "end": 4.266
+        },
+        {
+          "start": 4.301,
+          "end": 4.545
+        },
+        {
+          "start": 4.614,
+          "end": 4.707
+        },
+        {
+          "start": 4.731,
+          "end": 4.835
+        },
+        {
+          "start": 4.858,
+          "end": 5.265
+        },
+        {
+          "start": 5.299,
+          "end": 5.404
+        },
+        {
+          "start": 5.462,
+          "end": 5.764
+        },
+        {
+          "start": 5.833,
+          "end": 6.426
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.757,
+          "chars": [
+            18.757,
+            18.955,
+            19.1529,
+            19.3509,
+            19.4103,
+            19.6082,
+            19.8062,
+            20.0042,
+            20.2021,
+            20.4001,
+            20.5981,
+            20.796,
+            20.994,
+            21.0534,
+            21.2514,
+            21.4493,
+            21.6473,
+            21.8453,
+            21.9046,
+            22.1026,
+            22.3006,
+            22.4985,
+            22.6965,
+            22.7559,
+            22.9539,
+            23.1518,
+            23.2112,
+            23.4092,
+            23.6071,
+            23.8051,
+            24.0031,
+            24.201
+          ]
+        },
+        {
+          "start": 34.012,
+          "chars": [
+            34.012,
+            34.2013,
+            34.3906,
+            34.5799,
+            34.7693,
+            34.9586,
+            35.0154,
+            35.2047,
+            35.394,
+            35.5833,
+            35.6401,
+            35.8294,
+            36.0187,
+            36.2081,
+            36.3974,
+            36.5867
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.637,
+        "end": 33.531
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 26.7,
+          "end": 27.45,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 7.867,
+          "end": 8.617,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.1666
+                ],
+                [
+                  0.8932,
+                  0.1666
+                ],
+                [
+                  0.8932,
+                  0.2083
+                ],
+                [
+                  0.0435,
+                  0.2083
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 8.967,
+          "end": 9.717,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.2141
+                ],
+                [
+                  0.8011,
+                  0.2141
+                ],
+                [
+                  0.8011,
+                  0.2558
+                ],
+                [
+                  0.0435,
+                  0.2558
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 14.3,
+          "end": 15.05,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3092,
+                  0.4991
+                ],
+                [
+                  0.9559,
+                  0.4991
+                ],
+                [
+                  0.9559,
+                  0.5407
+                ],
+                [
+                  0.3092,
+                  0.5407
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 15.4,
+          "end": 16.15,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.5466
+                ],
+                [
+                  0.5652,
+                  0.5466
+                ],
+                [
+                  0.5652,
+                  0.5882
+                ],
+                [
+                  0.0435,
+                  0.5882
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 26.7,
+          "end": 27.45,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6805,
+                  0.7546
+                ],
+                [
+                  0.9366,
+                  0.7546
+                ],
+                [
+                  0.9366,
+                  0.7963
+                ],
+                [
+                  0.6805,
+                  0.7963
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 27.8,
+          "end": 28.55,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.8021
+                ],
+                [
+                  0.925,
+                  0.8021
+                ],
+                [
+                  0.925,
+                  0.8438
+                ],
+                [
+                  0.0435,
+                  0.8438
+                ]
+              ],
+              "color": "orange",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.867,
+          "end": 12.79,
+          "omrade": [
+            0,
+            0.1501,
+            1,
+            0.3658
+          ]
+        },
+        {
+          "start": 13.3,
+          "end": 18.074,
+          "omrade": [
+            0,
+            0.4351,
+            1,
+            0.7639
+          ]
+        },
+        {
+          "start": 25.7,
+          "end": 31.633,
+          "omrade": [
+            0,
+            0.6906,
+            1,
+            0.9064
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

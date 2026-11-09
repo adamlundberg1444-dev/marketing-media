@@ -1,0 +1,582 @@
+{
+  "slug": "hp-las-275e470d-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "275e470d-ddc6-4ea6-8455-31993a10c026"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "förklarar"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "malariainfektion"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "vara"
+      },
+      {
+        "text": "verksam"
+      },
+      {
+        "text": "mot"
+      },
+      {
+        "text": "syfilis?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "cytokiner"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "malaria"
+          },
+          {
+            "text": "ger"
+          },
+          {
+            "text": "upphov"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "effekt"
+          },
+          {
+            "text": "även"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "syfilisbakterier."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Kroppens"
+          },
+          {
+            "text": "reaktion"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "syfilisbakterierna"
+          },
+          {
+            "text": "påverkar"
+          },
+          {
+            "text": "även"
+          },
+          {
+            "text": "malariaparasiterna."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Syfilisbakterier"
+          },
+          {
+            "text": "saknar"
+          },
+          {
+            "text": "motståndskraft"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "parasiter"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "orsakar"
+          },
+          {
+            "text": "malaria."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Malarian"
+          },
+          {
+            "text": "gör"
+          },
+          {
+            "text": "syfilisbakterierna"
+          },
+          {
+            "text": "trögare"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "mindre"
+          },
+          {
+            "text": "aggressiva."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__275e470d-ddc6-4ea6-8455-31993a10c026.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "cytokiner slår även mot syfilis",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.24,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 32.22
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.34
+        },
+        {
+          "start": 0.4,
+          "end": 0.9
+        },
+        {
+          "start": 0.96,
+          "end": 1.52
+        },
+        {
+          "start": 1.6,
+          "end": 1.68
+        },
+        {
+          "start": 1.72,
+          "end": 1.8
+        },
+        {
+          "start": 1.86,
+          "end": 3.14
+        },
+        {
+          "start": 3.26,
+          "end": 3.36
+        },
+        {
+          "start": 3.4,
+          "end": 3.56
+        },
+        {
+          "start": 3.62,
+          "end": 4.14
+        },
+        {
+          "start": 4.26,
+          "end": 4.42
+        },
+        {
+          "start": 4.48,
+          "end": 5.14
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 32.22,
+          "chars": [
+            32.22,
+            32.4399,
+            32.6597,
+            32.8796,
+            33.0994,
+            33.3193,
+            33.5391,
+            33.759,
+            33.9789,
+            34.1987,
+            34.2647,
+            34.4845,
+            34.7044,
+            34.9243,
+            35.1441,
+            35.2101,
+            35.4299,
+            35.6498,
+            35.8696,
+            36.0895,
+            36.1555,
+            36.3753,
+            36.5952,
+            36.815,
+            36.881,
+            37.1009,
+            37.3207,
+            37.5406,
+            37.7604,
+            37.9803,
+            38.2001
+          ]
+        },
+        {
+          "start": 41.98,
+          "chars": [
+            41.98,
+            41.9918,
+            42.0037,
+            42.0155,
+            42.0273,
+            42.0392,
+            42.0427,
+            42.0546,
+            42.0664,
+            42.0782,
+            42.0901,
+            42.0936,
+            42.1054,
+            42.109,
+            42.1208,
+            42.1327,
+            42.1445,
+            42.1563,
+            42.1682
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.08,
+        "end": 40.74
+      },
+      "options": {
+        "hideAt": 12.3,
+        "showAt": 39.18
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 8.06,
+          "end": 8.81,
+          "targets": [
+            {
+              "w": 1,
+              "from": "förklarar",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 20.34,
+          "end": 21.09,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5348,
+                  0.397
+                ],
+                [
+                  0.8385,
+                  0.397
+                ],
+                [
+                  0.8385,
+                  0.4427
+                ],
+                [
+                  0.5348,
+                  0.4427
+                ]
+              ],
+              "color": "bla",
+              "from": "cytokiner",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 20.34,
+          "end": 21.09,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4567
+                ],
+                [
+                  0.8819,
+                  0.4567
+                ],
+                [
+                  0.8819,
+                  0.5025
+                ],
+                [
+                  0,
+                  0.5025
+                ]
+              ],
+              "color": "bla",
+              "from": "cytokiner",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 25.32,
+          "end": 26.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4378,
+                  0.636
+                ],
+                [
+                  0.9718,
+                  0.636
+                ],
+                [
+                  0.9718,
+                  0.6817
+                ],
+                [
+                  0.4378,
+                  0.6817
+                ]
+              ],
+              "color": "bla",
+              "from": "enda",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.32,
+          "end": 26.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6957
+                ],
+                [
+                  0.364,
+                  0.6957
+                ],
+                [
+                  0.364,
+                  0.7415
+                ],
+                [
+                  0,
+                  0.7415
+                ]
+              ],
+              "color": "bla",
+              "from": "enda",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 29.08,
+          "end": 29.83,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6662,
+                  0.7555
+                ],
+                [
+                  0.8877,
+                  0.7555
+                ],
+                [
+                  0.8877,
+                  0.8012
+                ],
+                [
+                  0.6662,
+                  0.8012
+                ]
+              ],
+              "color": "bla",
+              "from": "syfilisbakterierna",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 29.08,
+          "end": 29.83,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8152
+                ],
+                [
+                  0.7453,
+                  0.8152
+                ],
+                [
+                  0.7453,
+                  0.861
+                ],
+                [
+                  0,
+                  0.861
+                ]
+              ],
+              "color": "bla",
+              "from": "syfilisbakterierna",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 29.08,
+          "end": 29.83,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.875
+                ],
+                [
+                  0.3188,
+                  0.875
+                ],
+                [
+                  0.3188,
+                  0.9207
+                ],
+                [
+                  0,
+                  0.9207
+                ]
+              ],
+              "color": "bla",
+              "from": "syfilisbakterierna",
+              "hlFarg": "gul",
+              "mi": 6
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 41.93
+  },
+  "layout": {},
+  "variant": "app"
+}

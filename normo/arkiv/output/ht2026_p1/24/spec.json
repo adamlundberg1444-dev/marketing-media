@@ -1,0 +1,930 @@
+{
+  "slug": "hp-nog-b93d9836",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "b93d9836-a420-43f5-a941-a6f50ac2676d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.9,
+    "optionGapScale": 0.7,
+    "optionIndent": 0,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "NOG · fråga 24 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "nog"
+    ],
+    "text": "Bedöm ett påstående i taget, med det andra dolt."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Leo,"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "varsitt"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "valt"
+      },
+      {
+        "text": "färg"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "tapeterna."
+      },
+      {
+        "text": "Ingen"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "valt"
+      },
+      {
+        "text": "samma"
+      },
+      {
+        "text": "färg"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "någon"
+      },
+      {
+        "text": "annan."
+      },
+      {
+        "text": "Tapeterna"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "blå,"
+      },
+      {
+        "text": "gula"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "vita."
+      },
+      {
+        "text": "Vems"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "gula"
+      },
+      {
+        "text": "tapeter?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "text": "Om"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "därefter"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Manfred,"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "skulle"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "ha"
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "tapeter"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "blå."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "text": "Om"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "därefter"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Olivia,"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "skulle"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "ha"
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "tapeter"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "gula."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 79,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "(1) Leo i O-rum, Manfred i L-rum"
+    },
+    {
+      "text": "O vitt, L blått, M gult: räcker"
+    },
+    {
+      "text": "(2) Leo i M-rum: M gult, räcker",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 58.867,
+    "phases": {
+      "readStart": 1.457,
+      "writeStart": 35.885
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.457,
+          "end": 1.77
+        },
+        {
+          "start": 1.805,
+          "end": 2.316
+        },
+        {
+          "start": 2.432,
+          "end": 2.618
+        },
+        {
+          "start": 2.664,
+          "end": 3.024
+        },
+        {
+          "start": 3.059,
+          "end": 3.14
+        },
+        {
+          "start": 3.175,
+          "end": 3.5
+        },
+        {
+          "start": 3.523,
+          "end": 3.744
+        },
+        {
+          "start": 3.837,
+          "end": 3.953
+        },
+        {
+          "start": 3.976,
+          "end": 4.034
+        },
+        {
+          "start": 4.092,
+          "end": 4.196
+        },
+        {
+          "start": 4.243,
+          "end": 4.498
+        },
+        {
+          "start": 4.568,
+          "end": 4.789
+        },
+        {
+          "start": 4.87,
+          "end": 4.951
+        },
+        {
+          "start": 5.009,
+          "end": 5.648
+        },
+        {
+          "start": 5.926,
+          "end": 6.228
+        },
+        {
+          "start": 6.275,
+          "end": 6.344
+        },
+        {
+          "start": 6.368,
+          "end": 6.542
+        },
+        {
+          "start": 6.577,
+          "end": 6.832
+        },
+        {
+          "start": 6.89,
+          "end": 7.087
+        },
+        {
+          "start": 7.134,
+          "end": 7.227
+        },
+        {
+          "start": 7.273,
+          "end": 7.494
+        },
+        {
+          "start": 7.563,
+          "end": 8.039
+        },
+        {
+          "start": 8.318,
+          "end": 8.875
+        },
+        {
+          "start": 8.945,
+          "end": 9.015
+        },
+        {
+          "start": 9.073,
+          "end": 9.444
+        },
+        {
+          "start": 9.502,
+          "end": 9.862
+        },
+        {
+          "start": 9.943,
+          "end": 10.013
+        },
+        {
+          "start": 10.036,
+          "end": 10.477
+        },
+        {
+          "start": 10.524,
+          "end": 10.768
+        },
+        {
+          "start": 10.837,
+          "end": 11.023
+        },
+        {
+          "start": 11.07,
+          "end": 11.162
+        },
+        {
+          "start": 11.197,
+          "end": 11.406
+        },
+        {
+          "start": 11.453,
+          "end": 12.045
+        },
+        {
+          "start": 12.045,
+          "end": 14.03
+        },
+        {
+          "start": 14.03,
+          "end": 14.158
+        },
+        {
+          "start": 14.216,
+          "end": 14.402
+        },
+        {
+          "start": 14.46,
+          "end": 14.669
+        },
+        {
+          "start": 14.704,
+          "end": 14.89
+        },
+        {
+          "start": 14.924,
+          "end": 15.122
+        },
+        {
+          "start": 15.203,
+          "end": 15.528
+        },
+        {
+          "start": 15.563,
+          "end": 15.644
+        },
+        {
+          "start": 15.667,
+          "end": 15.992
+        },
+        {
+          "start": 16.027,
+          "end": 16.364
+        },
+        {
+          "start": 16.399,
+          "end": 16.596
+        },
+        {
+          "start": 16.631,
+          "end": 16.817
+        },
+        {
+          "start": 16.84,
+          "end": 17.026
+        },
+        {
+          "start": 17.119,
+          "end": 17.792
+        },
+        {
+          "start": 17.85,
+          "end": 17.966
+        },
+        {
+          "start": 18.036,
+          "end": 18.303
+        },
+        {
+          "start": 18.349,
+          "end": 18.558
+        },
+        {
+          "start": 18.605,
+          "end": 18.663
+        },
+        {
+          "start": 18.709,
+          "end": 18.988
+        },
+        {
+          "start": 19.034,
+          "end": 19.545
+        },
+        {
+          "start": 19.603,
+          "end": 19.743
+        },
+        {
+          "start": 19.812,
+          "end": 20.323
+        },
+        {
+          "start": 20.439,
+          "end": 20.904
+        },
+        {
+          "start": 20.904,
+          "end": 23.063
+        },
+        {
+          "start": 23.063,
+          "end": 23.167
+        },
+        {
+          "start": 23.237,
+          "end": 23.574
+        },
+        {
+          "start": 23.632,
+          "end": 23.841
+        },
+        {
+          "start": 23.876,
+          "end": 24.061
+        },
+        {
+          "start": 24.096,
+          "end": 24.27
+        },
+        {
+          "start": 24.386,
+          "end": 24.932
+        },
+        {
+          "start": 25.025,
+          "end": 25.211
+        },
+        {
+          "start": 25.327,
+          "end": 25.698
+        },
+        {
+          "start": 26.082,
+          "end": 26.546
+        },
+        {
+          "start": 26.581,
+          "end": 26.778
+        },
+        {
+          "start": 26.813,
+          "end": 26.999
+        },
+        {
+          "start": 27.034,
+          "end": 27.254
+        },
+        {
+          "start": 27.347,
+          "end": 27.823
+        },
+        {
+          "start": 28.067,
+          "end": 28.171
+        },
+        {
+          "start": 28.229,
+          "end": 28.473
+        },
+        {
+          "start": 28.519,
+          "end": 28.868
+        },
+        {
+          "start": 28.902,
+          "end": 28.995
+        },
+        {
+          "start": 29.065,
+          "end": 29.332
+        },
+        {
+          "start": 29.378,
+          "end": 29.878
+        },
+        {
+          "start": 29.994,
+          "end": 30.319
+        },
+        {
+          "start": 30.47,
+          "end": 30.783
+        },
+        {
+          "start": 30.853,
+          "end": 31.387
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 35.885,
+          "chars": [
+            35.885,
+            36.0871,
+            36.2892,
+            36.4914,
+            36.552,
+            36.7541,
+            36.9562,
+            37.1584,
+            37.219,
+            37.4211,
+            37.4818,
+            37.6839,
+            37.886,
+            38.0881,
+            38.2903,
+            38.4924,
+            38.6945,
+            38.7551,
+            38.9573,
+            39.1594,
+            39.3615,
+            39.5636,
+            39.7657,
+            39.9679,
+            40.17,
+            40.2306,
+            40.4328,
+            40.4934,
+            40.6955,
+            40.8976,
+            41.0998,
+            41.3019
+          ]
+        },
+        {
+          "start": 42.03,
+          "chars": [
+            42.03,
+            42.2228,
+            42.2806,
+            42.4734,
+            42.6661,
+            42.8589,
+            43.0516,
+            43.2444,
+            43.3022,
+            43.495,
+            43.5528,
+            43.7456,
+            43.9383,
+            44.1311,
+            44.3239,
+            44.5166,
+            44.7094,
+            44.7672,
+            44.96,
+            45.0178,
+            45.2106,
+            45.4033,
+            45.5961,
+            45.7888,
+            45.9816,
+            46.0394,
+            46.2322,
+            46.425,
+            46.6177,
+            46.8105,
+            47.0032
+          ]
+        },
+        {
+          "start": 48.092,
+          "chars": [
+            48.092,
+            48.2731,
+            48.4542,
+            48.6352,
+            48.6896,
+            48.8707,
+            49.0517,
+            49.2328,
+            49.2871,
+            49.4682,
+            49.5225,
+            49.7036,
+            49.8847,
+            50.0658,
+            50.2469,
+            50.428,
+            50.609,
+            50.6634,
+            50.8444,
+            50.8988,
+            51.0799,
+            51.2609,
+            51.442,
+            51.6231,
+            51.8042,
+            51.8585,
+            52.0396,
+            52.2207,
+            52.4018,
+            52.5828,
+            52.7639
+          ]
+        },
+        {
+          "start": 55.449,
+          "chars": [
+            55.449,
+            55.5033,
+            55.5576,
+            55.612,
+            55.6663,
+            55.7206,
+            55.7369,
+            55.7912,
+            55.8455,
+            55.8999,
+            55.9542,
+            55.9705,
+            56.0248,
+            56.0411,
+            56.0954,
+            56.1497,
+            56.204,
+            56.2584,
+            56.3127
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.856,
+        "end": 55.18
+      },
+      "options": {
+        "hideAt": 35.482,
+        "showAt": 52.956
+      },
+      "concept": {
+        "start": 31.866,
+        "end": 35.082,
+        "hideAt": 42.304
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

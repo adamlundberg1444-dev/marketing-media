@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20260613",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-24.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "goutera",
+      "options": [
+        "ha som avsikt",
+        "tycka om",
+        "frukta",
+        "ta blod"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "goutera",
+      "options": [
+        "ha som avsikt",
+        "tycka om",
+        "frukta",
+        "ta blod"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "träta",
+      "options": [
+        "mastkorg",
+        "litet gräl",
+        "japansk teaterform",
+        "något värdefullt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "träta",
+      "options": [
+        "mastkorg",
+        "litet gräl",
+        "japansk teaterform",
+        "något värdefullt"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "konfirmation",
+      "options": [
+        "som startar något nytt",
+        "reklambroschyr",
+        "förlossningskonst",
+        "bekräftelse"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "konfirmation",
+      "options": [
+        "som startar något nytt",
+        "reklambroschyr",
+        "förlossningskonst",
+        "bekräftelse"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "pult",
+      "options": [
+        "ivrig strävan",
+        "fallenhet eller tycke",
+        "upphöjd ståplats",
+        "likljudande"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "pult",
+      "options": [
+        "ivrig strävan",
+        "fallenhet eller tycke",
+        "upphöjd ståplats",
+        "likljudande"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

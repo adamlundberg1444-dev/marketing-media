@@ -1,0 +1,219 @@
+{
+  "slug": "hp-ord-1e55fa37-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "1e55fa37-6e3e-4ad5-9adc-e76810cdd138"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "vördnad"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "respekt"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "tillit"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "ängslan"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "stillhet"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ovisshet"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "vördnad = djup respekt",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 33.72,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 23.14
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.86
+        },
+        {
+          "start": 0.86,
+          "end": 0.86
+        },
+        {
+          "start": 0.86,
+          "end": 0.86
+        },
+        {
+          "start": 0.86,
+          "end": 0.86
+        },
+        {
+          "start": 0.86,
+          "end": 0.86
+        },
+        {
+          "start": 0.86,
+          "end": 0.86
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.14,
+          "chars": [
+            23.14,
+            23.3776,
+            23.6152,
+            23.8528,
+            24.0904,
+            24.3279,
+            24.5655,
+            24.8031,
+            24.8744,
+            25.112,
+            25.1833,
+            25.4208,
+            25.6584,
+            25.896,
+            26.1336,
+            26.2049,
+            26.4425,
+            26.6801,
+            26.9176,
+            27.1552,
+            27.3928,
+            27.6304
+          ]
+        },
+        {
+          "start": 33.44,
+          "chars": [
+            33.44,
+            33.4537,
+            33.4674,
+            33.4811,
+            33.4948,
+            33.5085,
+            33.5126,
+            33.5263,
+            33.54,
+            33.5537,
+            33.5578,
+            33.5715,
+            33.5852,
+            33.5989,
+            33.6126,
+            33.6263
+          ]
+        }
+      ],
+      "circle": {
+        "start": 30.88,
+        "end": 32.22
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.08,
+          "end": 0.83,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Vördnad"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 33.39
+  },
+  "layout": {},
+  "variant": "app"
+}

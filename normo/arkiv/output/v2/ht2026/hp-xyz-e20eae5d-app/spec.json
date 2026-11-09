@@ -1,0 +1,297 @@
+{
+  "slug": "hp-xyz-e20eae5d-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "e20eae5d-21d9-43b4-b1d5-772e0bc5e502"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " 5{,}3x - 4{,}9 = 6x ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " -7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " -0{,}7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 0{,}7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "7"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "-4{,}9 = 6x - 5{,}3x"
+    },
+    {
+      "text": "-4{,}9 = 0{,}7x"
+    },
+    {
+      "text": "x = \\frac{-4{,}9}{0{,}7} = -7",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 79,
+    "phases": {
+      "readStart": 0,
+      "writeStart": 10.42
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0,
+          "end": 3.023
+        },
+        {
+          "start": 3.023,
+          "end": 3.707
+        },
+        {
+          "start": 3.707,
+          "end": 3.92
+        },
+        {
+          "start": 3.92,
+          "end": 5.939
+        },
+        {
+          "start": 5.939,
+          "end": 7.92
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10.42,
+          "chars": [
+            10.42,
+            10.6665,
+            10.913,
+            11.1595,
+            11.4061,
+            11.48,
+            11.7265,
+            11.8005,
+            12.047,
+            12.2935,
+            12.3675,
+            12.614,
+            12.6879,
+            12.9345,
+            13.181,
+            13.4275
+          ]
+        },
+        {
+          "start": 22.04,
+          "chars": [
+            22.04,
+            22.2965,
+            22.5529,
+            22.8094,
+            23.0658,
+            23.1428,
+            23.3992,
+            23.4762,
+            23.7326,
+            23.9891,
+            24.2455
+          ]
+        },
+        {
+          "start": 36.433,
+          "chars": [
+            36.433,
+            36.6776,
+            36.751,
+            36.9957,
+            37.0691,
+            37.3137,
+            37.5584,
+            37.803,
+            38.0477,
+            38.2923,
+            38.537,
+            38.7816,
+            39.0263,
+            39.0997,
+            39.3443,
+            39.4177,
+            39.6624
+          ]
+        },
+        {
+          "start": 60.9,
+          "chars": [
+            60.9,
+            61.144,
+            61.3879,
+            61.6319,
+            61.8759,
+            62.1199,
+            62.1931,
+            62.437,
+            62.681,
+            62.925,
+            62.9982,
+            63.2421,
+            63.4861,
+            63.7301,
+            63.9741,
+            64.218
+          ]
+        }
+      ],
+      "circle": {
+        "start": 48.764,
+        "end": 49.92
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 51.98,
+          "end": 52.73,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 60.9,
+          "end": 61.65,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 62,
+          "end": 62.75,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0,
+          "end": 0.75,
+          "targets": [
+            {
+              "w": 0,
+              "from": "5 komma 3x",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appKeepCta": true
+  },
+  "variant": "app"
+}

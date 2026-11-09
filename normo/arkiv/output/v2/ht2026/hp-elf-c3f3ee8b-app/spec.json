@@ -1,0 +1,578 @@
+{
+  "slug": "hp-elf-c3f3ee8b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "c3f3ee8b-6aa7-4de9-8aad-02ff2089f869"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "argued"
+      },
+      {
+        "text": "about"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "relationship"
+      },
+      {
+        "text": "between"
+      },
+      {
+        "text": "cooperation"
+      },
+      {
+        "text": "and"
+      },
+      {
+        "text": "reputation?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "A"
+          },
+          {
+            "text": "person’s"
+          },
+          {
+            "text": "reputation"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "based"
+          },
+          {
+            "text": "on"
+          },
+          {
+            "text": "moral"
+          },
+          {
+            "text": "considerations"
+          },
+          {
+            "text": "rather"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "on"
+          },
+          {
+            "text": "cooperativeness."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Cooperative"
+          },
+          {
+            "text": "ability"
+          },
+          {
+            "text": "may"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "viewed"
+          },
+          {
+            "text": "as"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "cornerstone"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "person’s"
+          },
+          {
+            "text": "reputation."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "There"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "little"
+          },
+          {
+            "text": "connection"
+          },
+          {
+            "text": "between"
+          },
+          {
+            "text": "reputation"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "people’s"
+          },
+          {
+            "text": "willingness"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "cooperate."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "A"
+          },
+          {
+            "text": "good"
+          },
+          {
+            "text": "reputation"
+          },
+          {
+            "text": "involves"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "lot"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "cooperative"
+          },
+          {
+            "text": "behavior."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__c3f3ee8b-6aa7-4de9-8aad-02ff2089f869.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "rykte bygger på samarbete",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 38.68,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 29.3
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.22
+        },
+        {
+          "start": 0.28,
+          "end": 0.44
+        },
+        {
+          "start": 0.54,
+          "end": 0.96
+        },
+        {
+          "start": 1.02,
+          "end": 1.24
+        },
+        {
+          "start": 1.28,
+          "end": 1.36
+        },
+        {
+          "start": 1.4,
+          "end": 2.14
+        },
+        {
+          "start": 2.18,
+          "end": 2.56
+        },
+        {
+          "start": 2.62,
+          "end": 3.52
+        },
+        {
+          "start": 3.58,
+          "end": 3.66
+        },
+        {
+          "start": 3.72,
+          "end": 4.54
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 29.3,
+          "chars": [
+            29.3,
+            29.5262,
+            29.7524,
+            29.9786,
+            30.2048,
+            30.431,
+            30.4989,
+            30.7251,
+            30.9513,
+            31.1775,
+            31.4037,
+            31.6299,
+            31.8561,
+            31.9239,
+            32.1501,
+            32.3763,
+            32.4442,
+            32.6704,
+            32.8966,
+            33.1228,
+            33.349,
+            33.5752,
+            33.8014,
+            34.0276,
+            34.2538
+          ]
+        },
+        {
+          "start": 38.14,
+          "chars": [
+            38.14,
+            38.1526,
+            38.1652,
+            38.1777,
+            38.1903,
+            38.2029,
+            38.2067,
+            38.2192,
+            38.2318,
+            38.2444,
+            38.2482,
+            38.2608,
+            38.2645,
+            38.2771,
+            38.2897,
+            38.3023,
+            38.3148,
+            38.3274
+          ]
+        }
+      ],
+      "circle": {
+        "start": 36.54,
+        "end": 37.18
+      },
+      "options": {
+        "hideAt": 11.76,
+        "showAt": 35.64
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 9.38,
+          "end": 10.13,
+          "targets": [
+            {
+              "w": 7,
+              "from": "cooperation and reputation",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "cooperation and reputation",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "cooperation and reputation",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 15.44,
+          "end": 16.19,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5545,
+                  0.3382
+                ],
+                [
+                  0.9791,
+                  0.3382
+                ],
+                [
+                  0.9791,
+                  0.3939
+                ],
+                [
+                  0.5545,
+                  0.3939
+                ]
+              ],
+              "color": "bla",
+              "from": "rykte",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 15.44,
+          "end": 16.19,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.411
+                ],
+                [
+                  0.5301,
+                  0.411
+                ],
+                [
+                  0.5301,
+                  0.4667
+                ],
+                [
+                  0,
+                  0.4667
+                ]
+              ],
+              "color": "bla",
+              "from": "rykte",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 20.26,
+          "end": 21.01,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6064,
+                  0.411
+                ],
+                [
+                  0.9534,
+                  0.411
+                ],
+                [
+                  0.9534,
+                  0.4667
+                ],
+                [
+                  0.6064,
+                  0.4667
+                ]
+              ],
+              "color": "bla",
+              "from": "straffas",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 20.26,
+          "end": 21.01,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4838
+                ],
+                [
+                  0.37,
+                  0.4838
+                ],
+                [
+                  0.37,
+                  0.5395
+                ],
+                [
+                  0,
+                  0.5395
+                ]
+              ],
+              "color": "bla",
+              "from": "straffas",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 25.04,
+          "end": 25.79,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6282,
+                  0.4838
+                ],
+                [
+                  0.9634,
+                  0.4838
+                ],
+                [
+                  0.9634,
+                  0.5395
+                ],
+                [
+                  0.6282,
+                  0.5395
+                ]
+              ],
+              "color": "bla",
+              "from": "moralen",
+              "hlFarg": "rosa",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 25.04,
+          "end": 25.79,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5566
+                ],
+                [
+                  0.7088,
+                  0.5566
+                ],
+                [
+                  0.7088,
+                  0.6123
+                ],
+                [
+                  0,
+                  0.6123
+                ]
+              ],
+              "color": "bla",
+              "from": "moralen",
+              "hlFarg": "rosa",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 38.09
+  },
+  "layout": {},
+  "variant": "app"
+}

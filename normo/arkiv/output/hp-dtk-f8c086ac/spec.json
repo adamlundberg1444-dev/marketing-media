@@ -1,0 +1,553 @@
+{
+  "slug": "hp-dtk-f8c086ac",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "f8c086ac-2fd8-4765-bc54-f04c9f86b1ac"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK-fråga · Högskoleprovet",
+    "text2": "HT 2026 · fråga 32",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Studera"
+      },
+      {
+        "text": "försäljningen"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "kronor"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "tryckta"
+      },
+      {
+        "text": "böcker"
+      },
+      {
+        "text": "2020."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "andel"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "denna"
+      },
+      {
+        "text": "försäljning"
+      },
+      {
+        "text": "utgjordes"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "formatet"
+      },
+      {
+        "text": "inbundet?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 18,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "En"
+          },
+          {
+            "text": "tredjedel"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Två"
+          },
+          {
+            "text": "femtedelar"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Hälften"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Två"
+          },
+          {
+            "text": "tredjedelar"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/f8c086ac-2fd8-4765-bc54-f04c9f86b1ac.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "360\\,000 + 1\\,130\\,000 = 1\\,490\\,000"
+    },
+    {
+      "text": "inbundet ≈ resten",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 41.786,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 10.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.31
+        },
+        {
+          "start": 1.31,
+          "end": 2.12
+        },
+        {
+          "start": 2.12,
+          "end": 2.34
+        },
+        {
+          "start": 2.34,
+          "end": 2.8
+        },
+        {
+          "start": 2.8,
+          "end": 3.06
+        },
+        {
+          "start": 3.06,
+          "end": 3.57
+        },
+        {
+          "start": 3.57,
+          "end": 4.03
+        },
+        {
+          "start": 4.03,
+          "end": 4.74
+        },
+        {
+          "start": 4.74,
+          "end": 5.05
+        },
+        {
+          "start": 5.05,
+          "end": 5.41
+        },
+        {
+          "start": 5.41,
+          "end": 5.82
+        },
+        {
+          "start": 5.82,
+          "end": 6.08
+        },
+        {
+          "start": 6.08,
+          "end": 6.49
+        },
+        {
+          "start": 6.49,
+          "end": 7.2
+        },
+        {
+          "start": 7.2,
+          "end": 7.81
+        },
+        {
+          "start": 7.81,
+          "end": 8.07
+        },
+        {
+          "start": 8.07,
+          "end": 8.63
+        },
+        {
+          "start": 8.63,
+          "end": 9.54
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10.34,
+          "chars": [
+            10.34,
+            10.4938,
+            10.6477,
+            10.8015,
+            10.8477,
+            11.0015,
+            11.1554,
+            11.3092,
+            11.3554,
+            11.5092,
+            11.5554,
+            11.7092,
+            11.7554,
+            11.9092,
+            12.0631,
+            12.2169,
+            12.2631,
+            12.4169,
+            12.5708,
+            12.7246,
+            12.7708,
+            12.9246,
+            12.9708,
+            13.1246,
+            13.1708,
+            13.3246,
+            13.4785,
+            13.6323,
+            13.6785,
+            13.8323,
+            13.9862
+          ]
+        },
+        {
+          "start": 14.49,
+          "chars": [
+            14.49,
+            14.6438,
+            14.7977,
+            14.9515,
+            15.1054,
+            15.2592,
+            15.4131,
+            15.5669,
+            15.7208,
+            15.7669,
+            15.9208,
+            15.9669,
+            16.1208,
+            16.2746,
+            16.4285,
+            16.5823,
+            16.7362
+          ]
+        },
+        {
+          "start": 18.59,
+          "chars": [
+            18.59,
+            18.7438,
+            18.8977,
+            19.0515,
+            19.2054,
+            19.3592,
+            19.4054,
+            19.5592,
+            19.7131,
+            19.8669,
+            19.9131,
+            20.0669,
+            20.1131,
+            20.2669,
+            20.4208,
+            20.5746,
+            20.7285,
+            20.8823
+          ]
+        }
+      ],
+      "circle": {
+        "start": 17.24,
+        "end": 18.14
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 21.386,
+          "end": 22.136,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1696,
+                  0.1017
+                ],
+                [
+                  0.1915,
+                  0.1017
+                ],
+                [
+                  0.1915,
+                  0.3947
+                ],
+                [
+                  0.1696,
+                  0.3947
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 22.486,
+          "end": 23.236,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2697,
+                  0.3229
+                ],
+                [
+                  0.2922,
+                  0.3229
+                ],
+                [
+                  0.2922,
+                  0.3947
+                ],
+                [
+                  0.2697,
+                  0.3947
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 23.586,
+          "end": 24.336,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3704,
+                  0.1709
+                ],
+                [
+                  0.3923,
+                  0.1709
+                ],
+                [
+                  0.3923,
+                  0.3947
+                ],
+                [
+                  0.3704,
+                  0.3947
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.186,
+          "end": 25.936,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.1133,
+                  0.1017
+                ],
+                [
+                  0.1696,
+                  0.1017
+                ]
+              ],
+              "dashed": true,
+              "snap": false,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.286,
+          "end": 27.036,
+          "targets": [
+            {
+              "text": "1 480 000",
+              "at": [
+                0.235,
+                0.088
+              ],
+              "size": 16,
+              "color": "red",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 27.386,
+          "end": 28.136,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.1133,
+                  0.3229
+                ],
+                [
+                  0.2697,
+                  0.3229
+                ]
+              ],
+              "dashed": true,
+              "snap": false,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 28.486,
+          "end": 29.236,
+          "targets": [
+            {
+              "text": "360 000",
+              "at": [
+                0.275,
+                0.291
+              ],
+              "size": 16,
+              "color": "red",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 29.586,
+          "end": 30.336,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.1133,
+                  0.1709
+                ],
+                [
+                  0.3704,
+                  0.1709
+                ]
+              ],
+              "dashed": true,
+              "snap": false,
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 30.686,
+          "end": 31.436,
+          "targets": [
+            {
+              "text": "1 130 000",
+              "at": [
+                0.385,
+                0.156
+              ],
+              "size": 16,
+              "color": "red",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 32.286,
+          "end": 38.786,
+          "omrade": [
+            0,
+            0.055,
+            0.56,
+            0.45
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

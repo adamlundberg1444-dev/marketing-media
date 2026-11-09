@@ -1,0 +1,710 @@
+{
+  "slug": "hp-kva-519a938c-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "519a938c-e1c6-4463-81e8-c3f18ff0e212"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Joakim"
+      },
+      {
+        "text": "kör"
+      },
+      {
+        "text": "bil"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "viss"
+      },
+      {
+        "text": "sträcka."
+      },
+      {
+        "text": "Han"
+      },
+      {
+        "text": "startar"
+      },
+      {
+        "text": "klockan"
+      },
+      {
+        "text": "10.37"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "framme"
+      },
+      {
+        "text": "klockan"
+      },
+      {
+        "text": "11.22."
+      },
+      {
+        "text": "Hans"
+      },
+      {
+        "text": "medelhastighet"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "50"
+      },
+      {
+        "text": "km/h."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "Längden"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "sträckan"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "Joakim"
+      },
+      {
+        "text": "kör"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "40"
+      },
+      {
+        "text": "km"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 32,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "23 + 22 = 45 min"
+    },
+    {
+      "text": "45 min = \\frac{3}{4} h"
+    },
+    {
+      "text": "s = v \\cdot t"
+    },
+    {
+      "text": "s = 50 \\cdot \\frac{3}{4} = 37{,}5 km",
+      "gron": [
+        "50",
+        "\\frac{3}{4}"
+      ],
+      "farg": {
+        "4": "#0E9F6E",
+        "5": "#0E9F6E",
+        "9": "#0E9F6E",
+        "10": "#0E9F6E",
+        "11": "#0E9F6E"
+      }
+    },
+    {
+      "text": "37{,}5 < 40",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 58.72,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 13.38
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.62
+        },
+        {
+          "start": 0.72,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.9978
+        },
+        {
+          "start": 0.9978,
+          "end": 1.0294
+        },
+        {
+          "start": 1.0294,
+          "end": 1.0733
+        },
+        {
+          "start": 1.0733,
+          "end": 1.178
+        },
+        {
+          "start": 1.178,
+          "end": 1.2158
+        },
+        {
+          "start": 1.2158,
+          "end": 1.2779
+        },
+        {
+          "start": 1.2779,
+          "end": 1.34
+        },
+        {
+          "start": 1.34,
+          "end": 2.46
+        },
+        {
+          "start": 2.46,
+          "end": 2.5244
+        },
+        {
+          "start": 2.5244,
+          "end": 2.5784
+        },
+        {
+          "start": 2.5784,
+          "end": 2.674
+        },
+        {
+          "start": 2.674,
+          "end": 2.78
+        },
+        {
+          "start": 2.78,
+          "end": 3.8
+        },
+        {
+          "start": 3.8,
+          "end": 4.3303
+        },
+        {
+          "start": 4.3303,
+          "end": 5.597
+        },
+        {
+          "start": 5.597,
+          "end": 5.98
+        },
+        {
+          "start": 5.98,
+          "end": 6.3
+        },
+        {
+          "start": 6.3,
+          "end": 6.6335
+        },
+        {
+          "start": 6.6335,
+          "end": 6.92
+        },
+        {
+          "start": 6.92,
+          "end": 6.98
+        },
+        {
+          "start": 6.98,
+          "end": 8.5696
+        },
+        {
+          "start": 8.5696,
+          "end": 9.38
+        },
+        {
+          "start": 9.38,
+          "end": 9.92
+        },
+        {
+          "start": 9.92,
+          "end": 9.9901
+        },
+        {
+          "start": 9.9901,
+          "end": 10.0941
+        },
+        {
+          "start": 10.0941,
+          "end": 10.1642
+        },
+        {
+          "start": 10.1642,
+          "end": 10.3021
+        },
+        {
+          "start": 10.3021,
+          "end": 10.44
+        },
+        {
+          "start": 10.44,
+          "end": 10.6
+        },
+        {
+          "start": 10.6,
+          "end": 11.3
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.38,
+          "chars": [
+            13.38,
+            13.628,
+            13.876,
+            13.9504,
+            14.1984,
+            14.2728,
+            14.5208,
+            14.7688,
+            14.8432,
+            15.0912,
+            15.1656,
+            15.4136,
+            15.6616,
+            15.736,
+            15.984,
+            16.232
+          ]
+        },
+        {
+          "start": 25.8,
+          "chars": [
+            25.8,
+            26.0512,
+            26.3025,
+            26.3779,
+            26.6291,
+            26.8804,
+            27.1316,
+            27.207,
+            27.4582,
+            27.5336,
+            27.7849,
+            28.0361,
+            28.2874,
+            28.3628
+          ]
+        },
+        {
+          "start": 35.86,
+          "chars": [
+            35.86,
+            36.1365,
+            36.2194,
+            36.4958,
+            36.5788,
+            36.8552,
+            36.9382,
+            37.2146,
+            37.2975
+          ]
+        },
+        {
+          "start": 41.18,
+          "chars": [
+            41.18,
+            41.4205,
+            41.4926,
+            41.7331,
+            41.8052,
+            42.0457,
+            42.2862,
+            42.3583,
+            42.5988,
+            42.6709,
+            42.9114,
+            43.1518,
+            43.3923,
+            43.4644,
+            43.7049,
+            43.7771,
+            44.0175,
+            44.258,
+            44.4985,
+            44.7389,
+            44.8111,
+            45.0515
+          ]
+        },
+        {
+          "start": 48.42,
+          "chars": [
+            48.42,
+            48.6861,
+            48.9521,
+            49.2182,
+            49.4842,
+            49.564,
+            49.8301,
+            49.9099,
+            50.1759
+          ]
+        },
+        {
+          "start": 57.54,
+          "chars": [
+            57.54,
+            57.5518,
+            57.5637,
+            57.5755,
+            57.5873,
+            57.5992,
+            57.6027,
+            57.6146,
+            57.6264,
+            57.6382,
+            57.6501,
+            57.6536,
+            57.6654,
+            57.669,
+            57.6808,
+            57.6927,
+            57.7045,
+            57.7163,
+            57.7282
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.78,
+        "end": 57.22
+      },
+      "options": {
+        "hideAt": 13.08,
+        "showAt": 52.88
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.72,
+          "end": 1.47,
+          "targets": [
+            {
+              "w": 6,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 7,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 8,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 9,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 10,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 11,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 12,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 13,
+              "from": "kör från",
+              "color": "blå"
+            },
+            {
+              "w": 14,
+              "from": "kör från",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 4.58,
+          "end": 5.33,
+          "targets": [
+            {
+              "w": 15,
+              "from": "medelhastigheten",
+              "color": "orange"
+            },
+            {
+              "w": 16,
+              "from": "medelhastigheten",
+              "color": "orange"
+            },
+            {
+              "w": 17,
+              "from": "medelhastigheten",
+              "color": "orange"
+            },
+            {
+              "w": 18,
+              "from": "medelhastigheten",
+              "color": "orange"
+            },
+            {
+              "w": 19,
+              "from": "medelhastigheten",
+              "color": "orange"
+            }
+          ]
+        },
+        {
+          "start": 9.38,
+          "end": 10.13,
+          "targets": [
+            {
+              "w": 20,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 21,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 22,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 23,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 24,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 25,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 26,
+              "from": "sträckan",
+              "color": "gul"
+            },
+            {
+              "w": 27,
+              "from": "sträckan",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 10.44,
+          "end": 11.19,
+          "targets": [
+            {
+              "w": 28,
+              "from": "40 kilometer",
+              "color": "lila"
+            },
+            {
+              "w": 29,
+              "from": "40 kilometer",
+              "color": "lila"
+            },
+            {
+              "w": 30,
+              "from": "40 kilometer",
+              "color": "lila"
+            },
+            {
+              "w": 31,
+              "from": "40 kilometer",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 57.49
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3,
+    "appKeyLines": [
+      3,
+      4
+    ]
+  },
+  "variant": "app"
+}

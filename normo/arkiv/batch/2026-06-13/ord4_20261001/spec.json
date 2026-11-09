@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261001",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-01.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "forensisk",
+      "options": [
+        "utväljande",
+        "övernaturlig; dold",
+        "strömlinjeformad",
+        "rättsvetenskaplig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "forensisk",
+      "options": [
+        "utväljande",
+        "övernaturlig; dold",
+        "strömlinjeformad",
+        "rättsvetenskaplig"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "ha tjock hud",
+      "options": [
+        "nå sin höjdpunkt",
+        "göra repor",
+        "göra användbar",
+        "vara okänslig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ha tjock hud",
+      "options": [
+        "nå sin höjdpunkt",
+        "göra repor",
+        "göra användbar",
+        "vara okänslig"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "sejdel",
+      "options": [
+        "metallplopp på käpp",
+        "ställning för hötorkning",
+        "ölmugg",
+        "liten skogssjö"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "sejdel",
+      "options": [
+        "metallplopp på käpp",
+        "ställning för hötorkning",
+        "ölmugg",
+        "liten skogssjö"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "akterseglad",
+      "options": [
+        "frätande",
+        "sjuklig",
+        "klok och förstående",
+        "frånseglad"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "akterseglad",
+      "options": [
+        "frätande",
+        "sjuklig",
+        "klok och förstående",
+        "frånseglad"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

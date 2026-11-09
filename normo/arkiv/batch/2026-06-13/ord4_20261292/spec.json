@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261292",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-08.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "deciderad",
+      "options": [
+        "befogad",
+        "avgjord",
+        "sjuk",
+        "tillfällig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "deciderad",
+      "options": [
+        "befogad",
+        "avgjord",
+        "sjuk",
+        "tillfällig"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "rata",
+      "options": [
+        "välja bort",
+        "skämma ut sig",
+        "avkristna",
+        "utfylla"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "rata",
+      "options": [
+        "välja bort",
+        "skämma ut sig",
+        "avkristna",
+        "utfylla"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "prudentlig",
+      "options": [
+        "sliten",
+        "lagom stor",
+        "överdrivet noggrann",
+        "känslodrypande"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "prudentlig",
+      "options": [
+        "sliten",
+        "lagom stor",
+        "överdrivet noggrann",
+        "känslodrypande"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "pneumoni",
+      "options": [
+        "dödshjälp",
+        "stridsvärn",
+        "pulsåder",
+        "lunginflammation"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "pneumoni",
+      "options": [
+        "dödshjälp",
+        "stridsvärn",
+        "pulsåder",
+        "lunginflammation"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

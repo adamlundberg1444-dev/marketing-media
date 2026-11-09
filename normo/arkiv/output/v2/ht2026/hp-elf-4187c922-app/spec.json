@@ -1,0 +1,549 @@
+{
+  "slug": "hp-elf-4187c922-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "4187c922-5268-41aa-ab2a-1370d2f556d0"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "a"
+      },
+      {
+        "text": "general"
+      },
+      {
+        "text": "problem"
+      },
+      {
+        "text": "for"
+      },
+      {
+        "text": "lexicographers"
+      },
+      {
+        "text": "these"
+      },
+      {
+        "text": "days?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 9,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "There"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "often"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "conflict"
+          },
+          {
+            "text": "between"
+          },
+          {
+            "text": "pronunciation"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "meaning"
+          },
+          {
+            "text": "in"
+          },
+          {
+            "text": "new"
+          },
+          {
+            "text": "words."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "They"
+          },
+          {
+            "text": "find"
+          },
+          {
+            "text": "it"
+          },
+          {
+            "text": "hard"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "keep"
+          },
+          {
+            "text": "up"
+          },
+          {
+            "text": "with"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "constant"
+          },
+          {
+            "text": "inflow"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "new"
+          },
+          {
+            "text": "words."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "internet"
+          },
+          {
+            "text": "has"
+          },
+          {
+            "text": "decreased"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "traditional"
+          },
+          {
+            "text": "demand"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "clear"
+          },
+          {
+            "text": "definitions."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Many"
+          },
+          {
+            "text": "new"
+          },
+          {
+            "text": "words"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "not"
+          },
+          {
+            "text": "around"
+          },
+          {
+            "text": "long"
+          },
+          {
+            "text": "enough"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "meanings"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "become"
+          },
+          {
+            "text": "fixed."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__4187c922-5268-41aa-ab2a-1370d2f556d0.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "hinner inte med alla nya ord",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 48.76,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 38.88
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.26
+        },
+        {
+          "start": 0.36,
+          "end": 0.48
+        },
+        {
+          "start": 0.56,
+          "end": 0.6
+        },
+        {
+          "start": 0.76,
+          "end": 1.22
+        },
+        {
+          "start": 1.34,
+          "end": 1.78
+        },
+        {
+          "start": 1.88,
+          "end": 2.02
+        },
+        {
+          "start": 2.06,
+          "end": 2.98
+        },
+        {
+          "start": 3.08,
+          "end": 3.32
+        },
+        {
+          "start": 3.42,
+          "end": 3.8
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 38.88,
+          "chars": [
+            38.88,
+            39.1094,
+            39.3388,
+            39.5682,
+            39.7976,
+            40.0269,
+            40.2563,
+            40.3251,
+            40.5545,
+            40.7839,
+            41.0133,
+            41.2427,
+            41.3115,
+            41.5409,
+            41.7703,
+            41.9997,
+            42.0685,
+            42.2979,
+            42.5273,
+            42.7567,
+            42.986,
+            43.0549,
+            43.2842,
+            43.5136,
+            43.743,
+            43.8118,
+            44.0412,
+            44.2706
+          ]
+        },
+        {
+          "start": 47.68,
+          "chars": [
+            47.68,
+            47.7389,
+            47.7978,
+            47.8567,
+            47.9156,
+            47.9745,
+            47.9922,
+            48.0511,
+            48.11,
+            48.1689,
+            48.1866,
+            48.2455,
+            48.3044,
+            48.3633,
+            48.4222,
+            48.4811
+          ]
+        }
+      ],
+      "circle": {
+        "start": 46.78,
+        "end": 47.26
+      },
+      "options": {
+        "hideAt": 12.22,
+        "showAt": 45.88
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 6.82,
+          "end": 7.57,
+          "targets": [
+            {
+              "w": 7,
+              "from": "these days",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "these days",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.08,
+          "end": 17.83,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2037,
+                  0.2366
+                ],
+                [
+                  0.5963,
+                  0.2366
+                ],
+                [
+                  0.5963,
+                  0.3089
+                ],
+                [
+                  0.2037,
+                  0.3089
+                ]
+              ],
+              "color": "bla",
+              "from": "cannot meet",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 24.84,
+          "end": 25.59,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4254
+                ],
+                [
+                  0.9444,
+                  0.4254
+                ],
+                [
+                  0.9444,
+                  0.4976
+                ],
+                [
+                  0,
+                  0.4976
+                ]
+              ],
+              "color": "bla",
+              "from": "sprids",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 24.84,
+          "end": 25.59,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5198
+                ],
+                [
+                  0.2842,
+                  0.5198
+                ],
+                [
+                  0.2842,
+                  0.592
+                ],
+                [
+                  0,
+                  0.592
+                ]
+              ],
+              "color": "bla",
+              "from": "sprids",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 32.72,
+          "end": 33.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4981,
+                  0.7085
+                ],
+                [
+                  0.9746,
+                  0.7085
+                ],
+                [
+                  0.9746,
+                  0.7808
+                ],
+                [
+                  0.4981,
+                  0.7808
+                ]
+              ],
+              "color": "bla",
+              "from": "vänta",
+              "hlFarg": "rosa",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 32.72,
+          "end": 33.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8029
+                ],
+                [
+                  0.1506,
+                  0.8029
+                ],
+                [
+                  0.1506,
+                  0.8752
+                ],
+                [
+                  0,
+                  0.8752
+                ]
+              ],
+              "color": "bla",
+              "from": "vänta",
+              "hlFarg": "rosa",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 47.63
+  },
+  "layout": {},
+  "variant": "app"
+}

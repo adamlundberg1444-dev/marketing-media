@@ -1,0 +1,506 @@
+{
+  "slug": "hp-elf-c346d87b",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "c346d87b-0cc9-449c-9ee6-7e2a926a1c6e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ELF · fråga 34 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "How"
+      },
+      {
+        "text": "was"
+      },
+      {
+        "text": "tea"
+      },
+      {
+        "text": "drinking"
+      },
+      {
+        "text": "viewed"
+      },
+      {
+        "text": "by"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "19th-century"
+      },
+      {
+        "text": "British"
+      },
+      {
+        "text": "authorities?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "an"
+          },
+          {
+            "text": "unnecessary"
+          },
+          {
+            "text": "luxury"
+          },
+          {
+            "text": "that"
+          },
+          {
+            "text": "should"
+          },
+          {
+            "text": "preferably"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "avoided."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "practice"
+          },
+          {
+            "text": "that"
+          },
+          {
+            "text": "should"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "reserved"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "upper"
+          },
+          {
+            "text": "classes."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "useful"
+          },
+          {
+            "text": "instrument"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "developing"
+          },
+          {
+            "text": "state"
+          },
+          {
+            "text": "interests."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "As"
+          },
+          {
+            "text": "an"
+          },
+          {
+            "text": "effective"
+          },
+          {
+            "text": "way"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "keep"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "lower"
+          },
+          {
+            "text": "classes"
+          },
+          {
+            "text": "satisfied."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/elf__c346d87b-0cc9-449c-9ee6-7e2a926a1c6e.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "te = ett verktyg för imperiet",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 47.793,
+    "phases": {
+      "readStart": 1.475,
+      "writeStart": 23.601
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.475,
+          "end": 1.626
+        },
+        {
+          "start": 1.661,
+          "end": 1.765
+        },
+        {
+          "start": 1.835,
+          "end": 2.033
+        },
+        {
+          "start": 2.056,
+          "end": 2.416
+        },
+        {
+          "start": 2.45,
+          "end": 2.671
+        },
+        {
+          "start": 2.706,
+          "end": 2.81
+        },
+        {
+          "start": 2.857,
+          "end": 2.926
+        },
+        {
+          "start": 2.926,
+          "end": 3.658
+        },
+        {
+          "start": 3.658,
+          "end": 3.983
+        },
+        {
+          "start": 4.018,
+          "end": 4.784
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.601,
+          "chars": [
+            23.601,
+            23.8347,
+            24.0685,
+            24.1386,
+            24.3723,
+            24.4424,
+            24.6761,
+            24.9099,
+            25.1436,
+            25.2137,
+            25.4474,
+            25.6812,
+            25.9149,
+            26.1486,
+            26.3823,
+            26.6161,
+            26.8498,
+            26.9199,
+            27.1536,
+            27.3874,
+            27.6211,
+            27.6912,
+            27.9249,
+            28.1586,
+            28.3924,
+            28.6261,
+            28.8598,
+            29.0935,
+            29.3273
+          ]
+        },
+        {
+          "start": 41.357,
+          "chars": [
+            41.357,
+            41.599,
+            41.841,
+            42.083,
+            42.3251,
+            42.5671,
+            42.6397,
+            42.8817,
+            43.1237,
+            43.3657,
+            43.4383,
+            43.6803,
+            43.7529,
+            43.9949,
+            44.2369,
+            44.479,
+            44.721,
+            44.963
+          ]
+        }
+      ],
+      "circle": {
+        "start": 39.9,
+        "end": 40.876
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 33.394,
+          "end": 34.144,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 6.063,
+          "end": 6.813,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4051,
+                  0.4723
+                ],
+                [
+                  0.7963,
+                  0.4723
+                ],
+                [
+                  0.7963,
+                  0.5275
+                ],
+                [
+                  0.4051,
+                  0.5275
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 7.163,
+          "end": 7.913,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.5352
+                ],
+                [
+                  0.3386,
+                  0.5352
+                ],
+                [
+                  0.3386,
+                  0.5904
+                ],
+                [
+                  0.0435,
+                  0.5904
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 16.049,
+          "end": 16.799,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4544,
+                  0.6125
+                ],
+                [
+                  0.8321,
+                  0.6125
+                ],
+                [
+                  0.8321,
+                  0.6677
+                ],
+                [
+                  0.4544,
+                  0.6677
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 17.149,
+          "end": 17.899,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6754
+                ],
+                [
+                  0.5986,
+                  0.6754
+                ],
+                [
+                  0.5986,
+                  0.7306
+                ],
+                [
+                  0.0435,
+                  0.7306
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 5.063,
+          "end": 15.014,
+          "omrade": [
+            0,
+            0.3246,
+            1,
+            0.7506
+          ]
+        },
+        {
+          "start": 15.049,
+          "end": 22.759,
+          "omrade": [
+            0,
+            0.4504,
+            1,
+            0.8764
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

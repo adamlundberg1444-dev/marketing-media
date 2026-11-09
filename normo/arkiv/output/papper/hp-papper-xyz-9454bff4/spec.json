@@ -1,0 +1,457 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "q",
+        "t": "Vad är"
+      }
+    ],
+    [
+      {
+        "id": "b1",
+        "tex": "\\frac{1}{1+\\frac{1}{4}}",
+        "uttryck": true
+      },
+      {
+        "id": "mi",
+        "t": " − "
+      },
+      {
+        "id": "b2",
+        "tex": "\\frac{1}{1+\\frac{1}{5}}"
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-\\frac{1}{20}"
+    },
+    {
+      "letter": "B",
+      "tex": "-\\frac{1}{30}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\frac{1}{30}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\frac{1}{20}"
+    }
+  ],
+  "correct": 1,
+  "hook": {
+    "lines": [
+      "Bråk i bråk på HP?",
+      "Snällare än det ser ut."
+    ],
+    "start": 0.01999999999999999,
+    "end": 5.02
+  },
+  "arrow": {
+    "start": 0.31999999999999995,
+    "end": 5.02,
+    "d": "M 900 1200 C 1000 900, 950 560, 715 480",
+    "head": "M 782 469 L 715 480 L 762 529"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{1}{4}-\\frac{1}{5}",
+          "at": 14.21,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 16.24,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "\\frac{1}{20}",
+          "at": 16.39,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 24.35,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{1}{1+\\frac{1}{4}}"
+            },
+            {
+              "k": "-",
+              "tex": "-"
+            },
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{1}{1+\\frac{1}{5}}"
+            }
+          ]
+        },
+        {
+          "at": 28.31,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{1}{\\frac{5}{4}}"
+            },
+            "-",
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{1}{1+\\frac{1}{5}}"
+            }
+          ]
+        },
+        {
+          "at": 32.83,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{4}{5}"
+            },
+            "-",
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{1}{1+\\frac{1}{5}}"
+            }
+          ]
+        },
+        {
+          "at": 35.59,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{4}{5}"
+            },
+            "-",
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{1}{\\frac{6}{5}}"
+            }
+          ]
+        },
+        {
+          "at": 37.94,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{4}{5}"
+            },
+            "-",
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{5}{6}"
+            }
+          ]
+        },
+        {
+          "at": 41.81,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{24}{30}"
+            },
+            "-",
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{5}{6}"
+            }
+          ]
+        },
+        {
+          "at": 42.27,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "\\displaystyle \\frac{24}{30}"
+            },
+            "-",
+            {
+              "k": "b",
+              "tex": "\\displaystyle \\frac{25}{30}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 3,
+      "cells": [
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 43.65,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "-\\frac{1}{30}",
+          "at": 44.21,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 21.29
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 21.54
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "R",
+      "at": 45.41
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "b1",
+        "mi",
+        "b2"
+      ],
+      "at": 12.42,
+      "end": 13.41
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "b1"
+      ],
+      "color": "gron",
+      "at": 24.35,
+      "end": 34.68
+    },
+    {
+      "ids": [
+        "b2"
+      ],
+      "color": "gron",
+      "at": 34.68,
+      "end": 39.72
+    }
+  ],
+  "bagar": [],
+  "skamt": {
+    "ut": 5.05,
+    "tillbaka": 9.45,
+    "studsa": {
+      "ids": [
+        "b1",
+        "b2"
+      ],
+      "at": 8.02,
+      "end": 9.45
+    }
+  },
+  "alt": {
+    "losning": 4.85,
+    "lockbete": {
+      "at": 17.84,
+      "end": 19.27,
+      "markera": {
+        "val": "D",
+        "at": 17.84,
+        "end": 19.27
+      }
+    },
+    "tillbaka": 45.7
+  },
+  "lage": {
+    "fraga": 300,
+    "alt": 660,
+    "rader": 740,
+    "krok": 1180
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.52,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 760,
+      "dur": 0.5
+    },
+    {
+      "at": 4.85,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 9.35,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 480,
+      "dur": 0.45
+    },
+    {
+      "at": 13.11,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 24.25,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 700,
+      "dur": 0.45
+    },
+    {
+      "at": 43.55,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 800,
+      "dur": 0.4
+    },
+    {
+      "at": 45.4,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Bråk som bor i bråk",
+      "start": 5.05,
+      "end": 7.48
+    },
+    {
+      "text": "Någon har byggt på höjden",
+      "start": 7.48,
+      "end": 9.45
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 9.45,
+      "end": 11.68
+    },
+    {
+      "text": "Vi ska räkna ut skillnaden",
+      "start": 11.68,
+      "end": 13.41
+    },
+    {
+      "text": "Lätt. Ettorna tar ut varandra",
+      "start": 13.41,
+      "end": 15.85
+    },
+    {
+      "text": "så det blir en tjugondel",
+      "start": 15.85,
+      "end": 17.84
+    },
+    {
+      "text": "Svaret är D",
+      "start": 17.84,
+      "end": 19.37
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 19.37,
+      "end": 21.29
+    },
+    {
+      "text": "Nej, ettorna sitter ju i nämnaren",
+      "start": 21.29,
+      "end": 24.35
+    },
+    {
+      "text": "Första nämnaren",
+      "start": 24.35,
+      "end": 25.79
+    },
+    {
+      "text": "1 plus en fjärdedel är",
+      "start": 25.79,
+      "end": 28.31
+    },
+    {
+      "text": "fem fjärdedelar",
+      "start": 28.31,
+      "end": 30.270000000000003
+    },
+    {
+      "text": "1 delat med fem fjärdedelar",
+      "start": 30.29,
+      "end": 32.55
+    },
+    {
+      "text": "är fyra femtedelar",
+      "start": 32.55,
+      "end": 34.68
+    },
+    {
+      "text": "Samma här",
+      "start": 34.68,
+      "end": 35.59
+    },
+    {
+      "text": "sex femtedelar",
+      "start": 35.59,
+      "end": 37.12
+    },
+    {
+      "text": "alltså fem sjättedelar",
+      "start": 37.12,
+      "end": 39.72
+    },
+    {
+      "text": "Gemensam nämnare 30",
+      "start": 39.72,
+      "end": 41.81
+    },
+    {
+      "text": "24 minus 25",
+      "start": 41.81,
+      "end": 43.65
+    },
+    {
+      "text": "Det blir minus en trettiondel",
+      "start": 43.65,
+      "end": 46.3
+    },
+    {
+      "text": "Svaret är B",
+      "start": 46.3,
+      "end": 48.24
+    }
+  ],
+  "circle": {
+    "start": 47.34,
+    "end": 48.040000000000006
+  },
+  "duration": 49.24
+}

@@ -1,0 +1,472 @@
+{
+  "slug": "hp-dtk-2ac42ce3",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "2ac42ce3-a814-435a-b4b8-0826a706c976"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK-fråga · Högskoleprovet",
+    "text2": "HT 2026 · fråga 37",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "geografiskt"
+      },
+      {
+        "text": "område"
+      },
+      {
+        "text": "avses?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Inköpen"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "området"
+      },
+      {
+        "text": "motsvarade"
+      },
+      {
+        "text": "25–30"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "totala"
+      },
+      {
+        "text": "inköpsvärdet"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "såväl"
+      },
+      {
+        "text": "träindustrin"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "verkstadsindustrin."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Egna"
+          },
+          {
+            "text": "länet"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Riket"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "övrigt"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Utlandet"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Ospecificerat"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/2ac42ce3-a814-435a-b4b8-0826a706c976.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{317}{4} ≈ 79,   0,3 · 317 ≈ 95"
+    },
+    {
+      "text": "\\frac{834}{4} ≈ 209,   0,3 · 834 ≈ 250"
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 48.671,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 11.94
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.26
+        },
+        {
+          "start": 1.26,
+          "end": 1.97
+        },
+        {
+          "start": 1.97,
+          "end": 2.43
+        },
+        {
+          "start": 2.43,
+          "end": 3.19
+        },
+        {
+          "start": 3.19,
+          "end": 3.7
+        },
+        {
+          "start": 3.7,
+          "end": 4.06
+        },
+        {
+          "start": 4.06,
+          "end": 4.57
+        },
+        {
+          "start": 4.57,
+          "end": 5.23
+        },
+        {
+          "start": 5.23,
+          "end": 5.64
+        },
+        {
+          "start": 5.64,
+          "end": 6.15
+        },
+        {
+          "start": 6.15,
+          "end": 6.41
+        },
+        {
+          "start": 6.41,
+          "end": 6.72
+        },
+        {
+          "start": 6.72,
+          "end": 7.18
+        },
+        {
+          "start": 7.18,
+          "end": 7.94
+        },
+        {
+          "start": 7.94,
+          "end": 8.25
+        },
+        {
+          "start": 8.25,
+          "end": 8.66
+        },
+        {
+          "start": 8.66,
+          "end": 9.42
+        },
+        {
+          "start": 9.42,
+          "end": 9.73
+        },
+        {
+          "start": 9.73,
+          "end": 11.14
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.94,
+          "chars": [
+            11.94,
+            12.0938,
+            12.2477,
+            12.4015,
+            12.5554,
+            12.7092,
+            12.7554,
+            12.9092,
+            12.9554,
+            13.1092,
+            13.2631,
+            13.4169,
+            13.4631,
+            13.5092,
+            13.5554,
+            13.7092,
+            13.8631,
+            14.0169,
+            14.0631,
+            14.2169,
+            14.2631,
+            14.4169,
+            14.5708,
+            14.7246,
+            14.7708,
+            14.9246,
+            14.9708,
+            15.1246
+          ]
+        },
+        {
+          "start": 15.6285,
+          "chars": [
+            15.6285,
+            15.7823,
+            15.9362,
+            16.09,
+            16.2438,
+            16.3977,
+            16.4438,
+            16.5977,
+            16.6438,
+            16.7977,
+            16.9515,
+            17.1054,
+            17.2592,
+            17.3054,
+            17.3515,
+            17.3977,
+            17.5515,
+            17.7054,
+            17.8592,
+            17.9054,
+            18.0592,
+            18.1054,
+            18.2592,
+            18.4131,
+            18.5669,
+            18.6131,
+            18.7669,
+            18.8131,
+            18.9669,
+            19.1208
+          ]
+        },
+        {
+          "start": 20.9746,
+          "chars": [
+            20.9746,
+            21.1285,
+            21.2823,
+            21.4362,
+            21.59,
+            21.7438,
+            21.79,
+            21.9438,
+            22.0977,
+            22.2515,
+            22.2977,
+            22.4515,
+            22.6054,
+            22.7592,
+            22.9131,
+            23.0669
+          ]
+        }
+      ],
+      "circle": {
+        "start": 19.625,
+        "end": 20.525
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 23.571,
+          "end": 24.321,
+          "targets": [
+            {
+              "circle": [
+                0.6025,
+                0.439
+              ],
+              "r": 0.024,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.171,
+          "end": 25.921,
+          "targets": [
+            {
+              "circle": [
+                0.607,
+                0.505
+              ],
+              "r": 0.024,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.271,
+          "end": 27.021,
+          "targets": [
+            {
+              "circle": [
+                0.607,
+                0.579
+              ],
+              "r": 0.024,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 27.871,
+          "end": 28.621,
+          "targets": [
+            {
+              "circle": [
+                0.273,
+                0.717
+              ],
+              "r": 0.024,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 29.471,
+          "end": 30.221,
+          "targets": [
+            {
+              "circle": [
+                0.275,
+                0.852
+              ],
+              "r": 0.022,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 30.571,
+          "end": 31.321,
+          "targets": [
+            {
+              "circle": [
+                0.277,
+                0.895
+              ],
+              "r": 0.022,
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 32.171,
+          "end": 38.671,
+          "omrade": [
+            0.44,
+            0.4,
+            0.8,
+            0.65
+          ]
+        },
+        {
+          "start": 39.171,
+          "end": 45.671,
+          "omrade": [
+            0.1,
+            0.68,
+            0.48,
+            0.93
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

@@ -1,0 +1,283 @@
+{
+  "slug": "hp-xyz-7f802911",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "7f802911-82f7-4e58-bcca-d0ac719a51fa"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 6 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " 2{,}3 \\cdot 10^3 + 9{,}8 \\cdot 10^2 ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " 3{,}28 \\cdot 10^3 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 1{,}21 \\cdot 10^4 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 3{,}28 \\cdot 10^4 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 1{,}21 \\cdot 10^6 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "2{,}3 \\cdot 10^3 = 2300"
+    },
+    {
+      "text": "9{,}8 \\cdot 10^2 = 980"
+    },
+    {
+      "text": "2300 + 980 = 3280"
+    },
+    {
+      "text": "3280 = 3{,}28 \\cdot 10^3",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 21.906,
+    "phases": {
+      "readStart": 1.073,
+      "writeStart": 6.466
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.073,
+          "end": 1.201
+        },
+        {
+          "start": 1.236,
+          "end": 1.282
+        },
+        {
+          "start": 1.282,
+          "end": 4.9158
+        },
+        {
+          "start": 4.9158,
+          "end": 6.008
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.466,
+          "chars": [
+            6.466,
+            6.7125,
+            6.959,
+            7.2055,
+            7.2795,
+            7.526,
+            7.6,
+            7.8465,
+            8.093,
+            8.3395,
+            8.4135,
+            8.66,
+            8.7339,
+            8.9805,
+            9.227,
+            9.4735
+          ]
+        },
+        {
+          "start": 11.043,
+          "chars": [
+            11.043,
+            11.1314,
+            11.2199,
+            11.3083,
+            11.3349,
+            11.4233,
+            11.4498,
+            11.5383,
+            11.6267,
+            11.7152,
+            11.7417,
+            11.8301,
+            11.8567,
+            11.9451,
+            12.0336
+          ]
+        },
+        {
+          "start": 12.404,
+          "chars": [
+            12.404,
+            12.534,
+            12.664,
+            12.794,
+            12.924,
+            12.963,
+            13.093,
+            13.132,
+            13.262,
+            13.392,
+            13.522,
+            13.561,
+            13.691,
+            13.73,
+            13.86,
+            13.99,
+            14.12
+          ]
+        },
+        {
+          "start": 14.496,
+          "chars": [
+            14.496,
+            14.7069,
+            14.9178,
+            15.1287,
+            15.3397,
+            15.4029,
+            15.6139,
+            15.6771,
+            15.888,
+            16.099,
+            16.3099,
+            16.5208,
+            16.5841,
+            16.795,
+            16.8583,
+            17.0692,
+            17.2801
+          ]
+        },
+        {
+          "start": 19.4064,
+          "chars": [
+            19.4064,
+            19.4159,
+            19.4255,
+            19.4351,
+            19.4446,
+            19.4475,
+            19.4571,
+            19.4667,
+            19.4762,
+            19.4858,
+            19.4954,
+            19.5049,
+            19.5145,
+            19.5241,
+            19.5336,
+            19.5365,
+            19.5461,
+            19.549,
+            19.5585,
+            19.5681,
+            19.5777,
+            19.5872,
+            19.5968
+          ]
+        }
+      ],
+      "circle": {
+        "start": 18.216,
+        "end": 19.076
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

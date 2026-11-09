@@ -1,0 +1,226 @@
+{
+  "slug": "hp-ord-ccf35ca5-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "ccf35ca5-8e80-468b-8397-babdbc415049"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "underfundig"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "försiktig"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "strulig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "stillsam"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "sällsynt"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "finurlig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "underfundig = finurlig",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 30.24,
+    "phases": {
+      "readStart": 0.22,
+      "writeStart": 18.62
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.22,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.62,
+          "chars": [
+            18.62,
+            18.857,
+            19.094,
+            19.331,
+            19.568,
+            19.805,
+            20.0419,
+            20.2789,
+            20.5159,
+            20.7529,
+            20.9899,
+            21.2269,
+            21.298,
+            21.535,
+            21.6061,
+            21.8431,
+            22.0801,
+            22.317,
+            22.554,
+            22.791,
+            23.028,
+            23.265
+          ]
+        },
+        {
+          "start": 30.08,
+          "chars": [
+            30.08,
+            30.0896,
+            30.0991,
+            30.1087,
+            30.1183,
+            30.1211,
+            30.1307,
+            30.1403,
+            30.1499,
+            30.1594,
+            30.169,
+            30.1786,
+            30.1881,
+            30.1977,
+            30.2073,
+            30.2101,
+            30.2197,
+            30.2226,
+            30.2322,
+            30.2417,
+            30.2513,
+            30.2609,
+            30.2704
+          ]
+        }
+      ],
+      "circle": {
+        "start": 26.8,
+        "end": 28.74
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.22,
+          "end": 0.97,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Underfundig"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 30.03
+  },
+  "layout": {},
+  "variant": "app"
+}

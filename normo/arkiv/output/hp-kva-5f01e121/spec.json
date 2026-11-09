@@ -1,0 +1,320 @@
+{
+  "slug": "hp-kva-5f01e121",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "5f01e121-5ac7-448f-a300-b874b0f63fcb"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "HT 2019 · fråga 19",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "\\begin{aligned}a^m \\cdot a^n &= a^{m+n}\\\\ \\tfrac{a^m}{a^n} &= a^{m-n}\\\\ (a^m)^n &= a^{mn}\\end{aligned}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": "3³ + 3³ + 3³",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": "3⁴",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "3^3 + 3^3 + 3^3 = 3 \\cdot 3^3"
+    },
+    {
+      "text": "= 3^1 \\cdot 3^3 = 3^4"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 82.276,
+    "phases": {
+      "readStart": 3.735,
+      "writeStart": 30.873
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.735,
+          "end": 4.362
+        },
+        {
+          "start": 4.362,
+          "end": 6.5037
+        },
+        {
+          "start": 6.5037,
+          "end": 10.596
+        },
+        {
+          "start": 10.596,
+          "end": 11.165
+        },
+        {
+          "start": 11.165,
+          "end": 12.3585
+        },
+        {
+          "start": 12.3585,
+          "end": 13.278
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.873,
+          "chars": [
+            30.873,
+            31.1157,
+            31.3585,
+            31.4313,
+            31.674,
+            31.7468,
+            31.9895,
+            32.2323,
+            32.3051,
+            32.5478,
+            32.6206,
+            32.8634,
+            33.1061,
+            33.1789,
+            33.4216,
+            33.4945,
+            33.7372,
+            33.81,
+            34.0527,
+            34.1255,
+            34.3683
+          ]
+        },
+        {
+          "start": 40.263,
+          "chars": [
+            40.263,
+            40.5163,
+            40.5923,
+            40.8457,
+            41.099,
+            41.175,
+            41.4283,
+            41.5043,
+            41.7577,
+            42.011,
+            42.087,
+            42.3403,
+            42.4163,
+            42.6697
+          ]
+        },
+        {
+          "start": 54.865,
+          "chars": [
+            54.865,
+            55.1611,
+            55.2499,
+            55.546,
+            55.6348,
+            55.9309
+          ]
+        },
+        {
+          "start": 76.479,
+          "chars": [
+            76.479,
+            76.6741,
+            76.8692,
+            77.0643,
+            77.2594,
+            77.4544,
+            77.513,
+            77.7081,
+            77.9031,
+            78.0982,
+            78.2933,
+            78.3519,
+            78.5469,
+            78.6055,
+            78.8006,
+            78.9956,
+            79.1907,
+            79.3858,
+            79.5809
+          ]
+        }
+      ],
+      "circle": {
+        "start": 71.309,
+        "end": 74.478
+      },
+      "options": {
+        "hideAt": 18.284,
+        "showAt": 70.409
+      },
+      "concept": {
+        "start": 19.875,
+        "end": 29.477,
+        "hideAt": 39.916
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

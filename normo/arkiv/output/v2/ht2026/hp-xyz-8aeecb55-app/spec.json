@@ -1,0 +1,533 @@
+{
+  "slug": "hp-xyz-8aeecb55-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "8aeecb55-83de-41f3-aa2f-f3b9760dd72b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "En"
+      },
+      {
+        "text": "låda"
+      },
+      {
+        "text": "innehåller"
+      },
+      {
+        "text": "endast"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "röda"
+      },
+      {
+        "text": "kulor,"
+      },
+      {
+        "tex": " y ",
+        "display": false
+      },
+      {
+        "text": "svarta"
+      },
+      {
+        "text": "kulor"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": " z ",
+        "display": false
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "kulor."
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "svarsalternativ"
+      },
+      {
+        "text": "motsvarar"
+      },
+      {
+        "text": "sannolikheten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "slumpmässigt"
+      },
+      {
+        "text": "vald"
+      },
+      {
+        "text": "kula"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "svart"
+      },
+      {
+        "text": "eller"
+      },
+      {
+        "text": "vit?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 27,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " \\frac{y+z}{x} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " \\frac{y+z-x}{y+z} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " \\frac{y+z}{x+y+z} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " \\frac{y+z-x}{x+y+z} ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "P = \\frac{gynnsamma}{möjliga}"
+    },
+    {
+      "text": "gynnsamma: y + z"
+    },
+    {
+      "text": "möjliga: x + y + z"
+    },
+    {
+      "text": "P = \\frac{y + z}{x + y + z}",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 51,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 13.58
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.26
+        },
+        {
+          "start": 0.3,
+          "end": 0.72
+        },
+        {
+          "start": 0.72,
+          "end": 1.112
+        },
+        {
+          "start": 1.112,
+          "end": 1.3852
+        },
+        {
+          "start": 1.3852,
+          "end": 1.7
+        },
+        {
+          "start": 1.7,
+          "end": 2.12
+        },
+        {
+          "start": 2.12,
+          "end": 2.4731
+        },
+        {
+          "start": 2.4731,
+          "end": 2.88
+        },
+        {
+          "start": 2.88,
+          "end": 3.38
+        },
+        {
+          "start": 3.38,
+          "end": 3.64
+        },
+        {
+          "start": 3.64,
+          "end": 3.72
+        },
+        {
+          "start": 3.72,
+          "end": 4.32
+        },
+        {
+          "start": 4.32,
+          "end": 4.74
+        },
+        {
+          "start": 4.8,
+          "end": 5.32
+        },
+        {
+          "start": 5.32,
+          "end": 5.7149
+        },
+        {
+          "start": 5.7149,
+          "end": 6.4963
+        },
+        {
+          "start": 6.4963,
+          "end": 7.02
+        },
+        {
+          "start": 7.02,
+          "end": 8.2
+        },
+        {
+          "start": 8.3,
+          "end": 8.38
+        },
+        {
+          "start": 8.42,
+          "end": 8.54
+        },
+        {
+          "start": 8.54,
+          "end": 9.4
+        },
+        {
+          "start": 9.4,
+          "end": 9.72
+        },
+        {
+          "start": 9.78,
+          "end": 10.34
+        },
+        {
+          "start": 10.42,
+          "end": 10.54
+        },
+        {
+          "start": 10.62,
+          "end": 11.14
+        },
+        {
+          "start": 11.22,
+          "end": 11.4
+        },
+        {
+          "start": 11.46,
+          "end": 11.86
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.58,
+          "chars": [
+            13.58,
+            13.8179,
+            13.8892,
+            14.1271,
+            14.1984,
+            14.4363,
+            14.6741,
+            14.912,
+            15.1499,
+            15.3877,
+            15.6256,
+            15.8634,
+            16.1013,
+            16.3391,
+            16.577,
+            16.8149,
+            17.0527,
+            17.2906,
+            17.5284,
+            17.7663,
+            18.0041
+          ]
+        },
+        {
+          "start": 21.34,
+          "chars": [
+            21.34,
+            21.5852,
+            21.8304,
+            22.0755,
+            22.3207,
+            22.5659,
+            22.8111,
+            23.0563,
+            23.3014,
+            23.5466,
+            23.7918,
+            23.8654,
+            24.1105,
+            24.1841,
+            24.4293,
+            24.5028
+          ]
+        },
+        {
+          "start": 30.22,
+          "chars": [
+            30.22,
+            30.4641,
+            30.7083,
+            30.9524,
+            31.1966,
+            31.4407,
+            31.6848,
+            31.929,
+            32.1731,
+            32.2463,
+            32.4905,
+            32.5637,
+            32.8079,
+            32.8811,
+            33.1252,
+            33.1985,
+            33.4426,
+            33.5159
+          ]
+        },
+        {
+          "start": 39.26,
+          "chars": [
+            39.26,
+            39.5061,
+            39.58,
+            39.8261,
+            39.8999,
+            40.146,
+            40.2199,
+            40.466,
+            40.5398,
+            40.7859,
+            41.0321,
+            41.2782,
+            41.352,
+            41.5981,
+            41.672,
+            41.9181,
+            41.9919,
+            42.238,
+            42.3119
+          ]
+        },
+        {
+          "start": 49.74,
+          "chars": [
+            49.74,
+            49.7496,
+            49.7591,
+            49.7687,
+            49.7783,
+            49.7811,
+            49.7907,
+            49.8003,
+            49.8099,
+            49.8194,
+            49.829,
+            49.8386,
+            49.8481,
+            49.8577,
+            49.8673,
+            49.8701,
+            49.8797,
+            49.8826,
+            49.8922,
+            49.9017,
+            49.9113,
+            49.9209,
+            49.9304
+          ]
+        }
+      ],
+      "circle": {
+        "start": 48.54,
+        "end": 49.5
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.7,
+          "end": 2.45,
+          "targets": [
+            {
+              "w": 4,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 5,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 6,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 7,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 8,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 9,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 10,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 11,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 12,
+              "from": "röda",
+              "color": "blå"
+            },
+            {
+              "w": 13,
+              "from": "röda",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 10.62,
+          "end": 11.37,
+          "targets": [
+            {
+              "w": 24,
+              "from": "svart eller",
+              "color": "gul"
+            },
+            {
+              "w": 25,
+              "from": "svart eller",
+              "color": "gul"
+            },
+            {
+              "w": 26,
+              "from": "svart eller",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 49.69
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

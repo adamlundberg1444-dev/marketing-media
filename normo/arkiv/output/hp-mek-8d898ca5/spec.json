@@ -1,0 +1,675 @@
+{
+  "slug": "hp-mek-8d898ca5",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "8d898ca5-6614-4db1-b3da-afc666a2c09d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "HT 2019 · fråga 25",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Sätt in ordet du tror på och läs om meningen, för fel ord hörs oftare än det syns."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vart"
+      },
+      {
+        "text": "rör"
+      },
+      {
+        "text": "sig"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "globala"
+      },
+      {
+        "text": "ekonomin?"
+      },
+      {
+        "text": "Den"
+      },
+      {
+        "text": "stora"
+      },
+      {
+        "text": "frågan"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "vi"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "levt"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "_________,"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "senaste"
+      },
+      {
+        "text": "20–30"
+      },
+      {
+        "text": "åren"
+      },
+      {
+        "text": "bara"
+      },
+      {
+        "text": "varit"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "bubbla"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "kredit"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "vi"
+      },
+      {
+        "text": "nu"
+      },
+      {
+        "text": "nått"
+      },
+      {
+        "text": "_________."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 33,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "små"
+          },
+          {
+            "text": "marginaler"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "målet"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "lånad"
+          },
+          {
+            "text": "tid"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "vägs"
+          },
+          {
+            "text": "ände"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "gammal"
+          },
+          {
+            "text": "skåpmat"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "kulmen"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "egna"
+          },
+          {
+            "text": "villkor"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "ända"
+          },
+          {
+            "text": "fram"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "små marginaler = litet utrymme"
+    },
+    {
+      "text": "lånad tid = en frist på kredit",
+      "emphasis": true
+    },
+    {
+      "text": "gammal skåpmat = uttjatat"
+    },
+    {
+      "text": "egna villkor = utan lån"
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 117.104,
+    "phases": {
+      "readStart": 4.745,
+      "writeStart": 42.027
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.745,
+          "end": 5
+        },
+        {
+          "start": 5.07,
+          "end": 5.302
+        },
+        {
+          "start": 5.36,
+          "end": 5.499
+        },
+        {
+          "start": 5.523,
+          "end": 5.65
+        },
+        {
+          "start": 5.72,
+          "end": 6.219
+        },
+        {
+          "start": 6.266,
+          "end": 7.125
+        },
+        {
+          "start": 7.787,
+          "end": 7.972
+        },
+        {
+          "start": 8.03,
+          "end": 8.367
+        },
+        {
+          "start": 8.414,
+          "end": 8.75
+        },
+        {
+          "start": 8.82,
+          "end": 8.901
+        },
+        {
+          "start": 8.948,
+          "end": 8.994
+        },
+        {
+          "start": 9.017,
+          "end": 9.087
+        },
+        {
+          "start": 9.122,
+          "end": 9.203
+        },
+        {
+          "start": 9.249,
+          "end": 9.575
+        },
+        {
+          "start": 9.633,
+          "end": 9.888
+        },
+        {
+          "start": 9.888,
+          "end": 12.175
+        },
+        {
+          "start": 12.175,
+          "end": 12.291
+        },
+        {
+          "start": 12.338,
+          "end": 12.477
+        },
+        {
+          "start": 12.547,
+          "end": 13.011
+        },
+        {
+          "start": 13.011,
+          "end": 14.044
+        },
+        {
+          "start": 14.044,
+          "end": 14.3
+        },
+        {
+          "start": 14.346,
+          "end": 14.509
+        },
+        {
+          "start": 14.555,
+          "end": 14.753
+        },
+        {
+          "start": 14.776,
+          "end": 14.845
+        },
+        {
+          "start": 14.903,
+          "end": 15.298
+        },
+        {
+          "start": 15.333,
+          "end": 15.414
+        },
+        {
+          "start": 15.472,
+          "end": 15.937
+        },
+        {
+          "start": 16.111,
+          "end": 16.204
+        },
+        {
+          "start": 16.262,
+          "end": 16.32
+        },
+        {
+          "start": 16.355,
+          "end": 16.448
+        },
+        {
+          "start": 16.494,
+          "end": 16.61
+        },
+        {
+          "start": 16.68,
+          "end": 16.97
+        },
+        {
+          "start": 16.97,
+          "end": 19.164
+        },
+        {
+          "start": 20.906,
+          "end": 21.278
+        },
+        {
+          "start": 21.336,
+          "end": 22.114
+        },
+        {
+          "start": 22.114,
+          "end": 22.288
+        },
+        {
+          "start": 22.288,
+          "end": 22.915
+        },
+        {
+          "start": 22.973,
+          "end": 23.437
+        },
+        {
+          "start": 23.46,
+          "end": 23.785
+        },
+        {
+          "start": 23.785,
+          "end": 23.867
+        },
+        {
+          "start": 23.867,
+          "end": 24.215
+        },
+        {
+          "start": 24.296,
+          "end": 24.761
+        },
+        {
+          "start": 24.819,
+          "end": 25.237
+        },
+        {
+          "start": 25.272,
+          "end": 25.98
+        },
+        {
+          "start": 25.98,
+          "end": 26.073
+        },
+        {
+          "start": 26.073,
+          "end": 26.804
+        },
+        {
+          "start": 27.443,
+          "end": 27.71
+        },
+        {
+          "start": 27.768,
+          "end": 28.29
+        },
+        {
+          "start": 28.29,
+          "end": 28.418
+        },
+        {
+          "start": 28.418,
+          "end": 28.743
+        },
+        {
+          "start": 28.801,
+          "end": 29.254
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 42.027,
+          "chars": [
+            42.027,
+            42.2599,
+            42.4927,
+            42.7256,
+            42.7955,
+            43.0283,
+            43.2612,
+            43.4941,
+            43.7269,
+            43.9598,
+            44.1927,
+            44.4255,
+            44.6584,
+            44.8913,
+            45.1241,
+            45.194,
+            45.4269,
+            45.4967,
+            45.7296,
+            45.9625,
+            46.1953,
+            46.4282,
+            46.6611,
+            46.7309,
+            46.9638,
+            47.1967,
+            47.4295,
+            47.6624,
+            47.8953,
+            48.1281
+          ]
+        },
+        {
+          "start": 58.536,
+          "chars": [
+            58.536,
+            58.7696,
+            59.0031,
+            59.2367,
+            59.4703,
+            59.7038,
+            59.7739,
+            60.0075,
+            60.241,
+            60.4746,
+            60.5447,
+            60.7782,
+            60.8483,
+            61.0819,
+            61.3154,
+            61.3855,
+            61.6191,
+            61.8526,
+            62.0862,
+            62.3198,
+            62.5533,
+            62.6234,
+            62.857,
+            63.0905,
+            63.1606,
+            63.3942,
+            63.6277,
+            63.8613,
+            64.0949,
+            64.3284
+          ]
+        },
+        {
+          "start": 75.715,
+          "chars": [
+            75.715,
+            75.9503,
+            76.1856,
+            76.4209,
+            76.6561,
+            76.8914,
+            77.1267,
+            77.1973,
+            77.4326,
+            77.6679,
+            77.9031,
+            78.1384,
+            78.3737,
+            78.609,
+            78.8443,
+            78.9149,
+            79.1501,
+            79.2207,
+            79.456,
+            79.6913,
+            79.9266,
+            80.1619,
+            80.3971,
+            80.6324,
+            80.8677
+          ]
+        },
+        {
+          "start": 90.575,
+          "chars": [
+            90.575,
+            90.8123,
+            91.0497,
+            91.287,
+            91.5243,
+            91.5955,
+            91.8328,
+            92.0702,
+            92.3075,
+            92.5448,
+            92.7821,
+            93.0195,
+            93.2568,
+            93.328,
+            93.5653,
+            93.6365,
+            93.8738,
+            94.1112,
+            94.3485,
+            94.5858,
+            94.657,
+            94.8943,
+            95.1317
+          ]
+        },
+        {
+          "start": 111.4,
+          "chars": [
+            111.4,
+            111.6015,
+            111.803,
+            112.0045,
+            112.206,
+            112.4075,
+            112.468,
+            112.6695,
+            112.871,
+            113.0725,
+            113.133,
+            113.3345,
+            113.3949,
+            113.5965,
+            113.798,
+            113.9995,
+            114.201,
+            114.4025
+          ]
+        }
+      ],
+      "circle": {
+        "start": 102.132,
+        "end": 109.887
+      },
+      "options": null,
+      "concept": {
+        "start": 31.284,
+        "end": 41.269,
+        "hideAt": 56.841
+      },
+      "strikes": [
+        {
+          "start": 56.542,
+          "end": 57.292,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 88.07,
+          "end": 88.82,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 99.273,
+          "end": 100.023,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

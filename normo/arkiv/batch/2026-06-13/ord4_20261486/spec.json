@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261486",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-19.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "assessor",
+      "options": [
+        "ett slags piano",
+        "kliché",
+        "berättande diktning",
+        "högre jurist"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "assessor",
+      "options": [
+        "ett slags piano",
+        "kliché",
+        "berättande diktning",
+        "högre jurist"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "molar",
+      "options": [
+        "sjörövare",
+        "havsgud",
+        "kindtand",
+        "nonsens"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "molar",
+      "options": [
+        "sjörövare",
+        "havsgud",
+        "kindtand",
+        "nonsens"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "prognos",
+      "options": [
+        "motsats",
+        "en konstriktning",
+        "malörtslikör",
+        "gissad framtidsbild"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "prognos",
+      "options": [
+        "motsats",
+        "en konstriktning",
+        "malörtslikör",
+        "gissad framtidsbild"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "mosaik",
+      "options": [
+        "lust att plåga",
+        "läran om kroppsvävnader",
+        "ihopsatta olikfärgade bitar",
+        "invigning av professor; större konstverk"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "mosaik",
+      "options": [
+        "lust att plåga",
+        "läran om kroppsvävnader",
+        "ihopsatta olikfärgade bitar",
+        "invigning av professor; större konstverk"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20264001",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-12.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "vederlag",
+      "options": [
+        "ersättning",
+        "moraliserande djursaga",
+        "lärjunge",
+        "orddel"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "vederlag",
+      "options": [
+        "ersättning",
+        "moraliserande djursaga",
+        "lärjunge",
+        "orddel"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "arkaisera",
+      "options": [
+        "efterbilda ålderdomlig stil",
+        "vimla",
+        "motbevisa",
+        "glädja"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "arkaisera",
+      "options": [
+        "efterbilda ålderdomlig stil",
+        "vimla",
+        "motbevisa",
+        "glädja"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "tillsyn",
+      "options": [
+        "glaciärbildat grus",
+        "mängd",
+        "blåsinstrument",
+        "övervakning"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "tillsyn",
+      "options": [
+        "glaciärbildat grus",
+        "mängd",
+        "blåsinstrument",
+        "övervakning"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "groupie",
+      "options": [
+        "sångare; diktare",
+        "fan",
+        "inskridande",
+        "hetsporre"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "groupie",
+      "options": [
+        "sångare; diktare",
+        "fan",
+        "inskridande",
+        "hetsporre"
+      ],
+      "correct": 1,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

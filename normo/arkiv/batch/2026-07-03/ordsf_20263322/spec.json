@@ -1,0 +1,27 @@
+{
+  "slug": "ordsf_20263322",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Sant eller falskt:\nkan du HP-ordet?",
+      "bgImage": "tiktok/assets/intro/intro-05.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "html",
+      "theme": "green",
+      "html": "\n    <div style=\"display:flex;flex-direction:column;align-items:center;gap:42px;padding:0 20px;\">\n      <span style=\"background:#0A0A0A;color:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:32px;font-weight:900;letter-spacing:3px;text-transform:uppercase;padding:14px 34px;border-radius:100px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">Sant eller falskt?</span>\n      <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:96px;font-weight:900;color:#FFFFFF;text-align:center;line-height:1.05;letter-spacing:-1px;\">varsel</div>\n      <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:30px;font-weight:700;color:rgba(255,255,255,0.75);margin-top:-24px;\">Substantiv</div>\n      <div style=\"background:#FFFFFF;border:5px solid #0A0A0A;border-radius:30px;padding:38px 46px;max-width:900px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">\n        <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:52px;font-weight:800;color:#0A0A0A;text-align:center;line-height:1.3;\">betyder<br>”det finaste”</div>\n      </div>\n      <div style=\"display:flex;gap:30px;flex-wrap:wrap;justify-content:center;\">\n        <div style=\"min-width:280px;padding:26px 40px;display:flex;align-items:center;justify-content:center;gap:14px;background:#FFFFFF;border:5px solid #0A0A0A;border-radius:26px;font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:52px;font-weight:900;color:#15803D;letter-spacing:1px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">✓ SANT</div>\n        <div style=\"min-width:280px;padding:26px 40px;display:flex;align-items:center;justify-content:center;gap:14px;background:#FFFFFF;border:5px solid #0A0A0A;border-radius:26px;font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:52px;font-weight:900;color:#D0184D;letter-spacing:1px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">✗ FALSKT</div>\n      </div>\n      \n    </div>",
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "html",
+      "theme": "green",
+      "html": "\n  <div style=\"display:flex;flex-direction:column;align-items:center;gap:46px;padding:0 30px;\">\n    <span style=\"background:#0A0A0A;color:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:34px;font-weight:900;letter-spacing:3px;text-transform:uppercase;padding:16px 36px;border-radius:100px;\">Inget facit 👀</span>\n    <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:100px;font-weight:900;color:#FFFFFF;text-align:center;line-height:1.05;\">Vad säger du?</div>\n    <div style=\"position:relative;background:#FFFFFF;border:3px solid rgba(10,10,10,0.14);border-radius:36px;padding:40px 48px;max-width:830px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">\n      <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:46px;font-weight:700;color:#0A0A0A;text-align:center;line-height:1.35;\">Skriv din gissning i kommentarerna och jämför med de andra</div>\n      <div style=\"position:absolute;left:84px;bottom:-27px;width:0;height:0;border-left:24px solid transparent;border-right:24px solid transparent;border-top:30px solid #FFFFFF;\"></div>\n    </div>\n    <div style=\"font-size:78px;margin-top:6px;\">💬 👇</div>\n  </div>"
+    },
+    {
+      "kind": "cta",
+      "title": "Alla HP-orden\ni en app"
+    }
+  ]
+}

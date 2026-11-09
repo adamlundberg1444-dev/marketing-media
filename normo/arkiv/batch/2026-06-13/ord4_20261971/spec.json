@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261971",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-13.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "blid",
+      "options": [
+        "tydligt framträdande",
+        "kräsen",
+        "mild",
+        "förryckt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "blid",
+      "options": [
+        "tydligt framträdande",
+        "kräsen",
+        "mild",
+        "förryckt"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "alltjämt",
+      "options": [
+        "enbart",
+        "fullständigt",
+        "dessvärre",
+        "fortfarande"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "alltjämt",
+      "options": [
+        "enbart",
+        "fullständigt",
+        "dessvärre",
+        "fortfarande"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "stipulation",
+      "options": [
+        "tö",
+        "omkrets",
+        "bestämmelse",
+        "långrandigt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "stipulation",
+      "options": [
+        "tö",
+        "omkrets",
+        "bestämmelse",
+        "långrandigt"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "ovedersäglig",
+      "options": [
+        "tvärsäker och obestridlig",
+        "medelmåttig",
+        "snål",
+        "urskiljbar"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ovedersäglig",
+      "options": [
+        "tvärsäker och obestridlig",
+        "medelmåttig",
+        "snål",
+        "urskiljbar"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

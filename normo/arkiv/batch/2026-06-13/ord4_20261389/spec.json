@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261389",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-26.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "kontrapunkt",
+      "options": [
+        "tankevilla",
+        "våldsdåd",
+        "en hårdplast",
+        "flätning av musikstämmor"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "kontrapunkt",
+      "options": [
+        "tankevilla",
+        "våldsdåd",
+        "en hårdplast",
+        "flätning av musikstämmor"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "fanatism",
+      "options": [
+        "blind tro",
+        "visshet",
+        "färgämne i blod",
+        "något värdefullt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "fanatism",
+      "options": [
+        "blind tro",
+        "visshet",
+        "färgämne i blod",
+        "något värdefullt"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "ha delade meningar",
+      "options": [
+        "umgås med",
+        "längta",
+        "tycka olika",
+        "urskilja"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "ha delade meningar",
+      "options": [
+        "umgås med",
+        "längta",
+        "tycka olika",
+        "urskilja"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "koscher",
+      "options": [
+        "lycklig",
+        "valsformad",
+        "judisk mat",
+        "tokig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "koscher",
+      "options": [
+        "lycklig",
+        "valsformad",
+        "judisk mat",
+        "tokig"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

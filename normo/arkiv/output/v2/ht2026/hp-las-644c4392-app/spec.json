@@ -1,0 +1,471 @@
+{
+  "slug": "hp-las-644c4392-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "644c4392-490a-4ad9-992a-0ff27e7c6140"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "leder"
+      },
+      {
+        "text": "”gränslöst"
+      },
+      {
+        "text": "arbete”"
+      },
+      {
+        "text": "till,"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "texten?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 9,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "kommunikationen"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "arbetstagare"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "arbetsgivare"
+          },
+          {
+            "text": "försämras."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "skillnaden"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "ordinarie"
+          },
+          {
+            "text": "arbetstid"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "övertid"
+          },
+          {
+            "text": "förstärks."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "ansvarsfördelningen"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "arbetsgivare"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "arbetstagare"
+          },
+          {
+            "text": "förändras."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "gränsdragningen"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "enkla"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "komplexa"
+          },
+          {
+            "text": "arbetsuppgifter"
+          },
+          {
+            "text": "försvåras."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__644c4392-490a-4ad9-992a-0ff27e7c6140.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "ansvaret flyttas till den anställde",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 46.98,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 33.44
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.56
+        },
+        {
+          "start": 0.66,
+          "end": 0.82
+        },
+        {
+          "start": 0.9,
+          "end": 1.56
+        },
+        {
+          "start": 1.62,
+          "end": 1.98
+        },
+        {
+          "start": 2.06,
+          "end": 3
+        },
+        {
+          "start": 3.12,
+          "end": 3.62
+        },
+        {
+          "start": 3.68,
+          "end": 3.94
+        },
+        {
+          "start": 4.34,
+          "end": 4.76
+        },
+        {
+          "start": 4.84,
+          "end": 5.48
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.44,
+          "chars": [
+            33.44,
+            33.6709,
+            33.9017,
+            34.1326,
+            34.3635,
+            34.5943,
+            34.8252,
+            35.0561,
+            35.287,
+            35.3562,
+            35.5871,
+            35.818,
+            36.0488,
+            36.2797,
+            36.5106,
+            36.7414,
+            36.9723,
+            37.0416,
+            37.2724,
+            37.5033,
+            37.7342,
+            37.965,
+            38.0343,
+            38.2652,
+            38.496,
+            38.7269,
+            38.7962,
+            39.027,
+            39.2579,
+            39.4888,
+            39.7197,
+            39.9505,
+            40.1814,
+            40.4123,
+            40.6431
+          ]
+        },
+        {
+          "start": 45.74,
+          "chars": [
+            45.74,
+            45.7888,
+            45.8376,
+            45.8864,
+            45.9352,
+            45.9499,
+            45.9987,
+            46.0475,
+            46.0963,
+            46.1451,
+            46.1939,
+            46.2427,
+            46.2915,
+            46.3403,
+            46.3891,
+            46.4037,
+            46.4525,
+            46.4672,
+            46.516,
+            46.5648,
+            46.6136,
+            46.6624,
+            46.7112
+          ]
+        }
+      ],
+      "circle": {
+        "start": 44.96,
+        "end": 45.48
+      },
+      "options": {
+        "hideAt": 14.92,
+        "showAt": 44.06
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.7,
+          "end": 8.45,
+          "targets": [
+            {
+              "w": 3,
+              "from": "leder",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.42,
+          "end": 18.17,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.1387
+                ],
+                [
+                  0.8426,
+                  0.1387
+                ],
+                [
+                  0.8426,
+                  0.1789
+                ],
+                [
+                  0,
+                  0.1789
+                ]
+              ],
+              "color": "bla",
+              "from": "stämpelklockan",
+              "hlFarg": "blå",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 24.32,
+          "end": 25.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5239
+                ],
+                [
+                  0.9762,
+                  0.5239
+                ],
+                [
+                  0.9762,
+                  0.5641
+                ],
+                [
+                  0,
+                  0.5641
+                ]
+              ],
+              "color": "bla",
+              "from": "innebär",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 24.32,
+          "end": 25.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5764
+                ],
+                [
+                  0.9835,
+                  0.5764
+                ],
+                [
+                  0.9835,
+                  0.6165
+                ],
+                [
+                  0,
+                  0.6165
+                ]
+              ],
+              "color": "bla",
+              "from": "innebär",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 24.32,
+          "end": 25.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6288
+                ],
+                [
+                  0.2634,
+                  0.6288
+                ],
+                [
+                  0.2634,
+                  0.669
+                ],
+                [
+                  0,
+                  0.669
+                ]
+              ],
+              "color": "bla",
+              "from": "innebär",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 45.69
+  },
+  "layout": {},
+  "variant": "app"
+}

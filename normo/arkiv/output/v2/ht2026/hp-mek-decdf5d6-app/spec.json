@@ -1,0 +1,450 @@
+{
+  "slug": "hp-mek-decdf5d6-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "decdf5d6-45bd-407f-a7c4-5c3ae59bac69"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Konstnären"
+      },
+      {
+        "text": "Jens"
+      },
+      {
+        "text": "Fänge"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "hel"
+      },
+      {
+        "text": "del"
+      },
+      {
+        "text": "_____,"
+      },
+      {
+        "text": "både"
+      },
+      {
+        "text": "lokalt"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "internationellt,"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "man"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "därför"
+      },
+      {
+        "text": "fråga"
+      },
+      {
+        "text": "sig"
+      },
+      {
+        "text": "varför"
+      },
+      {
+        "text": "denna"
+      },
+      {
+        "text": "separatutställning"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "dröjt"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "länge."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 26,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "rönt"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "uppmärksamhet"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "lyft"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "arvoden"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "mött"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "motstånd"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "väckt"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "frågetecken"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "rönt",
+      "uppmärksamhet"
+    ],
+    "gapFarg": [
+      "blå",
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "röna = få, möta",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 53.85,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 44.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.92
+        },
+        {
+          "start": 1.06,
+          "end": 1.36
+        },
+        {
+          "start": 1.42,
+          "end": 2.06
+        },
+        {
+          "start": 2.14,
+          "end": 2.58
+        },
+        {
+          "start": 2.58,
+          "end": 5.72
+        },
+        {
+          "start": 5.72,
+          "end": 5.82
+        },
+        {
+          "start": 5.88,
+          "end": 6.16
+        },
+        {
+          "start": 6.22,
+          "end": 6.68
+        },
+        {
+          "start": 6.68,
+          "end": 9.46
+        },
+        {
+          "start": 9.46,
+          "end": 9.72
+        },
+        {
+          "start": 9.76,
+          "end": 10.3
+        },
+        {
+          "start": 10.34,
+          "end": 10.4
+        },
+        {
+          "start": 10.46,
+          "end": 11.42
+        },
+        {
+          "start": 11.94,
+          "end": 12
+        },
+        {
+          "start": 12.02,
+          "end": 12.14
+        },
+        {
+          "start": 12.18,
+          "end": 12.28
+        },
+        {
+          "start": 12.34,
+          "end": 12.66
+        },
+        {
+          "start": 12.72,
+          "end": 13.12
+        },
+        {
+          "start": 13.18,
+          "end": 13.38
+        },
+        {
+          "start": 13.44,
+          "end": 13.86
+        },
+        {
+          "start": 13.92,
+          "end": 14.2
+        },
+        {
+          "start": 14.26,
+          "end": 15.48
+        },
+        {
+          "start": 15.54,
+          "end": 15.66
+        },
+        {
+          "start": 15.74,
+          "end": 16.079
+        },
+        {
+          "start": 16.14,
+          "end": 16.239
+        },
+        {
+          "start": 16.3,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        },
+        {
+          "start": 16.78,
+          "end": 16.78
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 44.34,
+          "chars": [
+            44.34,
+            44.5871,
+            44.8343,
+            45.0814,
+            45.3285,
+            45.4027,
+            45.6498,
+            45.7239,
+            45.9711,
+            46.2182,
+            46.4653,
+            46.5395,
+            46.7866,
+            47.0337,
+            47.2809
+          ]
+        },
+        {
+          "start": 53.9,
+          "chars": [
+            53.9,
+            53.9126,
+            53.9252,
+            53.9377,
+            53.9503,
+            53.9629,
+            53.9667,
+            53.9792,
+            53.9918,
+            54.0044,
+            54.0082,
+            54.0208,
+            54.0245,
+            54.0371,
+            54.0497,
+            54.0623,
+            54.0748,
+            54.0874
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40,
+        "end": 42.94
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 24.34,
+          "end": 25.09,
+          "targets": [
+            {
+              "w": 23,
+              "from": "dröjt så länge",
+              "color": "gul"
+            },
+            {
+              "w": 24,
+              "from": "dröjt så länge",
+              "color": "gul"
+            },
+            {
+              "w": 25,
+              "from": "dröjt så länge",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

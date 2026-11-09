@@ -1,0 +1,431 @@
+{
+  "slug": "hp-xyz-e2914ba7",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "e2914ba7-e6b9-4bab-afaa-493dfa99994a"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 9 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Björn"
+      },
+      {
+        "text": "tillverkar"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "typ"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "smycken"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "80"
+      },
+      {
+        "text": "%"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "vikten"
+      },
+      {
+        "text": "utgörs"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "silver."
+      },
+      {
+        "text": "200"
+      },
+      {
+        "text": "likadana"
+      },
+      {
+        "text": "smycken"
+      },
+      {
+        "text": "innehåller"
+      },
+      {
+        "text": "4"
+      },
+      {
+        "text": "hg"
+      },
+      {
+        "text": "silver."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "mycket"
+      },
+      {
+        "text": "väger"
+      },
+      {
+        "text": "varje"
+      },
+      {
+        "text": "smycke?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 26,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "1,6"
+          },
+          {
+            "text": "g"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "2,0"
+          },
+          {
+            "text": "g"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "2,5"
+          },
+          {
+            "text": "g"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "3,2"
+          },
+          {
+            "text": "g"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "4 hg = 400 g"
+    },
+    {
+      "text": "\\frac{400 g}{200} = 2 g"
+    },
+    {
+      "text": "0,8m = 2"
+    },
+    {
+      "text": "m = \\frac{2}{0,8} = \\frac{20}{8} = 2,5 g",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 31.546,
+    "phases": {
+      "readStart": 1.828,
+      "writeStart": 13.316
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.828,
+          "end": 2.118
+        },
+        {
+          "start": 2.165,
+          "end": 2.687
+        },
+        {
+          "start": 2.722,
+          "end": 2.815
+        },
+        {
+          "start": 2.861,
+          "end": 3.024
+        },
+        {
+          "start": 3.07,
+          "end": 3.128
+        },
+        {
+          "start": 3.186,
+          "end": 3.837
+        },
+        {
+          "start": 4.162,
+          "end": 4.324
+        },
+        {
+          "start": 4.405,
+          "end": 4.591
+        },
+        {
+          "start": 4.591,
+          "end": 5.056
+        },
+        {
+          "start": 5.056,
+          "end": 5.102
+        },
+        {
+          "start": 5.125,
+          "end": 5.474
+        },
+        {
+          "start": 5.555,
+          "end": 5.88
+        },
+        {
+          "start": 5.938,
+          "end": 5.996
+        },
+        {
+          "start": 6.042,
+          "end": 6.565
+        },
+        {
+          "start": 6.565,
+          "end": 7.691
+        },
+        {
+          "start": 7.691,
+          "end": 8.109
+        },
+        {
+          "start": 8.144,
+          "end": 8.492
+        },
+        {
+          "start": 8.573,
+          "end": 8.991
+        },
+        {
+          "start": 9.107,
+          "end": 9.316
+        },
+        {
+          "start": 9.316,
+          "end": 10.071
+        },
+        {
+          "start": 10.071,
+          "end": 10.628
+        },
+        {
+          "start": 10.953,
+          "end": 11.104
+        },
+        {
+          "start": 11.139,
+          "end": 11.36
+        },
+        {
+          "start": 11.383,
+          "end": 11.743
+        },
+        {
+          "start": 11.778,
+          "end": 11.975
+        },
+        {
+          "start": 11.998,
+          "end": 12.474
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.316,
+          "chars": [
+            13.316,
+            13.5682,
+            13.6439,
+            13.8962,
+            14.1484,
+            14.2241,
+            14.4763,
+            14.552,
+            14.8042,
+            15.0565,
+            15.3087,
+            15.3844
+          ]
+        },
+        {
+          "start": 15.6366,
+          "chars": [
+            15.6366,
+            15.8853,
+            16.134,
+            16.3827,
+            16.4573,
+            16.706,
+            16.9547,
+            17.2034,
+            17.4521,
+            17.7008,
+            17.7754,
+            18.024,
+            18.0987,
+            18.3473,
+            18.4219
+          ]
+        },
+        {
+          "start": 19.239,
+          "chars": [
+            19.239,
+            19.454,
+            19.669,
+            19.8841,
+            20.0991,
+            20.1636,
+            20.3786,
+            20.4431
+          ]
+        },
+        {
+          "start": 20.6581,
+          "chars": [
+            20.6581,
+            20.8731,
+            20.9377,
+            21.1527,
+            21.2172,
+            21.4322,
+            21.6472,
+            21.8622,
+            22.0773,
+            22.2923,
+            22.3568,
+            22.5718,
+            22.6363,
+            22.8513,
+            23.0663,
+            23.2814,
+            23.4964,
+            23.5609,
+            23.7759,
+            23.8404,
+            24.0554,
+            24.2705,
+            24.4855,
+            24.55
+          ]
+        },
+        {
+          "start": 27.2,
+          "chars": [
+            27.2,
+            27.3264,
+            27.4529,
+            27.5793,
+            27.7058,
+            27.8322,
+            27.8701,
+            27.9966,
+            28.123,
+            28.2494,
+            28.2874,
+            28.4138,
+            28.5402,
+            28.6667,
+            28.7931,
+            28.9196
+          ]
+        }
+      ],
+      "circle": {
+        "start": 25.978,
+        "end": 26.675
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

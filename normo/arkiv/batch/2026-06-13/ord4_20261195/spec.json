@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261195",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-19.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "lättja",
+      "options": [
+        "föreställning på dagen",
+        "biskopsstav",
+        "lathet",
+        "internationellt hjälpspråk"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "lättja",
+      "options": [
+        "föreställning på dagen",
+        "biskopsstav",
+        "lathet",
+        "internationellt hjälpspråk"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "utan krus",
+      "options": [
+        "direkt",
+        "inom räckhåll",
+        "genast",
+        "utan undantag"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "utan krus",
+      "options": [
+        "direkt",
+        "inom räckhåll",
+        "genast",
+        "utan undantag"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "gitta",
+      "options": [
+        "sätta i fängelse",
+        "förmå",
+        "nå sin höjdpunkt",
+        "tilldela plats"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "gitta",
+      "options": [
+        "sätta i fängelse",
+        "förmå",
+        "nå sin höjdpunkt",
+        "tilldela plats"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "aorta",
+      "options": [
+        "allmänt bruk",
+        "halspulsåder",
+        "blint troende",
+        "smutskorn"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "aorta",
+      "options": [
+        "allmänt bruk",
+        "halspulsåder",
+        "blint troende",
+        "smutskorn"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

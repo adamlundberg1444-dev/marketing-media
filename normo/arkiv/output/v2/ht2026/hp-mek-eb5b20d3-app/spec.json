@@ -1,0 +1,491 @@
+{
+  "slug": "hp-mek-eb5b20d3-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "eb5b20d3-b26a-4d6f-b35e-bcb27a95d824"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Det"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "länge"
+      },
+      {
+        "text": "talats"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "sviktande"
+      },
+      {
+        "text": "intresse"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "moderna"
+      },
+      {
+        "text": "språk"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "svenska"
+      },
+      {
+        "text": "skolan"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "engelskan"
+      },
+      {
+        "text": "tar"
+      },
+      {
+        "text": "över,"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "framför"
+      },
+      {
+        "text": "allt"
+      },
+      {
+        "text": "tyskan"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "franskan."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 27,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "linje"
+          },
+          {
+            "text": "med"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "med"
+          },
+          {
+            "text": "hjälp"
+          },
+          {
+            "text": "av"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "som"
+          },
+          {
+            "text": "motvikt"
+          },
+          {
+            "text": "till"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "på"
+          },
+          {
+            "text": "bekostnad"
+          },
+          {
+            "text": "av"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "på bekostnad av"
+    ],
+    "gapFarg": [
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "på bekostnad av = till nackdel för",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 53.83,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 46.16
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.14
+        },
+        {
+          "start": 0.2,
+          "end": 0.3
+        },
+        {
+          "start": 0.38,
+          "end": 0.68
+        },
+        {
+          "start": 0.74,
+          "end": 1.32
+        },
+        {
+          "start": 1.38,
+          "end": 1.44
+        },
+        {
+          "start": 1.48,
+          "end": 1.58
+        },
+        {
+          "start": 1.66,
+          "end": 2.3
+        },
+        {
+          "start": 2.36,
+          "end": 2.94
+        },
+        {
+          "start": 2.98,
+          "end": 3.12
+        },
+        {
+          "start": 3.16,
+          "end": 3.64
+        },
+        {
+          "start": 3.76,
+          "end": 4.22
+        },
+        {
+          "start": 4.56,
+          "end": 4.6
+        },
+        {
+          "start": 4.64,
+          "end": 4.78
+        },
+        {
+          "start": 4.86,
+          "end": 5.28
+        },
+        {
+          "start": 5.34,
+          "end": 5.9
+        },
+        {
+          "start": 6.54,
+          "end": 6.64
+        },
+        {
+          "start": 6.7,
+          "end": 6.78
+        },
+        {
+          "start": 6.84,
+          "end": 6.96
+        },
+        {
+          "start": 7.08,
+          "end": 7.76
+        },
+        {
+          "start": 7.82,
+          "end": 7.94
+        },
+        {
+          "start": 8.039,
+          "end": 8.38
+        },
+        {
+          "start": 8.38,
+          "end": 10.18
+        },
+        {
+          "start": 10.18,
+          "end": 10.48
+        },
+        {
+          "start": 10.56,
+          "end": 10.82
+        },
+        {
+          "start": 10.88,
+          "end": 11.7
+        },
+        {
+          "start": 11.76,
+          "end": 11.84
+        },
+        {
+          "start": 11.9,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        },
+        {
+          "start": 12.66,
+          "end": 12.66
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 46.16,
+          "chars": [
+            46.16,
+            46.3358,
+            46.5117,
+            46.5644,
+            46.7403,
+            46.9161,
+            47.0919,
+            47.2678,
+            47.4436,
+            47.6195,
+            47.7953,
+            47.9711,
+            48.147,
+            48.1997,
+            48.3756,
+            48.5514,
+            48.6042,
+            48.78,
+            48.8328,
+            49.0086,
+            49.1844,
+            49.3603,
+            49.5361,
+            49.5889,
+            49.7647,
+            49.9405,
+            50.1164,
+            50.2922,
+            50.4681,
+            50.6439,
+            50.8197,
+            50.8725,
+            51.0483,
+            51.2242
+          ]
+        },
+        {
+          "start": 53.88,
+          "chars": [
+            53.88,
+            53.8918,
+            53.9037,
+            53.9155,
+            53.9273,
+            53.9392,
+            53.9427,
+            53.9546,
+            53.9664,
+            53.9782,
+            53.9901,
+            53.9936,
+            54.0054,
+            54.009,
+            54.0208,
+            54.0327,
+            54.0445,
+            54.0563,
+            54.0682
+          ]
+        }
+      ],
+      "circle": {
+        "start": 42.72,
+        "end": 44.3
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 16.88,
+          "end": 17.63,
+          "targets": [
+            {
+              "w": 6,
+              "from": "sviktar",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "sviktar",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 21.64,
+          "end": 22.39,
+          "targets": [
+            {
+              "w": 18,
+              "from": "tar engelskan över",
+              "color": "gul"
+            },
+            {
+              "w": 19,
+              "from": "tar engelskan över",
+              "color": "gul"
+            },
+            {
+              "w": 20,
+              "from": "tar engelskan över",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "hp-ord-39c1292b",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "39c1292b-ea27-48fe-b661-2898922399d0"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 10 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "på"
+      },
+      {
+        "text": "pin"
+      },
+      {
+        "text": "kiv"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 3,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "hemlighet"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "överdrivet"
+          },
+          {
+            "text": "exakt"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "utan"
+          },
+          {
+            "text": "förvarning"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "helt"
+          },
+          {
+            "text": "hänsynslöst"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "bara"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "retas"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "bara för att retas",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 10.173,
+    "phases": {
+      "readStart": 0.973,
+      "writeStart": 1.835
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.973,
+          "end": 1.043
+        },
+        {
+          "start": 1.113,
+          "end": 1.322
+        },
+        {
+          "start": 1.38,
+          "end": 1.589
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 1.835,
+          "chars": [
+            1.835,
+            1.9774,
+            2.1198,
+            2.2622,
+            2.4046,
+            2.4473,
+            2.5897,
+            2.7321,
+            2.8744,
+            2.9172,
+            3.0596,
+            3.2019,
+            3.3443,
+            3.3871,
+            3.5294,
+            3.6718,
+            3.8142,
+            3.9566
+          ]
+        },
+        {
+          "start": 5.92,
+          "chars": [
+            5.92,
+            6.0039,
+            6.0878,
+            6.1716,
+            6.2555,
+            6.2807,
+            6.3645,
+            6.4484,
+            6.5323,
+            6.6162,
+            6.7,
+            6.7839,
+            6.8678,
+            6.9517,
+            7.0355,
+            7.0607,
+            7.1446,
+            7.1697,
+            7.2536,
+            7.3375,
+            7.4214,
+            7.5052,
+            7.5891
+          ]
+        }
+      ],
+      "circle": {
+        "start": 4.234,
+        "end": 5.279
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

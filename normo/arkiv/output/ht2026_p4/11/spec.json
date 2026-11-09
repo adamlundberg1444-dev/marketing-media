@@ -1,0 +1,306 @@
+{
+  "slug": "hp-xyz-98821f33",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "98821f33-56dc-4448-94b7-faabb7c0d68f"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 11 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "svarsalternativ"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "lika"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "14"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "700?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 9,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " \\frac{700}{14} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 14 \\cdot 7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " \\frac{14 \\cdot 7}{100} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " \\frac{14}{700} ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{14}{100} \\cdot 700 = \\frac{14 \\cdot 700}{100}"
+    },
+    {
+      "text": "\\frac{14 \\cdot 7 \\cdot 100}{100} = 14 \\cdot 7",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 18.264,
+    "phases": {
+      "readStart": 1.271,
+      "writeStart": 6.187
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.271,
+          "end": 1.538
+        },
+        {
+          "start": 1.584,
+          "end": 2.432
+        },
+        {
+          "start": 2.501,
+          "end": 2.583
+        },
+        {
+          "start": 2.618,
+          "end": 3.059
+        },
+        {
+          "start": 3.442,
+          "end": 3.581
+        },
+        {
+          "start": 3.604,
+          "end": 3.883
+        },
+        {
+          "start": 3.976,
+          "end": 4.347
+        },
+        {
+          "start": 4.417,
+          "end": 4.545
+        },
+        {
+          "start": 4.545,
+          "end": 5.404
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.187,
+          "chars": [
+            6.187,
+            6.3352,
+            6.4834,
+            6.6316,
+            6.7798,
+            6.928,
+            7.0762,
+            7.1207,
+            7.2689,
+            7.3133,
+            7.4615,
+            7.6097,
+            7.7579,
+            7.8024,
+            7.9506,
+            7.9951,
+            8.1433,
+            8.2915,
+            8.3359,
+            8.4841,
+            8.5286,
+            8.6768,
+            8.825,
+            8.9732,
+            9.1214,
+            9.2696,
+            9.4178
+          ]
+        },
+        {
+          "start": 10.149,
+          "chars": [
+            10.149,
+            10.2896,
+            10.4302,
+            10.4724,
+            10.613,
+            10.6552,
+            10.7958,
+            10.838,
+            10.9786,
+            11.0208,
+            11.1615,
+            11.3021,
+            11.4427,
+            11.5833,
+            11.7239,
+            11.8645,
+            12.0052,
+            12.0474,
+            12.188,
+            12.2302,
+            12.3708,
+            12.5114,
+            12.5536,
+            12.6942,
+            12.7364
+          ]
+        },
+        {
+          "start": 14.684,
+          "chars": [
+            14.684,
+            14.758,
+            14.8319,
+            14.9059,
+            14.9799,
+            15.0539,
+            15.0761,
+            15.15,
+            15.224,
+            15.298,
+            15.3202,
+            15.3941,
+            15.4681,
+            15.5421,
+            15.6161,
+            15.69
+          ]
+        }
+      ],
+      "circle": {
+        "start": 13.602,
+        "end": 14.241
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 10.149,
+          "end": 10.899,
+          "targets": [
+            {
+              "li": 1,
+              "from": 9,
+              "to": 11,
+              "snett": true
+            }
+          ]
+        },
+        {
+          "start": 11.249,
+          "end": 11.999,
+          "targets": [
+            {
+              "li": 1,
+              "from": 13,
+              "to": 15,
+              "snett": true
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

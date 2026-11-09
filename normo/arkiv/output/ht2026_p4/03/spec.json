@@ -1,0 +1,414 @@
+{
+  "slug": "hp-xyz-bb38102c",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "bb38102c-4852-46f8-9f06-37fd4f6161a9"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 3 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Ekvationerna"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "linjerna"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "svarsalternativen"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "skrivas"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "formen"
+      },
+      {
+        "tex": " y = kx + m ",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "För"
+      },
+      {
+        "text": "vilken"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "linjerna"
+      },
+      {
+        "text": "gäller"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "tex": " k = \\frac{2}{3} ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Se"
+          },
+          {
+            "text": "bild"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Se"
+          },
+          {
+            "text": "bild"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Se"
+          },
+          {
+            "text": "bild"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Se"
+          },
+          {
+            "text": "bild"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "graph": {
+        "fns": [
+          {
+            "expr": "1.5*x-1",
+            "label": "A"
+          },
+          {
+            "expr": "2/3*x+1",
+            "label": "B"
+          },
+          {
+            "expr": "x/3+2",
+            "label": "C"
+          },
+          {
+            "expr": "2*x+3",
+            "label": "D"
+          }
+        ],
+        "x": [
+          -4,
+          4
+        ],
+        "y": [
+          -4,
+          5
+        ]
+      }
+    },
+    {
+      "text": "k = \\frac{\\Delta y}{\\Delta x} = \\frac{2}{3}"
+    },
+    {
+      "text": "B: \\frac{3 - 1}{3 - 0} = \\frac{2}{3}",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 25.973,
+    "phases": {
+      "readStart": 1.131,
+      "writeStart": 12.828
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.131,
+          "end": 1.805
+        },
+        {
+          "start": 1.863,
+          "end": 2.002
+        },
+        {
+          "start": 2.049,
+          "end": 2.455
+        },
+        {
+          "start": 2.501,
+          "end": 2.525
+        },
+        {
+          "start": 2.559,
+          "end": 3.686
+        },
+        {
+          "start": 4.289,
+          "end": 4.463
+        },
+        {
+          "start": 4.487,
+          "end": 4.823
+        },
+        {
+          "start": 4.881,
+          "end": 4.951
+        },
+        {
+          "start": 5.009,
+          "end": 5.276
+        },
+        {
+          "start": 5.276,
+          "end": 7.3467
+        },
+        {
+          "start": 7.3467,
+          "end": 8.353
+        },
+        {
+          "start": 8.353,
+          "end": 8.492
+        },
+        {
+          "start": 8.515,
+          "end": 8.782
+        },
+        {
+          "start": 8.829,
+          "end": 8.899
+        },
+        {
+          "start": 9.015,
+          "end": 9.444
+        },
+        {
+          "start": 9.491,
+          "end": 9.758
+        },
+        {
+          "start": 9.792,
+          "end": 9.897
+        },
+        {
+          "start": 9.897,
+          "end": 11.2533
+        },
+        {
+          "start": 11.2533,
+          "end": 12.103
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.828,
+          "chars": [
+            12.828,
+            14.8293
+          ]
+        },
+        {
+          "start": 14.8293,
+          "chars": [
+            14.8293,
+            14.9722,
+            15.0151,
+            15.158,
+            15.2009,
+            15.3439,
+            15.3868,
+            15.5297,
+            15.6727,
+            15.8156,
+            15.8585,
+            16.0014,
+            16.0443,
+            16.1873,
+            16.2302,
+            16.3731,
+            16.5161
+          ]
+        },
+        {
+          "start": 17.138,
+          "chars": [
+            17.138,
+            17.3779,
+            17.6177,
+            17.6897,
+            17.9296,
+            18.0015,
+            18.2414,
+            18.3134,
+            18.5532,
+            18.7931,
+            19.033,
+            19.1049,
+            19.3448,
+            19.4167,
+            19.6566,
+            19.7286,
+            19.9684,
+            20.0404,
+            20.2803,
+            20.5201
+          ]
+        },
+        {
+          "start": 22.161,
+          "chars": [
+            22.161,
+            22.2509,
+            22.3407,
+            22.4306,
+            22.5205,
+            22.6103,
+            22.6373,
+            22.7271,
+            22.817,
+            22.9069,
+            22.9338,
+            23.0237,
+            23.1135,
+            23.2034,
+            23.2933,
+            23.3831
+          ]
+        }
+      ],
+      "circle": {
+        "start": 21.276,
+        "end": 21.88
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [
+        {
+          "start": 17.138,
+          "end": 17.888,
+          "targets": [
+            {
+              "line": 0,
+              "point": [
+                0,
+                1
+              ],
+              "label": "(0, 1)",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 18.238,
+          "end": 18.988,
+          "targets": [
+            {
+              "line": 0,
+              "point": [
+                3,
+                3
+              ],
+              "label": "(3, 3)",
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

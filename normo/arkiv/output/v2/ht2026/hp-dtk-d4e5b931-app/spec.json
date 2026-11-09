@@ -1,0 +1,823 @@
+{
+  "slug": "hp-dtk-d4e5b931-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "d4e5b931-acaf-499c-99f0-b469372c41a1"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Följ"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "allmänna"
+      },
+      {
+        "text": "vägen"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "Rågårdsvik"
+      },
+      {
+        "text": "fram"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "trevägskorsningen"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "område"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "jordbruksändamål."
+      },
+      {
+        "text": "Välj"
+      },
+      {
+        "text": "vägen"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "går"
+      },
+      {
+        "text": "västerut"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "följ"
+      },
+      {
+        "text": "allmän"
+      },
+      {
+        "text": "väg"
+      },
+      {
+        "text": "tills"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "tar"
+      },
+      {
+        "text": "slut."
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "visar"
+      },
+      {
+        "text": "kartan"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "allmän"
+      },
+      {
+        "text": "väg"
+      },
+      {
+        "text": "slutar?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 38,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Nuvarande"
+          },
+          {
+            "text": "tätort"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "bostadsändamål,"
+          },
+          {
+            "text": "helårsbebyggelse"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "bostadsändamål,"
+          },
+          {
+            "text": "fritidsbebyggelse"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "camping"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/d4e5b931-acaf-499c-99f0-b469372c41a1.png",
+    "imageMax": 460
+  },
+  "writeLines": [
+    {
+      "text": "allmän väg: dubbel linje"
+    },
+    {
+      "text": "rutmönster: nuvarande tätort",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 53.34,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 16.234
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.46
+        },
+        {
+          "start": 0.5,
+          "end": 0.66
+        },
+        {
+          "start": 0.76,
+          "end": 1.14
+        },
+        {
+          "start": 1.2,
+          "end": 1.64
+        },
+        {
+          "start": 1.7,
+          "end": 2.04
+        },
+        {
+          "start": 2.1,
+          "end": 3.04
+        },
+        {
+          "start": 3.04,
+          "end": 3.12
+        },
+        {
+          "start": 3.12,
+          "end": 3.36
+        },
+        {
+          "start": 3.42,
+          "end": 4.66
+        },
+        {
+          "start": 4.66,
+          "end": 4.8929
+        },
+        {
+          "start": 4.8929,
+          "end": 5.1258
+        },
+        {
+          "start": 5.1258,
+          "end": 5.4339
+        },
+        {
+          "start": 5.4339,
+          "end": 5.6668
+        },
+        {
+          "start": 5.6668,
+          "end": 6.0124
+        },
+        {
+          "start": 6.0124,
+          "end": 6.2453
+        },
+        {
+          "start": 6.2453,
+          "end": 7.2295
+        },
+        {
+          "start": 7.2295,
+          "end": 7.5
+        },
+        {
+          "start": 7.5,
+          "end": 7.86
+        },
+        {
+          "start": 7.86,
+          "end": 7.89
+        },
+        {
+          "start": 7.89,
+          "end": 7.92
+        },
+        {
+          "start": 7.92,
+          "end": 8.74
+        },
+        {
+          "start": 8.8,
+          "end": 8.88
+        },
+        {
+          "start": 8.94,
+          "end": 9.18
+        },
+        {
+          "start": 9.18,
+          "end": 9.3951
+        },
+        {
+          "start": 9.3951,
+          "end": 9.54
+        },
+        {
+          "start": 9.54,
+          "end": 9.76
+        },
+        {
+          "start": 9.82,
+          "end": 9.92
+        },
+        {
+          "start": 9.96,
+          "end": 10.1
+        },
+        {
+          "start": 10.18,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        },
+        {
+          "start": 10.66,
+          "end": 10.66
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.234,
+          "chars": [
+            16.234,
+            16.3009,
+            16.3679,
+            16.4348,
+            16.5018,
+            16.5687,
+            16.6356,
+            16.6557,
+            16.7227,
+            16.7896,
+            16.8565,
+            16.9235,
+            16.9436,
+            17.0105,
+            17.0775,
+            17.1444,
+            17.2113,
+            17.2783,
+            17.3452,
+            17.3653,
+            17.4322,
+            17.4992,
+            17.5661,
+            17.6331
+          ]
+        },
+        {
+          "start": 47.658,
+          "chars": [
+            47.658,
+            47.71,
+            47.7619,
+            47.8139,
+            47.8658,
+            47.9178,
+            47.9697,
+            48.0217,
+            48.0736,
+            48.1256,
+            48.1775,
+            48.2295,
+            48.2451,
+            48.297,
+            48.349,
+            48.401,
+            48.4529,
+            48.5049,
+            48.5568,
+            48.6088,
+            48.6607,
+            48.7127,
+            48.7283,
+            48.7802,
+            48.8322,
+            48.8841,
+            48.9361,
+            48.988
+          ]
+        },
+        {
+          "start": 51.92,
+          "chars": [
+            51.92,
+            51.9296,
+            51.9391,
+            51.9487,
+            51.9583,
+            51.9611,
+            51.9707,
+            51.9803,
+            51.9899,
+            51.9994,
+            52.009,
+            52.0186,
+            52.0281,
+            52.0377,
+            52.0473,
+            52.0501,
+            52.0597,
+            52.0626,
+            52.0722,
+            52.0817,
+            52.0913,
+            52.1009,
+            52.1104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 50.3,
+        "end": 51.84
+      },
+      "options": {
+        "hideAt": 11.24,
+        "showAt": 49.4
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.76,
+          "end": 1.51,
+          "targets": [
+            {
+              "w": 2,
+              "from": "allmänna",
+              "color": "orange"
+            },
+            {
+              "w": 3,
+              "from": "allmänna",
+              "color": "orange"
+            }
+          ]
+        },
+        {
+          "start": 2.1,
+          "end": 2.85,
+          "targets": [
+            {
+              "w": 5,
+              "from": "Rågårdsvik",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 7.92,
+          "end": 8.67,
+          "targets": [
+            {
+              "w": 20,
+              "from": "västerut",
+              "color": "orange"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 14.74,
+          "end": 15.49,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.56,
+                0.099,
+                0.72,
+                0.117
+              ],
+              "from": "allmän",
+              "color": "orange",
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 20.08,
+          "end": 20.83,
+          "targets": [
+            {
+              "hl": true,
+              "point": [
+                0.543,
+                0.776
+              ],
+              "r": 0.02,
+              "from": "Rågårdsvik",
+              "color": "gul",
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 22.5,
+          "end": 23.25,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.5276,
+                  0.7785
+                ],
+                [
+                  0.4987,
+                  0.7221
+                ]
+              ],
+              "w": 0.007,
+              "from": "norrut",
+              "color": "orange",
+              "keep": true,
+              "seg": 2,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.52,
+          "end": 26.27,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.458,
+                0.706,
+                0.498,
+                0.728
+              ],
+              "from": "Jb",
+              "color": "blå",
+              "seg": 2,
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 31.46,
+          "end": 32.21,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.5038,
+                  0.7204
+                ],
+                [
+                  0.4638,
+                  0.6984
+                ]
+              ],
+              "w": 0.007,
+              "from": "västerut",
+              "color": "orange",
+              "keep": true,
+              "seg": 3,
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 34.18,
+          "end": 34.93,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.4521,
+                  0.6938
+                ],
+                [
+                  0.3841,
+                  0.7418
+                ]
+              ],
+              "w": 0.007,
+              "from": "sydväst",
+              "color": "orange",
+              "keep": true,
+              "seg": 3,
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 35.08,
+          "end": 35.83,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.3802,
+                  0.7542
+                ],
+                [
+                  0.3434,
+                  0.7387
+                ]
+              ],
+              "w": 0.007,
+              "from": "slutar",
+              "color": "orange",
+              "keep": true,
+              "seg": 3,
+              "mi": 6
+            }
+          ]
+        },
+        {
+          "start": 41.4,
+          "end": 42.15,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.312,
+                  0.7
+                ],
+                [
+                  0.325,
+                  0.7
+                ],
+                [
+                  0.344,
+                  0.722
+                ],
+                [
+                  0.344,
+                  0.734
+                ],
+                [
+                  0.33,
+                  0.745
+                ],
+                [
+                  0.318,
+                  0.748
+                ],
+                [
+                  0.3,
+                  0.718
+                ],
+                [
+                  0.288,
+                  0.712
+                ],
+                [
+                  0.296,
+                  0.707
+                ],
+                [
+                  0.306,
+                  0.711
+                ]
+              ],
+              "from": "rutmönster",
+              "color": "gul",
+              "keep": true,
+              "seg": 4,
+              "mi": 7
+            }
+          ]
+        },
+        {
+          "start": 47.48,
+          "end": 48.23,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.035,
+                0.086,
+                0.23,
+                0.105
+              ],
+              "from": "nuvarande",
+              "color": "gul",
+              "keep": true,
+              "seg": 5,
+              "mi": 8
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 11.94,
+          "end": 16.084,
+          "omrade": [
+            0.55,
+            0.095,
+            0.95,
+            0.122
+          ]
+        },
+        {
+          "start": 18.58,
+          "end": 43.15,
+          "omrade": [
+            0.26,
+            0.695,
+            0.62,
+            0.78
+          ]
+        },
+        {
+          "start": 43.52,
+          "end": 47.458,
+          "omrade": [
+            0.02,
+            0.082,
+            0.48,
+            0.145
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 51.87
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 460,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

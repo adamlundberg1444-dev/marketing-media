@@ -1,0 +1,574 @@
+{
+  "slug": "hp-las-02921f55",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "02921f55-a3ff-4cca-a4cd-af3b735f4646"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 20 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "skilde"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "patienter"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "genomgick"
+      },
+      {
+        "text": "Wagner-Jaureggs"
+      },
+      {
+        "text": "behandling"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "personer"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "smittats"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "malaria"
+      },
+      {
+        "text": "direkt"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "myggor?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "fick"
+          },
+          {
+            "text": "mildare"
+          },
+          {
+            "text": "symtom"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "småningom"
+          },
+          {
+            "text": "gick"
+          },
+          {
+            "text": "över"
+          },
+          {
+            "text": "utan"
+          },
+          {
+            "text": "behandling."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "hade"
+          },
+          {
+            "text": "bättre"
+          },
+          {
+            "text": "motståndskraft"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "febern"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ändå"
+          },
+          {
+            "text": "sämre"
+          },
+          {
+            "text": "överlevnad."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "hade"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "annan"
+          },
+          {
+            "text": "sjukdomsutveckling"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "blev"
+          },
+          {
+            "text": "inte"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "smittsamma."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "hade"
+          },
+          {
+            "text": "outvecklade"
+          },
+          {
+            "text": "malariaparasiter"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "kunde"
+          },
+          {
+            "text": "behandlas"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "andra"
+          },
+          {
+            "text": "metoder."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__02921f55-a3ff-4cca-a4cd-af3b735f4646.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "inga återfall, smittar inte",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 39.908,
+    "phases": {
+      "readStart": 1.166,
+      "writeStart": 23.862
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.166,
+          "end": 1.282
+        },
+        {
+          "start": 1.306,
+          "end": 1.584
+        },
+        {
+          "start": 1.631,
+          "end": 1.84
+        },
+        {
+          "start": 1.863,
+          "end": 2.269
+        },
+        {
+          "start": 2.385,
+          "end": 2.467
+        },
+        {
+          "start": 2.525,
+          "end": 2.954
+        },
+        {
+          "start": 2.989,
+          "end": 3.105
+        },
+        {
+          "start": 3.175,
+          "end": 3.604
+        },
+        {
+          "start": 3.72,
+          "end": 4.603
+        },
+        {
+          "start": 4.649,
+          "end": 5.125
+        },
+        {
+          "start": 5.566,
+          "end": 5.717
+        },
+        {
+          "start": 5.764,
+          "end": 6.182
+        },
+        {
+          "start": 6.217,
+          "end": 6.356
+        },
+        {
+          "start": 6.414,
+          "end": 6.785
+        },
+        {
+          "start": 6.855,
+          "end": 6.936
+        },
+        {
+          "start": 7.006,
+          "end": 7.691
+        },
+        {
+          "start": 7.807,
+          "end": 8.144
+        },
+        {
+          "start": 8.179,
+          "end": 8.283
+        },
+        {
+          "start": 8.318,
+          "end": 8.829
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.862,
+          "chars": [
+            23.862,
+            24.0457,
+            24.2294,
+            24.4131,
+            24.5968,
+            24.6519,
+            24.8356,
+            25.0193,
+            25.203,
+            25.3867,
+            25.5704,
+            25.7541,
+            25.9378,
+            26.1214,
+            26.3051,
+            26.3602,
+            26.5439,
+            26.7276,
+            26.9113,
+            27.095,
+            27.2787,
+            27.4624,
+            27.6461,
+            27.7012,
+            27.8849,
+            28.0686,
+            28.2523
+          ]
+        },
+        {
+          "start": 34.343,
+          "chars": [
+            34.343,
+            34.5529,
+            34.7629,
+            34.9728,
+            35.1827,
+            35.3927,
+            35.4556,
+            35.6656,
+            35.8755,
+            36.0854,
+            36.1484,
+            36.3583,
+            36.5683,
+            36.7782,
+            36.9881,
+            37.1981
+          ]
+        }
+      ],
+      "circle": {
+        "start": 33.002,
+        "end": 33.885
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 28.98,
+          "end": 29.73,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 10.642,
+          "end": 11.392,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.196
+                ],
+                [
+                  0.5961,
+                  0.196
+                ],
+                [
+                  0.5961,
+                  0.2451
+                ],
+                [
+                  0.0435,
+                  0.2451
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 11.742,
+          "end": 12.492,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4131,
+                  0.4195
+                ],
+                [
+                  0.9386,
+                  0.4195
+                ],
+                [
+                  0.9386,
+                  0.4686
+                ],
+                [
+                  0.4131,
+                  0.4686
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 18.733,
+          "end": 19.483,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.677,
+                  0.7676
+                ],
+                [
+                  0.888,
+                  0.7676
+                ],
+                [
+                  0.888,
+                  0.8167
+                ],
+                [
+                  0.677,
+                  0.8167
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 19.833,
+          "end": 20.583,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.8235
+                ],
+                [
+                  0.4586,
+                  0.8235
+                ],
+                [
+                  0.4586,
+                  0.8725
+                ],
+                [
+                  0.0435,
+                  0.8725
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 9.642,
+          "end": 17.491,
+          "omrade": [
+            0,
+            0.1766,
+            1,
+            0.3745
+          ]
+        },
+        {
+          "start": 17.933,
+          "end": 23.284,
+          "omrade": [
+            0,
+            0.6364,
+            1,
+            0.8903
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

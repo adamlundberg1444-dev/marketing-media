@@ -1,0 +1,339 @@
+{
+  "slug": "hp-elf-43ca9ae6-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "43ca9ae6-746c-4a5a-9253-1d286e956f7f"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Fyll"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "lucka"
+      },
+      {
+        "text": "35"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "reduced"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "deflected"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "accompanied"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "intensified"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__43ca9ae6-746c-4a5a-9253-1d286e956f7f.png",
+    "imageMax": null,
+    "passageFill": {
+      "box": [
+        0.3963216145833333,
+        0.6343043341708543,
+        0.6640625,
+        0.6896396042713567
+      ],
+      "text": "intensified"
+    }
+  },
+  "writeLines": [
+    {
+      "text": "intensified = förstärkte",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 54.45,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 46.72
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.28
+        },
+        {
+          "start": 0.34,
+          "end": 0.4
+        },
+        {
+          "start": 0.46,
+          "end": 0.86
+        },
+        {
+          "start": 1.04,
+          "end": 1.7
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 46.72,
+          "chars": [
+            46.72,
+            46.9555,
+            47.191,
+            47.4265,
+            47.6619,
+            47.8974,
+            48.1329,
+            48.3684,
+            48.6039,
+            48.8394,
+            49.0749,
+            49.3104,
+            49.381,
+            49.6165,
+            49.6871,
+            49.9226,
+            50.1581,
+            50.3936,
+            50.6291,
+            50.8646,
+            51.1001,
+            51.3355,
+            51.571,
+            51.8065
+          ]
+        },
+        {
+          "start": 54.5,
+          "chars": [
+            54.5,
+            54.5118,
+            54.5237,
+            54.5355,
+            54.5473,
+            54.5592,
+            54.5627,
+            54.5746,
+            54.5864,
+            54.5982,
+            54.6101,
+            54.6136,
+            54.6254,
+            54.629,
+            54.6408,
+            54.6527,
+            54.6645,
+            54.6763,
+            54.6882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.58,
+        "end": 44.74
+      },
+      "options": {
+        "hideAt": 2.38,
+        "showAt": 36.2,
+        "hide2": 45.42,
+        "show2": null,
+        "fyll": 46.72
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 4.12,
+          "end": 4.87,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0897,
+                  0.6294
+                ],
+                [
+                  0.9758,
+                  0.6294
+                ],
+                [
+                  0.9758,
+                  0.6851
+                ],
+                [
+                  0.0897,
+                  0.6851
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 4.12,
+          "end": 4.87,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3911,
+                  0.6387
+                ],
+                [
+                  0.6693,
+                  0.6387
+                ],
+                [
+                  0.6693,
+                  0.6869
+                ],
+                [
+                  0.3911,
+                  0.6869
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 4.12,
+          "end": 4.87,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7022
+                ],
+                [
+                  0.4652,
+                  0.7022
+                ],
+                [
+                  0.4652,
+                  0.7579
+                ],
+                [
+                  0,
+                  0.7579
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 18.7,
+          "end": 19.45,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1823,
+                  0.2654
+                ],
+                [
+                  0.507,
+                  0.2654
+                ],
+                [
+                  0.507,
+                  0.3211
+                ],
+                [
+                  0.1823,
+                  0.3211
+                ]
+              ],
+              "color": "bla",
+              "from": "konkurrerande",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

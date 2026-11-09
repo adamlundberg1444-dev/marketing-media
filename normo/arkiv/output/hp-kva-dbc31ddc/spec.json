@@ -1,0 +1,331 @@
+{
+  "slug": "hp-kva-dbc31ddc",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "dbc31ddc-5a14-4108-8344-53fe54eef626"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "HT 2024 · fråga 13",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "xyz",
+      "kva"
+    ],
+    "text": "Ligger talet mellan 49 och 64 ligger roten mellan sju och åtta, och det räcker nästan alltid."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": "\\sqrt{5} + 1",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": "\\sqrt{6}",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\sqrt{4} = 2,\\; \\sqrt{9} = 3"
+    },
+    {
+      "text": "\\sqrt{5} + 1 > 3"
+    },
+    {
+      "text": "\\sqrt{6} < 3"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 78.591,
+    "phases": {
+      "readStart": 3.63,
+      "writeStart": 30.547
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.63,
+          "end": 4.28
+        },
+        {
+          "start": 4.28,
+          "end": 5.7147
+        },
+        {
+          "start": 5.7147,
+          "end": 7.38
+        },
+        {
+          "start": 7.38,
+          "end": 7.984
+        },
+        {
+          "start": 7.984,
+          "end": 9.2895
+        },
+        {
+          "start": 9.2895,
+          "end": 10.167
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.547,
+          "chars": [
+            30.547,
+            30.7943,
+            31.0417,
+            31.289,
+            31.3632,
+            31.6106,
+            31.6848,
+            31.9321,
+            32.1795,
+            32.2537,
+            32.3279,
+            32.5752,
+            32.8226,
+            33.0699,
+            33.1441,
+            33.3915,
+            33.4657
+          ]
+        },
+        {
+          "start": 41.957,
+          "chars": [
+            41.957,
+            42.2197,
+            42.4824,
+            42.745,
+            42.8239,
+            43.0865,
+            43.1653,
+            43.428,
+            43.5068,
+            43.7695,
+            43.8483
+          ]
+        },
+        {
+          "start": 48.479,
+          "chars": [
+            48.479,
+            48.7615,
+            49.044,
+            49.3265,
+            49.4113,
+            49.6938,
+            49.7785
+          ]
+        },
+        {
+          "start": 59.97,
+          "chars": [
+            59.97,
+            60.2661,
+            60.3549,
+            60.651,
+            60.7398,
+            61.0359
+          ]
+        },
+        {
+          "start": 72.748,
+          "chars": [
+            72.748,
+            72.9583,
+            73.1685,
+            73.3788,
+            73.589,
+            73.7993,
+            73.8623,
+            74.0726,
+            74.2828,
+            74.4931,
+            74.5562,
+            74.7664,
+            74.8295,
+            75.0397,
+            75.25,
+            75.4602,
+            75.6705,
+            75.8807
+          ]
+        }
+      ],
+      "circle": {
+        "start": 67.74,
+        "end": 71.235
+      },
+      "options": {
+        "hideAt": 15.486,
+        "showAt": 66.84
+      },
+      "concept": {
+        "start": 16.88,
+        "end": 29.36,
+        "hideAt": 41.251
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

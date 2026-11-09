@@ -1,0 +1,547 @@
+{
+  "slug": "hp-elf-57962bca-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "57962bca-48de-47f2-b996-dcdba387c4a5"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "implied"
+      },
+      {
+        "text": "here?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "spread"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "herbivores"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "small"
+          },
+          {
+            "text": "predators"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "potential"
+          },
+          {
+            "text": "threat"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "ecological"
+          },
+          {
+            "text": "systems."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Hunting"
+          },
+          {
+            "text": "dogs"
+          },
+          {
+            "text": "pose"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "greater"
+          },
+          {
+            "text": "threat"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "nature"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "generally"
+          },
+          {
+            "text": "acknowledged."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "More"
+          },
+          {
+            "text": "effort"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "needed"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "protect"
+          },
+          {
+            "text": "herbivores"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "small"
+          },
+          {
+            "text": "predators"
+          },
+          {
+            "text": "from"
+          },
+          {
+            "text": "extinction."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Protecting"
+          },
+          {
+            "text": "small"
+          },
+          {
+            "text": "rather"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "large"
+          },
+          {
+            "text": "predators"
+          },
+          {
+            "text": "would"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "ecologically"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "sound."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__57962bca-48de-47f2-b996-dcdba387c4a5.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "fler växtätare hotar ekosystemen",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.94,
+    "phases": {
+      "readStart": 0.06,
+      "writeStart": 30.16
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.06,
+          "end": 0.2
+        },
+        {
+          "start": 0.26,
+          "end": 0.34
+        },
+        {
+          "start": 0.38,
+          "end": 0.88
+        },
+        {
+          "start": 0.94,
+          "end": 1.26
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.16,
+          "chars": [
+            30.16,
+            30.3917,
+            30.6234,
+            30.8551,
+            31.0868,
+            31.1563,
+            31.388,
+            31.6197,
+            31.8515,
+            32.0832,
+            32.3149,
+            32.5466,
+            32.7783,
+            33.01,
+            33.2417,
+            33.3112,
+            33.5429,
+            33.7746,
+            34.0063,
+            34.238,
+            34.4697,
+            34.5392,
+            34.7709,
+            35.0026,
+            35.2344,
+            35.4661,
+            35.6978,
+            35.9295,
+            36.1612,
+            36.3929,
+            36.6246,
+            36.8563
+          ]
+        },
+        {
+          "start": 42.64,
+          "chars": [
+            42.64,
+            42.6496,
+            42.6591,
+            42.6687,
+            42.6783,
+            42.6811,
+            42.6907,
+            42.7003,
+            42.7099,
+            42.7194,
+            42.729,
+            42.7386,
+            42.7481,
+            42.7577,
+            42.7673,
+            42.7701,
+            42.7797,
+            42.7826,
+            42.7922,
+            42.8017,
+            42.8113,
+            42.8209,
+            42.8304
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.72,
+        "end": 41.44
+      },
+      "options": {
+        "hideAt": 10.5,
+        "showAt": 39.82
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 4.52,
+          "end": 5.27,
+          "targets": [
+            {
+              "w": 2,
+              "from": "implied",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 16.74,
+          "end": 17.22,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.8726,
+                  0.6176
+                ],
+                [
+                  0.9849,
+                  0.6176
+                ],
+                [
+                  0.9849,
+                  0.6674
+                ],
+                [
+                  0.8726,
+                  0.6674
+                ]
+              ],
+              "color": "bla",
+              "from": "schack",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 16.74,
+          "end": 17.22,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6826
+                ],
+                [
+                  0.7473,
+                  0.6826
+                ],
+                [
+                  0.7473,
+                  0.7324
+                ],
+                [
+                  0,
+                  0.7324
+                ]
+              ],
+              "color": "bla",
+              "from": "schack",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 21.14,
+          "end": 21.89,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7468,
+                  0.6826
+                ],
+                [
+                  0.8743,
+                  0.6826
+                ],
+                [
+                  0.8743,
+                  0.7324
+                ],
+                [
+                  0.7468,
+                  0.7324
+                ]
+              ],
+              "color": "bla",
+              "from": "mångfalden",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 21.14,
+          "end": 21.89,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7476
+                ],
+                [
+                  0.3683,
+                  0.7476
+                ],
+                [
+                  0.3683,
+                  0.7973
+                ],
+                [
+                  0,
+                  0.7973
+                ]
+              ],
+              "color": "bla",
+              "from": "mångfalden",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 24.2,
+          "end": 24.95,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1227,
+                  0.8126
+                ],
+                [
+                  0.9926,
+                  0.8126
+                ],
+                [
+                  0.9926,
+                  0.8623
+                ],
+                [
+                  0.1227,
+                  0.8623
+                ]
+              ],
+              "color": "bla",
+              "from": "utrotat",
+              "hlFarg": "rosa",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 24.2,
+          "end": 24.95,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8775
+                ],
+                [
+                  0.3724,
+                  0.8775
+                ],
+                [
+                  0.3724,
+                  0.9273
+                ],
+                [
+                  0,
+                  0.9273
+                ]
+              ],
+              "color": "bla",
+              "from": "utrotat",
+              "hlFarg": "rosa",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 42.59
+  },
+  "layout": {},
+  "variant": "app"
+}

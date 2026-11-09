@@ -1,0 +1,431 @@
+{
+  "slug": "hp-dtk-db84f299",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "db84f299-4e49-4db2-9d66-8a42e581e621"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK · fråga 36 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "ligger"
+      },
+      {
+        "text": "3"
+      },
+      {
+        "text": "km"
+      },
+      {
+        "text": "rakt"
+      },
+      {
+        "text": "söderut"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "tätorten"
+      },
+      {
+        "text": "Lysekils"
+      },
+      {
+        "text": "sydligaste"
+      },
+      {
+        "text": "spets?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "bostadsändamål,"
+          },
+          {
+            "text": "fritidsbebyggelse"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "avsett"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "bebyggas;"
+          },
+          {
+            "text": "naturreservat"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sport"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "idrott"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "allmänt"
+          },
+          {
+            "text": "friluftsbad"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/db84f299-4e49-4db2-9d66-8a42e581e621.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "ringar = sport och idrott",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 33.724,
+    "phases": {
+      "readStart": 1.422,
+      "writeStart": 23.452
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.422,
+          "end": 1.573
+        },
+        {
+          "start": 1.596,
+          "end": 1.782
+        },
+        {
+          "start": 1.933,
+          "end": 2.165
+        },
+        {
+          "start": 2.165,
+          "end": 2.722
+        },
+        {
+          "start": 2.722,
+          "end": 2.885
+        },
+        {
+          "start": 2.908,
+          "end": 3.326
+        },
+        {
+          "start": 3.419,
+          "end": 3.581
+        },
+        {
+          "start": 3.628,
+          "end": 4.115
+        },
+        {
+          "start": 4.15,
+          "end": 4.638
+        },
+        {
+          "start": 4.731,
+          "end": 5.381
+        },
+        {
+          "start": 5.404,
+          "end": 5.996
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.452,
+          "chars": [
+            23.452,
+            23.5875,
+            23.7229,
+            23.8584,
+            23.9938,
+            24.1293,
+            24.2647,
+            24.3053,
+            24.4408,
+            24.4814,
+            24.6169,
+            24.7523,
+            24.8878,
+            25.0232,
+            25.1587,
+            25.1993,
+            25.3348,
+            25.4702,
+            25.6057,
+            25.6463,
+            25.7817,
+            25.9172,
+            26.0526,
+            26.1881,
+            26.3235
+          ]
+        },
+        {
+          "start": 28.705,
+          "chars": [
+            28.705,
+            28.8255,
+            28.9461,
+            29.0666,
+            29.1871,
+            29.2233,
+            29.3438,
+            29.4643,
+            29.5848,
+            29.7054,
+            29.8259,
+            29.9464,
+            30.0669,
+            30.1875,
+            30.308,
+            30.3442,
+            30.4647,
+            30.5008,
+            30.6214,
+            30.7419,
+            30.8624,
+            30.9829,
+            31.1035
+          ]
+        }
+      ],
+      "circle": {
+        "start": 27.959,
+        "end": 28.412
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 7.681,
+          "end": 8.431,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.506,
+                  0.2909
+                ],
+                [
+                  0.7505,
+                  0.2909
+                ]
+              ],
+              "color": "red",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 12.373,
+          "end": 13.123,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.414,
+                  0.381
+                ],
+                [
+                  0.414,
+                  0.527
+                ]
+              ],
+              "color": "red",
+              "label": "3 km",
+              "labelAt": [
+                0.445,
+                0.455
+              ],
+              "snap": false,
+              "labelSize": 16,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 17.135,
+          "end": 17.885,
+          "targets": [
+            {
+              "circle": [
+                0.414,
+                0.527
+              ],
+              "r": 0.04,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 20.988,
+          "end": 21.738,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.01,
+                  0.18
+                ],
+                [
+                  0.284,
+                  0.18
+                ],
+                [
+                  0.284,
+                  0.198
+                ],
+                [
+                  0.01,
+                  0.198
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.681,
+          "end": 10.572,
+          "omrade": [
+            0.46,
+            0.255,
+            0.96,
+            0.315
+          ]
+        },
+        {
+          "start": 11.373,
+          "end": 19.736,
+          "omrade": [
+            0.2,
+            0.33,
+            0.66,
+            0.6
+          ]
+        },
+        {
+          "start": 20.688,
+          "end": 23.194,
+          "omrade": [
+            0,
+            0.165,
+            0.42,
+            0.215
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

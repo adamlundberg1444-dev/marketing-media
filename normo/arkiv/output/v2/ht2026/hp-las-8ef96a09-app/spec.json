@@ -1,0 +1,659 @@
+{
+  "slug": "hp-las-8ef96a09-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "8ef96a09-f9a5-41c2-b4b0-7d718f56028b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "”Starkare"
+      },
+      {
+        "text": "parti,"
+      },
+      {
+        "text": "men"
+      },
+      {
+        "text": "svagare"
+      },
+      {
+        "text": "socialdemokrati”,"
+      },
+      {
+        "text": "skriver"
+      },
+      {
+        "text": "recensenten"
+      },
+      {
+        "text": "när"
+      },
+      {
+        "text": "han"
+      },
+      {
+        "text": "jämför"
+      },
+      {
+        "text": "socialdemokratin"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Frankrike"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Sverige."
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "vill"
+      },
+      {
+        "text": "han"
+      },
+      {
+        "text": "säga"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "det?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 21,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "franska"
+          },
+          {
+            "text": "partiet"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "förhållandevis"
+          },
+          {
+            "text": "stort,"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ideologiskt"
+          },
+          {
+            "text": "svagt."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "franska"
+          },
+          {
+            "text": "partiet"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "organisatoriskt"
+          },
+          {
+            "text": "stabilt,"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "mindre"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "förut."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "partiet"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "förhållandevis"
+          },
+          {
+            "text": "stort,"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ideologiskt"
+          },
+          {
+            "text": "svagt."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "partiet"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "organisatoriskt"
+          },
+          {
+            "text": "stabilt,"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "mindre"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "förut."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__8ef96a09-f9a5-41c2-b4b0-7d718f56028b.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "starkare parti = Sverige",
+      "emphasis": true
+    },
+    {
+      "text": "svagare = mindre radikalism"
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 50.26,
+    "phases": {
+      "readStart": 0.2,
+      "writeStart": 36.1
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.2,
+          "end": 0.76
+        },
+        {
+          "start": 0.8,
+          "end": 1.2
+        },
+        {
+          "start": 1.48,
+          "end": 1.64
+        },
+        {
+          "start": 1.72,
+          "end": 2.22
+        },
+        {
+          "start": 2.28,
+          "end": 3.28
+        },
+        {
+          "start": 3.84,
+          "end": 4.18
+        },
+        {
+          "start": 4.2,
+          "end": 4.98
+        },
+        {
+          "start": 5.36,
+          "end": 5.46
+        },
+        {
+          "start": 5.48,
+          "end": 5.56
+        },
+        {
+          "start": 5.6,
+          "end": 5.98
+        },
+        {
+          "start": 6.02,
+          "end": 7
+        },
+        {
+          "start": 7.04,
+          "end": 7.08
+        },
+        {
+          "start": 7.14,
+          "end": 7.66
+        },
+        {
+          "start": 7.7,
+          "end": 7.74
+        },
+        {
+          "start": 7.8,
+          "end": 8.34
+        },
+        {
+          "start": 9.36,
+          "end": 9.46
+        },
+        {
+          "start": 9.48,
+          "end": 9.6
+        },
+        {
+          "start": 9.62,
+          "end": 9.7
+        },
+        {
+          "start": 9.76,
+          "end": 9.94
+        },
+        {
+          "start": 9.98,
+          "end": 10.06
+        },
+        {
+          "start": 10.1,
+          "end": 10.4
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 36.1,
+          "chars": [
+            36.1,
+            36.3205,
+            36.541,
+            36.7615,
+            36.9821,
+            37.2026,
+            37.4231,
+            37.6436,
+            37.8641,
+            37.9303,
+            38.1508,
+            38.3713,
+            38.5918,
+            38.8123,
+            39.0328,
+            39.099,
+            39.3195,
+            39.3856,
+            39.6062,
+            39.8267,
+            40.0472,
+            40.2677,
+            40.4882,
+            40.7087
+          ]
+        },
+        {
+          "start": 40.9292,
+          "chars": [
+            40.9292,
+            41.1497,
+            41.3703,
+            41.5908,
+            41.8113,
+            42.0318,
+            42.2523,
+            42.4728,
+            42.539,
+            42.7595,
+            42.8256,
+            43.0462,
+            43.2667,
+            43.4872,
+            43.7077,
+            43.9282,
+            44.1487,
+            44.2149,
+            44.4354,
+            44.6559,
+            44.8764,
+            45.0969,
+            45.3174,
+            45.5379,
+            45.7585,
+            45.979,
+            46.1995
+          ]
+        },
+        {
+          "start": 49,
+          "chars": [
+            49,
+            49.0118,
+            49.0237,
+            49.0355,
+            49.0473,
+            49.0592,
+            49.0627,
+            49.0746,
+            49.0864,
+            49.0982,
+            49.1101,
+            49.1136,
+            49.1254,
+            49.129,
+            49.1408,
+            49.1527,
+            49.1645,
+            49.1763,
+            49.1882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 48.42,
+        "end": 48.76
+      },
+      "options": {
+        "hideAt": 11.12,
+        "showAt": 47.52
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 14.38,
+          "end": 15.13,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2973,
+                  0.8054
+                ],
+                [
+                  0.5812,
+                  0.8054
+                ],
+                [
+                  0.5812,
+                  0.8768
+                ],
+                [
+                  0.2973,
+                  0.8768
+                ]
+              ],
+              "color": "bla",
+              "from": "med andra ord",
+              "hlFarg": "blå",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 24.44,
+          "end": 25.19,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4407,
+                  0.2464
+                ],
+                [
+                  0.9811,
+                  0.2464
+                ],
+                [
+                  0.9811,
+                  0.3177
+                ],
+                [
+                  0.4407,
+                  0.3177
+                ]
+              ],
+              "color": "bla",
+              "from": "uthålligare",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 24.44,
+          "end": 25.19,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.3396
+                ],
+                [
+                  0.9187,
+                  0.3396
+                ],
+                [
+                  0.9187,
+                  0.4109
+                ],
+                [
+                  0,
+                  0.4109
+                ]
+              ],
+              "color": "bla",
+              "from": "uthålligare",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 24.44,
+          "end": 25.19,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4328
+                ],
+                [
+                  0.145,
+                  0.4328
+                ],
+                [
+                  0.145,
+                  0.5041
+                ],
+                [
+                  0,
+                  0.5041
+                ]
+              ],
+              "color": "bla",
+              "from": "uthålligare",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 31.86,
+          "end": 32.61,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3244,
+                  0.5259
+                ],
+                [
+                  0.978,
+                  0.5259
+                ],
+                [
+                  0.978,
+                  0.5973
+                ],
+                [
+                  0.3244,
+                  0.5973
+                ]
+              ],
+              "color": "bla",
+              "from": "radikalismen",
+              "hlFarg": "lila",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 31.86,
+          "end": 32.61,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6191
+                ],
+                [
+                  0.9786,
+                  0.6191
+                ],
+                [
+                  0.9786,
+                  0.6904
+                ],
+                [
+                  0,
+                  0.6904
+                ]
+              ],
+              "color": "bla",
+              "from": "radikalismen",
+              "hlFarg": "lila",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 48.95
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,421 @@
+{
+  "slug": "hp-kva-0809bf7c-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "0809bf7c-d94b-4301-b41b-f2a3bb116037"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " x < 0 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " -7x ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " -6x ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "x < 0"
+    },
+    {
+      "text": "-x > 0",
+      "gron": [
+        "-x",
+        ">"
+      ],
+      "farg": {
+        "0": "#0E9F6E",
+        "1": "#0E9F6E",
+        "3": "#0E9F6E"
+      }
+    },
+    {
+      "text": "-7x = 7 \\cdot (-x)"
+    },
+    {
+      "text": "-6x = 6 \\cdot (-x)"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 45.12,
+    "phases": {
+      "readStart": 0.36,
+      "writeStart": 7.78
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.36,
+          "end": 1.3683
+        },
+        {
+          "start": 1.3683,
+          "end": 2.167
+        },
+        {
+          "start": 2.167,
+          "end": 2.9003
+        },
+        {
+          "start": 2.9003,
+          "end": 3.7514
+        },
+        {
+          "start": 3.7514,
+          "end": 4.5501
+        },
+        {
+          "start": 4.5501,
+          "end": 5.3489
+        },
+        {
+          "start": 5.3489,
+          "end": 6.2
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.78,
+          "chars": [
+            7.78,
+            8.0972,
+            8.1924,
+            8.5096,
+            8.6048
+          ]
+        },
+        {
+          "start": 10.6,
+          "chars": [
+            10.6,
+            10.8961,
+            11.1922,
+            11.281,
+            11.5771,
+            11.6659
+          ]
+        },
+        {
+          "start": 16.8,
+          "chars": [
+            16.8,
+            17.0512,
+            17.3025,
+            17.5538,
+            17.6291,
+            17.8804,
+            17.9558,
+            18.207,
+            18.2824,
+            18.5336,
+            18.609,
+            18.8603,
+            19.1115,
+            19.3628
+          ]
+        },
+        {
+          "start": 19.614,
+          "chars": [
+            19.614,
+            19.8652,
+            20.1165,
+            20.3678,
+            20.4431,
+            20.6944,
+            20.7698,
+            21.021,
+            21.0964,
+            21.3476,
+            21.423,
+            21.6743,
+            21.9255,
+            22.1768
+          ]
+        },
+        {
+          "start": 27.2,
+          "chars": [
+            27.2,
+            27.4961,
+            27.5849,
+            27.881,
+            27.9698,
+            28.2659
+          ]
+        },
+        {
+          "start": 43.7,
+          "chars": [
+            43.7,
+            43.7137,
+            43.7274,
+            43.7411,
+            43.7548,
+            43.7685,
+            43.7726,
+            43.7863,
+            43.8,
+            43.8137,
+            43.8178,
+            43.8315,
+            43.8452,
+            43.8589,
+            43.8726,
+            43.8863
+          ]
+        }
+      ],
+      "circle": {
+        "start": 39.86,
+        "end": 43.62
+      },
+      "options": {
+        "hideAt": 7.48,
+        "showAt": 38.96
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.74,
+          "end": 1.49,
+          "targets": [
+            {
+              "w": 0,
+              "from": "negativt",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 3.12,
+          "end": 3.87,
+          "targets": [
+            {
+              "w": 1,
+              "from": "minus 7 x",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "minus 7 x",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "minus 7 x",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 4.76,
+          "end": 5.51,
+          "targets": [
+            {
+              "w": 4,
+              "from": "minus 6 x",
+              "color": "lila"
+            },
+            {
+              "w": 5,
+              "from": "minus 6 x",
+              "color": "lila"
+            },
+            {
+              "w": 6,
+              "from": "minus 6 x",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 0,
+          "farg": "#0E9F6E",
+          "from": "blir minus x",
+          "eq": 2,
+          "n": 5,
+          "op": "\\cdot (-1)",
+          "stryk": [],
+          "start": 9.14,
+          "strykAt": 10.14
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 43.65
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3,
+    "appKeyLines": [
+      2,
+      3,
+      4
+    ]
+  },
+  "variant": "app"
+}

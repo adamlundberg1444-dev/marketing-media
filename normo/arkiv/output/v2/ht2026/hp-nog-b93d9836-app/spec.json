@@ -1,0 +1,1101 @@
+{
+  "slug": "hp-nog-b93d9836-app",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "b93d9836-a420-43f5-a941-a6f50ac2676d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Leo,"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "varsitt"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "valt"
+      },
+      {
+        "text": "färg"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "tapeterna."
+      },
+      {
+        "text": "Ingen"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "valt"
+      },
+      {
+        "text": "samma"
+      },
+      {
+        "text": "färg"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "någon"
+      },
+      {
+        "text": "annan."
+      },
+      {
+        "text": "Tapeterna"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "blå,"
+      },
+      {
+        "text": "gula"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "vita."
+      },
+      {
+        "text": "Vems"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "gula"
+      },
+      {
+        "text": "tapeter?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "text": "Om"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "därefter"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Manfred,"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "skulle"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "ha"
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "tapeter"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "blå."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "text": "Om"
+      },
+      {
+        "text": "Olivia"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "därefter"
+      },
+      {
+        "text": "bytte"
+      },
+      {
+        "text": "rum"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Olivia,"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "skulle"
+      },
+      {
+        "text": "Manfred"
+      },
+      {
+        "text": "ha"
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "tapeter"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "gula."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 79,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "(1) Leo i O-rum, Manfred i L-rum"
+    },
+    {
+      "text": "O vitt, L blått, M gult: räcker"
+    },
+    {
+      "text": "(2) Leo i M-rum: M gult, räcker",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 53.78,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 10.26
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.38
+        },
+        {
+          "start": 0.5,
+          "end": 1.02
+        },
+        {
+          "start": 1.12,
+          "end": 1.22
+        },
+        {
+          "start": 1.26,
+          "end": 1.74
+        },
+        {
+          "start": 1.8,
+          "end": 1.98
+        },
+        {
+          "start": 1.98,
+          "end": 2.0416
+        },
+        {
+          "start": 2.0416,
+          "end": 2.0791
+        },
+        {
+          "start": 2.0791,
+          "end": 2.1166
+        },
+        {
+          "start": 2.1166,
+          "end": 2.148
+        },
+        {
+          "start": 2.148,
+          "end": 2.1855
+        },
+        {
+          "start": 2.1855,
+          "end": 2.229
+        },
+        {
+          "start": 2.229,
+          "end": 2.2725
+        },
+        {
+          "start": 2.2725,
+          "end": 2.3039
+        },
+        {
+          "start": 2.3039,
+          "end": 2.4199
+        },
+        {
+          "start": 2.4199,
+          "end": 2.4695
+        },
+        {
+          "start": 2.4695,
+          "end": 2.5069
+        },
+        {
+          "start": 2.5069,
+          "end": 2.5504
+        },
+        {
+          "start": 2.5504,
+          "end": 2.6
+        },
+        {
+          "start": 2.6,
+          "end": 2.96
+        },
+        {
+          "start": 2.96,
+          "end": 3.0365
+        },
+        {
+          "start": 3.0365,
+          "end": 3.1377
+        },
+        {
+          "start": 3.1377,
+          "end": 3.3253
+        },
+        {
+          "start": 3.3253,
+          "end": 3.4758
+        },
+        {
+          "start": 3.4758,
+          "end": 3.54
+        },
+        {
+          "start": 3.54,
+          "end": 3.88
+        },
+        {
+          "start": 3.88,
+          "end": 4.74
+        },
+        {
+          "start": 4.74,
+          "end": 4.84
+        },
+        {
+          "start": 4.84,
+          "end": 5.8072
+        },
+        {
+          "start": 5.8072,
+          "end": 6.2977
+        },
+        {
+          "start": 6.2977,
+          "end": 6.72
+        },
+        {
+          "start": 6.72,
+          "end": 7.1
+        },
+        {
+          "start": 7.1,
+          "end": 7.1162
+        },
+        {
+          "start": 7.1162,
+          "end": 7.1548
+        },
+        {
+          "start": 7.1548,
+          "end": 7.1688
+        },
+        {
+          "start": 7.1688,
+          "end": 7.1805
+        },
+        {
+          "start": 7.1805,
+          "end": 7.1944
+        },
+        {
+          "start": 7.1944,
+          "end": 7.2128
+        },
+        {
+          "start": 7.2128,
+          "end": 7.2268
+        },
+        {
+          "start": 7.2268,
+          "end": 7.2407
+        },
+        {
+          "start": 7.2407,
+          "end": 7.2614
+        },
+        {
+          "start": 7.2614,
+          "end": 7.2753
+        },
+        {
+          "start": 7.2753,
+          "end": 7.296
+        },
+        {
+          "start": 7.296,
+          "end": 7.3212
+        },
+        {
+          "start": 7.3212,
+          "end": 7.3396
+        },
+        {
+          "start": 7.3396,
+          "end": 7.3535
+        },
+        {
+          "start": 7.3535,
+          "end": 7.3675
+        },
+        {
+          "start": 7.3675,
+          "end": 7.3927
+        },
+        {
+          "start": 7.3927,
+          "end": 7.4043
+        },
+        {
+          "start": 7.4043,
+          "end": 7.425
+        },
+        {
+          "start": 7.425,
+          "end": 7.439
+        },
+        {
+          "start": 7.439,
+          "end": 7.4507
+        },
+        {
+          "start": 7.4507,
+          "end": 7.4668
+        },
+        {
+          "start": 7.4668,
+          "end": 7.4898
+        },
+        {
+          "start": 7.4898,
+          "end": 7.5037
+        },
+        {
+          "start": 7.5037,
+          "end": 7.5266
+        },
+        {
+          "start": 7.5266,
+          "end": 7.5563
+        },
+        {
+          "start": 7.5563,
+          "end": 7.5702
+        },
+        {
+          "start": 7.5702,
+          "end": 7.5819
+        },
+        {
+          "start": 7.5819,
+          "end": 7.6026
+        },
+        {
+          "start": 7.6026,
+          "end": 7.621
+        },
+        {
+          "start": 7.621,
+          "end": 7.635
+        },
+        {
+          "start": 7.635,
+          "end": 7.6489
+        },
+        {
+          "start": 7.6489,
+          "end": 7.6718
+        },
+        {
+          "start": 7.6718,
+          "end": 7.6858
+        },
+        {
+          "start": 7.6858,
+          "end": 7.6997
+        },
+        {
+          "start": 7.6997,
+          "end": 7.7249
+        },
+        {
+          "start": 7.7249,
+          "end": 7.7433
+        },
+        {
+          "start": 7.7433,
+          "end": 7.7573
+        },
+        {
+          "start": 7.7573,
+          "end": 7.7712
+        },
+        {
+          "start": 7.7712,
+          "end": 7.7941
+        },
+        {
+          "start": 7.7941,
+          "end": 7.8058
+        },
+        {
+          "start": 7.8058,
+          "end": 7.8265
+        },
+        {
+          "start": 7.8265,
+          "end": 7.8494
+        },
+        {
+          "start": 7.8494,
+          "end": 7.8611
+        },
+        {
+          "start": 7.8611,
+          "end": 7.8773
+        },
+        {
+          "start": 7.8773,
+          "end": 7.9002
+        },
+        {
+          "start": 7.9002,
+          "end": 7.9141
+        },
+        {
+          "start": 7.9141,
+          "end": 7.9281
+        },
+        {
+          "start": 7.9281,
+          "end": 7.96
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 10.26,
+          "chars": [
+            10.26,
+            10.4926,
+            10.7252,
+            10.9578,
+            11.0275,
+            11.2601,
+            11.4927,
+            11.7253,
+            11.7951,
+            12.0277,
+            12.0975,
+            12.3301,
+            12.5626,
+            12.7952,
+            13.0278,
+            13.2604,
+            13.493,
+            13.5628,
+            13.7954,
+            14.028,
+            14.2605,
+            14.4931,
+            14.7257,
+            14.9583,
+            15.1909,
+            15.2607,
+            15.4933,
+            15.5631,
+            15.7956,
+            16.0282,
+            16.2608,
+            16.4934
+          ]
+        },
+        {
+          "start": 19.64,
+          "chars": [
+            19.64,
+            19.8731,
+            19.943,
+            20.176,
+            20.4091,
+            20.6422,
+            20.8752,
+            21.1083,
+            21.1782,
+            21.4113,
+            21.4812,
+            21.7142,
+            21.9473,
+            22.1804,
+            22.4134,
+            22.6465,
+            22.8795,
+            22.9494,
+            23.1825,
+            23.2524,
+            23.4855,
+            23.7185,
+            23.9516,
+            24.1847,
+            24.4177,
+            24.4876,
+            24.7207,
+            24.9538,
+            25.1868,
+            25.4199,
+            25.6529
+          ]
+        },
+        {
+          "start": 34.82,
+          "chars": [
+            34.82,
+            35.0531,
+            35.2861,
+            35.5192,
+            35.5891,
+            35.8222,
+            36.0552,
+            36.2883,
+            36.3582,
+            36.5913,
+            36.6612,
+            36.8942,
+            37.1273,
+            37.3604,
+            37.5934,
+            37.8265,
+            38.0595,
+            38.1294,
+            38.3625,
+            38.4324,
+            38.6655,
+            38.8985,
+            39.1316,
+            39.3647,
+            39.5977,
+            39.6676,
+            39.9007,
+            40.1338,
+            40.3668,
+            40.5999,
+            40.8329
+          ]
+        },
+        {
+          "start": 52.58,
+          "chars": [
+            52.58,
+            52.5926,
+            52.6052,
+            52.6177,
+            52.6303,
+            52.6429,
+            52.6467,
+            52.6592,
+            52.6718,
+            52.6844,
+            52.6882,
+            52.7008,
+            52.7045,
+            52.7171,
+            52.7297,
+            52.7423,
+            52.7548,
+            52.7674
+          ]
+        }
+      ],
+      "circle": {
+        "start": 48.72,
+        "end": 52.28
+      },
+      "options": {
+        "hideAt": 9.96,
+        "showAt": 47.82
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 3.54,
+          "end": 4.29,
+          "targets": [
+            {
+              "w": 22,
+              "from": "blå"
+            },
+            {
+              "w": 23,
+              "from": "blå"
+            },
+            {
+              "w": 24,
+              "from": "blå"
+            },
+            {
+              "w": 25,
+              "from": "blå"
+            },
+            {
+              "w": 26,
+              "from": "blå"
+            },
+            {
+              "w": 27,
+              "from": "blå"
+            }
+          ]
+        },
+        {
+          "start": 6.28,
+          "end": 7.03,
+          "targets": [
+            {
+              "w": 28,
+              "from": "Vem"
+            },
+            {
+              "w": 29,
+              "from": "Vem"
+            },
+            {
+              "w": 30,
+              "from": "Vem"
+            },
+            {
+              "w": 31,
+              "from": "Vem"
+            },
+            {
+              "w": 32,
+              "from": "Vem"
+            }
+          ]
+        },
+        {
+          "start": 10.26,
+          "end": 11.01,
+          "targets": [
+            {
+              "w": 36,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 37,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 38,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 39,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 40,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 41,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 42,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 43,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 44,
+              "from": "Påstående ett"
+            },
+            {
+              "w": 45,
+              "from": "Påstående ett"
+            }
+          ]
+        },
+        {
+          "start": 19.64,
+          "end": 20.39,
+          "targets": [
+            {
+              "w": 47,
+              "from": "Leo har"
+            },
+            {
+              "w": 48,
+              "from": "Leo har"
+            },
+            {
+              "w": 49,
+              "from": "Leo har"
+            },
+            {
+              "w": 50,
+              "from": "Leo har"
+            },
+            {
+              "w": 51,
+              "from": "Leo har"
+            },
+            {
+              "w": 52,
+              "from": "Leo har"
+            },
+            {
+              "w": 53,
+              "from": "Leo har"
+            },
+            {
+              "w": 54,
+              "from": "Leo har"
+            },
+            {
+              "w": 55,
+              "from": "Leo har"
+            }
+          ]
+        },
+        {
+          "start": 36.68,
+          "end": 37.43,
+          "targets": [
+            {
+              "w": 70,
+              "from": "efter bytena"
+            },
+            {
+              "w": 71,
+              "from": "efter bytena"
+            },
+            {
+              "w": 72,
+              "from": "efter bytena"
+            },
+            {
+              "w": 73,
+              "from": "efter bytena"
+            },
+            {
+              "w": 74,
+              "from": "efter bytena"
+            },
+            {
+              "w": 75,
+              "from": "efter bytena"
+            },
+            {
+              "w": 76,
+              "from": "efter bytena"
+            },
+            {
+              "w": 77,
+              "from": "efter bytena"
+            },
+            {
+              "w": 78,
+              "from": "efter bytena"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 52.53
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

@@ -1,0 +1,327 @@
+{
+  "slug": "hp-ord-d379c3ff-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "d379c3ff-07af-4dc5-b2ca-031d906b3358"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "få"
+      },
+      {
+        "text": "något"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "bakfoten"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "glömma"
+          },
+          {
+            "text": "något"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "förhindra"
+          },
+          {
+            "text": "något"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "irritera"
+          },
+          {
+            "text": "sig"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "något"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "missuppfatta"
+          },
+          {
+            "text": "något"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "bli"
+          },
+          {
+            "text": "försenad"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "något"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "om bakfoten = missuppfattat",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 30.38,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 18.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.44
+        },
+        {
+          "start": 0.52,
+          "end": 1.08
+        },
+        {
+          "start": 1.18,
+          "end": 1.3
+        },
+        {
+          "start": 1.36,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "start": 2.2,
+          "end": 2.2
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.34,
+          "chars": [
+            18.34,
+            18.5713,
+            18.8027,
+            18.872,
+            19.1034,
+            19.3347,
+            19.566,
+            19.7973,
+            20.0287,
+            20.26,
+            20.4913,
+            20.7227,
+            20.792,
+            21.0234,
+            21.0928,
+            21.3241,
+            21.5554,
+            21.7867,
+            22.0181,
+            22.2494,
+            22.4807,
+            22.712,
+            22.9434,
+            23.1747,
+            23.406,
+            23.6373,
+            23.8687
+          ]
+        },
+        {
+          "start": 28.92,
+          "chars": [
+            28.92,
+            28.9353,
+            28.9506,
+            28.9659,
+            28.9812,
+            28.9858,
+            29.0011,
+            29.0165,
+            29.0318,
+            29.0471,
+            29.0624,
+            29.0777,
+            29.093,
+            29.1083,
+            29.1236,
+            29.1282,
+            29.1435,
+            29.1481,
+            29.1634,
+            29.1788,
+            29.1941,
+            29.2094,
+            29.2247
+          ]
+        }
+      ],
+      "circle": {
+        "start": 26.88,
+        "end": 28.88
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.14,
+          "end": 0.89,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Få"
+            },
+            {
+              "w": 1,
+              "from": "Få"
+            },
+            {
+              "w": 2,
+              "from": "Få"
+            },
+            {
+              "w": 3,
+              "from": "Få"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 28.87
+  },
+  "layout": {},
+  "variant": "app"
+}

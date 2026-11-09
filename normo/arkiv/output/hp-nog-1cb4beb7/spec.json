@@ -1,0 +1,594 @@
+{
+  "slug": "hp-nog-1cb4beb7",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "1cb4beb7-fb5f-424b-936e-8f82a69ccdf9"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.9,
+    "optionGapScale": 0.7,
+    "optionIndent": 0,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "NOG-fråga · Högskoleprovet",
+    "text2": "VT 2024 · fråga 24",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "\\begin{aligned}\\text{sidovinklar} &= 180^\\circ\\\\ \\text{vertikalvinklar} &\\text{ är lika}\\end{aligned}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "vinkeln"
+      },
+      {
+        "tex": "u",
+        "display": false
+      },
+      {
+        "text": "?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "tex": "w = 65^\\circ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "tex": "v = 50^\\circ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/1cb4beb7-fb5f-424b-936e-8f82a69ccdf9.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "v = 180° - 130° = 50°"
+    },
+    {
+      "text": "u + w + 50° = 180°"
+    },
+    {
+      "text": "u + w = 180° - 50° = 130°"
+    },
+    {
+      "text": "(1) u = 130° - 65° = 65°"
+    },
+    {
+      "text": "v = 50° var redan känt"
+    },
+    {
+      "text": "(1) räcker, (2) räcker ej",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 95.465,
+    "phases": {
+      "readStart": 2.992,
+      "writeStart": 25.035
+    },
+    "read": {
+      "words": [
+        {
+          "start": 2.992,
+          "end": 3.131
+        },
+        {
+          "start": 3.154,
+          "end": 3.502
+        },
+        {
+          "start": 3.537,
+          "end": 3.572
+        },
+        {
+          "start": 3.607,
+          "end": 4.025
+        },
+        {
+          "start": 4.025,
+          "end": 5.0262
+        },
+        {
+          "start": 5.0262,
+          "end": 6.2961
+        },
+        {
+          "start": 6.2961,
+          "end": 7.0532
+        },
+        {
+          "start": 7.0532,
+          "end": 8.9336
+        },
+        {
+          "start": 8.9336,
+          "end": 9.6906
+        },
+        {
+          "start": 9.6906,
+          "end": 11.571
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 25.035,
+          "chars": [
+            25.035,
+            25.2758,
+            25.3481,
+            25.5889,
+            25.6612,
+            25.902,
+            26.1428,
+            26.3837,
+            26.6245,
+            26.6968,
+            26.9376,
+            27.0098,
+            27.2507,
+            27.4915,
+            27.7323,
+            27.9732,
+            28.0454,
+            28.2862,
+            28.3585,
+            28.5993,
+            28.8402
+          ]
+        },
+        {
+          "start": 34.909,
+          "chars": [
+            34.909,
+            35.1544,
+            35.228,
+            35.4733,
+            35.5469,
+            35.7923,
+            35.8659,
+            36.1113,
+            36.1849,
+            36.4302,
+            36.6756,
+            36.921,
+            36.9946,
+            37.2399,
+            37.3136,
+            37.5589,
+            37.8043,
+            38.0496
+          ]
+        },
+        {
+          "start": 46.317,
+          "chars": [
+            46.317,
+            46.555,
+            46.6265,
+            46.8645,
+            46.9359,
+            47.1739,
+            47.2454,
+            47.4834,
+            47.5548,
+            47.7929,
+            48.0309,
+            48.2689,
+            48.507,
+            48.5784,
+            48.8164,
+            48.8878,
+            49.1259,
+            49.3639,
+            49.602,
+            49.6734,
+            49.9114,
+            49.9828,
+            50.2209,
+            50.4589,
+            50.697
+          ]
+        },
+        {
+          "start": 62.131,
+          "chars": [
+            62.131,
+            62.3693,
+            62.6076,
+            62.846,
+            62.9175,
+            63.1558,
+            63.2273,
+            63.4656,
+            63.5371,
+            63.7754,
+            64.0138,
+            64.2521,
+            64.4904,
+            64.5619,
+            64.8002,
+            64.8717,
+            65.1101,
+            65.3484,
+            65.5867,
+            65.6582,
+            65.8965,
+            65.968,
+            66.2064,
+            66.4447
+          ]
+        },
+        {
+          "start": 70.011,
+          "chars": [
+            70.011,
+            70.2499,
+            70.3216,
+            70.5605,
+            70.6322,
+            70.8711,
+            71.11,
+            71.3489,
+            71.4206,
+            71.6595,
+            71.8985,
+            72.1374,
+            72.2091,
+            72.448,
+            72.6869,
+            72.9258,
+            73.1647,
+            73.4036,
+            73.4753,
+            73.7142,
+            73.9532,
+            74.1921
+          ]
+        },
+        {
+          "start": 77.11,
+          "chars": [
+            77.11,
+            77.3458,
+            77.5815,
+            77.8173,
+            77.888,
+            78.1238,
+            78.3596,
+            78.5953,
+            78.8311,
+            79.0669,
+            79.3026,
+            79.5384,
+            79.6091,
+            79.8449,
+            80.0806,
+            80.3164,
+            80.3871,
+            80.6229,
+            80.8587,
+            81.0944,
+            81.3302,
+            81.566,
+            81.8017,
+            81.8725,
+            82.1082
+          ]
+        },
+        {
+          "start": 89.389,
+          "chars": [
+            89.389,
+            89.633,
+            89.8769,
+            90.1209,
+            90.3649,
+            90.6089,
+            90.6821,
+            90.926,
+            91.17,
+            91.414,
+            91.4872,
+            91.7311,
+            91.9751,
+            92.2191,
+            92.4631,
+            92.707
+          ]
+        }
+      ],
+      "circle": {
+        "start": 84.138,
+        "end": 87.992
+      },
+      "options": {
+        "hideAt": 22.334,
+        "showAt": 83.238
+      },
+      "concept": {
+        "start": 12.982,
+        "end": 21.934,
+        "hideAt": 34.624
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 23.085,
+          "end": 23.835,
+          "targets": [
+            {
+              "angle": [
+                0.5578,
+                0.883
+              ],
+              "to": [
+                [
+                  0.1011,
+                  0.8526
+                ],
+                [
+                  0.263,
+                  0.0835
+                ]
+              ],
+              "r": 0.06,
+              "fill": true,
+              "label": "50°",
+              "color": "blue",
+              "labelAt": [
+                0.47,
+                0.6
+              ],
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 60.181,
+          "end": 60.931,
+          "targets": [
+            {
+              "angle": [
+                0.0932,
+                0.883
+              ],
+              "to": [
+                [
+                  0.5499,
+                  0.8526
+                ],
+                [
+                  0.2643,
+                  0.0761
+                ]
+              ],
+              "r": 0.06,
+              "fill": true,
+              "label": "65°",
+              "color": "blue",
+              "labelAt": [
+                0.2,
+                0.62
+              ],
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 22.085,
+          "end": 24.835
+        },
+        {
+          "start": 59.181,
+          "end": 61.931
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 1,
+          "op": "- 50°",
+          "eq": 12,
+          "stryk": {
+            "from": 6,
+            "to": 10,
+            "sida": "vanster"
+          },
+          "start": 42.922,
+          "end": 45.406
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

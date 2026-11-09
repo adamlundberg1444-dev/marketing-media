@@ -1,0 +1,435 @@
+{
+  "slug": "hp-elf-e42525c7-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "e42525c7-dba0-448d-b033-4e1369b3204d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "claimed"
+      },
+      {
+        "text": "about"
+      },
+      {
+        "text": "primate"
+      },
+      {
+        "text": "empathy?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "It"
+          },
+          {
+            "text": "can"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "directed"
+          },
+          {
+            "text": "toward"
+          },
+          {
+            "text": "other"
+          },
+          {
+            "text": "mammals."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "There"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "usually"
+          },
+          {
+            "text": "nothing"
+          },
+          {
+            "text": "altruistic"
+          },
+          {
+            "text": "about"
+          },
+          {
+            "text": "it."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "It"
+          },
+          {
+            "text": "can"
+          },
+          {
+            "text": "involve"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "high"
+          },
+          {
+            "text": "degree"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "risk-taking."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "There"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "some"
+          },
+          {
+            "text": "doubts"
+          },
+          {
+            "text": "as"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "its"
+          },
+          {
+            "text": "true"
+          },
+          {
+            "text": "nature."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__e42525c7-dba0-448d-b033-4e1369b3204d.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "empati kan innebära fara",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 36.88,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 27.24
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.22
+        },
+        {
+          "start": 0.28,
+          "end": 0.42
+        },
+        {
+          "start": 0.5,
+          "end": 0.9
+        },
+        {
+          "start": 0.94,
+          "end": 1.26
+        },
+        {
+          "start": 1.32,
+          "end": 1.84
+        },
+        {
+          "start": 1.92,
+          "end": 2.42
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 27.24,
+          "chars": [
+            27.24,
+            27.476,
+            27.712,
+            27.9479,
+            28.1839,
+            28.4199,
+            28.6559,
+            28.7267,
+            28.9627,
+            29.1986,
+            29.4346,
+            29.5054,
+            29.7414,
+            29.9774,
+            30.2134,
+            30.4494,
+            30.6853,
+            30.9213,
+            31.1573,
+            31.3933,
+            31.4641,
+            31.7001,
+            31.936,
+            32.172
+          ]
+        },
+        {
+          "start": 35.72,
+          "chars": [
+            35.72,
+            35.7337,
+            35.7474,
+            35.7611,
+            35.7748,
+            35.7885,
+            35.7926,
+            35.8063,
+            35.82,
+            35.8337,
+            35.8378,
+            35.8515,
+            35.8652,
+            35.8789,
+            35.8926,
+            35.9063
+          ]
+        }
+      ],
+      "circle": {
+        "start": 34.9,
+        "end": 35.38
+      },
+      "options": {
+        "hideAt": 10.54,
+        "showAt": 34
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 5.66,
+          "end": 6.41,
+          "targets": [
+            {
+              "w": 2,
+              "from": "claimed",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 14.32,
+          "end": 15.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3907,
+                  0.6545
+                ],
+                [
+                  0.9541,
+                  0.6545
+                ],
+                [
+                  0.9541,
+                  0.7065
+                ],
+                [
+                  0.3907,
+                  0.7065
+                ]
+              ],
+              "color": "bla",
+              "from": "högt pris",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 14.32,
+          "end": 15.07,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7224
+                ],
+                [
+                  0.2912,
+                  0.7224
+                ],
+                [
+                  0.2912,
+                  0.7743
+                ],
+                [
+                  0,
+                  0.7743
+                ]
+              ],
+              "color": "bla",
+              "from": "högt pris",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 19.32,
+          "end": 20.06,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3126,
+                  0.7902
+                ],
+                [
+                  0.8708,
+                  0.7902
+                ],
+                [
+                  0.8708,
+                  0.8422
+                ],
+                [
+                  0.3126,
+                  0.8422
+                ]
+              ],
+              "color": "bla",
+              "from": "leoparder",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 24.64,
+          "end": 25.39,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8581
+                ],
+                [
+                  0.6213,
+                  0.8581
+                ],
+                [
+                  0.6213,
+                  0.91
+                ],
+                [
+                  0,
+                  0.91
+                ]
+              ],
+              "color": "bla",
+              "from": "altruism",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 35.67
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "hp-ord-c016fa1e-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "c016fa1e-a1fc-4304-801c-5d7b9a63c86f"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "asketism"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "blygsamhet"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "avhållsamhet"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "noggrannhet"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "finkänslighet"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "medmänsklighet"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "asketism = avhållsamhet",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 32.16,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 21.76
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "start": 1.02,
+          "end": 1.02
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 21.76,
+          "chars": [
+            21.76,
+            21.9785,
+            22.197,
+            22.4156,
+            22.6341,
+            22.8526,
+            23.0711,
+            23.2896,
+            23.5081,
+            23.5737,
+            23.7922,
+            23.8578,
+            24.0763,
+            24.2948,
+            24.5133,
+            24.7319,
+            24.9504,
+            25.1689,
+            25.3874,
+            25.6059,
+            25.8244,
+            26.043,
+            26.2615
+          ]
+        },
+        {
+          "start": 30.84,
+          "chars": [
+            30.84,
+            30.8537,
+            30.8674,
+            30.8811,
+            30.8948,
+            30.9085,
+            30.9126,
+            30.9263,
+            30.94,
+            30.9537,
+            30.9578,
+            30.9715,
+            30.9852,
+            30.9989,
+            31.0126,
+            31.0263
+          ]
+        }
+      ],
+      "circle": {
+        "start": 28.6,
+        "end": 30.66
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.12,
+          "end": 0.87,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Asketism"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 30.79
+  },
+  "layout": {},
+  "variant": "app"
+}

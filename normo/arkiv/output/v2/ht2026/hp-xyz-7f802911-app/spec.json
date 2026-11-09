@@ -1,0 +1,315 @@
+{
+  "slug": "hp-xyz-7f802911-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "7f802911-82f7-4e58-bcca-d0ac719a51fa"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " 2{,}3 \\cdot 10^3 + 9{,}8 \\cdot 10^2 ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " 3{,}28 \\cdot 10^3 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 1{,}21 \\cdot 10^4 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 3{,}28 \\cdot 10^4 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 1{,}21 \\cdot 10^6 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "2{,}3 \\cdot 10^3 = 2300",
+      "gron": [
+        "2300"
+      ],
+      "farg": {
+        "12": "#0E9F6E",
+        "13": "#0E9F6E",
+        "14": "#0E9F6E",
+        "15": "#0E9F6E"
+      }
+    },
+    {
+      "text": "9{,}8 \\cdot 10^2 = 980",
+      "gron": [
+        "980"
+      ],
+      "farg": {
+        "12": "#0E9F6E",
+        "13": "#0E9F6E",
+        "14": "#0E9F6E"
+      }
+    },
+    {
+      "text": "2300 + 980 = 3280",
+      "gron": [
+        "3280"
+      ],
+      "farg": {
+        "13": "#0E9F6E",
+        "14": "#0E9F6E",
+        "15": "#0E9F6E",
+        "16": "#0E9F6E"
+      }
+    },
+    {
+      "text": "3280 = 3{,}28 \\cdot 10^3",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 56.03,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 28.6
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 1.1291
+        },
+        {
+          "start": 1.1291,
+          "end": 1.9755
+        },
+        {
+          "start": 1.9755,
+          "end": 7.6072
+        },
+        {
+          "start": 7.6072,
+          "end": 9.3
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 28.6,
+          "chars": [
+            28.6,
+            28.6636,
+            28.7273,
+            28.7909,
+            28.81,
+            28.8736,
+            28.8927,
+            28.9564,
+            29.02,
+            29.0836,
+            29.1027,
+            29.1664,
+            29.1855,
+            29.2491,
+            29.3127,
+            29.3764
+          ]
+        },
+        {
+          "start": 35.7,
+          "chars": [
+            35.7,
+            35.7852,
+            35.8705,
+            35.9557,
+            35.9813,
+            36.0666,
+            36.0921,
+            36.1774,
+            36.2626,
+            36.3479,
+            36.3734,
+            36.4587,
+            36.4843,
+            36.5695,
+            36.6548
+          ]
+        },
+        {
+          "start": 39.88,
+          "chars": [
+            39.88,
+            40.0983,
+            40.3166,
+            40.5349,
+            40.7532,
+            40.8187,
+            41.037,
+            41.1025,
+            41.3208,
+            41.5392,
+            41.7575,
+            41.823,
+            42.0413,
+            42.1068,
+            42.3251,
+            42.5434,
+            42.7617
+          ]
+        },
+        {
+          "start": 47.58,
+          "chars": [
+            47.58,
+            47.8246,
+            48.0693,
+            48.3139,
+            48.5586,
+            48.632,
+            48.8766,
+            48.95,
+            49.1947,
+            49.4393,
+            49.684,
+            49.9286,
+            50.002,
+            50.2467,
+            50.3201,
+            50.5647,
+            50.8094
+          ]
+        },
+        {
+          "start": 56.08,
+          "chars": [
+            56.08,
+            56.0926,
+            56.1052,
+            56.1177,
+            56.1303,
+            56.1429,
+            56.1467,
+            56.1592,
+            56.1718,
+            56.1844,
+            56.1882,
+            56.2008,
+            56.2045,
+            56.2171,
+            56.2297,
+            56.2423,
+            56.2548,
+            56.2674
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.06,
+        "end": 54.34
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.5,
+          "end": 1.25,
+          "targets": [
+            {
+              "w": 2,
+              "from": "addera",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

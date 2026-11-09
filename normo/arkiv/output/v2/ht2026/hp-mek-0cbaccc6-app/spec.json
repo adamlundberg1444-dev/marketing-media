@@ -1,0 +1,742 @@
+{
+  "slug": "hp-mek-0cbaccc6-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "0cbaccc6-4f8a-4eec-ab09-2522e176e987"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Förväntningarna"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "genombrott"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "forskningen"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "föryngring"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "kroppens"
+      },
+      {
+        "text": "celler"
+      },
+      {
+        "text": "drivs"
+      },
+      {
+        "text": "upp"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "positiva"
+      },
+      {
+        "text": "resultat"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "redovisats"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "studier"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "olika"
+      },
+      {
+        "text": "djurarter."
+      },
+      {
+        "text": "Dessa"
+      },
+      {
+        "text": "resultat"
+      },
+      {
+        "text": "bidrar"
+      },
+      {
+        "text": "också"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "rika"
+      },
+      {
+        "text": "investerare"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "blivit"
+      },
+      {
+        "text": "mer"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "satsa"
+      },
+      {
+        "text": "pengar"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "sådan"
+      },
+      {
+        "text": "forskning,"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "vara"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "effektivt"
+      },
+      {
+        "text": "sätt"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "förlänga"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "egna"
+      },
+      {
+        "text": "livet."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 55,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "trugade"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "förtrogna"
+          },
+          {
+            "text": "med"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "hugade"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "förvissade"
+          },
+          {
+            "text": "om"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "vågade"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "försonade"
+          },
+          {
+            "text": "med"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "danade"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "förtegna"
+          },
+          {
+            "text": "om"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "hugade",
+      "förvissade om"
+    ],
+    "gapFarg": [
+      "blå",
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "hugad = villig",
+      "emphasis": true
+    },
+    {
+      "text": "förvissad om = övertygad om"
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 58.47,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 47.96
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.1
+        },
+        {
+          "start": 0.1,
+          "end": 0.7
+        },
+        {
+          "start": 0.74,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4192
+        },
+        {
+          "start": 1.4192,
+          "end": 1.46
+        },
+        {
+          "start": 1.46,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.6971
+        },
+        {
+          "start": 1.6971,
+          "end": 1.7874
+        },
+        {
+          "start": 1.7874,
+          "end": 1.9298
+        },
+        {
+          "start": 1.9298,
+          "end": 2.2632
+        },
+        {
+          "start": 2.2632,
+          "end": 2.4055
+        },
+        {
+          "start": 2.4055,
+          "end": 2.6
+        },
+        {
+          "start": 2.6,
+          "end": 3.1
+        },
+        {
+          "start": 3.1,
+          "end": 3.16
+        },
+        {
+          "start": 3.16,
+          "end": 3.26
+        },
+        {
+          "start": 3.32,
+          "end": 3.4
+        },
+        {
+          "start": 3.54,
+          "end": 3.96
+        },
+        {
+          "start": 4.04,
+          "end": 4.8
+        },
+        {
+          "start": 4.82,
+          "end": 4.94
+        },
+        {
+          "start": 5,
+          "end": 5.32
+        },
+        {
+          "start": 5.44,
+          "end": 5.86
+        },
+        {
+          "start": 5.86,
+          "end": 8.3
+        },
+        {
+          "start": 8.3,
+          "end": 8.4
+        },
+        {
+          "start": 8.46,
+          "end": 8.74
+        },
+        {
+          "start": 8.8,
+          "end": 9.16
+        },
+        {
+          "start": 9.2,
+          "end": 9.32
+        },
+        {
+          "start": 9.32,
+          "end": 9.38
+        },
+        {
+          "start": 9.38,
+          "end": 9.88
+        },
+        {
+          "start": 9.88,
+          "end": 14.06
+        },
+        {
+          "start": 14.06,
+          "end": 14.14
+        },
+        {
+          "start": 14.16,
+          "end": 14.24
+        },
+        {
+          "start": 14.28,
+          "end": 14.42
+        },
+        {
+          "start": 14.46,
+          "end": 14.66
+        },
+        {
+          "start": 14.7,
+          "end": 14.8
+        },
+        {
+          "start": 14.9,
+          "end": 15.46
+        },
+        {
+          "start": 15.54,
+          "end": 15.76
+        },
+        {
+          "start": 15.82,
+          "end": 15.9
+        },
+        {
+          "start": 15.96,
+          "end": 16.48
+        },
+        {
+          "start": 16.52,
+          "end": 16.62
+        },
+        {
+          "start": 16.74,
+          "end": 17.02
+        },
+        {
+          "start": 17.08,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        },
+        {
+          "start": 17.54,
+          "end": 17.54
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 47.96,
+          "chars": [
+            47.96,
+            48.179,
+            48.398,
+            48.6171,
+            48.8361,
+            49.0551,
+            49.1208,
+            49.3398,
+            49.4055,
+            49.6246,
+            49.8436,
+            50.0626,
+            50.2816,
+            50.5007
+          ]
+        },
+        {
+          "start": 50.7197,
+          "chars": [
+            50.7197,
+            50.9387,
+            51.1577,
+            51.3767,
+            51.5958,
+            51.8148,
+            52.0338,
+            52.2528,
+            52.4718,
+            52.6909,
+            52.7566,
+            52.9756,
+            53.1946,
+            53.2603,
+            53.4793,
+            53.5451,
+            53.7641,
+            53.9831,
+            54.2021,
+            54.4211,
+            54.6402,
+            54.8592,
+            55.0782,
+            55.2972,
+            55.5162,
+            55.582,
+            55.801
+          ]
+        },
+        {
+          "start": 58.52,
+          "chars": [
+            58.52,
+            58.5318,
+            58.5437,
+            58.5555,
+            58.5673,
+            58.5792,
+            58.5827,
+            58.5946,
+            58.6064,
+            58.6182,
+            58.6301,
+            58.6336,
+            58.6454,
+            58.649,
+            58.6608,
+            58.6727,
+            58.6845,
+            58.6963,
+            58.7082
+          ]
+        }
+      ],
+      "circle": {
+        "start": 43.7,
+        "end": 46.2
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 27.3,
+          "end": 28.05,
+          "targets": [
+            {
+              "w": 36,
+              "from": "satsa pengar",
+              "color": "blå"
+            },
+            {
+              "w": 37,
+              "from": "satsa pengar",
+              "color": "blå"
+            },
+            {
+              "w": 38,
+              "from": "satsa pengar",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 35.76,
+          "end": 36.51,
+          "targets": [
+            {
+              "w": 51,
+              "from": "förlänga livet",
+              "color": "gul"
+            },
+            {
+              "w": 52,
+              "from": "förlänga livet",
+              "color": "gul"
+            },
+            {
+              "w": 53,
+              "from": "förlänga livet",
+              "color": "gul"
+            },
+            {
+              "w": 54,
+              "from": "förlänga livet",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

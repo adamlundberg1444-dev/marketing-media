@@ -1,0 +1,512 @@
+{
+  "slug": "hp-dtk-511488ff-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "511488ff-2620-4ba5-88b6-2b1bd45cc237"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "svarsförslag"
+      },
+      {
+        "text": "redovisar"
+      },
+      {
+        "text": "fördelningen"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "inkomna"
+      },
+      {
+        "text": "anmälningar"
+      },
+      {
+        "text": "2013–2017?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 8,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Pojke"
+          },
+          {
+            "text": "60"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flicka"
+          },
+          {
+            "text": "30"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flera"
+          },
+          {
+            "text": "elever/Ej"
+          },
+          {
+            "text": "specificerat"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "%"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Pojke"
+          },
+          {
+            "text": "60"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flicka"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flera"
+          },
+          {
+            "text": "elever/Ej"
+          },
+          {
+            "text": "specificerat"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "%"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Pojke"
+          },
+          {
+            "text": "50"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flicka"
+          },
+          {
+            "text": "40"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flera"
+          },
+          {
+            "text": "elever/Ej"
+          },
+          {
+            "text": "specificerat"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "%"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Pojke"
+          },
+          {
+            "text": "50"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flicka"
+          },
+          {
+            "text": "30"
+          },
+          {
+            "text": "%,"
+          },
+          {
+            "text": "Flera"
+          },
+          {
+            "text": "elever/Ej"
+          },
+          {
+            "text": "specificerat"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "%"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/app_bild/511488ff-2620-4ba5-88b6-2b1bd45cc237.png",
+    "imageMax": 620
+  },
+  "writeLines": [
+    {
+      "text": "pojkar: 2 \\cdot 2\\,526 = 5\\,052",
+      "gron": [
+        "2 \\cdot"
+      ],
+      "farg": {
+        "8": "#0E9F6E",
+        "9": "#0E9F6E",
+        "10": "#0E9F6E"
+      }
+    },
+    {
+      "text": "flera: 5 \\cdot 865 = 4\\,325",
+      "gron": [
+        "5 \\cdot"
+      ],
+      "farg": {
+        "7": "#0E9F6E",
+        "8": "#0E9F6E",
+        "9": "#0E9F6E"
+      }
+    },
+    {
+      "text": "50 %, 30 %, 20 %",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 65.599,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 23.72
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.54
+        },
+        {
+          "start": 0.6,
+          "end": 1.42
+        },
+        {
+          "start": 1.42,
+          "end": 2.2173
+        },
+        {
+          "start": 2.2173,
+          "end": 3.2107
+        },
+        {
+          "start": 3.2107,
+          "end": 3.5506
+        },
+        {
+          "start": 3.5506,
+          "end": 4.2172
+        },
+        {
+          "start": 4.2172,
+          "end": 5.1452
+        },
+        {
+          "start": 5.1452,
+          "end": 6.4
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.72,
+          "chars": [
+            23.72,
+            23.9574,
+            24.1948,
+            24.4322,
+            24.6697,
+            24.9071,
+            25.1445,
+            25.3819,
+            25.4531,
+            25.6905,
+            25.7618,
+            25.9992,
+            26.0704,
+            26.3078,
+            26.379,
+            26.6164,
+            26.8539,
+            27.0913,
+            27.1625,
+            27.3999,
+            27.4711,
+            27.7085,
+            27.7798,
+            28.0172,
+            28.2546
+          ]
+        },
+        {
+          "start": 41.02,
+          "chars": [
+            41.02,
+            41.2597,
+            41.4993,
+            41.739,
+            41.9787,
+            42.2183,
+            42.458,
+            42.5299,
+            42.7695,
+            42.8414,
+            43.0811,
+            43.153,
+            43.3927,
+            43.6323,
+            43.872,
+            43.9439,
+            44.1836,
+            44.2554,
+            44.4951,
+            44.567,
+            44.8067,
+            45.0463
+          ]
+        },
+        {
+          "start": 52.36,
+          "chars": [
+            52.36,
+            52.608,
+            52.856,
+            52.9304,
+            53.1784,
+            53.4264,
+            53.5008,
+            53.7488,
+            53.9968,
+            54.0712,
+            54.3192,
+            54.5672,
+            54.6416,
+            54.8896,
+            55.1376,
+            55.212
+          ]
+        },
+        {
+          "start": 64.4,
+          "chars": [
+            64.4,
+            64.4096,
+            64.4191,
+            64.4287,
+            64.4383,
+            64.4411,
+            64.4507,
+            64.4603,
+            64.4699,
+            64.4794,
+            64.489,
+            64.4986,
+            64.5081,
+            64.5177,
+            64.5273,
+            64.5301,
+            64.5397,
+            64.5426,
+            64.5522,
+            64.5617,
+            64.5713,
+            64.5809,
+            64.5904
+          ]
+        }
+      ],
+      "circle": {
+        "start": 63.36,
+        "end": 64.099
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 5.64,
+          "end": 6.39,
+          "targets": [
+            {
+              "w": 3,
+              "from": "fördelade"
+            },
+            {
+              "w": 4,
+              "from": "fördelade"
+            },
+            {
+              "w": 5,
+              "from": "fördelade"
+            },
+            {
+              "w": 6,
+              "from": "fördelade"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 16.04,
+          "end": 16.79,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.826,
+                0.5071,
+                0.899,
+                0.7452
+              ],
+              "from": "pojkar",
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 19.82,
+          "end": 20.57,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.828,
+                0.2071,
+                0.897,
+                0.2738
+              ],
+              "from": "totalt",
+              "seg": 1,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 35.88,
+          "end": 36.63,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.826,
+                0.2881,
+                0.899,
+                0.3667
+              ],
+              "from": "vita",
+              "seg": 3,
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 64.35
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "imageMax": 620,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

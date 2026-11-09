@@ -1,0 +1,560 @@
+{
+  "slug": "hp-las-275e470d",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "275e470d-ddc6-4ea6-8455-31993a10c026"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 18 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "förklarar"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "malariainfektion"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "vara"
+      },
+      {
+        "text": "verksam"
+      },
+      {
+        "text": "mot"
+      },
+      {
+        "text": "syfilis?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "cytokiner"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "malaria"
+          },
+          {
+            "text": "ger"
+          },
+          {
+            "text": "upphov"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "effekt"
+          },
+          {
+            "text": "även"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "syfilisbakterier."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Kroppens"
+          },
+          {
+            "text": "reaktion"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "syfilisbakterierna"
+          },
+          {
+            "text": "påverkar"
+          },
+          {
+            "text": "även"
+          },
+          {
+            "text": "malariaparasiterna."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Syfilisbakterier"
+          },
+          {
+            "text": "saknar"
+          },
+          {
+            "text": "motståndskraft"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "parasiter"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "orsakar"
+          },
+          {
+            "text": "malaria."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Malarian"
+          },
+          {
+            "text": "gör"
+          },
+          {
+            "text": "syfilisbakterierna"
+          },
+          {
+            "text": "trögare"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "mindre"
+          },
+          {
+            "text": "aggressiva."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__275e470d-ddc6-4ea6-8455-31993a10c026.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "malaria \\to cytokiner \\to syfilis",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.543,
+    "phases": {
+      "readStart": 1.213,
+      "writeStart": 19.172
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.213,
+          "end": 1.317
+        },
+        {
+          "start": 1.364,
+          "end": 1.665
+        },
+        {
+          "start": 1.712,
+          "end": 2.118
+        },
+        {
+          "start": 2.188,
+          "end": 2.316
+        },
+        {
+          "start": 2.374,
+          "end": 2.42
+        },
+        {
+          "start": 2.467,
+          "end": 3.662
+        },
+        {
+          "start": 3.732,
+          "end": 3.837
+        },
+        {
+          "start": 3.86,
+          "end": 4.011
+        },
+        {
+          "start": 4.069,
+          "end": 4.463
+        },
+        {
+          "start": 4.487,
+          "end": 4.603
+        },
+        {
+          "start": 4.638,
+          "end": 5.311
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 19.172,
+          "chars": [
+            19.172,
+            19.3564,
+            19.5407,
+            19.7251,
+            19.9094,
+            20.0938,
+            20.2781,
+            20.4625,
+            20.5178,
+            20.7021,
+            20.7574,
+            20.9418,
+            21.1261,
+            21.3105,
+            21.4948,
+            21.6792,
+            21.8635,
+            22.0479,
+            22.2322,
+            22.4166,
+            22.4719,
+            22.6562,
+            22.7115,
+            22.8959,
+            23.0802,
+            23.2646,
+            23.4489,
+            23.6333,
+            23.8176
+          ]
+        },
+        {
+          "start": 30.442,
+          "chars": [
+            30.442,
+            30.6056,
+            30.7692,
+            30.9328,
+            31.0963,
+            31.2599,
+            31.309,
+            31.4726,
+            31.6362,
+            31.7998,
+            31.8488,
+            32.0124,
+            32.0615,
+            32.2251,
+            32.3887,
+            32.5522,
+            32.7158,
+            32.8794
+          ]
+        }
+      ],
+      "circle": {
+        "start": 28.591,
+        "end": 29.601
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 24.743,
+          "end": 25.493,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 7.263,
+          "end": 8.013,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1405,
+                  0.4507
+                ],
+                [
+                  0.8956,
+                  0.4507
+                ],
+                [
+                  0.8956,
+                  0.5034
+                ],
+                [
+                  0.1405,
+                  0.5034
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 8.363,
+          "end": 9.113,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.5107
+                ],
+                [
+                  0.2014,
+                  0.5107
+                ],
+                [
+                  0.2014,
+                  0.5634
+                ],
+                [
+                  0.0435,
+                  0.5634
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 13.009,
+          "end": 13.759,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4286,
+                  0.6308
+                ],
+                [
+                  0.9332,
+                  0.6308
+                ],
+                [
+                  0.9332,
+                  0.6835
+                ],
+                [
+                  0.4286,
+                  0.6835
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 14.109,
+          "end": 14.859,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6908
+                ],
+                [
+                  0.3023,
+                  0.6908
+                ],
+                [
+                  0.3023,
+                  0.7435
+                ],
+                [
+                  0.0435,
+                  0.7435
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 15.209,
+          "end": 15.959,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5085,
+                  0.7509
+                ],
+                [
+                  0.8853,
+                  0.7509
+                ],
+                [
+                  0.8853,
+                  0.8036
+                ],
+                [
+                  0.5085,
+                  0.8036
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 16.309,
+          "end": 17.059,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.8109
+                ],
+                [
+                  0.2204,
+                  0.8109
+                ],
+                [
+                  0.2204,
+                  0.8636
+                ],
+                [
+                  0.0435,
+                  0.8636
+                ]
+              ],
+              "color": "orange",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.263,
+          "end": 11.826,
+          "omrade": [
+            0,
+            0.3098,
+            1,
+            0.6425
+          ]
+        },
+        {
+          "start": 12.209,
+          "end": 18.849,
+          "omrade": [
+            0,
+            0.4899,
+            1,
+            0.8826
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

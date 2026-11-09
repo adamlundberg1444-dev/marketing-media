@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20263031",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-17.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "disträ",
+      "options": [
+        "speciell",
+        "overkligt konstig",
+        "tankspridd",
+        "obotlig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "disträ",
+      "options": [
+        "speciell",
+        "overkligt konstig",
+        "tankspridd",
+        "obotlig"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "antecedentier",
+      "options": [
+        "förhistoria",
+        "dödshjälp",
+        "sammanhang",
+        "militär trupp"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "antecedentier",
+      "options": [
+        "förhistoria",
+        "dödshjälp",
+        "sammanhang",
+        "militär trupp"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "obestånd",
+      "options": [
+        "skyddsvall",
+        "fotvalv",
+        "insolvens",
+        "en sorts lärare"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "obestånd",
+      "options": [
+        "skyddsvall",
+        "fotvalv",
+        "insolvens",
+        "en sorts lärare"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "frosseri",
+      "options": [
+        "liköppning",
+        "måne",
+        "ny fas efter det moderna",
+        "vällevnad"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "frosseri",
+      "options": [
+        "liköppning",
+        "måne",
+        "ny fas efter det moderna",
+        "vällevnad"
+      ],
+      "correct": 3,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

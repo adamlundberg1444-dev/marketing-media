@@ -1,0 +1,525 @@
+{
+  "slug": "hp-ord-6dde1c72",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "6dde1c72-fa58-42c5-817a-bfc161ca1bc7"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD-fråga · Högskoleprovet",
+    "text2": "HT 2017 · fråga 5",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "ord"
+    ],
+    "text": "Förstavelsen bär riktningen: av- bort, in- in, sam- ihop, o- tvärtom, för- före eller fel."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "sömsmån"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "osynlig"
+          },
+          {
+            "text": "söm"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "mönsterpassning"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "tygkant"
+          },
+          {
+            "text": "utanför"
+          },
+          {
+            "text": "söm"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "löst"
+          },
+          {
+            "text": "sydda"
+          },
+          {
+            "text": "stygn"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "valbar"
+          },
+          {
+            "text": "söm"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "symaskin"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "söm + mån → mån = mått"
+    },
+    {
+      "text": "lämna en cm sömsmån"
+    },
+    {
+      "text": "osynlig söm = syns ej utanpå"
+    },
+    {
+      "text": "mönsterpassning = rutor möts"
+    },
+    {
+      "text": "tygkant utanför sylinjen",
+      "emphasis": true
+    },
+    {
+      "text": "löst sydda stygn = tråckling"
+    },
+    {
+      "text": "valbar söm = maskininställning"
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 132.033,
+    "phases": {
+      "readStart": 5.546,
+      "writeStart": 29.291
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.546,
+          "end": 6.568
+        },
+        {
+          "start": 8.809,
+          "end": 9.413
+        },
+        {
+          "start": 9.436,
+          "end": 9.935
+        },
+        {
+          "start": 10.063,
+          "end": 11.236
+        },
+        {
+          "start": 11.584,
+          "end": 12.292
+        },
+        {
+          "start": 12.397,
+          "end": 12.791
+        },
+        {
+          "start": 12.826,
+          "end": 13.325
+        },
+        {
+          "start": 13.674,
+          "end": 14.103
+        },
+        {
+          "start": 14.173,
+          "end": 14.521
+        },
+        {
+          "start": 14.556,
+          "end": 15.078
+        },
+        {
+          "start": 15.589,
+          "end": 16.065
+        },
+        {
+          "start": 16.17,
+          "end": 16.414
+        },
+        {
+          "start": 16.518,
+          "end": 16.623
+        },
+        {
+          "start": 16.692,
+          "end": 17.447
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 29.291,
+          "chars": [
+            29.291,
+            29.5307,
+            29.7703,
+            30.01,
+            30.0819,
+            30.3216,
+            30.3934,
+            30.6331,
+            30.8728,
+            31.1124,
+            31.1843,
+            31.424,
+            31.4959,
+            31.7356,
+            31.9752,
+            32.2149,
+            32.2868,
+            32.5264,
+            32.5983,
+            32.838,
+            33.0777,
+            33.3173
+          ]
+        },
+        {
+          "start": 43.847,
+          "chars": [
+            43.847,
+            44.0877,
+            44.3284,
+            44.5691,
+            44.8098,
+            45.0506,
+            45.1228,
+            45.3635,
+            45.6042,
+            45.6764,
+            45.9171,
+            46.1578,
+            46.23,
+            46.4707,
+            46.7114,
+            46.9522,
+            47.1929,
+            47.4336,
+            47.6743
+          ]
+        },
+        {
+          "start": 54.113,
+          "chars": [
+            54.113,
+            54.3473,
+            54.5816,
+            54.8159,
+            55.0501,
+            55.2844,
+            55.5187,
+            55.753,
+            55.8233,
+            56.0576,
+            56.2919,
+            56.5261,
+            56.5964,
+            56.8307,
+            56.901,
+            57.1353,
+            57.3696,
+            57.6039,
+            57.8381,
+            57.9084,
+            58.1427,
+            58.377,
+            58.4473,
+            58.6816,
+            58.9159,
+            59.1501,
+            59.3844,
+            59.6187
+          ]
+        },
+        {
+          "start": 66.109,
+          "chars": [
+            66.109,
+            66.3425,
+            66.576,
+            66.8095,
+            67.0431,
+            67.2766,
+            67.5101,
+            67.7436,
+            67.9771,
+            68.2106,
+            68.4441,
+            68.6776,
+            68.9112,
+            69.1447,
+            69.3782,
+            69.6117,
+            69.6818,
+            69.9153,
+            69.9853,
+            70.2188,
+            70.4524,
+            70.6859,
+            70.9194,
+            71.1529,
+            71.2229,
+            71.4565,
+            71.69,
+            71.9235
+          ]
+        },
+        {
+          "start": 75.922,
+          "chars": [
+            75.922,
+            76.1575,
+            76.393,
+            76.6285,
+            76.8639,
+            77.0994,
+            77.3349,
+            77.5704,
+            77.6411,
+            77.8765,
+            78.112,
+            78.3475,
+            78.583,
+            78.8185,
+            79.054,
+            79.2895,
+            79.3601,
+            79.5956,
+            79.8311,
+            80.0666,
+            80.3021,
+            80.5375,
+            80.773,
+            81.0085
+          ]
+        },
+        {
+          "start": 88.125,
+          "chars": [
+            88.125,
+            88.3589,
+            88.5928,
+            88.8267,
+            89.0606,
+            89.1307,
+            89.3646,
+            89.5985,
+            89.8324,
+            90.0663,
+            90.3002,
+            90.3703,
+            90.6042,
+            90.8381,
+            91.072,
+            91.3059,
+            91.5398,
+            91.6099,
+            91.8438,
+            91.914,
+            92.1479,
+            92.3818,
+            92.6157,
+            92.8496,
+            93.0834,
+            93.3173,
+            93.5512,
+            93.7851
+          ]
+        },
+        {
+          "start": 99.308,
+          "chars": [
+            99.308,
+            99.521,
+            99.7341,
+            99.9471,
+            100.1602,
+            100.3732,
+            100.5863,
+            100.6502,
+            100.8632,
+            101.0763,
+            101.2893,
+            101.3532,
+            101.5663,
+            101.6302,
+            101.8433,
+            102.0563,
+            102.2693,
+            102.4824,
+            102.6954,
+            102.9085,
+            103.1215,
+            103.3346,
+            103.5476,
+            103.7607,
+            103.9737,
+            104.1868,
+            104.3998,
+            104.6129,
+            104.8259,
+            105.039
+          ]
+        },
+        {
+          "start": 126.108,
+          "chars": [
+            126.108,
+            126.3234,
+            126.5388,
+            126.7542,
+            126.9696,
+            127.185,
+            127.2497,
+            127.4651,
+            127.6805,
+            127.8959,
+            127.9605,
+            128.1759,
+            128.2405,
+            128.456,
+            128.6714,
+            128.8868,
+            129.1022,
+            129.3176
+          ]
+        }
+      ],
+      "circle": {
+        "start": 108.218,
+        "end": 114.278
+      },
+      "options": null,
+      "concept": {
+        "start": 18.793,
+        "end": 27.895,
+        "hideAt": 43.733
+      },
+      "strikes": [
+        {
+          "start": 63.833,
+          "end": 64.583,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 73.646,
+          "end": 74.396,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 96.498,
+          "end": 97.248,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 105.962,
+          "end": 106.712,
+          "targets": [
+            {
+              "opt": 4
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "kva_a1f34eb9_20262934",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hade du klarat\nden här på HP?",
+      "pillText": "KVA-fråga",
+      "bgImage": "tiktok/assets/intro/intro-26.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "html",
+      "theme": "greenxyz",
+      "html": "\n    \n    \n    <div style=\"font-size:46px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;line-height:1.3;\">Kvantitet I: <span class=\"tex\" data-tex=\"2x^2 + 4\"></span><br><br>Kvantitet II: <span class=\"tex\" data-tex=\"(x + 1)^2 + (x - 1)^2\"></span></div>\n    <div style=\"display:flex;flex-direction:column;gap:14px;margin-top:30px;\">\n      \n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">I är större än II</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">II är större än I</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">I är lika med II</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">informationen är otillräcklig</div>\n    </div>"
+    },
+    {
+      "kind": "html",
+      "theme": "greenxyz",
+      "html": "\n    \n    \n    <div style=\"font-size:46px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;line-height:1.3;\">Kvantitet I: <span class=\"tex\" data-tex=\"2x^2 + 4\"></span><br><br>Kvantitet II: <span class=\"tex\" data-tex=\"(x + 1)^2 + (x - 1)^2\"></span></div>\n    <div style=\"display:flex;flex-direction:column;gap:14px;margin-top:30px;\">\n      \n    <div style=\"background:#22C55E;border:4px solid transparent;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#FFFFFF;\">I är större än II</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">II är större än I</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">I är lika med II</div>\n    <div style=\"background:#FFFFFF;border:4px solid #0A0A0A;border-radius:22px;padding:24px 30px;font-size:42px;font-weight:500;letter-spacing:0.4px;color:#0A0A0A;\">informationen är otillräcklig</div>\n    </div>",
+      "correct": 0
+    },
+    {
+      "kind": "cta",
+      "title": "En ny HP-övning\nvarje dag"
+    }
+  ]
+}

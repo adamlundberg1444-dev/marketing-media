@@ -1,0 +1,644 @@
+{
+  "slug": "hp-mek-d39eb626",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "d39eb626-a2bc-434d-bb60-207deb693b85"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "HT 2013 · fråga 24",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Sätt in ordet du tror på och läs om meningen, för fel ord hörs oftare än det syns."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Man"
+      },
+      {
+        "text": "får"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "hög"
+      },
+      {
+        "text": "tanke"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "dåtidens"
+      },
+      {
+        "text": "____:"
+      },
+      {
+        "text": "handstilstolkningen"
+      },
+      {
+        "text": "måste"
+      },
+      {
+        "text": "ha"
+      },
+      {
+        "text": "legat"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "____"
+      },
+      {
+        "text": "nivå,"
+      },
+      {
+        "text": "bland"
+      },
+      {
+        "text": "annat"
+      },
+      {
+        "text": "hos"
+      },
+      {
+        "text": "dem"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "skulle"
+      },
+      {
+        "text": "ta"
+      },
+      {
+        "text": "hand"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "B:s"
+      },
+      {
+        "text": "____."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 27,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "sättare"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "aktningsvärd"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "manuskript"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "gravörer"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "klandervärd"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "alster"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "revisorer"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "berömvärd"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "partitur"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "grafologer"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "läsvärd"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "utgåvor"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "sättare = satte text i tryck",
+      "emphasis": true
+    },
+    {
+      "text": "gravör = graverar i metall"
+    },
+    {
+      "text": "partitur = noter"
+    },
+    {
+      "text": "grafolog = tyder handstil"
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 116.316,
+    "phases": {
+      "readStart": 3.851,
+      "writeStart": 45.534
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.851,
+          "end": 4.002
+        },
+        {
+          "start": 4.06,
+          "end": 4.269
+        },
+        {
+          "start": 4.304,
+          "end": 4.362
+        },
+        {
+          "start": 4.42,
+          "end": 4.675
+        },
+        {
+          "start": 4.733,
+          "end": 5.093
+        },
+        {
+          "start": 5.116,
+          "end": 5.221
+        },
+        {
+          "start": 5.302,
+          "end": 6.115
+        },
+        {
+          "start": 6.115,
+          "end": 8.506
+        },
+        {
+          "start": 8.506,
+          "end": 9.598
+        },
+        {
+          "start": 9.644,
+          "end": 9.888
+        },
+        {
+          "start": 9.934,
+          "end": 9.992
+        },
+        {
+          "start": 10.051,
+          "end": 10.387
+        },
+        {
+          "start": 10.434,
+          "end": 10.585
+        },
+        {
+          "start": 10.654,
+          "end": 10.736
+        },
+        {
+          "start": 10.736,
+          "end": 13.034
+        },
+        {
+          "start": 13.034,
+          "end": 13.742
+        },
+        {
+          "start": 14.102,
+          "end": 14.346
+        },
+        {
+          "start": 14.427,
+          "end": 14.636
+        },
+        {
+          "start": 14.66,
+          "end": 14.787
+        },
+        {
+          "start": 14.834,
+          "end": 15.043
+        },
+        {
+          "start": 15.124,
+          "end": 15.217
+        },
+        {
+          "start": 15.24,
+          "end": 15.472
+        },
+        {
+          "start": 15.519,
+          "end": 15.612
+        },
+        {
+          "start": 15.681,
+          "end": 15.948
+        },
+        {
+          "start": 16.018,
+          "end": 16.076
+        },
+        {
+          "start": 16.076,
+          "end": 16.8559
+        },
+        {
+          "start": 16.8559,
+          "end": 18.642
+        },
+        {
+          "start": 20.396,
+          "end": 20.953
+        },
+        {
+          "start": 20.953,
+          "end": 21.139
+        },
+        {
+          "start": 21.139,
+          "end": 21.928
+        },
+        {
+          "start": 21.928,
+          "end": 22.056
+        },
+        {
+          "start": 22.056,
+          "end": 22.845
+        },
+        {
+          "start": 23.066,
+          "end": 23.832
+        },
+        {
+          "start": 23.832,
+          "end": 24.029
+        },
+        {
+          "start": 24.029,
+          "end": 24.714
+        },
+        {
+          "start": 24.714,
+          "end": 24.981
+        },
+        {
+          "start": 24.981,
+          "end": 25.725
+        },
+        {
+          "start": 26.375,
+          "end": 27.141
+        },
+        {
+          "start": 27.141,
+          "end": 27.28
+        },
+        {
+          "start": 27.28,
+          "end": 28
+        },
+        {
+          "start": 28,
+          "end": 28.255
+        },
+        {
+          "start": 28.255,
+          "end": 29.045
+        },
+        {
+          "start": 29.684,
+          "end": 30.438
+        },
+        {
+          "start": 30.438,
+          "end": 30.647
+        },
+        {
+          "start": 30.647,
+          "end": 31.344
+        },
+        {
+          "start": 31.344,
+          "end": 31.46
+        },
+        {
+          "start": 31.46,
+          "end": 32.365
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 45.534,
+          "chars": [
+            45.534,
+            45.7683,
+            46.0026,
+            46.2369,
+            46.4711,
+            46.7054,
+            46.9397,
+            47.174,
+            47.2443,
+            47.4786,
+            47.5489,
+            47.7831,
+            48.0174,
+            48.2517,
+            48.486,
+            48.7203,
+            48.7906,
+            49.0249,
+            49.2591,
+            49.4934,
+            49.7277,
+            49.798,
+            50.0323,
+            50.1026,
+            50.3369,
+            50.5711,
+            50.8054,
+            51.0397
+          ]
+        },
+        {
+          "start": 61.889,
+          "chars": [
+            61.889,
+            62.1241,
+            62.3592,
+            62.5943,
+            62.8293,
+            63.0644,
+            63.2995,
+            63.37,
+            63.6051,
+            63.6757,
+            63.9107,
+            64.1458,
+            64.3809,
+            64.616,
+            64.8511,
+            65.0862,
+            65.3213,
+            65.5563,
+            65.6269,
+            65.862,
+            65.9325,
+            66.1676,
+            66.4027,
+            66.6377,
+            66.8728,
+            67.1079
+          ]
+        },
+        {
+          "start": 74.833,
+          "chars": [
+            74.833,
+            75.077,
+            75.3209,
+            75.5649,
+            75.8089,
+            76.0529,
+            76.2968,
+            76.5408,
+            76.7848,
+            76.858,
+            77.1019,
+            77.1751,
+            77.4191,
+            77.6631,
+            77.9071,
+            78.151
+          ]
+        },
+        {
+          "start": 87.522,
+          "chars": [
+            87.522,
+            87.7573,
+            87.9926,
+            88.2279,
+            88.4631,
+            88.6984,
+            88.9337,
+            89.169,
+            89.4043,
+            89.4749,
+            89.7101,
+            89.7807,
+            90.016,
+            90.2513,
+            90.4866,
+            90.7219,
+            90.9571,
+            91.0277,
+            91.263,
+            91.4983,
+            91.7336,
+            91.9689,
+            92.2041,
+            92.4394,
+            92.6747
+          ]
+        },
+        {
+          "start": 110.101,
+          "chars": [
+            110.101,
+            110.3346,
+            110.5683,
+            110.8019,
+            111.0356,
+            111.2692,
+            111.3393,
+            111.573,
+            111.8066,
+            112.0403,
+            112.1104,
+            112.344,
+            112.4141,
+            112.6478,
+            112.8814,
+            113.1151,
+            113.3487,
+            113.5824
+          ]
+        }
+      ],
+      "circle": {
+        "start": 100.67,
+        "end": 108.704
+      },
+      "options": null,
+      "concept": {
+        "start": 34.373,
+        "end": 44.021,
+        "hideAt": 61.589
+      },
+      "strikes": [
+        {
+          "start": 72.537,
+          "end": 73.287,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 84.773,
+          "end": 85.523,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 97.892,
+          "end": 98.642,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 34.373,
+          "end": 35.123,
+          "targets": [
+            {
+              "w": 8
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

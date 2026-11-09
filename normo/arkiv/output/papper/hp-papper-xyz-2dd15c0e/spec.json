@@ -1,0 +1,489 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "a3",
+        "t": "3",
+        "uttryck": true
+      },
+      {
+        "id": "lp1",
+        "t": "("
+      },
+      {
+        "id": "x1",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "m1",
+        "t": " − "
+      },
+      {
+        "id": "n5",
+        "t": "5"
+      },
+      {
+        "id": "rp1",
+        "t": ")"
+      },
+      {
+        "id": "eq",
+        "t": " = "
+      },
+      {
+        "id": "a2",
+        "t": "2"
+      },
+      {
+        "id": "lp2",
+        "t": "("
+      },
+      {
+        "id": "x2",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "pl",
+        "t": " + "
+      },
+      {
+        "id": "n6",
+        "t": "6"
+      },
+      {
+        "id": "rp2",
+        "t": ")"
+      }
+    ],
+    [
+      {
+        "id": "q",
+        "t": "Vad är "
+      },
+      {
+        "id": "qx",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-3"
+    },
+    {
+      "letter": "B",
+      "tex": "3"
+    },
+    {
+      "letter": "C",
+      "tex": "11"
+    },
+    {
+      "letter": "D",
+      "tex": "27"
+    }
+  ],
+  "correct": 3,
+  "hook": {
+    "lines": [
+      "Enkel HP-fråga.",
+      "Titta på parenteserna."
+    ],
+    "start": 0,
+    "end": 4.45
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 4.45,
+    "d": "M 900 990 C 990 800, 990 560, 870 410",
+    "head": "M 952 441 L 870 410 L 882 497"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "3x-5",
+          "at": 7.59,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 9.03,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "2x+6",
+          "at": 9.71,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 18.759,
+          "termer": [
+            {
+              "k": "l1",
+              "tex": "3x"
+            },
+            {
+              "k": "l2",
+              "tex": "-15",
+              "at": 19.779
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 20.779
+            },
+            {
+              "k": "r1",
+              "tex": "2x",
+              "at": 22.619
+            },
+            {
+              "k": "r2",
+              "tex": "+12",
+              "at": 23.679
+            }
+          ]
+        },
+        {
+          "at": 25.169,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "l1",
+              "tex": "3x"
+            },
+            {
+              "k": "r1",
+              "tex": "-2x"
+            },
+            {
+              "k": "l2",
+              "tex": "-15"
+            },
+            "=",
+            {
+              "k": "r2",
+              "tex": "+12"
+            }
+          ]
+        },
+        {
+          "at": 26.959,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x",
+              "fran": [
+                "l1",
+                "r1"
+              ]
+            },
+            {
+              "k": "l2",
+              "tex": "-15"
+            },
+            "=",
+            {
+              "k": "r2",
+              "tex": "12"
+            }
+          ]
+        },
+        {
+          "at": 28.799,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "r2",
+              "tex": "12"
+            },
+            {
+              "k": "l2",
+              "tex": "+15"
+            }
+          ]
+        },
+        {
+          "at": 32.029,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "27",
+              "color": "gron",
+              "fran": [
+                "r2",
+                "l2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 14.159
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 14.409
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 1,
+      "k": "s",
+      "at": 32.479
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q",
+        "qx",
+        "qm"
+      ],
+      "at": 5.04,
+      "end": 6.29
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "lp1",
+        "rp1",
+        "lp2",
+        "rp2"
+      ],
+      "color": "rod",
+      "at": 2.81,
+      "end": 4.76
+    },
+    {
+      "ids": [
+        "n5"
+      ],
+      "color": "rod",
+      "at": 8.09,
+      "end": 15.949
+    },
+    {
+      "ids": [
+        "a3",
+        "x1",
+        "n5"
+      ],
+      "color": "gron",
+      "at": 15.949,
+      "end": 20.779
+    },
+    {
+      "ids": [
+        "a2",
+        "x2",
+        "n6"
+      ],
+      "color": "gron",
+      "at": 20.779,
+      "end": 24.968
+    }
+  ],
+  "bagar": [
+    {
+      "fran": "a3",
+      "till": "x1",
+      "at": 16.809,
+      "end": 20.779
+    },
+    {
+      "fran": "a3",
+      "till": "n5",
+      "at": 17.029,
+      "end": 20.779
+    },
+    {
+      "fran": "a2",
+      "till": "x2",
+      "at": 21.399,
+      "end": 24.968
+    },
+    {
+      "fran": "a2",
+      "till": "n6",
+      "at": 21.719,
+      "end": 24.968
+    }
+  ],
+  "skamt": null,
+  "alt": {
+    "losning": 4.56,
+    "tillbaka": 32.309
+  },
+  "lage": null,
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.48,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 600,
+      "dur": 0.5
+    },
+    {
+      "at": 4.96,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 520,
+      "dur": 0.45
+    },
+    {
+      "at": 6.19,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 600,
+      "dur": 0.4
+    },
+    {
+      "at": 24.868,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 620,
+      "dur": 0.45
+    },
+    {
+      "at": 32.009,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska hitta x",
+      "start": 4.76,
+      "end": 6.29
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 6.29,
+      "end": 7.59
+    },
+    {
+      "text": "3x minus 5 är 2x",
+      "start": 7.59,
+      "end": 10.42
+    },
+    {
+      "text": "plus 6",
+      "start": 10.42,
+      "end": 11.71
+    },
+    {
+      "text": "Det ger 11",
+      "start": 11.71,
+      "end": 12.869
+    },
+    {
+      "text": "alltså C",
+      "start": 12.869,
+      "end": 14.159
+    },
+    {
+      "text": "Nej. Trean ska gånger både",
+      "start": 14.159,
+      "end": 16.809
+    },
+    {
+      "text": "x och 5",
+      "start": 16.809,
+      "end": 17.959
+    },
+    {
+      "text": "Så 3x minus 15",
+      "start": 17.959,
+      "end": 20.779
+    },
+    {
+      "text": "Tvåan gånger båda",
+      "start": 20.779,
+      "end": 22.619
+    },
+    {
+      "text": "2x plus 12",
+      "start": 22.619,
+      "end": 24.759
+    },
+    {
+      "text": "2x byter sida",
+      "start": 24.968,
+      "end": 26.279
+    },
+    {
+      "text": "Kvar blir bara x",
+      "start": 26.279,
+      "end": 28.119
+    },
+    {
+      "text": "15 byter sida och blir",
+      "start": 28.119,
+      "end": 30.119
+    },
+    {
+      "text": "plus 15",
+      "start": 30.119,
+      "end": 31.549
+    },
+    {
+      "text": "Det blir 27",
+      "start": 31.549,
+      "end": 32.909
+    },
+    {
+      "text": "Svaret är D",
+      "start": 32.909,
+      "end": 34.469
+    }
+  ],
+  "circle": {
+    "start": 33.729,
+    "end": 34.429
+  },
+  "duration": 35.469
+}

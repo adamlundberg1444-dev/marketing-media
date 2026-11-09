@@ -1,0 +1,245 @@
+{
+  "slug": "hp-ord-bcf1ae4c-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "bcf1ae4c-9323-4054-b028-f2173cbfffcd"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "diarium"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "grafisk"
+          },
+          {
+            "text": "figur"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "församling"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "rutinmässigt"
+          },
+          {
+            "text": "ingrepp"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "ärenderegister"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "avskilt"
+          },
+          {
+            "text": "rum"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "diarium = ärenderegister",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.64,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 23
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "start": 0.96,
+          "end": 0.96
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23,
+          "chars": [
+            23,
+            23.2355,
+            23.471,
+            23.7065,
+            23.9419,
+            24.1774,
+            24.4129,
+            24.6484,
+            24.7191,
+            24.9545,
+            25.0252,
+            25.2607,
+            25.4962,
+            25.7316,
+            25.9671,
+            26.2026,
+            26.4381,
+            26.6736,
+            26.9091,
+            27.1446,
+            27.3801,
+            27.6155,
+            27.851,
+            28.0865
+          ]
+        },
+        {
+          "start": 35.5,
+          "chars": [
+            35.5,
+            35.5118,
+            35.5237,
+            35.5355,
+            35.5473,
+            35.5592,
+            35.5627,
+            35.5746,
+            35.5864,
+            35.5982,
+            35.6101,
+            35.6136,
+            35.6254,
+            35.629,
+            35.6408,
+            35.6527,
+            35.6645,
+            35.6763,
+            35.6882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 30.94,
+        "end": 34.14
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.1,
+          "end": 0.85,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Diarium"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 35.45
+  },
+  "layout": {},
+  "variant": "app"
+}

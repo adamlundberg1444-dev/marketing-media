@@ -1,0 +1,486 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "t": "Linjerna "
+      },
+      {
+        "id": "l1",
+        "tex": "L_1"
+      },
+      {
+        "t": " och "
+      },
+      {
+        "id": "l2",
+        "tex": "L_2"
+      },
+      {
+        "id": "par",
+        "t": " är parallella."
+      }
+    ],
+    [
+      {
+        "id": "qv",
+        "t": "Hur stor är vinkeln "
+      },
+      {
+        "id": "qv2",
+        "t": "v",
+        "it": true
+      },
+      {
+        "id": "qv3",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "100^\\circ"
+    },
+    {
+      "letter": "B",
+      "tex": "110^\\circ"
+    },
+    {
+      "letter": "C",
+      "tex": "130^\\circ"
+    },
+    {
+      "letter": "D",
+      "tex": "150^\\circ"
+    }
+  ],
+  "correct": 2,
+  "hook": {
+    "lines": [
+      "Den här HP-frågan",
+      "har en vinkel som lurar."
+    ],
+    "start": 0,
+    "end": 4.5
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 4.5,
+    "d": "M 860 1220 C 980 1000, 740 630, 462 520",
+    "head": "M 521 507 L 462 520 L 494 571"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "80+30",
+          "at": 7.631,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 8.891,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "110",
+          "at": 9.511,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "180-80",
+          "at": 18.74,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 20.42,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "100",
+          "at": 21.09,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "180-100-30",
+          "at": 25.07,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 28.16,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "50",
+          "at": 28.16,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 33.75,
+          "termer": [
+            {
+              "k": "v",
+              "tex": "v"
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 34.05
+            },
+            {
+              "k": "a",
+              "tex": "180",
+              "at": 34.75
+            },
+            {
+              "k": "-",
+              "tex": "-",
+              "at": 35.77
+            },
+            {
+              "k": "b",
+              "tex": "50",
+              "at": 36.45
+            }
+          ]
+        },
+        {
+          "at": 37.86,
+          "termer": [
+            {
+              "k": "v",
+              "tex": "v"
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "130^\\circ",
+              "color": "gron",
+              "fran": [
+                "a",
+                "-",
+                "b"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 13.92
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 14.17
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 3,
+      "k": "s",
+      "at": 38.31
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "qv",
+        "qv2",
+        "qv3"
+      ],
+      "at": 4.94,
+      "end": 6.44
+    }
+  ],
+  "farg": [],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 4.42,
+    "lockbete": {
+      "at": 8.891,
+      "end": 12.08,
+      "markera": {
+        "val": "B",
+        "at": 10.49,
+        "end": 12.08
+      }
+    },
+    "tillbaka": 38.37
+  },
+  "lage": {
+    "fraga": 200,
+    "alt": 860,
+    "rader": 620,
+    "krok": 1210
+  },
+  "figur": {
+    "crop": [
+      0,
+      0,
+      656,
+      337
+    ],
+    "top": 380,
+    "bredd": 820,
+    "flytt": {
+      "at": 6.04,
+      "top": 130
+    },
+    "marker": [
+      {
+        "typ": "ring",
+        "x": 512,
+        "y": 74,
+        "rx": 26,
+        "ry": 30,
+        "at": 4.94,
+        "end": 6.44
+      },
+      {
+        "typ": "ring",
+        "x": 243,
+        "y": 70,
+        "rx": 46,
+        "ry": 30,
+        "farg": "rod",
+        "at": 14.83,
+        "end": 17.32
+      },
+      {
+        "typ": "text",
+        "x": 342,
+        "y": 74,
+        "tex": "100^\\circ",
+        "at": 21.09,
+        "storlek": 54
+      },
+      {
+        "typ": "ring",
+        "x": 305,
+        "y": 211,
+        "rx": 36,
+        "ry": 26,
+        "at": 27.08,
+        "end": 30.42
+      },
+      {
+        "typ": "text",
+        "x": 418,
+        "y": 58,
+        "tex": "50^\\circ",
+        "at": 28.16,
+        "storlek": 50
+      },
+      {
+        "typ": "linje",
+        "punkter": [
+          [
+            300,
+            36
+          ],
+          [
+            636,
+            36
+          ]
+        ],
+        "at": 32.4,
+        "end": 38.97
+      }
+    ],
+    "src": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/66b2926b-1080-49e4-9fe5-8256441af571.png",
+    "storlek": [
+      656,
+      337
+    ],
+    "s": 1.25,
+    "h": 421,
+    "cr": [
+      0,
+      0,
+      656,
+      337
+    ]
+  },
+  "fragaUt": {
+    "at": 6.04
+  },
+  "kamera": [
+    {
+      "at": 0.48,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 640,
+      "dur": 0.5
+    },
+    {
+      "at": 4.52,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 420,
+      "dur": 0.4
+    },
+    {
+      "at": 5.94,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 12.48,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 420,
+      "dur": 0.45
+    },
+    {
+      "at": 17.32,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 520,
+      "dur": 0.4
+    },
+    {
+      "at": 30.32,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 640,
+      "dur": 0.4
+    },
+    {
+      "at": 38.07,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska hitta v",
+      "start": 4.62,
+      "end": 6.409999999999999
+    },
+    {
+      "text": "Lätt. 80 plus 30",
+      "start": 6.44,
+      "end": 8.891
+    },
+    {
+      "text": "det blir 110",
+      "start": 8.891,
+      "end": 10.49
+    },
+    {
+      "text": "Svaret är B",
+      "start": 10.49,
+      "end": 11.99
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 12.18,
+      "end": 13.92
+    },
+    {
+      "text": "Nej, 80 grader ligger utanför triangeln",
+      "start": 13.92,
+      "end": 17.32
+    },
+    {
+      "text": "Vinkeln bredvid är 180 minus 80",
+      "start": 17.32,
+      "end": 20.42
+    },
+    {
+      "text": "Alltså 100 grader",
+      "start": 20.42,
+      "end": 22.88
+    },
+    {
+      "text": "Triangelns sista vinkel",
+      "start": 22.88,
+      "end": 25.07
+    },
+    {
+      "text": "180 minus 100 minus 30",
+      "start": 25.07,
+      "end": 28.16
+    },
+    {
+      "text": "Det blir 50",
+      "start": 28.16,
+      "end": 30.3
+    },
+    {
+      "text": "v och 50 ligger på",
+      "start": 30.42,
+      "end": 32.18
+    },
+    {
+      "text": "en rak linje",
+      "start": 32.18,
+      "end": 33.75
+    },
+    {
+      "text": "Så v är 180 minus 50",
+      "start": 33.75,
+      "end": 37.04
+    },
+    {
+      "text": "alltså 130",
+      "start": 37.04,
+      "end": 38.97
+    },
+    {
+      "text": "Svaret är C",
+      "start": 38.97,
+      "end": 41.050000000000004
+    }
+  ],
+  "circle": {
+    "start": 40.09,
+    "end": 40.790000000000006
+  },
+  "duration": 42.05
+}

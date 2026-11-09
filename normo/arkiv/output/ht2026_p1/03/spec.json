@@ -1,0 +1,500 @@
+{
+  "slug": "hp-xyz-942be6bd",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "942be6bd-7a68-442d-833f-960e8281c2c0"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 3 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kalle"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "två"
+      },
+      {
+        "text": "yngre"
+      },
+      {
+        "text": "syskon"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "tvillingar."
+      },
+      {
+        "text": "Alla"
+      },
+      {
+        "text": "tre"
+      },
+      {
+        "text": "syskonen"
+      },
+      {
+        "text": "fyller"
+      },
+      {
+        "text": "år"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "samma"
+      },
+      {
+        "text": "dag."
+      },
+      {
+        "text": "Idag"
+      },
+      {
+        "text": "fyller"
+      },
+      {
+        "text": "Kalle"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "år"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "hans"
+      },
+      {
+        "text": "syskon"
+      },
+      {
+        "text": "fyller"
+      },
+      {
+        "tex": " y ",
+        "display": false
+      },
+      {
+        "text": "år."
+      },
+      {
+        "text": "Produkten"
+      },
+      {
+        "tex": " xy^2 ",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "lika"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "250."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "gamla"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "Kalles"
+      },
+      {
+        "text": "syskon?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 38,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "4"
+          },
+          {
+            "text": "år"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "5"
+          },
+          {
+            "text": "år"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "10"
+          },
+          {
+            "text": "år"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "25"
+          },
+          {
+            "text": "år"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "x · y^2 = 250"
+    },
+    {
+      "text": "250 = 10 · 25 = 10 · 5^2"
+    },
+    {
+      "text": "x = 10,  y = 5",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 34.603,
+    "phases": {
+      "readStart": 1.085,
+      "writeStart": 16.532
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.085,
+          "end": 1.457
+        },
+        {
+          "start": 1.573,
+          "end": 1.724
+        },
+        {
+          "start": 1.77,
+          "end": 1.921
+        },
+        {
+          "start": 1.967,
+          "end": 2.165
+        },
+        {
+          "start": 2.223,
+          "end": 2.583
+        },
+        {
+          "start": 2.618,
+          "end": 2.722
+        },
+        {
+          "start": 2.768,
+          "end": 2.826
+        },
+        {
+          "start": 2.885,
+          "end": 3.442
+        },
+        {
+          "start": 3.72,
+          "end": 3.941
+        },
+        {
+          "start": 3.987,
+          "end": 4.196
+        },
+        {
+          "start": 4.243,
+          "end": 4.696
+        },
+        {
+          "start": 4.731,
+          "end": 4.974
+        },
+        {
+          "start": 5.021,
+          "end": 5.102
+        },
+        {
+          "start": 5.148,
+          "end": 5.23
+        },
+        {
+          "start": 5.276,
+          "end": 5.52
+        },
+        {
+          "start": 5.566,
+          "end": 5.95
+        },
+        {
+          "start": 6.275,
+          "end": 6.472
+        },
+        {
+          "start": 6.542,
+          "end": 6.751
+        },
+        {
+          "start": 6.785,
+          "end": 7.064
+        },
+        {
+          "start": 7.064,
+          "end": 7.436
+        },
+        {
+          "start": 7.436,
+          "end": 7.575
+        },
+        {
+          "start": 7.656,
+          "end": 7.784
+        },
+        {
+          "start": 7.807,
+          "end": 7.981
+        },
+        {
+          "start": 8.005,
+          "end": 8.364
+        },
+        {
+          "start": 8.411,
+          "end": 8.62
+        },
+        {
+          "start": 8.62,
+          "end": 8.968
+        },
+        {
+          "start": 8.968,
+          "end": 9.258
+        },
+        {
+          "start": 9.642,
+          "end": 10.187
+        },
+        {
+          "start": 10.187,
+          "end": 11.731
+        },
+        {
+          "start": 11.731,
+          "end": 11.813
+        },
+        {
+          "start": 11.836,
+          "end": 12.056
+        },
+        {
+          "start": 12.103,
+          "end": 12.196
+        },
+        {
+          "start": 12.196,
+          "end": 13.461
+        },
+        {
+          "start": 13.461,
+          "end": 13.612
+        },
+        {
+          "start": 13.647,
+          "end": 13.949
+        },
+        {
+          "start": 14.019,
+          "end": 14.123
+        },
+        {
+          "start": 14.193,
+          "end": 14.646
+        },
+        {
+          "start": 14.727,
+          "end": 15.319
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.532,
+          "chars": [
+            16.532,
+            16.79,
+            16.8675,
+            17.1255,
+            17.2029,
+            17.461,
+            17.719,
+            17.7964,
+            18.0545,
+            18.1319,
+            18.3899,
+            18.648
+          ]
+        },
+        {
+          "start": 19.913,
+          "chars": [
+            19.913,
+            20.1378,
+            20.3627,
+            20.5875,
+            20.6549,
+            20.8798,
+            20.9472,
+            21.172,
+            21.3969,
+            21.4643,
+            21.6891,
+            21.7566,
+            21.9814,
+            22.2062,
+            22.2737,
+            22.4985,
+            22.566,
+            22.7908,
+            23.0156,
+            23.0831,
+            23.3079,
+            23.3753,
+            23.6002
+          ]
+        },
+        {
+          "start": 24.536,
+          "chars": [
+            24.536,
+            24.7917,
+            24.8684,
+            25.1241,
+            25.2009,
+            25.4566,
+            25.7123,
+            25.968,
+            26.0447,
+            26.1214,
+            26.3771,
+            26.4539,
+            26.7096,
+            26.7863
+          ]
+        },
+        {
+          "start": 30.245,
+          "chars": [
+            30.245,
+            30.3723,
+            30.4995,
+            30.6268,
+            30.7541,
+            30.8813,
+            30.9195,
+            31.0468,
+            31.1741,
+            31.3013,
+            31.3395,
+            31.4668,
+            31.594,
+            31.7213,
+            31.8486,
+            31.9758
+          ]
+        }
+      ],
+      "circle": {
+        "start": 28.617,
+        "end": 29.929
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

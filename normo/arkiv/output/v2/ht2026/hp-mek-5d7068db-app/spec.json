@@ -1,0 +1,683 @@
+{
+  "slug": "hp-mek-5d7068db-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "5d7068db-b973-4391-b784-bdd90ad9fec8"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Klassresans"
+      },
+      {
+        "text": "grundläggande"
+      },
+      {
+        "text": "budskap"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "vi"
+      },
+      {
+        "text": "alla"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "få"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "bättre"
+      },
+      {
+        "text": "liv"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "text": "hårt"
+      },
+      {
+        "text": "arbete,"
+      },
+      {
+        "text": "eller"
+      },
+      {
+        "text": "genom"
+      },
+      {
+        "text": "högre"
+      },
+      {
+        "text": "utbildning."
+      },
+      {
+        "text": "Därför"
+      },
+      {
+        "text": "visste"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "inga"
+      },
+      {
+        "text": "gränser"
+      },
+      {
+        "text": "när"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "avslöjades"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "Hollywoodstjärnor"
+      },
+      {
+        "text": "hade"
+      },
+      {
+        "text": "mutat"
+      },
+      {
+        "text": "sig"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "studieplatser"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "sina"
+      },
+      {
+        "text": "barn"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "amerikanska"
+      },
+      {
+        "text": "elituniversitet"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "sätt"
+      },
+      {
+        "text": "satt"
+      },
+      {
+        "text": "_____,"
+      },
+      {
+        "text": "klassresans"
+      },
+      {
+        "text": "centrala"
+      },
+      {
+        "text": "mekanism,"
+      },
+      {
+        "text": "ur"
+      },
+      {
+        "text": "spel."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 51,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "spekulationen"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "byråkratin"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "fascinationen"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "aristokratin"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "indignationen"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "meritokratin"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "desperationen"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "teknokratin"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "indignationen",
+      "meritokratin"
+    ],
+    "gapFarg": [
+      "blå",
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "indignation = upprördhet",
+      "emphasis": true
+    },
+    {
+      "text": "meritokrati = meriter avgör"
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 62.89,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 51.14
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 0.84
+        },
+        {
+          "start": 0.84,
+          "end": 1.58
+        },
+        {
+          "start": 1.64,
+          "end": 1.7
+        },
+        {
+          "start": 1.76,
+          "end": 1.84
+        },
+        {
+          "start": 1.86,
+          "end": 1.96
+        },
+        {
+          "start": 2.06,
+          "end": 2.32
+        },
+        {
+          "start": 2.38,
+          "end": 2.5
+        },
+        {
+          "start": 2.56,
+          "end": 2.62
+        },
+        {
+          "start": 2.66,
+          "end": 2.74
+        },
+        {
+          "start": 2.8,
+          "end": 3.16
+        },
+        {
+          "start": 3.22,
+          "end": 3.54
+        },
+        {
+          "start": 3.58,
+          "end": 3.82
+        },
+        {
+          "start": 3.9,
+          "end": 4.2
+        },
+        {
+          "start": 4.32,
+          "end": 5.02
+        },
+        {
+          "start": 5.12,
+          "end": 5.28
+        },
+        {
+          "start": 5.28,
+          "end": 5.32
+        },
+        {
+          "start": 5.32,
+          "end": 5.36
+        },
+        {
+          "start": 5.36,
+          "end": 6.02
+        },
+        {
+          "start": 7,
+          "end": 7.4
+        },
+        {
+          "start": 7.44,
+          "end": 8
+        },
+        {
+          "start": 8,
+          "end": 10.04
+        },
+        {
+          "start": 10.04,
+          "end": 10.36
+        },
+        {
+          "start": 10.42,
+          "end": 11.3
+        },
+        {
+          "start": 11.38,
+          "end": 11.46
+        },
+        {
+          "start": 11.5,
+          "end": 11.56
+        },
+        {
+          "start": 11.68,
+          "end": 12.34
+        },
+        {
+          "start": 12.4,
+          "end": 12.48
+        },
+        {
+          "start": 12.54,
+          "end": 13.84
+        },
+        {
+          "start": 13.84,
+          "end": 13.94
+        },
+        {
+          "start": 13.94,
+          "end": 14.4
+        },
+        {
+          "start": 14.44,
+          "end": 14.56
+        },
+        {
+          "start": 14.6,
+          "end": 14.74
+        },
+        {
+          "start": 14.8,
+          "end": 15.54
+        },
+        {
+          "start": 15.58,
+          "end": 15.66
+        },
+        {
+          "start": 15.7,
+          "end": 15.9
+        },
+        {
+          "start": 15.96,
+          "end": 16.239
+        },
+        {
+          "start": 16.239,
+          "end": 16.3581
+        },
+        {
+          "start": 16.3581,
+          "end": 16.6832
+        },
+        {
+          "start": 16.6832,
+          "end": 17.1
+        },
+        {
+          "start": 17.1,
+          "end": 17.24
+        },
+        {
+          "start": 17.24,
+          "end": 17.2636
+        },
+        {
+          "start": 17.2636,
+          "end": 17.2873
+        },
+        {
+          "start": 17.2873,
+          "end": 17.32
+        },
+        {
+          "start": 17.32,
+          "end": 17.82
+        },
+        {
+          "start": 17.82,
+          "end": 19.82
+        },
+        {
+          "start": 19.82,
+          "end": 20.76
+        },
+        {
+          "start": 20.84,
+          "end": 21.42
+        },
+        {
+          "start": 21.48,
+          "end": 22.16
+        },
+        {
+          "start": 22.72,
+          "end": 22.84
+        },
+        {
+          "start": 22.94,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "start": 23.4,
+          "end": 23.4
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 51.14,
+          "chars": [
+            51.14,
+            51.3358,
+            51.5316,
+            51.7274,
+            51.9232,
+            52.1189,
+            52.3147,
+            52.5105,
+            52.7063,
+            52.9021,
+            53.0979,
+            53.2937,
+            53.3524,
+            53.5482,
+            53.6069,
+            53.8027,
+            53.9985,
+            54.1943,
+            54.3901,
+            54.5859,
+            54.7817,
+            54.9775,
+            55.1733,
+            55.3691
+          ]
+        },
+        {
+          "start": 55.5648,
+          "chars": [
+            55.5648,
+            55.7606,
+            55.9564,
+            56.1522,
+            56.348,
+            56.5438,
+            56.7396,
+            56.9354,
+            57.1312,
+            57.3269,
+            57.5227,
+            57.7185,
+            57.7773,
+            57.9731,
+            58.0318,
+            58.2276,
+            58.4234,
+            58.6192,
+            58.8149,
+            59.0107,
+            59.2065,
+            59.4023,
+            59.4611,
+            59.6568,
+            59.8526,
+            60.0484,
+            60.2442
+          ]
+        },
+        {
+          "start": 62.94,
+          "chars": [
+            62.94,
+            62.9537,
+            62.9674,
+            62.9811,
+            62.9948,
+            63.0085,
+            63.0126,
+            63.0263,
+            63.04,
+            63.0537,
+            63.0578,
+            63.0715,
+            63.0852,
+            63.0989,
+            63.1126,
+            63.1263
+          ]
+        }
+      ],
+      "circle": {
+        "start": 46.3,
+        "end": 49.32
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 28.1,
+          "end": 28.85,
+          "targets": [
+            {
+              "w": 30,
+              "from": "mutat sig",
+              "color": "blå"
+            },
+            {
+              "w": 31,
+              "from": "mutat sig",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 38.48,
+          "end": 39.23,
+          "targets": [
+            {
+              "w": 46,
+              "from": "centrala mekanism",
+              "color": "gul"
+            },
+            {
+              "w": 47,
+              "from": "centrala mekanism",
+              "color": "gul"
+            },
+            {
+              "w": 48,
+              "from": "centrala mekanism",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

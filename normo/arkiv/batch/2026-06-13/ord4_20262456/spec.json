@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20262456",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-17.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "kosmopolit",
+      "options": [
+        "något oturligt",
+        "världsmedborgare",
+        "högre jurist",
+        "osäker mark"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "kosmopolit",
+      "options": [
+        "något oturligt",
+        "världsmedborgare",
+        "högre jurist",
+        "osäker mark"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "bundsförvant",
+      "options": [
+        "benägenhet",
+        "samarbetspartner",
+        "något onödigt",
+        "växtvärlden inom område"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "bundsförvant",
+      "options": [
+        "benägenhet",
+        "samarbetspartner",
+        "något onödigt",
+        "växtvärlden inom område"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "fibrig",
+      "options": [
+        "skrockfull",
+        "trådig",
+        "listig",
+        "vanlig och tråkig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "fibrig",
+      "options": [
+        "skrockfull",
+        "trådig",
+        "listig",
+        "vanlig och tråkig"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "modfälld",
+      "options": [
+        "ståtlig",
+        "dyster och nedslagen",
+        "slö",
+        "som håller tiden"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "modfälld",
+      "options": [
+        "ståtlig",
+        "dyster och nedslagen",
+        "slö",
+        "som håller tiden"
+      ],
+      "correct": 1,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

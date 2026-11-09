@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20260904",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-18.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "fait accompli",
+      "options": [
+        "virrvarr",
+        "trupper på viss ort",
+        "fullbordat faktum",
+        "epidemisk sjukdom"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "fait accompli",
+      "options": [
+        "virrvarr",
+        "trupper på viss ort",
+        "fullbordat faktum",
+        "epidemisk sjukdom"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "inalles",
+      "options": [
+        "sammanlagt",
+        "dessutom",
+        "direkt",
+        "i värsta fall"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "inalles",
+      "options": [
+        "sammanlagt",
+        "dessutom",
+        "direkt",
+        "i värsta fall"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "behäftad med",
+      "options": [
+        "som lider av",
+        "färglös",
+        "regelbunden",
+        "oformlig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "behäftad med",
+      "options": [
+        "som lider av",
+        "färglös",
+        "regelbunden",
+        "oformlig"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "alligator",
+      "options": [
+        "tillbakagång",
+        "vällevnad",
+        "krokodil",
+        "sammanpressade skikt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "alligator",
+      "options": [
+        "tillbakagång",
+        "vällevnad",
+        "krokodil",
+        "sammanpressade skikt"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

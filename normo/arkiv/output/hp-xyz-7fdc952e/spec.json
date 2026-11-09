@@ -1,0 +1,313 @@
+{
+  "slug": "hp-xyz-7fdc952e",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "7fdc952e-d626-42fc-8e47-1ce773d2a365"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "HT 2018 · fråga 2",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "xyz",
+      "kva"
+    ],
+    "text": "Arton procent av femtio är detsamma som femtio procent av arton, alltså nio."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "0,2"
+      },
+      {
+        "text": "%"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "50?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "0,01"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "0,1"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "1"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "10"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "0{,}2 \\% av 50 = 50 \\% av 0{,}2"
+    },
+    {
+      "text": "50 \\% av 0{,}2 = hälften av 0{,}2"
+    },
+    {
+      "text": "hälften av 0{,}2 = \\frac{0{,}2}{2}"
+    },
+    {
+      "text": "= 0{,}1",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 49.45,
+    "phases": {
+      "readStart": 3.746,
+      "writeStart": 15.842
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.746,
+          "end": 4.025
+        },
+        {
+          "start": 4.118,
+          "end": 4.28
+        },
+        {
+          "start": 4.35,
+          "end": 5.023
+        },
+        {
+          "start": 5.023,
+          "end": 5.674
+        },
+        {
+          "start": 5.674,
+          "end": 5.766
+        },
+        {
+          "start": 5.813,
+          "end": 6.393
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 15.842,
+          "chars": [
+            15.842,
+            16.08,
+            16.3181,
+            16.5561,
+            16.6275,
+            16.8656,
+            16.937,
+            17.175,
+            17.4131,
+            17.4845,
+            17.7225,
+            17.9606,
+            18.032,
+            18.27,
+            18.3414,
+            18.5795,
+            18.8175,
+            18.8889,
+            19.127,
+            19.1984,
+            19.4364,
+            19.6745,
+            19.7459,
+            19.9839,
+            20.222
+          ]
+        },
+        {
+          "start": 23.421,
+          "chars": [
+            23.421,
+            23.6381,
+            23.8552,
+            23.9203,
+            24.1374,
+            24.2026,
+            24.4197,
+            24.6368,
+            24.7019,
+            24.919,
+            25.1361,
+            25.3532,
+            25.4183,
+            25.6354,
+            25.7005,
+            25.9176,
+            26.1347,
+            26.3518,
+            26.5689,
+            26.786,
+            27.0031,
+            27.2202,
+            27.2854,
+            27.5025,
+            27.7196,
+            27.7847,
+            28.0018,
+            28.2189
+          ]
+        },
+        {
+          "start": 29.821,
+          "chars": [
+            29.821,
+            30.0508,
+            30.2806,
+            30.5104,
+            30.7402,
+            30.97,
+            31.1998,
+            31.4295,
+            31.4985,
+            31.7283,
+            31.9581,
+            32.027,
+            32.2568,
+            32.4866,
+            32.7164,
+            32.7853,
+            33.0151,
+            33.084,
+            33.3138,
+            33.5436,
+            33.7734,
+            34.0032
+          ]
+        },
+        {
+          "start": 35.623,
+          "chars": [
+            35.623,
+            35.9244,
+            36.0148,
+            36.3162,
+            36.6176
+          ]
+        },
+        {
+          "start": 43.989,
+          "chars": [
+            43.989,
+            44.1752,
+            44.3615,
+            44.5477,
+            44.7339,
+            44.9201,
+            44.976,
+            45.1622,
+            45.3485,
+            45.5347,
+            45.5905,
+            45.7768,
+            45.8326,
+            46.0189,
+            46.2051,
+            46.3913,
+            46.5775,
+            46.7638
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.538,
+        "end": 42.86
+      },
+      "options": null,
+      "concept": {
+        "start": 7.851,
+        "end": 14.735,
+        "hideAt": 23.016
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

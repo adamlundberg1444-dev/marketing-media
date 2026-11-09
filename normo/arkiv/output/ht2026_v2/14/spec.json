@@ -1,0 +1,506 @@
+{
+  "slug": "hp-las-586a2ce0",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "586a2ce0-e59d-43c0-a8e2-4cea145ff020"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 14 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "återkommande"
+      },
+      {
+        "text": "tema"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Göran"
+      },
+      {
+        "text": "Therborns"
+      },
+      {
+        "text": "texter,"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "recensenten?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "unika"
+          },
+          {
+            "text": "samarbetet"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "arbetarrörelsen"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "näringslivet"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Sverige."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "kulturella"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "ekonomiska"
+          },
+          {
+            "text": "utgångsläge"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "möjliggjorde"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "välfärdsstatens"
+          },
+          {
+            "text": "framväxt."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "stora"
+          },
+          {
+            "text": "internationella"
+          },
+          {
+            "text": "intresse"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "välfärdsstaten"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "väckt"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "åren."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Den"
+          },
+          {
+            "text": "relativt"
+          },
+          {
+            "text": "stora"
+          },
+          {
+            "text": "enighet"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "funnits"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "olika"
+          },
+          {
+            "text": "politiska"
+          },
+          {
+            "text": "partier"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "Sverige."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__586a2ce0-e59d-43c0-a8e2-4cea145ff020.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kapital + arbetarrörelse",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.291,
+    "phases": {
+      "readStart": 2.037,
+      "writeStart": 22.147
+    },
+    "read": {
+      "words": [
+        {
+          "start": 2.037,
+          "end": 2.316
+        },
+        {
+          "start": 2.409,
+          "end": 2.455
+        },
+        {
+          "start": 2.501,
+          "end": 2.583
+        },
+        {
+          "start": 2.664,
+          "end": 3.221
+        },
+        {
+          "start": 3.268,
+          "end": 3.651
+        },
+        {
+          "start": 3.697,
+          "end": 3.744
+        },
+        {
+          "start": 3.767,
+          "end": 4.034
+        },
+        {
+          "start": 4.092,
+          "end": 4.545
+        },
+        {
+          "start": 4.591,
+          "end": 4.998
+        },
+        {
+          "start": 5.044,
+          "end": 5.276
+        },
+        {
+          "start": 5.299,
+          "end": 6.147
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.147,
+          "chars": [
+            22.147,
+            22.371,
+            22.595,
+            22.8189,
+            23.0429,
+            23.2669,
+            23.4909,
+            23.7149,
+            23.7821,
+            24.0061,
+            24.0732,
+            24.2972,
+            24.5212,
+            24.7452,
+            24.9692,
+            25.1932,
+            25.4171,
+            25.6411,
+            25.8651,
+            26.0891,
+            26.3131,
+            26.5371,
+            26.761,
+            26.985
+          ]
+        },
+        {
+          "start": 35.6,
+          "chars": [
+            35.6,
+            35.8005,
+            36.0011,
+            36.2016,
+            36.4021,
+            36.4623,
+            36.6628,
+            36.8633,
+            37.0638,
+            37.2644,
+            37.4649,
+            37.6654,
+            37.8659,
+            38.0665,
+            38.267,
+            38.3272,
+            38.5277,
+            38.5878,
+            38.7884,
+            38.9889,
+            39.1894,
+            39.3899,
+            39.5905
+          ]
+        }
+      ],
+      "circle": {
+        "start": 33.911,
+        "end": 35.13
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 27.892,
+          "end": 28.642,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 7.96,
+          "end": 8.71,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.4371
+                ],
+                [
+                  0.9261,
+                  0.4371
+                ],
+                [
+                  0.9261,
+                  0.4857
+                ],
+                [
+                  0.0435,
+                  0.4857
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 13.894,
+          "end": 14.644,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1435,
+                  0.5479
+                ],
+                [
+                  0.923,
+                  0.5479
+                ],
+                [
+                  0.923,
+                  0.5966
+                ],
+                [
+                  0.1435,
+                  0.5966
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 14.994,
+          "end": 15.744,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6033
+                ],
+                [
+                  0.7862,
+                  0.6033
+                ],
+                [
+                  0.7862,
+                  0.652
+                ],
+                [
+                  0.0435,
+                  0.652
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.96,
+          "end": 12.29,
+          "omrade": [
+            0,
+            0.2305,
+            1,
+            0.6141
+          ]
+        },
+        {
+          "start": 12.894,
+          "end": 21.522,
+          "omrade": [
+            0,
+            0.4179,
+            1,
+            0.7249
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

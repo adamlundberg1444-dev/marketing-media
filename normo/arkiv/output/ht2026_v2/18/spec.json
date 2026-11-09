@@ -1,0 +1,614 @@
+{
+  "slug": "hp-las-eb8a59d4",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "eb8a59d4-1ade-443e-be89-fcd47f06d015"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 18 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "gör"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "japanska"
+      },
+      {
+        "text": "forskarnas"
+      },
+      {
+        "text": "fynd"
+      },
+      {
+        "text": "särskilt"
+      },
+      {
+        "text": "intressanta,"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "döma?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 12,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "fynden"
+          },
+          {
+            "text": "uppvisar"
+          },
+          {
+            "text": "stora"
+          },
+          {
+            "text": "likheter"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "prover"
+          },
+          {
+            "text": "tagna"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "Mars."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "fynden"
+          },
+          {
+            "text": "ger"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "förklaring"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "största"
+          },
+          {
+            "text": "planeternas"
+          },
+          {
+            "text": "rörelser"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "solsystemet."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "fynden"
+          },
+          {
+            "text": "antas"
+          },
+          {
+            "text": "härstamma"
+          },
+          {
+            "text": "från"
+          },
+          {
+            "text": "tiden"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "sena"
+          },
+          {
+            "text": "tunga"
+          },
+          {
+            "text": "bombardemanget."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "fynden"
+          },
+          {
+            "text": "gjorts"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "platser"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "varit"
+          },
+          {
+            "text": "oförändrade"
+          },
+          {
+            "text": "under"
+          },
+          {
+            "text": "fyra"
+          },
+          {
+            "text": "miljarder"
+          },
+          {
+            "text": "år."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__eb8a59d4-1ade-443e-be89-fcd47f06d015.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "3,95 ligger i bombardemangets tid",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 46.309,
+    "phases": {
+      "readStart": 1.294,
+      "writeStart": 26.548
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.294,
+          "end": 1.468
+        },
+        {
+          "start": 1.491,
+          "end": 1.689
+        },
+        {
+          "start": 1.724,
+          "end": 1.816
+        },
+        {
+          "start": 1.874,
+          "end": 2.269
+        },
+        {
+          "start": 2.316,
+          "end": 2.861
+        },
+        {
+          "start": 2.954,
+          "end": 3.349
+        },
+        {
+          "start": 3.79,
+          "end": 4.278
+        },
+        {
+          "start": 4.347,
+          "end": 4.963
+        },
+        {
+          "start": 4.986,
+          "end": 5.079
+        },
+        {
+          "start": 5.137,
+          "end": 5.497
+        },
+        {
+          "start": 5.555,
+          "end": 5.636
+        },
+        {
+          "start": 5.717,
+          "end": 6.217
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 26.548,
+          "chars": [
+            26.548,
+            26.7352,
+            26.9224,
+            27.1097,
+            27.2969,
+            27.353,
+            27.5403,
+            27.7275,
+            27.9147,
+            28.1019,
+            28.2891,
+            28.4764,
+            28.5325,
+            28.7197,
+            28.7759,
+            28.9631,
+            29.1503,
+            29.3376,
+            29.5248,
+            29.712,
+            29.8992,
+            30.0864,
+            30.2736,
+            30.4609,
+            30.6481,
+            30.8353,
+            31.0225,
+            31.2097,
+            31.397,
+            31.5842,
+            31.6403,
+            31.8276,
+            32.0148
+          ]
+        },
+        {
+          "start": 40.802,
+          "chars": [
+            40.802,
+            40.9911,
+            41.1802,
+            41.3694,
+            41.5585,
+            41.7476,
+            41.8043,
+            41.9935,
+            42.1826,
+            42.3717,
+            42.4284,
+            42.6175,
+            42.6743,
+            42.8634,
+            43.0525,
+            43.2416,
+            43.4308,
+            43.6199
+          ]
+        }
+      ],
+      "circle": {
+        "start": 39.473,
+        "end": 40.332
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 33.802,
+          "end": 34.552,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 7.82,
+          "end": 8.57,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.4154
+                ],
+                [
+                  0.9189,
+                  0.4154
+                ],
+                [
+                  0.9189,
+                  0.4714
+                ],
+                [
+                  0.0435,
+                  0.4714
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 8.92,
+          "end": 9.67,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.4792
+                ],
+                [
+                  0.3682,
+                  0.4792
+                ],
+                [
+                  0.3682,
+                  0.5352
+                ],
+                [
+                  0.0435,
+                  0.5352
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 13.592,
+          "end": 14.342,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5152,
+                  0.543
+                ],
+                [
+                  0.9305,
+                  0.543
+                ],
+                [
+                  0.9305,
+                  0.599
+                ],
+                [
+                  0.5152,
+                  0.599
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 14.692,
+          "end": 15.442,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6068
+                ],
+                [
+                  0.3206,
+                  0.6068
+                ],
+                [
+                  0.3206,
+                  0.6629
+                ],
+                [
+                  0.0435,
+                  0.6629
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 18.446,
+          "end": 19.196,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3228,
+                  0.6068
+                ],
+                [
+                  0.953,
+                  0.6068
+                ],
+                [
+                  0.953,
+                  0.6629
+                ],
+                [
+                  0.3228,
+                  0.6629
+                ]
+              ],
+              "color": "orange",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 19.546,
+          "end": 20.296,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6707
+                ],
+                [
+                  0.8945,
+                  0.6707
+                ],
+                [
+                  0.8945,
+                  0.7267
+                ],
+                [
+                  0.0435,
+                  0.7267
+                ]
+              ],
+              "color": "orange",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 6.82,
+          "end": 12.267,
+          "omrade": [
+            0,
+            0.2655,
+            1,
+            0.6831
+          ]
+        },
+        {
+          "start": 12.592,
+          "end": 16.749,
+          "omrade": [
+            0,
+            0.3932,
+            1,
+            0.8108
+          ]
+        },
+        {
+          "start": 17.446,
+          "end": 25.435,
+          "omrade": [
+            0,
+            0.5208,
+            1,
+            0.8746
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

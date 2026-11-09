@@ -1,0 +1,567 @@
+{
+  "slug": "hp-elf-50ef1296-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "50ef1296-8db3-4785-89d4-278c4d146b3b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Which"
+      },
+      {
+        "text": "of"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "following"
+      },
+      {
+        "text": "statements"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "most"
+      },
+      {
+        "text": "in"
+      },
+      {
+        "text": "agreement"
+      },
+      {
+        "text": "with"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "text?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 12,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Humans"
+          },
+          {
+            "text": "differ"
+          },
+          {
+            "text": "substantially"
+          },
+          {
+            "text": "from"
+          },
+          {
+            "text": "other"
+          },
+          {
+            "text": "primates"
+          },
+          {
+            "text": "in"
+          },
+          {
+            "text": "their"
+          },
+          {
+            "text": "willingness"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "cooperate."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Cooperative"
+          },
+          {
+            "text": "behavior"
+          },
+          {
+            "text": "appears"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "or"
+          },
+          {
+            "text": "less"
+          },
+          {
+            "text": "exclusive"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "primates."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Cooperation"
+          },
+          {
+            "text": "patterns"
+          },
+          {
+            "text": "are"
+          },
+          {
+            "text": "identical"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "chimps"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "other"
+          },
+          {
+            "text": "primate"
+          },
+          {
+            "text": "species."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "principle"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "mutual"
+          },
+          {
+            "text": "benefits"
+          },
+          {
+            "text": "seems"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "guide"
+          },
+          {
+            "text": "much"
+          },
+          {
+            "text": "primate"
+          },
+          {
+            "text": "cooperation."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__50ef1296-8db3-4785-89d4-278c4d146b3b.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "ömsesidig nytta styr samarbetet",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 46.08,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 33.4
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.48
+        },
+        {
+          "start": 0.54,
+          "end": 0.6
+        },
+        {
+          "start": 0.64,
+          "end": 0.74
+        },
+        {
+          "start": 0.82,
+          "end": 1.16
+        },
+        {
+          "start": 1.3,
+          "end": 2.02
+        },
+        {
+          "start": 2.1,
+          "end": 2.26
+        },
+        {
+          "start": 2.36,
+          "end": 2.76
+        },
+        {
+          "start": 2.82,
+          "end": 2.9
+        },
+        {
+          "start": 2.96,
+          "end": 3.6
+        },
+        {
+          "start": 3.66,
+          "end": 3.76
+        },
+        {
+          "start": 3.78,
+          "end": 3.86
+        },
+        {
+          "start": 3.94,
+          "end": 4.36
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.4,
+          "chars": [
+            33.4,
+            33.6321,
+            33.8642,
+            34.0963,
+            34.3284,
+            34.5606,
+            34.7927,
+            35.0248,
+            35.2569,
+            35.489,
+            35.5586,
+            35.7907,
+            36.0229,
+            36.255,
+            36.4871,
+            36.7192,
+            36.7888,
+            37.0209,
+            37.253,
+            37.4851,
+            37.7173,
+            37.7869,
+            38.019,
+            38.2511,
+            38.4832,
+            38.7153,
+            38.9474,
+            39.1796,
+            39.4117,
+            39.6438,
+            39.8759
+          ]
+        },
+        {
+          "start": 45.7,
+          "chars": [
+            45.7,
+            45.7096,
+            45.7191,
+            45.7287,
+            45.7383,
+            45.7411,
+            45.7507,
+            45.7603,
+            45.7699,
+            45.7794,
+            45.789,
+            45.7986,
+            45.8081,
+            45.8177,
+            45.8273,
+            45.8301,
+            45.8397,
+            45.8426,
+            45.8522,
+            45.8617,
+            45.8713,
+            45.8809,
+            45.8904
+          ]
+        }
+      ],
+      "circle": {
+        "start": 44.16,
+        "end": 44.58
+      },
+      "options": {
+        "hideAt": 13.38,
+        "showAt": 43.26
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.52,
+          "end": 8.27,
+          "targets": [
+            {
+              "w": 6,
+              "from": "most in agreement",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "most in agreement",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "most in agreement",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 18.06,
+          "end": 18.81,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.1447,
+                  0.1464
+                ],
+                [
+                  0.889,
+                  0.1464
+                ],
+                [
+                  0.889,
+                  0.1888
+                ],
+                [
+                  0.1447,
+                  0.1888
+                ]
+              ],
+              "color": "bla",
+              "from": "ömsesidighet",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 23.72,
+          "end": 24.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.3678
+                ],
+                [
+                  0.8962,
+                  0.3678
+                ],
+                [
+                  0.8962,
+                  0.4102
+                ],
+                [
+                  0,
+                  0.4102
+                ]
+              ],
+              "color": "bla",
+              "from": "mat",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 23.72,
+          "end": 24.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4231
+                ],
+                [
+                  0.2978,
+                  0.4231
+                ],
+                [
+                  0.2978,
+                  0.4655
+                ],
+                [
+                  0,
+                  0.4655
+                ]
+              ],
+              "color": "bla",
+              "from": "mat",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 29.38,
+          "end": 30.13,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6327,
+                  0.6637
+                ],
+                [
+                  0.9495,
+                  0.6637
+                ],
+                [
+                  0.9495,
+                  0.706
+                ],
+                [
+                  0.6327,
+                  0.706
+                ]
+              ],
+              "color": "bla",
+              "from": "gynnar alla",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 29.38,
+          "end": 30.13,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.719
+                ],
+                [
+                  0.8932,
+                  0.719
+                ],
+                [
+                  0.8932,
+                  0.7614
+                ],
+                [
+                  0,
+                  0.7614
+                ]
+              ],
+              "color": "bla",
+              "from": "gynnar alla",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 45.65
+  },
+  "layout": {},
+  "variant": "app"
+}

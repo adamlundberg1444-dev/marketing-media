@@ -1,0 +1,472 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "f1",
+        "tex": "\\frac{4}{x}",
+        "uttryck": true
+      },
+      {
+        "id": "eq",
+        "t": " = "
+      },
+      {
+        "id": "f2",
+        "tex": "\\frac{2}{x+1}"
+      }
+    ],
+    [
+      {
+        "id": "q",
+        "t": "Vad är "
+      },
+      {
+        "id": "qx",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-2"
+    },
+    {
+      "letter": "B",
+      "tex": "-\\frac{1}{2}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\frac{1}{3}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{1}"
+    }
+  ],
+  "correct": 0,
+  "hook": {
+    "lines": [
+      "Två bråk på HP.",
+      "x + 1 är fällan."
+    ],
+    "start": 0,
+    "end": 6.1899999999999995
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 6.1899999999999995,
+    "d": "M 930 1200 C 1010 1000, 1000 640, 880 430",
+    "head": "M 950 470 L 880 430 L 880 513"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L1",
+          "tex": "4x",
+          "at": 17.56,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "L2",
+          "tex": "+1",
+          "at": 17.88,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 18.62,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "2x",
+          "at": 19.22,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 28.51,
+          "termer": [
+            {
+              "k": "v",
+              "tex": "4(x+1)"
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 30.17
+            },
+            {
+              "k": "h",
+              "tex": "2x",
+              "at": 30.79
+            }
+          ]
+        },
+        {
+          "at": 33.13,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "4x",
+              "fran": [
+                "v"
+              ]
+            },
+            {
+              "k": "p",
+              "tex": "+",
+              "at": 33.59
+            },
+            {
+              "k": "b",
+              "tex": "4",
+              "at": 33.79
+            },
+            "=",
+            {
+              "k": "h",
+              "tex": "2x"
+            }
+          ]
+        },
+        {
+          "at": 36.069,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "4x"
+            },
+            {
+              "k": "m",
+              "tex": "-"
+            },
+            {
+              "k": "h",
+              "tex": "2x"
+            },
+            "=",
+            {
+              "k": "p",
+              "tex": "-"
+            },
+            {
+              "k": "b",
+              "tex": "4"
+            }
+          ]
+        },
+        {
+          "at": 37.109,
+          "termer": [
+            {
+              "k": "c",
+              "tex": "2x",
+              "fran": [
+                "a",
+                "m",
+                "h"
+              ]
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "-4",
+              "fran": [
+                "p",
+                "b"
+              ]
+            }
+          ]
+        },
+        {
+          "at": 40.659,
+          "termer": [
+            {
+              "k": "c",
+              "tex": "2x",
+              "dela": "2"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "-4",
+              "dela": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "x",
+          "at": 41.739,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 41.939,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "-2",
+          "at": 42.779,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L1",
+      "at": 22.94
+    },
+    {
+      "row": 0,
+      "col": "L2",
+      "at": 23.19
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "R",
+      "at": 43.229
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q",
+        "qx",
+        "qm"
+      ],
+      "at": 13.049,
+      "end": 14.14
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "f1",
+        "f2"
+      ],
+      "color": "rod",
+      "at": 6.789,
+      "end": 10.839
+    },
+    {
+      "ids": [
+        "f2"
+      ],
+      "color": "rod",
+      "at": 24.85,
+      "end": 26.99
+    }
+  ],
+  "bagar": [],
+  "skamt": {
+    "ut": 6.489,
+    "tillbaka": 10.839,
+    "studsa": {
+      "ids": [
+        "f1",
+        "f2"
+      ],
+      "at": 8.959,
+      "end": 10.839
+    }
+  },
+  "alt": {
+    "losning": 6.289,
+    "tillbaka": 43.409
+  },
+  "lage": {
+    "rader": 610,
+    "krok": 1180
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.48,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 700,
+      "dur": 0.5
+    },
+    {
+      "at": 6.289,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 14.04,
+      "zoom": 1.35,
+      "x": 540,
+      "y": 600,
+      "dur": 0.45
+    },
+    {
+      "at": 26.49,
+      "zoom": 1.3,
+      "x": 540,
+      "y": 680,
+      "dur": 0.4
+    },
+    {
+      "at": 40.659,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 800,
+      "dur": 0.4
+    },
+    {
+      "at": 43.109,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "x har gömt sig under bråkstrecket",
+      "start": 6.489,
+      "end": 8.959
+    },
+    {
+      "text": "Två gånger",
+      "start": 8.959,
+      "end": 10.839
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 10.839,
+      "end": 12.789
+    },
+    {
+      "text": "Vi ska hitta x",
+      "start": 12.789,
+      "end": 14.14
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 14.14,
+      "end": 15.34
+    },
+    {
+      "text": "korsmultiplicera till 4x plus 1",
+      "start": 15.34,
+      "end": 18.62
+    },
+    {
+      "text": "är 2x",
+      "start": 18.62,
+      "end": 19.87
+    },
+    {
+      "text": "Det ger minus en halv",
+      "start": 19.87,
+      "end": 21.92
+    },
+    {
+      "text": "alltså B",
+      "start": 21.92,
+      "end": 22.94
+    },
+    {
+      "text": "Nej. Fyran ska gånger hela",
+      "start": 22.94,
+      "end": 25.63
+    },
+    {
+      "text": "x plus 1",
+      "start": 25.63,
+      "end": 26.59
+    },
+    {
+      "text": "Med parentesen",
+      "start": 26.59,
+      "end": 28.43
+    },
+    {
+      "text": "4 gånger x plus 1",
+      "start": 28.51,
+      "end": 30.17
+    },
+    {
+      "text": "är 2x",
+      "start": 30.17,
+      "end": 31.6
+    },
+    {
+      "text": "Multiplicera in",
+      "start": 31.6,
+      "end": 33.23
+    },
+    {
+      "text": "4x plus 4",
+      "start": 33.23,
+      "end": 35.07
+    },
+    {
+      "text": "2x och 4 byter sida",
+      "start": 35.309,
+      "end": 37.109
+    },
+    {
+      "text": "Kvar blir 2x är minus 4",
+      "start": 37.109,
+      "end": 40.659
+    },
+    {
+      "text": "Dela med 2",
+      "start": 40.659,
+      "end": 41.739
+    },
+    {
+      "text": "så x är minus 2",
+      "start": 41.739,
+      "end": 44.009
+    },
+    {
+      "text": "Svaret är A",
+      "start": 44.009,
+      "end": 45.919000000000004
+    }
+  ],
+  "circle": {
+    "start": 45.219,
+    "end": 45.919000000000004
+  },
+  "duration": 46.919
+}

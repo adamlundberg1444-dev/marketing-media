@@ -1,0 +1,426 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "lada",
+          "t": "En låda innehåller endast "
+        },
+        {
+          "id": "xr",
+          "t": "x",
+          "it": true
+        },
+        {
+          "id": "xr2",
+          "t": " röda kulor,"
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "id": "ys",
+          "t": "y",
+          "it": true
+        },
+        {
+          "id": "ys2",
+          "t": " svarta kulor "
+        },
+        {
+          "t": "och "
+        },
+        {
+          "id": "zv",
+          "t": "z",
+          "it": true
+        },
+        {
+          "id": "zv2",
+          "t": " vita kulor."
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "t": "Vilket svarsalternativ motsvarar"
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "t": "sannolikheten att en slumpmässigt"
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 56,
+      "delar": [
+        {
+          "t": "vald kula "
+        },
+        {
+          "id": "sv",
+          "t": "är svart eller vit?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\frac{y+z}{x}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\frac{y+z-x}{y+z}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\frac{y+z}{x+y+z}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\frac{y+z-x}{x+y+z}"
+    }
+  ],
+  "correct": 2,
+  "hook": {
+    "lines": [
+      "Enkel HP-fråga.",
+      "Titta på nämnaren."
+    ],
+    "start": 0,
+    "end": 3.96
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 3.96,
+    "d": "M 840 1320 C 1000 880, 760 740, 275 800",
+    "head": "M 319 760 L 275 800 L 328 828"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "P",
+          "at": 11.29,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 11.44,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "\\dfrac{y+z}{x}",
+          "at": 11.89,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 21.69,
+          "termer": [
+            {
+              "k": "P",
+              "tex": "P"
+            },
+            {
+              "k": "=",
+              "tex": "="
+            },
+            {
+              "k": "t",
+              "tex": "y+z",
+              "at": 22.62
+            }
+          ]
+        },
+        {
+          "at": 26.77,
+          "termer": [
+            {
+              "k": "P",
+              "tex": "P"
+            },
+            "=",
+            {
+              "k": "t",
+              "tex": "\\dfrac{y+z}{x+y+z}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\frac{1+1}{1+1+1}",
+          "at": 29.97,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 31.33,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "\\frac{2}{3}",
+          "at": 31.53,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "R",
+      "at": 17.56
+    }
+  ],
+  "bars": [],
+  "rings": [],
+  "markering": [
+    {
+      "ids": [
+        "sv"
+      ],
+      "at": 4.53,
+      "end": 6.09
+    },
+    {
+      "ids": [
+        "ys",
+        "ys2",
+        "zv",
+        "zv2"
+      ],
+      "at": 8.19,
+      "end": 11.29
+    },
+    {
+      "ids": [
+        "ys",
+        "ys2",
+        "zv",
+        "zv2"
+      ],
+      "at": 22.62,
+      "end": 24.15
+    },
+    {
+      "ids": [
+        "xr",
+        "xr2",
+        "ys",
+        "ys2",
+        "zv",
+        "zv2"
+      ],
+      "at": 25.37,
+      "end": 29.47
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "xr",
+        "xr2"
+      ],
+      "color": "rod",
+      "at": 9.73,
+      "end": 19.06
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 3.69,
+    "lockbete": {
+      "at": 11.29,
+      "end": 15.92,
+      "markera": {
+        "val": "A",
+        "at": 14.02,
+        "end": 15.92
+      }
+    },
+    "tillbaka": 34.58
+  },
+  "lage": {
+    "fraga": 200,
+    "alt": 720,
+    "rader": 680,
+    "krok": 1330
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.5,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 600,
+      "dur": 0.5
+    },
+    {
+      "at": 3.79,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 420,
+      "dur": 0.45
+    },
+    {
+      "at": 5.69,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 21.59,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 600,
+      "dur": 0.4
+    },
+    {
+      "at": 34.28,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi vill ha svart eller vit",
+      "start": 3.89,
+      "end": 6.09
+    },
+    {
+      "text": "Lätt. Svarta och vita är",
+      "start": 6.09,
+      "end": 8.19
+    },
+    {
+      "text": "y plus z",
+      "start": 8.19,
+      "end": 9.51
+    },
+    {
+      "text": "röda är x",
+      "start": 9.73,
+      "end": 11.29
+    },
+    {
+      "text": "Så y plus z genom x",
+      "start": 11.29,
+      "end": 14.02
+    },
+    {
+      "text": "svaret är A",
+      "start": 14.02,
+      "end": 15.94
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 16.02,
+      "end": 17.56
+    },
+    {
+      "text": "Nej, vi delar med alla kulor",
+      "start": 17.56,
+      "end": 20.06
+    },
+    {
+      "text": "inte bara de röda",
+      "start": 20.06,
+      "end": 21.69
+    },
+    {
+      "text": "Det vi vill ha",
+      "start": 21.69,
+      "end": 22.62
+    },
+    {
+      "text": "y plus z",
+      "start": 22.62,
+      "end": 24.080000000000002
+    },
+    {
+      "text": "Det som kan hända",
+      "start": 24.15,
+      "end": 25.37
+    },
+    {
+      "text": "alla kulor",
+      "start": 25.37,
+      "end": 26.77
+    },
+    {
+      "text": "x plus y plus z",
+      "start": 26.77,
+      "end": 29.110000000000003
+    },
+    {
+      "text": "Kolla med en kula av varje",
+      "start": 29.47,
+      "end": 31.53
+    },
+    {
+      "text": "Två av tre är svarta",
+      "start": 31.53,
+      "end": 33.29
+    },
+    {
+      "text": "eller vita",
+      "start": 33.29,
+      "end": 34.15
+    },
+    {
+      "text": "Det stämmer",
+      "start": 34.15,
+      "end": 35.18
+    },
+    {
+      "text": "Svaret är C",
+      "start": 35.18,
+      "end": 37.06
+    }
+  ],
+  "circle": {
+    "start": 36.26,
+    "end": 36.96
+  },
+  "duration": 38.06
+}

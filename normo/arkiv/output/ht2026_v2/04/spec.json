@@ -1,0 +1,189 @@
+{
+  "slug": "hp-ord-de4cf0c0",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "de4cf0c0-1c85-49f1-af21-f1598f209acb"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 4 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "ordinär"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "verksam"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "allsidig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "medelmåttig"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "lydig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "populär"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "medelmåttig",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 10.173,
+    "phases": {
+      "readStart": 0.939,
+      "writeStart": 1.522
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.939,
+          "end": 1.264
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 1.522,
+          "chars": [
+            1.522,
+            1.7014,
+            1.8807,
+            2.0601,
+            2.2395,
+            2.4188,
+            2.5982,
+            2.7775,
+            2.9569,
+            3.1363,
+            3.3156
+          ]
+        },
+        {
+          "start": 5.049,
+          "chars": [
+            5.049,
+            5.1746,
+            5.3001,
+            5.4257,
+            5.5512,
+            5.5889,
+            5.7144,
+            5.84,
+            5.9655,
+            6.0911,
+            6.2166,
+            6.3422,
+            6.4677,
+            6.5933,
+            6.7188,
+            6.7565,
+            6.882,
+            6.9197,
+            7.0452,
+            7.1708,
+            7.2963,
+            7.4219,
+            7.5474
+          ]
+        }
+      ],
+      "circle": {
+        "start": 3.63,
+        "end": 4.524
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

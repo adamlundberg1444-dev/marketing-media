@@ -1,0 +1,626 @@
+{
+  "slug": "hp-mek-49dc4935",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "49dc4935-b67f-49eb-99c9-ddcf9f8bd115"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK · fråga 28 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Att"
+      },
+      {
+        "text": "samtidigt"
+      },
+      {
+        "text": "drömma"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "oberoende"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "uttryck"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "kärleken"
+      },
+      {
+        "text": "omges"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "vår"
+      },
+      {
+        "text": "tid."
+      },
+      {
+        "text": "Samtidigt"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "vi"
+      },
+      {
+        "text": "söker"
+      },
+      {
+        "text": "jagupplösning"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "vi"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "våra"
+      },
+      {
+        "text": "gränser,"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "svårlöst"
+      },
+      {
+        "text": "ekvation"
+      },
+      {
+        "text": "där"
+      },
+      {
+        "text": "vår"
+      },
+      {
+        "text": "sårbarhet"
+      },
+      {
+        "text": "står"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "spel."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 40,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "närhet"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "ambivalens"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "försvara"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "lycka"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "romantik"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "behålla"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "trygghet"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "illusion"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "omforma"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "frihet"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "konflikt"
+          },
+          {
+            "text": "–"
+          },
+          {
+            "text": "testa"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "närhet – ambivalens – försvara",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 43.442,
+    "phases": {
+      "readStart": 1.224,
+      "writeStart": 28.458
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.224,
+          "end": 1.352
+        },
+        {
+          "start": 1.387,
+          "end": 1.84
+        },
+        {
+          "start": 1.863,
+          "end": 2.211
+        },
+        {
+          "start": 2.258,
+          "end": 2.42
+        },
+        {
+          "start": 2.42,
+          "end": 4.231
+        },
+        {
+          "start": 4.231,
+          "end": 4.417
+        },
+        {
+          "start": 4.452,
+          "end": 4.533
+        },
+        {
+          "start": 4.649,
+          "end": 5.16
+        },
+        {
+          "start": 5.218,
+          "end": 5.323
+        },
+        {
+          "start": 5.392,
+          "end": 5.706
+        },
+        {
+          "start": 5.752,
+          "end": 5.845
+        },
+        {
+          "start": 5.868,
+          "end": 6.042
+        },
+        {
+          "start": 6.042,
+          "end": 8.063
+        },
+        {
+          "start": 8.063,
+          "end": 8.155
+        },
+        {
+          "start": 8.19,
+          "end": 8.643
+        },
+        {
+          "start": 8.713,
+          "end": 8.991
+        },
+        {
+          "start": 9.049,
+          "end": 9.212
+        },
+        {
+          "start": 9.258,
+          "end": 9.282
+        },
+        {
+          "start": 9.328,
+          "end": 9.456
+        },
+        {
+          "start": 9.502,
+          "end": 9.897
+        },
+        {
+          "start": 10.338,
+          "end": 10.861
+        },
+        {
+          "start": 10.895,
+          "end": 11
+        },
+        {
+          "start": 11.023,
+          "end": 11.093
+        },
+        {
+          "start": 11.139,
+          "end": 11.441
+        },
+        {
+          "start": 11.476,
+          "end": 12.231
+        },
+        {
+          "start": 12.277,
+          "end": 12.428
+        },
+        {
+          "start": 12.474,
+          "end": 12.649
+        },
+        {
+          "start": 12.649,
+          "end": 14.529
+        },
+        {
+          "start": 14.529,
+          "end": 14.75
+        },
+        {
+          "start": 14.796,
+          "end": 15.238
+        },
+        {
+          "start": 15.261,
+          "end": 15.307
+        },
+        {
+          "start": 15.354,
+          "end": 15.4
+        },
+        {
+          "start": 15.447,
+          "end": 15.923
+        },
+        {
+          "start": 15.969,
+          "end": 16.48
+        },
+        {
+          "start": 16.515,
+          "end": 16.596
+        },
+        {
+          "start": 16.631,
+          "end": 16.712
+        },
+        {
+          "start": 16.747,
+          "end": 17.211
+        },
+        {
+          "start": 17.258,
+          "end": 17.444
+        },
+        {
+          "start": 17.49,
+          "end": 17.56
+        },
+        {
+          "start": 17.606,
+          "end": 18.07
+        },
+        {
+          "start": 19.067,
+          "end": 19.624
+        },
+        {
+          "start": 19.624,
+          "end": 19.671
+        },
+        {
+          "start": 19.671,
+          "end": 20.344
+        },
+        {
+          "start": 20.344,
+          "end": 20.379
+        },
+        {
+          "start": 20.379,
+          "end": 21.076
+        },
+        {
+          "start": 21.157,
+          "end": 21.644
+        },
+        {
+          "start": 21.644,
+          "end": 21.703
+        },
+        {
+          "start": 21.703,
+          "end": 22.329
+        },
+        {
+          "start": 22.329,
+          "end": 22.353
+        },
+        {
+          "start": 22.353,
+          "end": 22.933
+        },
+        {
+          "start": 23.142,
+          "end": 23.862
+        },
+        {
+          "start": 23.862,
+          "end": 24.141
+        },
+        {
+          "start": 24.141,
+          "end": 24.918
+        },
+        {
+          "start": 24.918,
+          "end": 25.197
+        },
+        {
+          "start": 25.197,
+          "end": 25.894
+        },
+        {
+          "start": 26.161,
+          "end": 26.718
+        },
+        {
+          "start": 26.718,
+          "end": 26.753
+        },
+        {
+          "start": 26.753,
+          "end": 27.24
+        },
+        {
+          "start": 27.24,
+          "end": 27.264
+        },
+        {
+          "start": 27.264,
+          "end": 27.775
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 28.458,
+          "chars": [
+            28.458,
+            28.6909,
+            28.9237,
+            29.1566,
+            29.3895,
+            29.6223,
+            29.8552,
+            29.9251,
+            30.1579,
+            30.2278,
+            30.4607,
+            30.6935,
+            30.9264,
+            31.1593,
+            31.3921,
+            31.625,
+            31.8579,
+            32.0907,
+            32.3236,
+            32.5565,
+            32.6263,
+            32.8592,
+            32.9291,
+            33.1619,
+            33.3948,
+            33.6277,
+            33.8605,
+            34.0934,
+            34.3263,
+            34.5591
+          ]
+        },
+        {
+          "start": 39.537,
+          "chars": [
+            39.537,
+            39.6254,
+            39.7137,
+            39.8021,
+            39.8905,
+            39.9788,
+            40.0053,
+            40.0937,
+            40.1821,
+            40.2704,
+            40.2969,
+            40.3853,
+            40.4118,
+            40.5002,
+            40.5885,
+            40.6769,
+            40.7653,
+            40.8536
+          ]
+        }
+      ],
+      "circle": {
+        "start": 38.478,
+        "end": 39.291
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 36.123,
+          "end": 36.873,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 36.718,
+          "end": 37.468,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 37.312,
+          "end": 38.062,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

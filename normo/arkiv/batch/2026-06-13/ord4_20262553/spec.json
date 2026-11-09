@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20262553",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-19.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "nämnd",
+      "options": [
+        "överlåtelse på person",
+        "tillägg",
+        "formell grupp",
+        "det allra sämsta"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "nämnd",
+      "options": [
+        "överlåtelse på person",
+        "tillägg",
+        "formell grupp",
+        "det allra sämsta"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "asteni",
+      "options": [
+        "kraftlöshet",
+        "truppavdelning",
+        "stor resväska",
+        "debattmöte"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "asteni",
+      "options": [
+        "kraftlöshet",
+        "truppavdelning",
+        "stor resväska",
+        "debattmöte"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "åtbörd",
+      "options": [
+        "krampanfall",
+        "stolta traditioner",
+        "gest, rörelse",
+        "bestämmelse av regeringen"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "åtbörd",
+      "options": [
+        "krampanfall",
+        "stolta traditioner",
+        "gest, rörelse",
+        "bestämmelse av regeringen"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "rappa",
+      "options": [
+        "avdunsta",
+        "sköta",
+        "variera radiovågor",
+        "måla kalk på vägg"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "rappa",
+      "options": [
+        "avdunsta",
+        "sköta",
+        "variera radiovågor",
+        "måla kalk på vägg"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

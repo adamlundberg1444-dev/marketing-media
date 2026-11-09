@@ -1,0 +1,554 @@
+{
+  "slug": "hp-las-54e8b0c5",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "54e8b0c5-ad06-4f29-8071-f40fb8f587e1"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 13 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "recensenten"
+      },
+      {
+        "text": "utmärkande"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "Fanny"
+      },
+      {
+        "text": "Ambjörnsson"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "forskare?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "hon"
+          },
+          {
+            "text": "utvinner"
+          },
+          {
+            "text": "oväntat"
+          },
+          {
+            "text": "mycket"
+          },
+          {
+            "text": "kunskap"
+          },
+          {
+            "text": "ur"
+          },
+          {
+            "text": "vardagliga"
+          },
+          {
+            "text": "ämnen"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "först"
+          },
+          {
+            "text": "kan"
+          },
+          {
+            "text": "framstå"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "banala."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "hon"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "ett"
+          },
+          {
+            "text": "framgångsrikt"
+          },
+          {
+            "text": "sätt"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "samman"
+          },
+          {
+            "text": "kunskap"
+          },
+          {
+            "text": "från"
+          },
+          {
+            "text": "olika"
+          },
+          {
+            "text": "akademiska"
+          },
+          {
+            "text": "discipliner."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "hon"
+          },
+          {
+            "text": "trots"
+          },
+          {
+            "text": "ett"
+          },
+          {
+            "text": "uttalat"
+          },
+          {
+            "text": "genusperspektiv"
+          },
+          {
+            "text": "vågar"
+          },
+          {
+            "text": "förhålla"
+          },
+          {
+            "text": "sig"
+          },
+          {
+            "text": "kritisk"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "feministiska"
+          },
+          {
+            "text": "traditionen."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "hon"
+          },
+          {
+            "text": "värdesätter"
+          },
+          {
+            "text": "sina"
+          },
+          {
+            "text": "informanters"
+          },
+          {
+            "text": "konkreta"
+          },
+          {
+            "text": "berättelser"
+          },
+          {
+            "text": "mer"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "abstrakta"
+          },
+          {
+            "text": "teoretiska"
+          },
+          {
+            "text": "resonemang."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__54e8b0c5-ad06-4f29-8071-f40fb8f587e1.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "banalt ämne, oanade dimensioner",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 41.209,
+    "phases": {
+      "readStart": 5.59,
+      "writeStart": 23.375
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.59,
+          "end": 5.845
+        },
+        {
+          "start": 5.938,
+          "end": 6.112
+        },
+        {
+          "start": 6.182,
+          "end": 6.495
+        },
+        {
+          "start": 6.542,
+          "end": 7.145
+        },
+        {
+          "start": 7.215,
+          "end": 7.888
+        },
+        {
+          "start": 7.946,
+          "end": 8.097
+        },
+        {
+          "start": 8.167,
+          "end": 8.399
+        },
+        {
+          "start": 8.457,
+          "end": 8.957
+        },
+        {
+          "start": 9.003,
+          "end": 9.096
+        },
+        {
+          "start": 9.142,
+          "end": 9.711
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.375,
+          "chars": [
+            23.375,
+            23.5305,
+            23.6859,
+            23.8414,
+            23.9969,
+            24.1523,
+            24.3078,
+            24.3544,
+            24.5099,
+            24.6654,
+            24.8208,
+            24.9763,
+            25.1318,
+            25.1784,
+            25.3339,
+            25.4894,
+            25.6448,
+            25.8003,
+            25.9558,
+            26.1112,
+            26.1579,
+            26.3133,
+            26.4688,
+            26.6243,
+            26.7797,
+            26.9352,
+            27.0907,
+            27.2461,
+            27.4016,
+            27.5571,
+            27.7125
+          ]
+        },
+        {
+          "start": 35.33,
+          "chars": [
+            35.33,
+            35.5614,
+            35.7929,
+            36.0243,
+            36.2558,
+            36.4872,
+            36.5566,
+            36.7881,
+            37.0195,
+            37.2509,
+            37.3204,
+            37.5518,
+            37.7832,
+            38.0147,
+            38.2461,
+            38.4776
+          ]
+        }
+      ],
+      "circle": {
+        "start": 33.827,
+        "end": 34.814
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 28.261,
+          "end": 29.011,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 11.826,
+          "end": 12.576,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2311,
+                  0.2669
+                ],
+                [
+                  0.7987,
+                  0.2669
+                ],
+                [
+                  0.7987,
+                  0.3189
+                ],
+                [
+                  0.2311,
+                  0.3189
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 12.926,
+          "end": 13.676,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.3262
+                ],
+                [
+                  0.5311,
+                  0.3262
+                ],
+                [
+                  0.5311,
+                  0.3781
+                ],
+                [
+                  0.0435,
+                  0.3781
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 19.79,
+          "end": 20.54,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5735,
+                  0.695
+                ],
+                [
+                  0.7867,
+                  0.695
+                ],
+                [
+                  0.7867,
+                  0.747
+                ],
+                [
+                  0.5735,
+                  0.747
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 20.89,
+          "end": 21.64,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.7543
+                ],
+                [
+                  0.7969,
+                  0.7543
+                ],
+                [
+                  0.7969,
+                  0.8062
+                ],
+                [
+                  0.0435,
+                  0.8062
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 10.826,
+          "end": 18.386,
+          "omrade": [
+            0,
+            0.1871,
+            1,
+            0.4561
+          ]
+        },
+        {
+          "start": 18.99,
+          "end": 23.04,
+          "omrade": [
+            0,
+            0.5425,
+            1,
+            0.8842
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

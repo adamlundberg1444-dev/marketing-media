@@ -1,0 +1,447 @@
+{
+  "slug": "hp-dtk-d405c688",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "d405c688-4a01-4c13-98db-5c7311d585f1"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK-fråga · Högskoleprovet",
+    "text2": "HT 2026 · fråga 32",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Identifiera"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "tre"
+      },
+      {
+        "text": "åldersgrupperna"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "flest"
+      },
+      {
+        "text": "patienter"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "2014"
+      },
+      {
+        "text": "vårdades"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "LRV."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "patienterna"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "dessa"
+      },
+      {
+        "text": "grupper"
+      },
+      {
+        "text": "vårdades"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "LRV"
+      },
+      {
+        "text": "efter"
+      },
+      {
+        "text": "domstolsbeslut?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 24,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "802"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "958"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "1"
+          },
+          {
+            "text": "102"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "1"
+          },
+          {
+            "text": "169"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/d405c688-4a01-4c13-98db-5c7311d585f1.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "378 + 308 + 272"
+    },
+    {
+      "text": "= 686 + 272 = 958",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 34.55,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 13.25
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.51
+        },
+        {
+          "start": 1.51,
+          "end": 1.77
+        },
+        {
+          "start": 1.77,
+          "end": 2.08
+        },
+        {
+          "start": 2.08,
+          "end": 2.99
+        },
+        {
+          "start": 2.99,
+          "end": 3.3
+        },
+        {
+          "start": 3.3,
+          "end": 3.71
+        },
+        {
+          "start": 3.71,
+          "end": 4.32
+        },
+        {
+          "start": 4.32,
+          "end": 4.63
+        },
+        {
+          "start": 4.63,
+          "end": 4.99
+        },
+        {
+          "start": 4.99,
+          "end": 5.55
+        },
+        {
+          "start": 5.55,
+          "end": 6.01
+        },
+        {
+          "start": 6.01,
+          "end": 6.67
+        },
+        {
+          "start": 6.67,
+          "end": 6.98
+        },
+        {
+          "start": 6.98,
+          "end": 7.39
+        },
+        {
+          "start": 7.39,
+          "end": 7.65
+        },
+        {
+          "start": 7.65,
+          "end": 8.36
+        },
+        {
+          "start": 8.36,
+          "end": 8.58
+        },
+        {
+          "start": 8.58,
+          "end": 8.99
+        },
+        {
+          "start": 8.99,
+          "end": 9.5
+        },
+        {
+          "start": 9.5,
+          "end": 10.06
+        },
+        {
+          "start": 10.06,
+          "end": 10.52
+        },
+        {
+          "start": 10.52,
+          "end": 10.83
+        },
+        {
+          "start": 10.83,
+          "end": 11.24
+        },
+        {
+          "start": 11.24,
+          "end": 12.45
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.25,
+          "chars": [
+            13.25,
+            13.4038,
+            13.5577,
+            13.7115,
+            13.7577,
+            13.9115,
+            13.9577,
+            14.1115,
+            14.2654,
+            14.4192,
+            14.4654,
+            14.6192,
+            14.6654,
+            14.8192,
+            14.9731
+          ]
+        },
+        {
+          "start": 15.4769,
+          "chars": [
+            15.4769,
+            15.6308,
+            15.6769,
+            15.8308,
+            15.9846,
+            16.1385,
+            16.1846,
+            16.3385,
+            16.3846,
+            16.5385,
+            16.6923,
+            16.8462,
+            16.8923,
+            17.0462,
+            17.0923,
+            17.2462,
+            17.4
+          ]
+        },
+        {
+          "start": 19.2538,
+          "chars": [
+            19.2538,
+            19.4077,
+            19.5615,
+            19.7154,
+            19.8692,
+            20.0231,
+            20.0692,
+            20.2231,
+            20.3769,
+            20.5308,
+            20.5769,
+            20.7308,
+            20.8846,
+            21.0385,
+            21.1923,
+            21.3462
+          ]
+        }
+      ],
+      "circle": {
+        "start": 17.904,
+        "end": 18.804
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 21.85,
+          "end": 22.6,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.395,
+                  0.582
+                ],
+                [
+                  0.46,
+                  0.582
+                ],
+                [
+                  0.46,
+                  0.645
+                ],
+                [
+                  0.395,
+                  0.645
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 23.45,
+          "end": 24.2,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.77,
+                  0.582
+                ],
+                [
+                  0.835,
+                  0.582
+                ],
+                [
+                  0.835,
+                  0.645
+                ],
+                [
+                  0.77,
+                  0.645
+                ]
+              ],
+              "color": "red",
+              "stroke": true,
+              "mi": 0
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 25.05,
+          "end": 28.05,
+          "omrade": [
+            0,
+            0.5,
+            0.48,
+            0.71
+          ]
+        },
+        {
+          "start": 28.55,
+          "end": 31.55,
+          "omrade": [
+            0.52,
+            0.5,
+            1,
+            0.71
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

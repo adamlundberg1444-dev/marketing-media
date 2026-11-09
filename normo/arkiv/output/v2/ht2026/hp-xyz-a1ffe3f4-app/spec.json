@@ -1,0 +1,710 @@
+{
+  "slug": "hp-xyz-a1ffe3f4-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "a1ffe3f4-108e-4eb5-b196-b877c2adc702"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.15
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Medelvärdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "tre"
+      },
+      {
+        "text": "talen"
+      },
+      {
+        "text": "3,"
+      },
+      {
+        "text": "5"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "7."
+      },
+      {
+        "text": "Medelvärdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "två"
+      },
+      {
+        "text": "talen"
+      },
+      {
+        "text": "4"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": " y ",
+        "display": false
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "9."
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "medelvärdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": " y ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 29,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "8"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "11,5"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "13"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "13,5"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "summa = medelvärde \\cdot antal"
+    },
+    {
+      "text": "3 + 5 + x = 21"
+    },
+    {
+      "text": "x = 13",
+      "rod": [
+        "13"
+      ],
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025"
+      }
+    },
+    {
+      "text": "4 + y = 18"
+    },
+    {
+      "text": "y = 14",
+      "rod": [
+        "14"
+      ],
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025"
+      }
+    },
+    {
+      "text": "\\frac{13 + 14}{2} = 13{,}5",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 65.46,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 13.34
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.74
+        },
+        {
+          "start": 0.82,
+          "end": 1
+        },
+        {
+          "start": 1,
+          "end": 1.0796
+        },
+        {
+          "start": 1.0796,
+          "end": 1.1745
+        },
+        {
+          "start": 1.1745,
+          "end": 1.3
+        },
+        {
+          "start": 1.3,
+          "end": 1.38
+        },
+        {
+          "start": 1.98,
+          "end": 2.06
+        },
+        {
+          "start": 2.22,
+          "end": 2.32
+        },
+        {
+          "start": 2.32,
+          "end": 3.04
+        },
+        {
+          "start": 3.04,
+          "end": 3.18
+        },
+        {
+          "start": 3.52,
+          "end": 3.56
+        },
+        {
+          "start": 4.62,
+          "end": 5.3
+        },
+        {
+          "start": 5.38,
+          "end": 5.52
+        },
+        {
+          "start": 5.52,
+          "end": 5.6527
+        },
+        {
+          "start": 5.6527,
+          "end": 5.8108
+        },
+        {
+          "start": 5.8108,
+          "end": 6.02
+        },
+        {
+          "start": 6.02,
+          "end": 6.06
+        },
+        {
+          "start": 6.22,
+          "end": 6.4
+        },
+        {
+          "start": 6.4,
+          "end": 7.1
+        },
+        {
+          "start": 7.1,
+          "end": 7.24
+        },
+        {
+          "start": 7.66,
+          "end": 7.68
+        },
+        {
+          "start": 7.68,
+          "end": 8.8004
+        },
+        {
+          "start": 8.8004,
+          "end": 9.74
+        },
+        {
+          "start": 9.74,
+          "end": 10.52
+        },
+        {
+          "start": 10.6,
+          "end": 10.78
+        },
+        {
+          "start": 10.78,
+          "end": 11.24
+        },
+        {
+          "start": 11.24,
+          "end": 11.4
+        },
+        {
+          "start": 11.4,
+          "end": 11.5413
+        },
+        {
+          "start": 11.5413,
+          "end": 11.68
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 13.34,
+          "chars": [
+            13.34,
+            13.5751,
+            13.8102,
+            14.0453,
+            14.2803,
+            14.5154,
+            14.586,
+            14.821,
+            14.8916,
+            15.1267,
+            15.3617,
+            15.5968,
+            15.8319,
+            16.067,
+            16.3021,
+            16.5372,
+            16.7723,
+            17.0073,
+            17.2424,
+            17.313,
+            17.548,
+            17.6186,
+            17.8537,
+            18.0887,
+            18.3238,
+            18.5589
+          ]
+        },
+        {
+          "start": 28.78,
+          "chars": [
+            28.78,
+            29.0357,
+            29.1124,
+            29.3681,
+            29.4449,
+            29.7006,
+            29.7773,
+            30.033,
+            30.1097,
+            30.3654,
+            30.4421,
+            30.6979,
+            30.7746,
+            31.0303
+          ]
+        },
+        {
+          "start": 37.38,
+          "chars": [
+            37.38,
+            37.6191,
+            37.6909,
+            37.93,
+            38.0017,
+            38.2409
+          ]
+        },
+        {
+          "start": 40.26,
+          "chars": [
+            40.26,
+            40.5286,
+            40.6092,
+            40.8778,
+            40.9584,
+            41.227,
+            41.3076,
+            41.5762,
+            41.6568,
+            41.9254
+          ]
+        },
+        {
+          "start": 47.42,
+          "chars": [
+            47.42,
+            47.5548,
+            47.5952,
+            47.73,
+            47.7704,
+            47.9052
+          ]
+        },
+        {
+          "start": 50.12,
+          "chars": [
+            50.12,
+            50.3665,
+            50.613,
+            50.687,
+            50.9335,
+            51.0075,
+            51.254,
+            51.5005,
+            51.747,
+            51.9935,
+            52.0675,
+            52.314,
+            52.3879,
+            52.6345,
+            52.881,
+            53.1275
+          ]
+        },
+        {
+          "start": 64.36,
+          "chars": [
+            64.36,
+            64.4405,
+            64.521,
+            64.6015,
+            64.682,
+            64.7625,
+            64.7867,
+            64.8672,
+            64.9477,
+            65.0282,
+            65.0523,
+            65.1328,
+            65.157,
+            65.2375,
+            65.318,
+            65.3985,
+            65.479,
+            65.5595
+          ]
+        }
+      ],
+      "circle": {
+        "start": 63.02,
+        "end": 63.96
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.3,
+          "end": 2.05,
+          "targets": [
+            {
+              "w": 0,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 1,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 5,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "3, 5",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "3, 5",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 6.02,
+          "end": 6.77,
+          "targets": [
+            {
+              "w": 11,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 12,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 13,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 14,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 15,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 16,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 17,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 18,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 19,
+              "from": "4 och",
+              "color": "lila"
+            },
+            {
+              "w": 20,
+              "from": "4 och",
+              "color": "lila"
+            }
+          ]
+        },
+        {
+          "start": 9.3,
+          "end": 10.05,
+          "targets": [
+            {
+              "w": 21,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 22,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 23,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 24,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 25,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 26,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 27,
+              "from": "söker",
+              "color": "blå"
+            },
+            {
+              "w": 28,
+              "from": "söker",
+              "color": "blå"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 1,
+          "farg": "#D93025",
+          "from": "3 plus",
+          "strykFrom": "är 8",
+          "eq": 10,
+          "n": 14,
+          "op": "- 3 - 5",
+          "stryk": [
+            {
+              "from": 0,
+              "to": 2,
+              "sida": "vanster",
+              "opDel": {
+                "from": 0,
+                "to": 2
+              }
+            },
+            {
+              "from": 4,
+              "to": 6,
+              "sida": "vanster",
+              "opDel": {
+                "from": 4,
+                "to": 6
+              }
+            }
+          ],
+          "start": 34.8,
+          "strykAt": 35.66
+        },
+        {
+          "li": 3,
+          "farg": "#D93025",
+          "from": "Alltså",
+          "strykFrom": "lika med",
+          "eq": 6,
+          "n": 10,
+          "op": "- 4",
+          "stryk": [
+            {
+              "from": 0,
+              "to": 2,
+              "sida": "vanster"
+            }
+          ],
+          "start": 45.58,
+          "strykAt": 46.9
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 64.31
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.15
+  },
+  "variant": "app"
+}

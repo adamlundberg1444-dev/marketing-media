@@ -1,0 +1,529 @@
+{
+  "slug": "hp-las-5d7c0698-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "5d7c0698-1eb8-4805-b742-91c3bcc8dbde"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "sammanfattar"
+      },
+      {
+        "text": "bäst"
+      },
+      {
+        "text": "vad"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "”Leran”"
+      },
+      {
+        "text": "handlar"
+      },
+      {
+        "text": "om?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Hösten"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "tar"
+          },
+          {
+            "text": "farväl"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "sörjs"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "leran."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Lerans"
+          },
+          {
+            "text": "förhållande"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "dem"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "brukar"
+          },
+          {
+            "text": "den."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Lerans"
+          },
+          {
+            "text": "längtan"
+          },
+          {
+            "text": "efter"
+          },
+          {
+            "text": "nästa"
+          },
+          {
+            "text": "årstid."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Människans"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "djurens"
+          },
+          {
+            "text": "relation"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "leran."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__5d7c0698-1eb8-4805-b742-91c3bcc8dbde.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "leran trivs med dem som brukar den",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 49.53,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 38.96
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.44
+        },
+        {
+          "start": 0.56,
+          "end": 0.72
+        },
+        {
+          "start": 0.78,
+          "end": 1.28
+        },
+        {
+          "start": 1.36,
+          "end": 2.04
+        },
+        {
+          "start": 2.14,
+          "end": 2.54
+        },
+        {
+          "start": 2.78,
+          "end": 2.9
+        },
+        {
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "start": 3.7,
+          "end": 4.3
+        },
+        {
+          "start": 4.48,
+          "end": 4.88
+        },
+        {
+          "start": 4.96,
+          "end": 5.1
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 38.96,
+          "chars": [
+            38.96,
+            39.1781,
+            39.3962,
+            39.6144,
+            39.8325,
+            40.0506,
+            40.116,
+            40.3342,
+            40.5523,
+            40.7704,
+            40.9885,
+            41.2066,
+            41.2721,
+            41.4902,
+            41.7083,
+            41.9264,
+            41.9919,
+            42.21,
+            42.4281,
+            42.6462,
+            42.7117,
+            42.9298,
+            43.1479,
+            43.366,
+            43.4315,
+            43.6496,
+            43.8677,
+            44.0858,
+            44.304,
+            44.5221,
+            44.7402,
+            44.8056,
+            45.0238,
+            45.2419
+          ]
+        },
+        {
+          "start": 49.58,
+          "chars": [
+            49.58,
+            49.5896,
+            49.5991,
+            49.6087,
+            49.6183,
+            49.6211,
+            49.6307,
+            49.6403,
+            49.6499,
+            49.6594,
+            49.669,
+            49.6786,
+            49.6881,
+            49.6977,
+            49.7073,
+            49.7101,
+            49.7197,
+            49.7226,
+            49.7322,
+            49.7417,
+            49.7513,
+            49.7609,
+            49.7704
+          ]
+        }
+      ],
+      "circle": {
+        "start": 47.26,
+        "end": 47.9
+      },
+      "options": {
+        "hideAt": 13.18,
+        "showAt": 46.36
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.36,
+          "end": 8.11,
+          "targets": [
+            {
+              "w": 3,
+              "from": "sammanfattar",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "sammanfattar",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 25.94,
+          "end": 26.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2714,
+                  0.5493
+                ],
+                [
+                  0.8096,
+                  0.5493
+                ],
+                [
+                  0.8096,
+                  0.598
+                ],
+                [
+                  0.2714,
+                  0.598
+                ]
+              ],
+              "color": "bla",
+              "from": "lever",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.94,
+          "end": 26.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6129
+                ],
+                [
+                  0.6017,
+                  0.6129
+                ],
+                [
+                  0.6017,
+                  0.6615
+                ],
+                [
+                  0,
+                  0.6615
+                ]
+              ],
+              "color": "bla",
+              "from": "lever",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 31.44,
+          "end": 31.94,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6674,
+                  0.6764
+                ],
+                [
+                  0.9571,
+                  0.6764
+                ],
+                [
+                  0.9571,
+                  0.7251
+                ],
+                [
+                  0.6674,
+                  0.7251
+                ]
+              ],
+              "color": "bla",
+              "from": "plöjs",
+              "hlFarg": "rosa",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 31.44,
+          "end": 31.94,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.74
+                ],
+                [
+                  0.4859,
+                  0.74
+                ],
+                [
+                  0.4859,
+                  0.7886
+                ],
+                [
+                  0,
+                  0.7886
+                ]
+              ],
+              "color": "bla",
+              "from": "plöjs",
+              "hlFarg": "rosa",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 34.54,
+          "end": 35.29,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6142,
+                  0.8035
+                ],
+                [
+                  0.8339,
+                  0.8035
+                ],
+                [
+                  0.8339,
+                  0.8522
+                ],
+                [
+                  0.6142,
+                  0.8522
+                ]
+              ],
+              "color": "bla",
+              "from": "tillhörighet",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 34.54,
+          "end": 35.29,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8671
+                ],
+                [
+                  0.4887,
+                  0.8671
+                ],
+                [
+                  0.4887,
+                  0.9157
+                ],
+                [
+                  0,
+                  0.9157
+                ]
+              ],
+              "color": "bla",
+              "from": "tillhörighet",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

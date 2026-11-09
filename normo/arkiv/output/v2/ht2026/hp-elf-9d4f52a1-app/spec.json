@@ -1,0 +1,565 @@
+{
+  "slug": "hp-elf-9d4f52a1-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "9d4f52a1-ff59-4822-a831-118dc3b36d53"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Which"
+      },
+      {
+        "text": "headline"
+      },
+      {
+        "text": "most"
+      },
+      {
+        "text": "adequately"
+      },
+      {
+        "text": "reflects"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "news"
+      },
+      {
+        "text": "value"
+      },
+      {
+        "text": "of"
+      },
+      {
+        "text": "this"
+      },
+      {
+        "text": "text?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Nanoparticles"
+          },
+          {
+            "text": "Proved"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "Contain"
+          },
+          {
+            "text": "Dangerous"
+          },
+          {
+            "text": "Substances"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Airborne"
+          },
+          {
+            "text": "UFPs"
+          },
+          {
+            "text": "at"
+          },
+          {
+            "text": "Risk"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "Enter"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "Human"
+          },
+          {
+            "text": "Body"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Traffic-related"
+          },
+          {
+            "text": "Nanoparticles"
+          },
+          {
+            "text": "Linked"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "Fatal"
+          },
+          {
+            "text": "Disease"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "UFPs"
+          },
+          {
+            "text": "Blamed"
+          },
+          {
+            "text": "as"
+          },
+          {
+            "text": "Cause"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "Harmful"
+          },
+          {
+            "text": "Pollution"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__9d4f52a1-ff59-4822-a831-118dc3b36d53.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "nyhet: trafikpartiklar och cancer",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 49.48,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 38
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.32
+        },
+        {
+          "start": 0.36,
+          "end": 1
+        },
+        {
+          "start": 1.06,
+          "end": 1.34
+        },
+        {
+          "start": 1.44,
+          "end": 2.08
+        },
+        {
+          "start": 2.14,
+          "end": 2.8
+        },
+        {
+          "start": 2.86,
+          "end": 2.96
+        },
+        {
+          "start": 3.02,
+          "end": 3.4
+        },
+        {
+          "start": 3.48,
+          "end": 4.019
+        },
+        {
+          "start": 4.1,
+          "end": 4.18
+        },
+        {
+          "start": 4.22,
+          "end": 4.44
+        },
+        {
+          "start": 4.5,
+          "end": 5.02
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 38,
+          "chars": [
+            38,
+            38.2313,
+            38.4627,
+            38.694,
+            38.9253,
+            39.1566,
+            39.388,
+            39.4574,
+            39.6887,
+            39.92,
+            40.1513,
+            40.3827,
+            40.614,
+            40.8453,
+            41.0766,
+            41.308,
+            41.5393,
+            41.7706,
+            42.002,
+            42.2333,
+            42.4646,
+            42.6959,
+            42.9273,
+            42.9967,
+            43.228,
+            43.4593,
+            43.6906,
+            43.76,
+            43.9914,
+            44.2227,
+            44.454,
+            44.6853,
+            44.9167
+          ]
+        },
+        {
+          "start": 48.24,
+          "chars": [
+            48.24,
+            48.3099,
+            48.3797,
+            48.4496,
+            48.5195,
+            48.5893,
+            48.6103,
+            48.6801,
+            48.75,
+            48.8199,
+            48.8408,
+            48.9107,
+            48.9805,
+            49.0504,
+            49.1203,
+            49.1901
+          ]
+        }
+      ],
+      "circle": {
+        "start": 47.54,
+        "end": 47.98
+      },
+      "options": {
+        "hideAt": 13.1,
+        "showAt": 46.64
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.96,
+          "end": 8.71,
+          "targets": [
+            {
+              "w": 6,
+              "from": "news value",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "news value",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.18,
+          "end": 17.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.319,
+                  0.1216
+                ],
+                [
+                  0.9923,
+                  0.1216
+                ],
+                [
+                  0.9923,
+                  0.1834
+                ],
+                [
+                  0.319,
+                  0.1834
+                ]
+              ],
+              "color": "bla",
+              "from": "första gången",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 17.18,
+          "end": 17.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.2023
+                ],
+                [
+                  0.5821,
+                  0.2023
+                ],
+                [
+                  0.5821,
+                  0.2641
+                ],
+                [
+                  0,
+                  0.2641
+                ]
+              ],
+              "color": "bla",
+              "from": "första gången",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 25.38,
+          "end": 26.13,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6551,
+                  0.283
+                ],
+                [
+                  0.9096,
+                  0.283
+                ],
+                [
+                  0.9096,
+                  0.3448
+                ],
+                [
+                  0.6551,
+                  0.3448
+                ]
+              ],
+              "color": "bla",
+              "from": "dieselbilar",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.38,
+          "end": 26.13,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.3638
+                ],
+                [
+                  0.2713,
+                  0.3638
+                ],
+                [
+                  0.2713,
+                  0.4255
+                ],
+                [
+                  0,
+                  0.4255
+                ]
+              ],
+              "color": "bla",
+              "from": "dieselbilar",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 35.82,
+          "end": 36.4,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5252
+                ],
+                [
+                  0.9261,
+                  0.5252
+                ],
+                [
+                  0.9261,
+                  0.587
+                ],
+                [
+                  0,
+                  0.587
+                ]
+              ],
+              "color": "bla",
+              "from": "förut",
+              "hlFarg": "rosa",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 35.82,
+          "end": 36.4,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6059
+                ],
+                [
+                  0.8973,
+                  0.6059
+                ],
+                [
+                  0.8973,
+                  0.6677
+                ],
+                [
+                  0,
+                  0.6677
+                ]
+              ],
+              "color": "bla",
+              "from": "förut",
+              "hlFarg": "rosa",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 35.82,
+          "end": 36.4,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6866
+                ],
+                [
+                  0.1908,
+                  0.6866
+                ],
+                [
+                  0.1908,
+                  0.7484
+                ],
+                [
+                  0,
+                  0.7484
+                ]
+              ],
+              "color": "bla",
+              "from": "förut",
+              "hlFarg": "rosa",
+              "mi": 6
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 48.19
+  },
+  "layout": {},
+  "variant": "app"
+}

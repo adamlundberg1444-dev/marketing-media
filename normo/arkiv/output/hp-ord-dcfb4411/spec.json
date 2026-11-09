@@ -1,0 +1,474 @@
+{
+  "slug": "hp-ord-dcfb4411",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "dcfb4411-5810-4ce2-ad77-5bcadf51818c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD-fråga · Högskoleprovet",
+    "text2": "VT 2019 · fråga 5",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "ord"
+    ],
+    "text": "Tänk på en mening där ordet brukar stå, för sammanhanget avslöjar mer än ordet självt."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "uppsåt"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "impuls"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "avsikt"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "drivkraft"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "tillsyn"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "innebörd"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "hörs i lagen: uppsåtligt brott"
+    },
+    {
+      "text": "motsats: oaktsamhet"
+    },
+    {
+      "text": "impuls = plötslig ingivelse"
+    },
+    {
+      "text": "avsikt = det man tänkt göra",
+      "emphasis": true
+    },
+    {
+      "text": "drivkraft = motivet bakom"
+    },
+    {
+      "text": "tillsyn = hålla uppsikt"
+    },
+    {
+      "text": "innebörd = vad något betyder"
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 138.488,
+    "phases": {
+      "readStart": 4.71,
+      "writeStart": 30.476
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.71,
+          "end": 5.639
+        },
+        {
+          "start": 7.973,
+          "end": 8.855
+        },
+        {
+          "start": 9.018,
+          "end": 9.738
+        },
+        {
+          "start": 9.819,
+          "end": 10.713
+        },
+        {
+          "start": 10.748,
+          "end": 11.619
+        },
+        {
+          "start": 12.222,
+          "end": 13.035
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.476,
+          "chars": [
+            30.476,
+            30.7089,
+            30.9417,
+            31.1746,
+            31.4075,
+            31.4773,
+            31.7102,
+            31.7801,
+            32.0129,
+            32.2458,
+            32.4787,
+            32.7115,
+            32.9444,
+            33.1773,
+            33.2471,
+            33.48,
+            33.7129,
+            33.9457,
+            34.1786,
+            34.4115,
+            34.6443,
+            34.8772,
+            35.1101,
+            35.3429,
+            35.5758,
+            35.6457,
+            35.8785,
+            36.1114,
+            36.3443,
+            36.5771
+          ]
+        },
+        {
+          "start": 42.291,
+          "chars": [
+            42.291,
+            42.5301,
+            42.7693,
+            43.0084,
+            43.2475,
+            43.4866,
+            43.7258,
+            43.9649,
+            44.204,
+            44.2757,
+            44.5149,
+            44.754,
+            44.9931,
+            45.2322,
+            45.4714,
+            45.7105,
+            45.9496,
+            46.1887,
+            46.4279
+          ]
+        },
+        {
+          "start": 56.215,
+          "chars": [
+            56.215,
+            56.4491,
+            56.6831,
+            56.9172,
+            57.1512,
+            57.3853,
+            57.6193,
+            57.6896,
+            57.9236,
+            57.9938,
+            58.2279,
+            58.4619,
+            58.696,
+            58.9301,
+            59.1641,
+            59.3982,
+            59.6322,
+            59.8663,
+            59.9365,
+            60.1706,
+            60.4046,
+            60.6387,
+            60.8727,
+            61.1068,
+            61.3408,
+            61.5749,
+            61.8089
+          ]
+        },
+        {
+          "start": 69.975,
+          "chars": [
+            69.975,
+            70.2099,
+            70.4448,
+            70.6797,
+            70.9146,
+            71.1495,
+            71.3844,
+            71.4548,
+            71.6897,
+            71.7602,
+            71.9951,
+            72.23,
+            72.4649,
+            72.5353,
+            72.7702,
+            73.0051,
+            73.24,
+            73.3105,
+            73.5454,
+            73.7803,
+            74.0152,
+            74.2501,
+            74.485,
+            74.5554,
+            74.7903,
+            75.0252,
+            75.2601
+          ]
+        },
+        {
+          "start": 79.125,
+          "chars": [
+            79.125,
+            79.3603,
+            79.5956,
+            79.8309,
+            80.0661,
+            80.3014,
+            80.5367,
+            80.772,
+            81.0073,
+            81.2426,
+            81.3131,
+            81.5484,
+            81.619,
+            81.8543,
+            82.0896,
+            82.3249,
+            82.5601,
+            82.7954,
+            83.0307,
+            83.266,
+            83.3366,
+            83.5719,
+            83.8071,
+            84.0424,
+            84.2777
+          ]
+        },
+        {
+          "start": 90.725,
+          "chars": [
+            90.725,
+            90.9617,
+            91.1985,
+            91.4352,
+            91.672,
+            91.9087,
+            92.1455,
+            92.3822,
+            92.4532,
+            92.69,
+            92.761,
+            92.9978,
+            93.2345,
+            93.4713,
+            93.708,
+            93.9448,
+            94.0158,
+            94.2525,
+            94.4893,
+            94.726,
+            94.9628,
+            95.1995,
+            95.4363
+          ]
+        },
+        {
+          "start": 102.896,
+          "chars": [
+            102.896,
+            103.1098,
+            103.3235,
+            103.5373,
+            103.7511,
+            103.9648,
+            104.1786,
+            104.3924,
+            104.6062,
+            104.6703,
+            104.8841,
+            104.9482,
+            105.162,
+            105.3757,
+            105.5895,
+            105.6536,
+            105.8674,
+            106.0812,
+            106.2949,
+            106.5087,
+            106.7225,
+            106.7866,
+            107.0004,
+            107.2142,
+            107.4279,
+            107.6417,
+            107.8555,
+            108.0692
+          ]
+        },
+        {
+          "start": 132.192,
+          "chars": [
+            132.192,
+            132.3736,
+            132.5553,
+            132.7369,
+            132.9185,
+            132.973,
+            133.1546,
+            133.3362,
+            133.5179,
+            133.6995,
+            133.8811,
+            134.0628,
+            134.2444,
+            134.426,
+            134.6076,
+            134.6621,
+            134.8438,
+            134.8982,
+            135.0799,
+            135.2615,
+            135.4431,
+            135.6247,
+            135.8064
+          ]
+        }
+      ],
+      "circle": {
+        "start": 112.073,
+        "end": 117.053
+      },
+      "options": null,
+      "concept": {
+        "start": 14.857,
+        "end": 29.045,
+        "hideAt": 42.073
+      },
+      "strikes": [
+        {
+          "start": 67.339,
+          "end": 68.089,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 88.089,
+          "end": 88.839,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 100.306,
+          "end": 101.056,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 109.167,
+          "end": 109.917,
+          "targets": [
+            {
+              "opt": 4
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20263516",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-26.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "förhärda",
+      "options": [
+        "brusa",
+        "samtycka",
+        "göra okänslig",
+        "försöka behaga"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "förhärda",
+      "options": [
+        "brusa",
+        "samtycka",
+        "göra okänslig",
+        "försöka behaga"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "bivack",
+      "options": [
+        "ladugård",
+        "nattläger utomhus",
+        "förveckling",
+        "riktigt oväder"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "bivack",
+      "options": [
+        "ladugård",
+        "nattläger utomhus",
+        "förveckling",
+        "riktigt oväder"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "potentat",
+      "options": [
+        "försvarstal",
+        "härskare",
+        "bitterhet",
+        "vattentätt skynke"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "potentat",
+      "options": [
+        "försvarstal",
+        "härskare",
+        "bitterhet",
+        "vattentätt skynke"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "extremiteter",
+      "options": [
+        "återverkan",
+        "gosse",
+        "oskuldsfull flicka",
+        "ben och armar"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "extremiteter",
+      "options": [
+        "återverkan",
+        "gosse",
+        "oskuldsfull flicka",
+        "ben och armar"
+      ],
+      "correct": 3,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

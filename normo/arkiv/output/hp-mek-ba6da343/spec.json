@@ -1,0 +1,531 @@
+{
+  "slug": "hp-mek-ba6da343",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "ba6da343-fed3-43b9-a4a2-f2c76b79b024"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "HT 2025 · fråga 26",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Sätt in ordet du tror på och läs om meningen, för fel ord hörs oftare än det syns."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Det"
+      },
+      {
+        "text": "ovanligt"
+      },
+      {
+        "text": "torra"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "varma"
+      },
+      {
+        "text": "vädret"
+      },
+      {
+        "text": "under"
+      },
+      {
+        "text": "framför"
+      },
+      {
+        "text": "allt"
+      },
+      {
+        "text": "våren"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "sommaren"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "lett"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "omfattande"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "granbarkborre,"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "stora"
+      },
+      {
+        "text": "skador"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "skogen"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "följd."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 26,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "intrång"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "beslag"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "uppgång"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "angrepp"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "intrång = olovligt in på mark"
+    },
+    {
+      "text": "beslag = omhändertaget av polis"
+    },
+    {
+      "text": "uppgång = antalet stiger"
+    },
+    {
+      "text": "angrepp = skadedjur går på",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 104.009,
+    "phases": {
+      "readStart": 5.674,
+      "writeStart": 36.757
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.674,
+          "end": 5.813
+        },
+        {
+          "start": 5.871,
+          "end": 6.44
+        },
+        {
+          "start": 6.463,
+          "end": 6.951
+        },
+        {
+          "start": 6.997,
+          "end": 7.067
+        },
+        {
+          "start": 7.09,
+          "end": 7.45
+        },
+        {
+          "start": 7.508,
+          "end": 7.926
+        },
+        {
+          "start": 8.007,
+          "end": 8.181
+        },
+        {
+          "start": 8.205,
+          "end": 8.495
+        },
+        {
+          "start": 8.553,
+          "end": 8.715
+        },
+        {
+          "start": 8.773,
+          "end": 9.122
+        },
+        {
+          "start": 9.191,
+          "end": 9.261
+        },
+        {
+          "start": 9.284,
+          "end": 9.725
+        },
+        {
+          "start": 9.842,
+          "end": 9.981
+        },
+        {
+          "start": 10.027,
+          "end": 10.19
+        },
+        {
+          "start": 10.213,
+          "end": 10.352
+        },
+        {
+          "start": 10.422,
+          "end": 11.061
+        },
+        {
+          "start": 11.061,
+          "end": 13.29
+        },
+        {
+          "start": 13.29,
+          "end": 13.441
+        },
+        {
+          "start": 13.51,
+          "end": 14.671
+        },
+        {
+          "start": 14.787,
+          "end": 14.927
+        },
+        {
+          "start": 14.95,
+          "end": 15.31
+        },
+        {
+          "start": 15.356,
+          "end": 15.797
+        },
+        {
+          "start": 15.867,
+          "end": 15.96
+        },
+        {
+          "start": 16.006,
+          "end": 16.448
+        },
+        {
+          "start": 16.506,
+          "end": 16.645
+        },
+        {
+          "start": 16.703,
+          "end": 17.226
+        },
+        {
+          "start": 20.245,
+          "end": 21.232
+        },
+        {
+          "start": 21.36,
+          "end": 22.207
+        },
+        {
+          "start": 22.381,
+          "end": 23.182
+        },
+        {
+          "start": 23.635,
+          "end": 24.239
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 36.757,
+          "chars": [
+            36.757,
+            36.9907,
+            37.2245,
+            37.4582,
+            37.6919,
+            37.9256,
+            38.1594,
+            38.3931,
+            38.4632,
+            38.6969,
+            38.767,
+            39.0008,
+            39.2345,
+            39.4682,
+            39.7019,
+            39.9357,
+            40.1694,
+            40.4031,
+            40.6368,
+            40.707,
+            40.9407,
+            41.1744,
+            41.2445,
+            41.4783,
+            41.712,
+            41.7821,
+            42.0158,
+            42.2495,
+            42.4833
+          ]
+        },
+        {
+          "start": 50.572,
+          "chars": [
+            50.572,
+            50.8044,
+            51.0368,
+            51.2692,
+            51.5016,
+            51.7341,
+            51.9665,
+            52.0362,
+            52.2686,
+            52.3383,
+            52.5707,
+            52.8031,
+            53.0356,
+            53.268,
+            53.5004,
+            53.7328,
+            53.9652,
+            54.1976,
+            54.43,
+            54.6624,
+            54.8949,
+            55.1273,
+            55.3597,
+            55.4294,
+            55.6618,
+            55.8942,
+            55.9639,
+            56.1964,
+            56.4288,
+            56.6612,
+            56.8936
+          ]
+        },
+        {
+          "start": 62.413,
+          "chars": [
+            62.413,
+            62.649,
+            62.885,
+            63.1209,
+            63.3569,
+            63.5929,
+            63.8289,
+            64.0649,
+            64.1357,
+            64.3716,
+            64.4424,
+            64.6784,
+            64.9144,
+            65.1504,
+            65.3864,
+            65.6224,
+            65.8583,
+            66.0943,
+            66.1651,
+            66.4011,
+            66.6371,
+            66.8731,
+            67.109,
+            67.345
+          ]
+        },
+        {
+          "start": 77.783,
+          "chars": [
+            77.783,
+            78.0181,
+            78.2532,
+            78.4883,
+            78.7233,
+            78.9584,
+            79.1935,
+            79.4286,
+            79.4991,
+            79.7342,
+            79.8047,
+            80.0398,
+            80.2749,
+            80.51,
+            80.7451,
+            80.9802,
+            81.2153,
+            81.4503,
+            81.6854,
+            81.9205,
+            81.991,
+            82.2261,
+            82.4612,
+            82.6963,
+            82.7668,
+            83.0019
+          ]
+        },
+        {
+          "start": 97.806,
+          "chars": [
+            97.806,
+            98.0251,
+            98.2442,
+            98.4633,
+            98.6824,
+            98.9016,
+            98.9673,
+            99.1864,
+            99.4055,
+            99.6246,
+            99.8437,
+            99.9095,
+            100.1286,
+            100.1943,
+            100.4134,
+            100.6326,
+            100.8517,
+            101.0708,
+            101.2899
+          ]
+        }
+      ],
+      "circle": {
+        "start": 89.095,
+        "end": 96.665
+      },
+      "options": null,
+      "concept": {
+        "start": 25.468,
+        "end": 35.14,
+        "hideAt": 48.076
+      },
+      "strikes": [
+        {
+          "start": 48.136,
+          "end": 48.886,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 60.419,
+          "end": 61.169,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 74.953,
+          "end": 75.703,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

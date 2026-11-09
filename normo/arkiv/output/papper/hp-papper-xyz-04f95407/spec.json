@@ -1,0 +1,564 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "qa",
+        "t": "Vilken area har triangeln ABC?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "14 \\text{ cm}^2"
+    },
+    {
+      "letter": "B",
+      "tex": "17{,}5 \\text{ cm}^2"
+    },
+    {
+      "letter": "C",
+      "tex": "20 \\text{ cm}^2"
+    },
+    {
+      "letter": "D",
+      "tex": "25 \\text{ cm}^2"
+    }
+  ],
+  "correct": 2,
+  "hook": {
+    "lines": [
+      "HP ger dig inte höjden.",
+      "Den gömmer sig i figuren."
+    ],
+    "start": 0,
+    "end": 5.06
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 5.06,
+    "d": "M 930 1170 C 1010 960, 900 700, 690 500",
+    "head": "M 768 519 L 690 500 L 712 577"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "A",
+          "at": 13.06,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 13.06,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{10\\cdot 5}{2}",
+          "at": 13.06,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R2",
+          "tex": "=25",
+          "at": 16.18,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 25.671,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h^2"
+            },
+            {
+              "k": "+",
+              "tex": "+",
+              "at": 27.171
+            },
+            {
+              "k": "v",
+              "tex": "3^2",
+              "at": 27.971
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 29.271
+            },
+            {
+              "k": "r",
+              "tex": "5^2",
+              "at": 29.951
+            }
+          ]
+        },
+        {
+          "at": 32.001,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h^2"
+            },
+            {
+              "k": "+",
+              "tex": "+"
+            },
+            {
+              "k": "v",
+              "tex": "9"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "5^2"
+            }
+          ]
+        },
+        {
+          "at": 32.351,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h^2"
+            },
+            {
+              "k": "+",
+              "tex": "+"
+            },
+            {
+              "k": "v",
+              "tex": "9"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "25"
+            }
+          ]
+        },
+        {
+          "at": 34.021,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h^2"
+            },
+            "=",
+            {
+              "k": "r",
+              "tex": "25"
+            },
+            {
+              "k": "+",
+              "tex": "-"
+            },
+            {
+              "k": "v",
+              "tex": "9"
+            }
+          ]
+        },
+        {
+          "at": 37.341,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h^2"
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "16",
+              "fran": [
+                "r",
+                "+",
+                "v"
+              ]
+            }
+          ]
+        },
+        {
+          "at": 38.71,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h^2",
+              "rot": true
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "16",
+              "rot": true
+            }
+          ]
+        },
+        {
+          "at": 39.91,
+          "termer": [
+            {
+              "k": "h",
+              "tex": "h"
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "A",
+          "at": 41.741,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 41.941,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{10\\cdot 4}{2}",
+          "at": 42.621,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R2",
+          "tex": "=20",
+          "at": 45.571,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "R1",
+      "at": 18.01
+    },
+    {
+      "row": 0,
+      "col": "R2",
+      "at": 18.26
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "R2",
+      "at": 46.021
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "qa"
+      ],
+      "at": 5.32,
+      "end": 9.84
+    }
+  ],
+  "farg": [],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 4.78,
+    "tillbaka": 46.281
+  },
+  "lage": {
+    "fraga": 190,
+    "alt": 780,
+    "rader": 640,
+    "krok": 1150
+  },
+  "figur": {
+    "crop": [
+      0,
+      10,
+      853,
+      440
+    ],
+    "top": 300,
+    "bredd": 840,
+    "flytt": {
+      "at": 9.84,
+      "top": 130
+    },
+    "marker": [
+      {
+        "typ": "linje",
+        "punkter": [
+          [
+            61,
+            338
+          ],
+          [
+            752,
+            338
+          ]
+        ],
+        "at": 6.75,
+        "end": 9.84
+      },
+      {
+        "typ": "linje",
+        "farg": "rod",
+        "punkter": [
+          [
+            552,
+            70
+          ],
+          [
+            748,
+            330
+          ]
+        ],
+        "at": 12.05,
+        "end": 21.291
+      },
+      {
+        "typ": "linje",
+        "punkter": [
+          [
+            546,
+            64
+          ],
+          [
+            546,
+            336
+          ]
+        ],
+        "at": 21.291,
+        "end": 45.391
+      },
+      {
+        "typ": "text",
+        "x": 505,
+        "y": 215,
+        "tex": "h",
+        "at": 21.591,
+        "end": 39.91,
+        "storlek": 64
+      },
+      {
+        "typ": "text",
+        "x": 505,
+        "y": 215,
+        "tex": "4",
+        "at": 40.16,
+        "storlek": 64
+      }
+    ],
+    "src": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/04f95407-8355-4db4-a0d1-0ee706a8dcff.png",
+    "storlek": [
+      853,
+      443
+    ],
+    "s": 0.984759671746776,
+    "h": 423,
+    "cr": [
+      0,
+      10,
+      853,
+      440
+    ]
+  },
+  "fragaUt": {
+    "at": 9.84
+  },
+  "kamera": [
+    {
+      "at": 0.4,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 700,
+      "dur": 0.5
+    },
+    {
+      "at": 4.88,
+      "zoom": 1.1,
+      "x": 540,
+      "y": 520,
+      "dur": 0.45
+    },
+    {
+      "at": 9.94,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 600,
+      "dur": 0.45
+    },
+    {
+      "at": 22.921,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 640,
+      "dur": 0.4
+    },
+    {
+      "at": 41.591,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 740,
+      "dur": 0.4
+    },
+    {
+      "at": 45.981,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska hitta arean",
+      "start": 4.98,
+      "end": 6.75
+    },
+    {
+      "text": "Basen är 7 plus 3",
+      "start": 6.75,
+      "end": 9.13
+    },
+    {
+      "text": "alltså 10",
+      "start": 9.13,
+      "end": 10.24
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 10.24,
+      "end": 11.92
+    },
+    {
+      "text": "5 som höjd",
+      "start": 12.05,
+      "end": 13.06
+    },
+    {
+      "text": "10 gånger 5 delat med",
+      "start": 13.06,
+      "end": 15.39
+    },
+    {
+      "text": "2 blir 25",
+      "start": 15.39,
+      "end": 17.02
+    },
+    {
+      "text": "alltså D",
+      "start": 17.02,
+      "end": 18.01
+    },
+    {
+      "text": "Nej. Femman lutar",
+      "start": 18.01,
+      "end": 20.311
+    },
+    {
+      "text": "Höjden är den raka linjen ner",
+      "start": 20.311,
+      "end": 23.021
+    },
+    {
+      "text": "Pythagoras i lilla triangeln",
+      "start": 23.021,
+      "end": 25.671
+    },
+    {
+      "text": "h i kvadrat plus 3",
+      "start": 25.671,
+      "end": 28.131
+    },
+    {
+      "text": "i kvadrat är 5 i kvadrat",
+      "start": 28.131,
+      "end": 31.101
+    },
+    {
+      "text": "Det blir 9 och 25",
+      "start": 31.101,
+      "end": 33.691
+    },
+    {
+      "text": "Nian byter sida och blir",
+      "start": 33.861,
+      "end": 35.591
+    },
+    {
+      "text": "minus 9",
+      "start": 35.591,
+      "end": 36.741
+    },
+    {
+      "text": "Det ger 16",
+      "start": 36.741,
+      "end": 38.39
+    },
+    {
+      "text": "Dra roten ur",
+      "start": 38.39,
+      "end": 39.69
+    },
+    {
+      "text": "så h är 4",
+      "start": 39.69,
+      "end": 41.741
+    },
+    {
+      "text": "Arean är 10 gånger 4",
+      "start": 41.741,
+      "end": 44.371
+    },
+    {
+      "text": "delat med 2",
+      "start": 44.371,
+      "end": 45.391
+    },
+    {
+      "text": "Det blir 20",
+      "start": 45.391,
+      "end": 46.881
+    },
+    {
+      "text": "Svaret är C",
+      "start": 46.881,
+      "end": 48.401
+    }
+  ],
+  "circle": {
+    "start": 47.781,
+    "end": 48.481
+  },
+  "duration": 49.401
+}

@@ -1,0 +1,363 @@
+{
+  "slug": "hp-mek-a4faaad0",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "a4faaad0-e336-4191-aa44-5b7a7439d380"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK · fråga 27 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Bostadsrättsföreningens"
+      },
+      {
+        "text": "styrelse"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "beslutat"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "placera"
+      },
+      {
+        "text": "sopor"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "otillåtna"
+      },
+      {
+        "text": "platser"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "debiteras"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "bortforslingen."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "påvisas"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "ertappas"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "utpekas"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "synliggörs"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "ertappas med",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 30.392,
+    "phases": {
+      "readStart": 2.506,
+      "writeStart": 17.632
+    },
+    "read": {
+      "words": [
+        {
+          "start": 2.506,
+          "end": 3.69
+        },
+        {
+          "start": 3.713,
+          "end": 4.155
+        },
+        {
+          "start": 4.201,
+          "end": 4.294
+        },
+        {
+          "start": 4.329,
+          "end": 4.758
+        },
+        {
+          "start": 4.816,
+          "end": 4.967
+        },
+        {
+          "start": 5.118,
+          "end": 5.327
+        },
+        {
+          "start": 5.362,
+          "end": 5.49
+        },
+        {
+          "start": 5.49,
+          "end": 7.254
+        },
+        {
+          "start": 7.254,
+          "end": 7.417
+        },
+        {
+          "start": 7.463,
+          "end": 7.545
+        },
+        {
+          "start": 7.568,
+          "end": 7.928
+        },
+        {
+          "start": 7.986,
+          "end": 8.288
+        },
+        {
+          "start": 8.357,
+          "end": 8.508
+        },
+        {
+          "start": 8.531,
+          "end": 8.996
+        },
+        {
+          "start": 9.031,
+          "end": 9.495
+        },
+        {
+          "start": 9.809,
+          "end": 9.971
+        },
+        {
+          "start": 10.018,
+          "end": 10.563
+        },
+        {
+          "start": 10.633,
+          "end": 10.737
+        },
+        {
+          "start": 10.795,
+          "end": 11.678
+        },
+        {
+          "start": 13.517,
+          "end": 14.179
+        },
+        {
+          "start": 14.214,
+          "end": 14.853
+        },
+        {
+          "start": 14.899,
+          "end": 15.584
+        },
+        {
+          "start": 15.839,
+          "end": 16.559
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 17.632,
+          "chars": [
+            17.632,
+            17.883,
+            18.1339,
+            18.3849,
+            18.6359,
+            18.8869,
+            19.1378,
+            19.3888,
+            19.6398,
+            19.7151,
+            19.9661,
+            20.217
+          ]
+        },
+        {
+          "start": 26.139,
+          "chars": [
+            26.139,
+            26.2493,
+            26.3595,
+            26.4698,
+            26.58,
+            26.6903,
+            26.7233,
+            26.8336,
+            26.9438,
+            27.0541,
+            27.0872,
+            27.1974,
+            27.2305,
+            27.3407,
+            27.451,
+            27.5612,
+            27.6715,
+            27.7817
+          ]
+        }
+      ],
+      "circle": {
+        "start": 24.906,
+        "end": 25.881
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 22.476,
+          "end": 23.226,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 23.053,
+          "end": 23.803,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 23.63,
+          "end": 24.38,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 17.632,
+          "end": 18.382,
+          "targets": [
+            {
+              "w": 8
+            },
+            {
+              "w": 9
+            },
+            {
+              "w": 10
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

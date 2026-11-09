@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20262061",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-26.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "jingo",
+      "options": [
+        "patriot",
+        "missnöje",
+        "färdväg",
+        "högste befälhavare"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "jingo",
+      "options": [
+        "patriot",
+        "missnöje",
+        "färdväg",
+        "högste befälhavare"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "alltigenom",
+      "options": [
+        "ej offentlig",
+        "fullständigt",
+        "helt",
+        "ungefär el. på måfå"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "alltigenom",
+      "options": [
+        "ej offentlig",
+        "fullständigt",
+        "helt",
+        "ungefär el. på måfå"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "rustibuss",
+      "options": [
+        "ostoppbar nejröst",
+        "livligt barn",
+        "språks ljudmelodi",
+        "förråd att ta till"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "rustibuss",
+      "options": [
+        "ostoppbar nejröst",
+        "livligt barn",
+        "språks ljudmelodi",
+        "förråd att ta till"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "passivera",
+      "options": [
+        "protestera",
+        "avskeda; ge ledigt",
+        "bygga; tillämpa; lägga an",
+        "göra passiv"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "passivera",
+      "options": [
+        "protestera",
+        "avskeda; ge ledigt",
+        "bygga; tillämpa; lägga an",
+        "göra passiv"
+      ],
+      "correct": 3,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

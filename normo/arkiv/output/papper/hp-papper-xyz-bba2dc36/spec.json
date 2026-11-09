@@ -1,0 +1,440 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "q1",
+        "t": "Vilket svarsalternativ motsvarar"
+      }
+    ],
+    [
+      {
+        "id": "q2",
+        "t": "uttrycket"
+      }
+    ],
+    [
+      {
+        "id": "a3",
+        "t": "3",
+        "uttryck": true
+      },
+      {
+        "id": "lp1",
+        "t": "("
+      },
+      {
+        "id": "n7",
+        "t": "7"
+      },
+      {
+        "id": "m1",
+        "t": " − "
+      },
+      {
+        "id": "n5",
+        "t": "5"
+      },
+      {
+        "id": "x1",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "rp1",
+        "t": ")"
+      },
+      {
+        "id": "mm",
+        "t": " − "
+      },
+      {
+        "id": "a7",
+        "t": "7"
+      },
+      {
+        "id": "lp2",
+        "t": "("
+      },
+      {
+        "id": "n4",
+        "t": "4"
+      },
+      {
+        "id": "m2",
+        "t": " − "
+      },
+      {
+        "id": "n3",
+        "t": "3"
+      },
+      {
+        "id": "x2",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "rp2",
+        "t": ")"
+      },
+      {
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-36x + 49"
+    },
+    {
+      "letter": "B",
+      "tex": "-36x - 7"
+    },
+    {
+      "letter": "C",
+      "tex": "-8x - 7"
+    },
+    {
+      "letter": "D",
+      "tex": "6x - 7"
+    }
+  ],
+  "correct": 3,
+  "hook": {
+    "lines": [
+      "Ett minustecken avgör",
+      "hela HP-frågan."
+    ],
+    "start": 0,
+    "end": 5.3
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 5.3,
+    "d": "M 880 1100 C 960 930, 820 720, 560 662",
+    "head": "M 622 633 L 560 662 L 610 710"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "-7\\cdot(-3x)",
+          "at": 8.8,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 11.851,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "-21x",
+          "at": 12.461,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 20.241,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "21"
+            },
+            {
+              "k": "b",
+              "tex": "-15x",
+              "at": 21.401
+            },
+            {
+              "k": "c",
+              "tex": "-28",
+              "at": 23.8
+            },
+            {
+              "k": "d",
+              "tex": "+21x",
+              "at": 25.54
+            }
+          ]
+        },
+        {
+          "at": 27.85,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "b",
+              "tex": "-15x"
+            },
+            {
+              "k": "d",
+              "tex": "+21x"
+            },
+            {
+              "k": "a",
+              "tex": "+21"
+            },
+            {
+              "k": "c",
+              "tex": "-28"
+            }
+          ]
+        },
+        {
+          "at": 30.99,
+          "termer": [
+            {
+              "k": "x6",
+              "tex": "6x",
+              "color": "gron",
+              "fran": [
+                "b",
+                "d"
+              ]
+            },
+            {
+              "k": "k7",
+              "tex": "-7",
+              "color": "gron",
+              "fran": [
+                "a",
+                "c"
+              ],
+              "at": 31.71
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "R",
+      "at": 15.831
+    }
+  ],
+  "bars": [],
+  "rings": [],
+  "markering": [
+    {
+      "ids": [
+        "q1",
+        "q2"
+      ],
+      "at": 5.46,
+      "end": 7.4
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "mm"
+      ],
+      "color": "rod",
+      "at": 0.5,
+      "end": 5.46
+    },
+    {
+      "ids": [
+        "mm",
+        "a7",
+        "m2",
+        "n3",
+        "x2"
+      ],
+      "color": "rod",
+      "at": 8.8,
+      "end": 17.971
+    },
+    {
+      "ids": [
+        "mm",
+        "m2"
+      ],
+      "color": "gron",
+      "at": 17.971,
+      "end": 18.761
+    },
+    {
+      "ids": [
+        "a3",
+        "n7",
+        "n5",
+        "x1"
+      ],
+      "color": "gron",
+      "at": 18.761,
+      "end": 22.761
+    },
+    {
+      "ids": [
+        "mm",
+        "a7",
+        "n4",
+        "n3",
+        "x2"
+      ],
+      "color": "gron",
+      "at": 22.761,
+      "end": 27.85
+    }
+  ],
+  "bagar": [
+    {
+      "fran": "a3",
+      "till": "n7",
+      "at": 20.241,
+      "end": 22.761
+    },
+    {
+      "fran": "a3",
+      "till": "n5",
+      "at": 21.401,
+      "end": 22.761
+    },
+    {
+      "fran": "a7",
+      "till": "n4",
+      "at": 23.8,
+      "end": 27.85
+    },
+    {
+      "fran": "a7",
+      "till": "n3",
+      "at": 25.54,
+      "end": 27.85
+    }
+  ],
+  "skamt": null,
+  "alt": {
+    "losning": 5.26,
+    "tillbaka": 32.28
+  },
+  "lage": {
+    "alt": 700,
+    "rader": 700,
+    "krok": 1090
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.48,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 640,
+      "dur": 0.5
+    },
+    {
+      "at": 5.66,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 520,
+      "dur": 0.45
+    },
+    {
+      "at": 7.3,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 600,
+      "dur": 0.4
+    },
+    {
+      "at": 27.75,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 620,
+      "dur": 0.4
+    },
+    {
+      "at": 31.98,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska förenkla uttrycket",
+      "start": 5.46,
+      "end": 7.4
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 7.4,
+      "end": 8.8
+    },
+    {
+      "text": "minus 7 gånger minus 3x",
+      "start": 8.8,
+      "end": 11.851
+    },
+    {
+      "text": "blir minus 21x",
+      "start": 11.851,
+      "end": 14.571
+    },
+    {
+      "text": "Det leder till B",
+      "start": 14.571,
+      "end": 15.831
+    },
+    {
+      "text": "Nej. Minus gånger minus är plus",
+      "start": 15.831,
+      "end": 18.761
+    },
+    {
+      "text": "Första parentesen",
+      "start": 18.761,
+      "end": 20.241
+    },
+    {
+      "text": "21 minus 15x",
+      "start": 20.241,
+      "end": 22.761
+    },
+    {
+      "text": "Andra: minus 28 plus 21x",
+      "start": 22.761,
+      "end": 27.85
+    },
+    {
+      "text": "x för sig och tal",
+      "start": 27.85,
+      "end": 29.15
+    },
+    {
+      "text": "för sig",
+      "start": 29.15,
+      "end": 29.92
+    },
+    {
+      "text": "Det blir 6x minus 7",
+      "start": 29.92,
+      "end": 32.88
+    },
+    {
+      "text": "Svaret är D",
+      "start": 32.88,
+      "end": 34.440000000000005
+    }
+  ],
+  "circle": {
+    "start": 33.68,
+    "end": 34.38
+  },
+  "duration": 35.44
+}

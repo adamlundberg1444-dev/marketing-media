@@ -1,0 +1,532 @@
+{
+  "slug": "hp-las-0c46a0eb",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "0c46a0eb-210a-413e-bf1b-ae8e12296709"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 17 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "På"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "text": "sätt"
+      },
+      {
+        "text": "bidrog"
+      },
+      {
+        "text": "Wagner-Jauregg"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "medicinhistorien,"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "döma?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "utvecklade"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "dag"
+          },
+          {
+            "text": "enda"
+          },
+          {
+            "text": "verksamma"
+          },
+          {
+            "text": "behandlingen"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "neurosyfilis."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "först"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "upptäckten"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "feber"
+          },
+          {
+            "text": "kan"
+          },
+          {
+            "text": "lindra"
+          },
+          {
+            "text": "eller"
+          },
+          {
+            "text": "läka"
+          },
+          {
+            "text": "sinnessjukdom."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "utvecklade"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "behandlingsmetod"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "neurosyfilis"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "användes"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "stor"
+          },
+          {
+            "text": "skala."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "beskrev"
+          },
+          {
+            "text": "mekanismerna"
+          },
+          {
+            "text": "bakom"
+          },
+          {
+            "text": "febersjukdomars"
+          },
+          {
+            "text": "effekt"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "neurosyfilis."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__0c46a0eb-210a-413e-bf1b-ae8e12296709.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "egen metod, hela Europa och USA",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 40.976,
+    "phases": {
+      "readStart": 4.034,
+      "writeStart": 23.224
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.034,
+          "end": 4.104
+        },
+        {
+          "start": 4.15,
+          "end": 4.417
+        },
+        {
+          "start": 4.463,
+          "end": 4.684
+        },
+        {
+          "start": 4.765,
+          "end": 5.218
+        },
+        {
+          "start": 5.288,
+          "end": 6.228
+        },
+        {
+          "start": 6.298,
+          "end": 6.518
+        },
+        {
+          "start": 6.6,
+          "end": 7.505
+        },
+        {
+          "start": 7.529,
+          "end": 7.598
+        },
+        {
+          "start": 7.645,
+          "end": 8.016
+        },
+        {
+          "start": 8.074,
+          "end": 8.19
+        },
+        {
+          "start": 8.318,
+          "end": 8.829
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.224,
+          "chars": [
+            23.224,
+            23.4085,
+            23.593,
+            23.7775,
+            23.962,
+            24.0174,
+            24.2019,
+            24.3864,
+            24.5709,
+            24.7554,
+            24.9399,
+            25.1244,
+            25.1798,
+            25.3643,
+            25.5488,
+            25.7333,
+            25.9178,
+            25.9732,
+            26.1577,
+            26.3422,
+            26.5267,
+            26.7112,
+            26.8957,
+            27.0802,
+            27.1356,
+            27.3201,
+            27.5046,
+            27.6891,
+            27.7445,
+            27.929,
+            28.1135
+          ]
+        },
+        {
+          "start": 36.096,
+          "chars": [
+            36.096,
+            36.2099,
+            36.3238,
+            36.4376,
+            36.5515,
+            36.5857,
+            36.6995,
+            36.8134,
+            36.9273,
+            37.0412,
+            37.155,
+            37.2689,
+            37.3828,
+            37.4967,
+            37.6105,
+            37.6447,
+            37.7586,
+            37.7927,
+            37.9066,
+            38.0205,
+            38.1344,
+            38.2482,
+            38.3621
+          ]
+        }
+      ],
+      "circle": {
+        "start": 34.245,
+        "end": 35.418
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 29.108,
+          "end": 29.858,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 10.34,
+          "end": 11.09,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5905,
+                  0.3662
+                ],
+                [
+                  0.8763,
+                  0.3662
+                ],
+                [
+                  0.8763,
+                  0.4246
+                ],
+                [
+                  0.5905,
+                  0.4246
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 11.44,
+          "end": 12.19,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.4327
+                ],
+                [
+                  0.6208,
+                  0.4327
+                ],
+                [
+                  0.6208,
+                  0.4911
+                ],
+                [
+                  0.0435,
+                  0.4911
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 18.71,
+          "end": 19.46,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4851,
+                  0.6575
+                ],
+                [
+                  0.9014,
+                  0.6575
+                ],
+                [
+                  0.9014,
+                  0.7159
+                ],
+                [
+                  0.4851,
+                  0.7159
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 19.81,
+          "end": 20.56,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.724
+                ],
+                [
+                  0.4169,
+                  0.724
+                ],
+                [
+                  0.4169,
+                  0.7824
+                ],
+                [
+                  0.0435,
+                  0.7824
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 9.34,
+          "end": 17.585,
+          "omrade": [
+            0,
+            0.2101,
+            1,
+            0.4456
+          ]
+        },
+        {
+          "start": 17.91,
+          "end": 22.413,
+          "omrade": [
+            0,
+            0.4096,
+            1,
+            0.8699
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

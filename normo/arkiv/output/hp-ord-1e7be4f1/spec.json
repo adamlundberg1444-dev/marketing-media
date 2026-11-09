@@ -1,0 +1,457 @@
+{
+  "slug": "hp-ord-1e7be4f1",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "1e7be4f1-04d0-43e6-b1b2-96fa892738bd"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD-fråga · Högskoleprovet",
+    "text2": "VT 2013 · fråga 8",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "ord"
+    ],
+    "text": "Ändelsen ger ordklassen: -era och -a verb, -het och -ing substantiv, -sam och -ig adjektiv."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "derivera"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "förstora"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "härleda"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "inskjuta"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "tillägga"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "överföra"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "-era → verb, lånord"
+    },
+    {
+      "text": "släkting: derivatan i matten"
+    },
+    {
+      "text": "förstora = göra större"
+    },
+    {
+      "text": "härleda = leda ur något",
+      "emphasis": true
+    },
+    {
+      "text": "inskjuta = lägga in mitt i"
+    },
+    {
+      "text": "tillägga = lägga till"
+    },
+    {
+      "text": "överföra = flytta oförändrat"
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 141.366,
+    "phases": {
+      "readStart": 5.163,
+      "writeStart": 33.482
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.163,
+          "end": 6.15
+        },
+        {
+          "start": 8.925,
+          "end": 9.691
+        },
+        {
+          "start": 9.738,
+          "end": 10.458
+        },
+        {
+          "start": 10.516,
+          "end": 11.352
+        },
+        {
+          "start": 11.386,
+          "end": 12.176
+        },
+        {
+          "start": 12.594,
+          "end": 13.523
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.482,
+          "chars": [
+            33.482,
+            33.7227,
+            33.9634,
+            34.2041,
+            34.4448,
+            34.5171,
+            34.7578,
+            34.83,
+            35.0707,
+            35.3114,
+            35.5521,
+            35.7928,
+            36.0335,
+            36.1057,
+            36.3464,
+            36.5872,
+            36.8279,
+            37.0686,
+            37.3093
+          ]
+        },
+        {
+          "start": 43.242,
+          "chars": [
+            43.242,
+            43.4755,
+            43.709,
+            43.9425,
+            44.1761,
+            44.4096,
+            44.6431,
+            44.8766,
+            45.1101,
+            45.3436,
+            45.4137,
+            45.6472,
+            45.8807,
+            46.1142,
+            46.3477,
+            46.5812,
+            46.8148,
+            47.0483,
+            47.2818,
+            47.5153,
+            47.5854,
+            47.8189,
+            47.8889,
+            48.1224,
+            48.3559,
+            48.5895,
+            48.823,
+            49.0565
+          ]
+        },
+        {
+          "start": 56.016,
+          "chars": [
+            56.016,
+            56.2536,
+            56.4912,
+            56.7288,
+            56.9664,
+            57.2039,
+            57.4415,
+            57.6791,
+            57.9167,
+            57.988,
+            58.2256,
+            58.2968,
+            58.5344,
+            58.772,
+            59.0096,
+            59.2472,
+            59.3185,
+            59.5561,
+            59.7936,
+            60.0312,
+            60.2688,
+            60.5064
+          ]
+        },
+        {
+          "start": 66.05,
+          "chars": [
+            66.05,
+            66.2873,
+            66.5247,
+            66.762,
+            66.9993,
+            67.2366,
+            67.474,
+            67.7113,
+            67.7825,
+            68.0198,
+            68.091,
+            68.3283,
+            68.5657,
+            68.803,
+            69.0403,
+            69.1115,
+            69.3488,
+            69.5862,
+            69.6574,
+            69.8947,
+            70.132,
+            70.3693,
+            70.6067
+          ]
+        },
+        {
+          "start": 76.859,
+          "chars": [
+            76.859,
+            77.0946,
+            77.3301,
+            77.5657,
+            77.8012,
+            78.0368,
+            78.2723,
+            78.5079,
+            78.7434,
+            78.8141,
+            79.0497,
+            79.1203,
+            79.3559,
+            79.5914,
+            79.827,
+            80.0626,
+            80.2981,
+            80.3688,
+            80.6043,
+            80.8399,
+            80.9106,
+            81.1461,
+            81.3817,
+            81.6172,
+            81.8528,
+            81.9234
+          ]
+        },
+        {
+          "start": 88.808,
+          "chars": [
+            88.808,
+            89.0465,
+            89.285,
+            89.5236,
+            89.7621,
+            90.0006,
+            90.2391,
+            90.4776,
+            90.7161,
+            90.7877,
+            91.0262,
+            91.0978,
+            91.3363,
+            91.5748,
+            91.8133,
+            92.0519,
+            92.2904,
+            92.3619,
+            92.6004,
+            92.839,
+            93.0775
+          ]
+        },
+        {
+          "start": 100.862,
+          "chars": [
+            100.862,
+            101.0955,
+            101.329,
+            101.5625,
+            101.7961,
+            102.0296,
+            102.2631,
+            102.4966,
+            102.7301,
+            102.8002,
+            103.0337,
+            103.1037,
+            103.3372,
+            103.5708,
+            103.8043,
+            104.0378,
+            104.2713,
+            104.5048,
+            104.5749,
+            104.8084,
+            105.0419,
+            105.2754,
+            105.5089,
+            105.7424,
+            105.9759,
+            106.2095,
+            106.443,
+            106.6765
+          ]
+        },
+        {
+          "start": 135.301,
+          "chars": [
+            135.301,
+            135.5252,
+            135.7494,
+            135.9736,
+            136.1979,
+            136.4221,
+            136.4893,
+            136.7135,
+            136.9378,
+            137.162,
+            137.2292,
+            137.4535,
+            137.5207,
+            137.7449,
+            137.9691,
+            138.1934,
+            138.4176,
+            138.6418
+          ]
+        }
+      ],
+      "circle": {
+        "start": 111.165,
+        "end": 116.807
+      },
+      "options": null,
+      "concept": {
+        "start": 14.926,
+        "end": 32.294,
+        "hideAt": 43.233
+      },
+      "strikes": [
+        {
+          "start": 63.228,
+          "end": 63.978,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 85.685,
+          "end": 86.435,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 98.051,
+          "end": 98.801,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 108.549,
+          "end": 109.299,
+          "targets": [
+            {
+              "opt": 4
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

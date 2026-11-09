@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20261188",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-14.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "konsommé",
+      "options": [
+        "läran om kroppsvävnader",
+        "minnesanteckningar",
+        "räknelära",
+        "köttsoppa"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "konsommé",
+      "options": [
+        "läran om kroppsvävnader",
+        "minnesanteckningar",
+        "räknelära",
+        "köttsoppa"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "getto",
+      "options": [
+        "operationskonst",
+        "isolerat bostadsområde",
+        "förberedelse före tryck",
+        "störtskur"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "getto",
+      "options": [
+        "operationskonst",
+        "isolerat bostadsområde",
+        "förberedelse före tryck",
+        "störtskur"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "olat",
+      "options": [
+        "det allra sämsta",
+        "tätbebyggelse",
+        "sätt att leva",
+        "dålig vana"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "olat",
+      "options": [
+        "det allra sämsta",
+        "tätbebyggelse",
+        "sätt att leva",
+        "dålig vana"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "kagge",
+      "options": [
+        "praktisk användning",
+        "kyrkligt församlingsmöte",
+        "liten tunna",
+        "långsmal kanalbåt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "kagge",
+      "options": [
+        "praktisk användning",
+        "kyrkligt församlingsmöte",
+        "liten tunna",
+        "långsmal kanalbåt"
+      ],
+      "correct": 2,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

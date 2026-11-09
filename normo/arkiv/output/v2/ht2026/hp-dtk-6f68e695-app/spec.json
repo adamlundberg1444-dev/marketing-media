@@ -1,0 +1,571 @@
+{
+  "slug": "hp-dtk-6f68e695-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "6f68e695-dc85-4866-b93c-c85ab29fd7ef"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "forskarstuderande"
+      },
+      {
+        "text": "2005"
+      },
+      {
+        "text": "försörjde"
+      },
+      {
+        "text": "sig"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "utbildningsbidrag,"
+      },
+      {
+        "text": "stipendier"
+      },
+      {
+        "text": "eller"
+      },
+      {
+        "text": "läkartjänst?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 13,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "2"
+          },
+          {
+            "text": "000"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "4"
+          },
+          {
+            "text": "000"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "5"
+          },
+          {
+            "text": "500"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "6"
+          },
+          {
+            "text": "500"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/6f68e695-dc85-4866-b93c-c85ab29fd7ef.png",
+    "imageMax": 860
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{80°}{360°} ≈ 0{,}22",
+      "rod": [
+        "0{,}22"
+      ],
+      "farg": {
+        "11": "#D93025",
+        "12": "#D93025",
+        "13": "#D93025",
+        "14": "#D93025"
+      }
+    },
+    {
+      "text": "0{,}22 \\cdot 18\\,600 ≈ 4\\,100",
+      "gron": [
+        "\\cdot 18\\,600"
+      ],
+      "emphasis": true,
+      "farg": {
+        "5": "#0E9F6E",
+        "6": "#0E9F6E",
+        "7": "#0E9F6E",
+        "8": "#0E9F6E",
+        "9": "#0E9F6E",
+        "10": "#0E9F6E",
+        "11": "#0E9F6E",
+        "12": "#0E9F6E"
+      }
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 67.26,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 37.04
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.32
+        },
+        {
+          "start": 0.38,
+          "end": 0.64
+        },
+        {
+          "start": 0.7,
+          "end": 0.78
+        },
+        {
+          "start": 0.84,
+          "end": 0.98
+        },
+        {
+          "start": 1.08,
+          "end": 2.26
+        },
+        {
+          "start": 2.42,
+          "end": 3.2
+        },
+        {
+          "start": 3.54,
+          "end": 4.04
+        },
+        {
+          "start": 4.1,
+          "end": 4.26
+        },
+        {
+          "start": 4.3,
+          "end": 4.44
+        },
+        {
+          "start": 4.54,
+          "end": 5.72
+        },
+        {
+          "start": 6.02,
+          "end": 6.78
+        },
+        {
+          "start": 7.06,
+          "end": 7.22
+        },
+        {
+          "start": 7.26,
+          "end": 8.28
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 37.04,
+          "chars": [
+            37.04,
+            37.2857,
+            37.5315,
+            37.7772,
+            38.0229,
+            38.2687,
+            38.5144,
+            38.7601,
+            39.0059,
+            39.0796,
+            39.3253,
+            39.3991,
+            39.6448,
+            39.8905,
+            40.1363
+          ]
+        },
+        {
+          "start": 49.4,
+          "chars": [
+            49.4,
+            49.6408,
+            49.8817,
+            50.1225,
+            50.3633,
+            50.4356,
+            50.6764,
+            50.7487,
+            50.9895,
+            51.2303,
+            51.3026,
+            51.5434,
+            51.7843,
+            52.0251,
+            52.0973,
+            52.3382,
+            52.4104,
+            52.6512,
+            52.7235,
+            52.9643,
+            53.2052
+          ]
+        },
+        {
+          "start": 66.08,
+          "chars": [
+            66.08,
+            66.0896,
+            66.0991,
+            66.1087,
+            66.1183,
+            66.1211,
+            66.1307,
+            66.1403,
+            66.1499,
+            66.1594,
+            66.169,
+            66.1786,
+            66.1881,
+            66.1977,
+            66.2073,
+            66.2101,
+            66.2197,
+            66.2226,
+            66.2322,
+            66.2417,
+            66.2513,
+            66.2609,
+            66.2704
+          ]
+        }
+      ],
+      "circle": {
+        "start": 62.26,
+        "end": 65.76
+      },
+      "options": {
+        "hideAt": 9.1,
+        "showAt": 61.36
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 4.54,
+          "end": 5.29,
+          "targets": [
+            {
+              "w": 9,
+              "from": "utbildningsbidrag",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "utbildningsbidrag",
+              "color": "gul"
+            },
+            {
+              "w": 11,
+              "from": "utbildningsbidrag",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "utbildningsbidrag",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 1.08,
+          "end": 1.83,
+          "targets": [
+            {
+              "w": 4,
+              "from": "forskarstuderande",
+              "color": "blå"
+            },
+            {
+              "w": 5,
+              "from": "forskarstuderande",
+              "color": "blå"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 21.1,
+          "end": 21.85,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.595,
+                0.97,
+                0.672,
+                0.993
+              ],
+              "from": "18 600",
+              "color": "blå",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 29.72,
+          "end": 30.47,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.5185,
+                  0.7785
+                ],
+                [
+                  0.3656,
+                  0.7992
+                ],
+                [
+                  0.3679,
+                  0.8083
+                ],
+                [
+                  0.3711,
+                  0.8172
+                ],
+                [
+                  0.3752,
+                  0.8259
+                ],
+                [
+                  0.38,
+                  0.8343
+                ],
+                [
+                  0.3856,
+                  0.8424
+                ],
+                [
+                  0.3919,
+                  0.8502
+                ],
+                [
+                  0.3989,
+                  0.8576
+                ],
+                [
+                  0.4066,
+                  0.8645
+                ],
+                [
+                  0.415,
+                  0.8709
+                ],
+                [
+                  0.4239,
+                  0.8768
+                ]
+              ],
+              "from": "utbildningsbidrag",
+              "color": "gul",
+              "keep": true,
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 31.34,
+          "end": 32.09,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.5185,
+                  0.7785
+                ],
+                [
+                  0.3726,
+                  0.7365
+                ],
+                [
+                  0.3695,
+                  0.744
+                ],
+                [
+                  0.3671,
+                  0.7517
+                ],
+                [
+                  0.3652,
+                  0.7596
+                ],
+                [
+                  0.364,
+                  0.7675
+                ],
+                [
+                  0.3635,
+                  0.7754
+                ],
+                [
+                  0.3635,
+                  0.7834
+                ],
+                [
+                  0.3642,
+                  0.7913
+                ],
+                [
+                  0.3656,
+                  0.7992
+                ]
+              ],
+              "from": "stipendier",
+              "color": "gul",
+              "keep": true,
+              "seg": 2,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 33.78,
+          "end": 34.53,
+          "targets": [
+            {
+              "hl": true,
+              "polygon": [
+                [
+                  0.5185,
+                  0.7785
+                ],
+                [
+                  0.3829,
+                  0.7183
+                ],
+                [
+                  0.3799,
+                  0.7227
+                ],
+                [
+                  0.3773,
+                  0.7272
+                ],
+                [
+                  0.3748,
+                  0.7318
+                ],
+                [
+                  0.3726,
+                  0.7365
+                ]
+              ],
+              "from": "läkartjänsten",
+              "color": "gul",
+              "keep": true,
+              "seg": 2,
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 9.8,
+          "end": 35.53,
+          "omrade": [
+            0.26,
+            0.63,
+            0.8,
+            0.995
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 66.03
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 860,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

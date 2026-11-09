@@ -1,0 +1,443 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "a53",
+        "t": "5,3",
+        "uttryck": true
+      },
+      {
+        "id": "x1",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "m",
+        "t": " − "
+      },
+      {
+        "id": "a49",
+        "t": "4,9"
+      },
+      {
+        "id": "eq",
+        "t": " = "
+      },
+      {
+        "id": "a6",
+        "t": "6"
+      },
+      {
+        "id": "x2",
+        "t": "x",
+        "it": true
+      }
+    ],
+    [
+      {
+        "id": "q",
+        "t": "Vad är "
+      },
+      {
+        "id": "qx",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-7"
+    },
+    {
+      "letter": "B",
+      "tex": "-0{,}7"
+    },
+    {
+      "letter": "C",
+      "tex": "0{,}7"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{7}",
+      "text": "7"
+    }
+  ],
+  "correct": 0,
+  "hook": {
+    "lines": [
+      "HP-fråga med decimaler.",
+      "Sista steget lurar."
+    ],
+    "start": 0.08000000000000002,
+    "end": 6.21
+  },
+  "arrow": {
+    "start": 0.38,
+    "end": 6.21,
+    "d": "M 900 990 C 990 800, 990 560, 870 410",
+    "head": "M 952 441 L 870 410 L 882 497"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 7.81,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "5{,}3x"
+            },
+            {
+              "k": "m",
+              "tex": "-"
+            },
+            {
+              "k": "b",
+              "tex": "4{,}9"
+            },
+            "=",
+            {
+              "k": "c",
+              "tex": "6x"
+            }
+          ]
+        },
+        {
+          "at": 11.24,
+          "dur": 0.5,
+          "termer": [
+            {
+              "k": "m",
+              "tex": "-"
+            },
+            {
+              "k": "b",
+              "tex": "4{,}9"
+            },
+            "=",
+            {
+              "k": "c",
+              "tex": "6x"
+            },
+            {
+              "k": "pa",
+              "tex": "-",
+              "at": 12.4
+            },
+            {
+              "k": "a",
+              "tex": "5{,}3x"
+            }
+          ]
+        },
+        {
+          "at": 17.151,
+          "termer": [
+            {
+              "k": "m",
+              "tex": "-"
+            },
+            {
+              "k": "b",
+              "tex": "4{,}9"
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "0{,}7x",
+              "fran": [
+                "c",
+                "pa",
+                "a"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "x",
+          "at": 20.401,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 20.601,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{-4{,}9}{0{,}7}",
+          "at": 20.941,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R2",
+          "tex": "=-0{,}7",
+          "at": 24.761,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 35.751,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "f",
+              "tex": "\\dfrac{-4{,}9}{0{,}7}"
+            }
+          ]
+        },
+        {
+          "at": 36.871,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "f",
+              "tex": "\\dfrac{-49}{7}",
+              "forlang": "10"
+            }
+          ]
+        },
+        {
+          "at": 44.291,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "f",
+              "tex": "-7",
+              "color": "gron"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 1,
+      "col": "R2",
+      "at": 30.321
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "k": "f",
+      "at": 44.741
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q",
+        "qx",
+        "qm"
+      ],
+      "at": 6.51,
+      "end": 7.81
+    }
+  ],
+  "farg": [],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 5.95,
+    "lockbete": {
+      "at": 24.761,
+      "end": 28.801,
+      "markera": {
+        "val": "B",
+        "at": 26.951,
+        "end": 28.801
+      }
+    },
+    "tillbaka": 45.361
+  },
+  "lage": null,
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.58,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 640,
+      "dur": 0.5
+    },
+    {
+      "at": 7.71,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 620,
+      "dur": 0.45
+    },
+    {
+      "at": 19.331,
+      "zoom": 1.15,
+      "x": 540,
+      "y": 760,
+      "dur": 0.4
+    },
+    {
+      "at": 24.461,
+      "zoom": 1,
+      "dur": 0.4
+    },
+    {
+      "at": 35.651,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 780,
+      "dur": 0.45
+    },
+    {
+      "at": 45.061,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Vi ska hitta x",
+      "start": 6.15,
+      "end": 7.81
+    },
+    {
+      "text": "Samla x på högersidan",
+      "start": 7.81,
+      "end": 10.04
+    },
+    {
+      "text": "5,3 x byter sida och",
+      "start": 10.04,
+      "end": 12.4
+    },
+    {
+      "text": "blir minus",
+      "start": 12.4,
+      "end": 13.98
+    },
+    {
+      "text": "6 x minus 5,3 x",
+      "start": 14.411,
+      "end": 17.151
+    },
+    {
+      "text": "är 0,7 x",
+      "start": 17.151,
+      "end": 19.431
+    },
+    {
+      "text": "Lätt. x är minus 4,9",
+      "start": 19.431,
+      "end": 22.781
+    },
+    {
+      "text": "delat med 0,7",
+      "start": 22.781,
+      "end": 24.761
+    },
+    {
+      "text": "Alltså minus 0,7",
+      "start": 24.761,
+      "end": 26.951
+    },
+    {
+      "text": "svaret är B",
+      "start": 26.951,
+      "end": 28.791
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 28.901,
+      "end": 30.321
+    },
+    {
+      "text": "Nej, delar man med 0,7",
+      "start": 30.321,
+      "end": 32.841
+    },
+    {
+      "text": "blir talet större",
+      "start": 32.841,
+      "end": 34.401
+    },
+    {
+      "text": "inte mindre",
+      "start": 34.401,
+      "end": 35.751
+    },
+    {
+      "text": "Gånger 10 uppe och nere",
+      "start": 35.751,
+      "end": 38.571
+    },
+    {
+      "text": "Då blir det minus 49",
+      "start": 38.611,
+      "end": 40.971
+    },
+    {
+      "text": "delat med 7",
+      "start": 40.971,
+      "end": 42.391
+    },
+    {
+      "text": "Alltså är x lika med",
+      "start": 42.391,
+      "end": 44.291
+    },
+    {
+      "text": "minus 7",
+      "start": 44.291,
+      "end": 45.811
+    },
+    {
+      "text": "Svaret är A",
+      "start": 45.961,
+      "end": 48.021
+    }
+  ],
+  "circle": {
+    "start": 47.221,
+    "end": 47.921
+  },
+  "duration": 49.021
+}

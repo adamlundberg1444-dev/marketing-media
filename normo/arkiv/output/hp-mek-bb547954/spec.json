@@ -1,0 +1,439 @@
+{
+  "slug": "hp-mek-bb547954",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "bb547954-fcce-4531-b3cc-1266b92069e6"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "VT 2021 · fråga 27",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Sätt in ordet du tror på och läs om meningen, för fel ord hörs oftare än det syns."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Den"
+      },
+      {
+        "text": "svenska"
+      },
+      {
+        "text": "regeringen"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "____"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "tänker"
+      },
+      {
+        "text": "höja"
+      },
+      {
+        "text": "pensionsåldern"
+      },
+      {
+        "text": "under"
+      },
+      {
+        "text": "innevarande"
+      },
+      {
+        "text": "mandatperiod."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 13,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "ajournerat"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "budgeterat"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "aviserat"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "motiverat"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "ajournera = skjuta upp"
+    },
+    {
+      "text": "budgetera = planera pengar"
+    },
+    {
+      "text": "avisera = meddela i förväg",
+      "emphasis": true
+    },
+    {
+      "text": "motivera = ge skäl för"
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 100.944,
+    "phases": {
+      "readStart": 3.177,
+      "writeStart": 31.358
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.177,
+          "end": 3.352
+        },
+        {
+          "start": 3.398,
+          "end": 3.793
+        },
+        {
+          "start": 3.874,
+          "end": 4.373
+        },
+        {
+          "start": 4.455,
+          "end": 4.687
+        },
+        {
+          "start": 4.687,
+          "end": 6.73
+        },
+        {
+          "start": 6.73,
+          "end": 7.02
+        },
+        {
+          "start": 7.044,
+          "end": 7.09
+        },
+        {
+          "start": 7.102,
+          "end": 7.415
+        },
+        {
+          "start": 7.473,
+          "end": 7.81
+        },
+        {
+          "start": 7.868,
+          "end": 8.785
+        },
+        {
+          "start": 8.901,
+          "end": 9.157
+        },
+        {
+          "start": 9.215,
+          "end": 9.923
+        },
+        {
+          "start": 9.981,
+          "end": 11.142
+        },
+        {
+          "start": 14.022,
+          "end": 14.869
+        },
+        {
+          "start": 14.916,
+          "end": 15.845
+        },
+        {
+          "start": 15.903,
+          "end": 16.739
+        },
+        {
+          "start": 17.11,
+          "end": 18.132
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 31.358,
+          "chars": [
+            31.358,
+            31.5956,
+            31.8332,
+            32.0708,
+            32.3084,
+            32.5459,
+            32.7835,
+            33.0211,
+            33.2587,
+            33.4963,
+            33.5676,
+            33.8052,
+            33.8764,
+            34.114,
+            34.3516,
+            34.5892,
+            34.8268,
+            35.0644,
+            35.302,
+            35.3732,
+            35.6108,
+            35.8484
+          ]
+        },
+        {
+          "start": 43.222,
+          "chars": [
+            43.222,
+            43.4566,
+            43.6913,
+            43.9259,
+            44.1606,
+            44.3952,
+            44.6299,
+            44.8645,
+            45.0992,
+            45.3338,
+            45.4042,
+            45.6388,
+            45.7092,
+            45.9439,
+            46.1785,
+            46.4132,
+            46.6478,
+            46.8825,
+            47.1171,
+            47.3517,
+            47.4221,
+            47.6568,
+            47.8914,
+            48.1261,
+            48.3607,
+            48.5954
+          ]
+        },
+        {
+          "start": 54.703,
+          "chars": [
+            54.703,
+            54.9381,
+            55.1732,
+            55.4083,
+            55.6433,
+            55.8784,
+            56.1135,
+            56.3486,
+            56.4191,
+            56.6542,
+            56.7247,
+            56.9598,
+            57.1949,
+            57.43,
+            57.6651,
+            57.9002,
+            58.1353,
+            58.3703,
+            58.4409,
+            58.676,
+            58.7465,
+            58.9816,
+            59.2167,
+            59.4517,
+            59.6868,
+            59.9219
+          ]
+        },
+        {
+          "start": 72.893,
+          "chars": [
+            72.893,
+            73.1312,
+            73.3695,
+            73.6077,
+            73.8459,
+            74.0841,
+            74.3224,
+            74.5606,
+            74.7988,
+            74.8703,
+            75.1085,
+            75.18,
+            75.4182,
+            75.6565,
+            75.7279,
+            75.9662,
+            76.2044,
+            76.4426,
+            76.6808,
+            76.7523,
+            76.9905,
+            77.2288
+          ]
+        },
+        {
+          "start": 94.659,
+          "chars": [
+            94.659,
+            94.903,
+            95.1469,
+            95.3909,
+            95.6349,
+            95.8789,
+            95.9521,
+            96.196,
+            96.44,
+            96.684,
+            96.7572,
+            97.0011,
+            97.2451,
+            97.4891,
+            97.7331,
+            97.977
+          ]
+        }
+      ],
+      "circle": {
+        "start": 86.366,
+        "end": 93.262
+      },
+      "options": null,
+      "concept": {
+        "start": 19.861,
+        "end": 30.054,
+        "hideAt": 41.376
+      },
+      "strikes": [
+        {
+          "start": 41.309,
+          "end": 42.059,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 52.558,
+          "end": 53.308,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 83.228,
+          "end": 83.978,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 19.861,
+          "end": 20.611,
+          "targets": [
+            {
+              "w": 7
+            },
+            {
+              "w": 8
+            },
+            {
+              "w": 9
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

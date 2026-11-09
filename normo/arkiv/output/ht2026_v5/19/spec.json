@@ -1,0 +1,527 @@
+{
+  "slug": "hp-las-cb4ef379",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "cb4ef379-a3d7-4336-88ad-3c91df54c501"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 19 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Textförfattarna"
+      },
+      {
+        "text": "misstänker"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "Wagner-Jauregg"
+      },
+      {
+        "text": "kände"
+      },
+      {
+        "text": "sin"
+      },
+      {
+        "text": "ställning"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "feberterapins"
+      },
+      {
+        "text": "upphovsman"
+      },
+      {
+        "text": "hotad."
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "får"
+      },
+      {
+        "text": "dem"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "tro"
+      },
+      {
+        "text": "det?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 17,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "benägenhet"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "ignorera"
+          },
+          {
+            "text": "tidigare"
+          },
+          {
+            "text": "studier."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "sätt"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "berätta"
+          },
+          {
+            "text": "historien"
+          },
+          {
+            "text": "om"
+          },
+          {
+            "text": "upptäcktens"
+          },
+          {
+            "text": "tillkomst."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "oförmåga"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "försvara"
+          },
+          {
+            "text": "sig"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "kritikernas"
+          },
+          {
+            "text": "synpunkter."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "val"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "undanhålla"
+          },
+          {
+            "text": "vissa"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "sina"
+          },
+          {
+            "text": "resultat."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__cb4ef379-a3d7-4336-88ad-3c91df54c501.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "memoarerna = hans version",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 47.339,
+    "phases": {
+      "readStart": 1.84,
+      "writeStart": 29.052
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.84,
+          "end": 2.618
+        },
+        {
+          "start": 2.664,
+          "end": 3.279
+        },
+        {
+          "start": 3.361,
+          "end": 3.558
+        },
+        {
+          "start": 3.674,
+          "end": 4.626
+        },
+        {
+          "start": 4.672,
+          "end": 4.928
+        },
+        {
+          "start": 4.974,
+          "end": 5.09
+        },
+        {
+          "start": 5.125,
+          "end": 5.485
+        },
+        {
+          "start": 5.532,
+          "end": 5.636
+        },
+        {
+          "start": 5.694,
+          "end": 6.577
+        },
+        {
+          "start": 6.693,
+          "end": 7.296
+        },
+        {
+          "start": 7.354,
+          "end": 8.016
+        },
+        {
+          "start": 8.62,
+          "end": 8.748
+        },
+        {
+          "start": 8.771,
+          "end": 8.875
+        },
+        {
+          "start": 8.898,
+          "end": 9.038
+        },
+        {
+          "start": 9.107,
+          "end": 9.328
+        },
+        {
+          "start": 9.572,
+          "end": 9.746
+        },
+        {
+          "start": 9.827,
+          "end": 10.176
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 29.052,
+          "chars": [
+            29.052,
+            29.2523,
+            29.4526,
+            29.6529,
+            29.8532,
+            30.0535,
+            30.2538,
+            30.4541,
+            30.6544,
+            30.8548,
+            31.0551,
+            31.1151,
+            31.3155,
+            31.3755,
+            31.5759,
+            31.7762,
+            31.9765,
+            32.1768,
+            32.2369,
+            32.4372,
+            32.6375,
+            32.8378,
+            33.0381,
+            33.2384,
+            33.4387
+          ]
+        },
+        {
+          "start": 42.181,
+          "chars": [
+            42.181,
+            42.3482,
+            42.5153,
+            42.6825,
+            42.8497,
+            43.0168,
+            43.067,
+            43.2342,
+            43.4013,
+            43.5685,
+            43.6187,
+            43.7858,
+            43.836,
+            44.0032,
+            44.1703,
+            44.3375,
+            44.5047,
+            44.6718
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.167,
+        "end": 41.084
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 35.239,
+          "end": 35.989,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 12.29,
+          "end": 13.04,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5695,
+                  0.4029
+                ],
+                [
+                  0.9533,
+                  0.4029
+                ],
+                [
+                  0.9533,
+                  0.4671
+                ],
+                [
+                  0.5695,
+                  0.4671
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 13.39,
+          "end": 14.14,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.4761
+                ],
+                [
+                  0.2546,
+                  0.4761
+                ],
+                [
+                  0.2546,
+                  0.5403
+                ],
+                [
+                  0.0435,
+                  0.5403
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 22.727,
+          "end": 23.477,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5673,
+                  0.6224
+                ],
+                [
+                  0.8779,
+                  0.6224
+                ],
+                [
+                  0.8779,
+                  0.6866
+                ],
+                [
+                  0.5673,
+                  0.6866
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 23.827,
+          "end": 24.577,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6956
+                ],
+                [
+                  0.2881,
+                  0.6956
+                ],
+                [
+                  0.2881,
+                  0.7598
+                ],
+                [
+                  0.0435,
+                  0.7598
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 11.29,
+          "end": 21.23,
+          "omrade": [
+            0,
+            0.2312,
+            1,
+            0.7098
+          ]
+        },
+        {
+          "start": 21.927,
+          "end": 28.717,
+          "omrade": [
+            0,
+            0.4507,
+            1,
+            0.8562
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

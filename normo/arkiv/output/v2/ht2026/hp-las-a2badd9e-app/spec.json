@@ -1,0 +1,544 @@
+{
+  "slug": "hp-las-a2badd9e-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "a2badd9e-0bad-455b-bb56-1f3ee73ecce9"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Recensenten"
+      },
+      {
+        "text": "antyder"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "finnas"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "baksida"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "bokens"
+      },
+      {
+        "text": "informanter"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "så"
+      },
+      {
+        "text": "”verbala”."
+      },
+      {
+        "text": "Vilken?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 16,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "informanterna"
+          },
+          {
+            "text": "inte"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "representativa"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "hela"
+          },
+          {
+            "text": "befolkningen."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "vissa"
+          },
+          {
+            "text": "svårfångade"
+          },
+          {
+            "text": "aspekter"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "städning"
+          },
+          {
+            "text": "går"
+          },
+          {
+            "text": "förlorade."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "författaren"
+          },
+          {
+            "text": "låter"
+          },
+          {
+            "text": "sig"
+          },
+          {
+            "text": "styras"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "informanternas"
+          },
+          {
+            "text": "tolkningar."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "städning"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "första"
+          },
+          {
+            "text": "hand"
+          },
+          {
+            "text": "framstår"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "kvinnosyssla."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__a2badd9e-0bad-455b-bb56-1f3ee73ecce9.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "det ordlösa går förlorat",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.96,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 34.44
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.84
+        },
+        {
+          "start": 0.94,
+          "end": 1.36
+        },
+        {
+          "start": 1.42,
+          "end": 1.48
+        },
+        {
+          "start": 1.5,
+          "end": 1.56
+        },
+        {
+          "start": 1.6,
+          "end": 1.72
+        },
+        {
+          "start": 1.78,
+          "end": 2.06
+        },
+        {
+          "start": 2.1,
+          "end": 2.22
+        },
+        {
+          "start": 2.28,
+          "end": 3.42
+        },
+        {
+          "start": 3.5,
+          "end": 3.6
+        },
+        {
+          "start": 3.66,
+          "end": 3.76
+        },
+        {
+          "start": 3.84,
+          "end": 4.4
+        },
+        {
+          "start": 4.5,
+          "end": 5.38
+        },
+        {
+          "start": 5.46,
+          "end": 5.56
+        },
+        {
+          "start": 5.62,
+          "end": 5.76
+        },
+        {
+          "start": 5.82,
+          "end": 6.52
+        },
+        {
+          "start": 7.62,
+          "end": 8.28
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 34.44,
+          "chars": [
+            34.44,
+            34.6272,
+            34.8144,
+            35.0016,
+            35.0578,
+            35.245,
+            35.4322,
+            35.6195,
+            35.8067,
+            35.9939,
+            36.1811,
+            36.3683,
+            36.4245,
+            36.6117,
+            36.7989,
+            36.9861,
+            37.0423,
+            37.2295,
+            37.4167,
+            37.6039,
+            37.7911,
+            37.9784,
+            38.1656,
+            38.3528
+          ]
+        },
+        {
+          "start": 42.64,
+          "chars": [
+            42.64,
+            42.6518,
+            42.6637,
+            42.6755,
+            42.6873,
+            42.6992,
+            42.7027,
+            42.7146,
+            42.7264,
+            42.7382,
+            42.7501,
+            42.7536,
+            42.7654,
+            42.769,
+            42.7808,
+            42.7927,
+            42.8045,
+            42.8163,
+            42.8282
+          ]
+        }
+      ],
+      "circle": {
+        "start": 40.98,
+        "end": 41.46
+      },
+      "options": {
+        "hideAt": 16.94,
+        "showAt": 40.08
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 12.14,
+          "end": 12.89,
+          "targets": [
+            {
+              "w": 14,
+              "from": "verbala",
+              "color": "blå"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 19.48,
+          "end": 20.23,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5583,
+                  0.2316
+                ],
+                [
+                  0.8358,
+                  0.2316
+                ],
+                [
+                  0.8358,
+                  0.2803
+                ],
+                [
+                  0.5583,
+                  0.2803
+                ]
+              ],
+              "color": "bla",
+              "from": "pratar",
+              "hlFarg": "blå",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.5,
+          "end": 26.25,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.2168,
+                  0.4222
+                ],
+                [
+                  0.9197,
+                  0.4222
+                ],
+                [
+                  0.9197,
+                  0.4709
+                ],
+                [
+                  0.2168,
+                  0.4709
+                ]
+              ],
+              "color": "bla",
+              "from": "tappas bort",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 25.5,
+          "end": 26.25,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4858
+                ],
+                [
+                  0.4312,
+                  0.4858
+                ],
+                [
+                  0.4312,
+                  0.5344
+                ],
+                [
+                  0,
+                  0.5344
+                ]
+              ],
+              "color": "bla",
+              "from": "tappas bort",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 29.64,
+          "end": 30.39,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4307,
+                  0.4858
+                ],
+                [
+                  0.9837,
+                  0.4858
+                ],
+                [
+                  0.9837,
+                  0.5344
+                ],
+                [
+                  0.4307,
+                  0.5344
+                ]
+              ],
+              "color": "bla",
+              "from": "ordlös",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 29.64,
+          "end": 30.39,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5493
+                ],
+                [
+                  0.2557,
+                  0.5493
+                ],
+                [
+                  0.2557,
+                  0.598
+                ],
+                [
+                  0,
+                  0.598
+                ]
+              ],
+              "color": "bla",
+              "from": "ordlös",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 42.59
+  },
+  "layout": {},
+  "variant": "app"
+}

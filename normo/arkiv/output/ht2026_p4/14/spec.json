@@ -1,0 +1,526 @@
+{
+  "slug": "hp-kva-27240ae2",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "27240ae2-84a4-4aad-870e-18bb4a674e2a"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA · fråga 14 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "Höjden"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "rätvinklig"
+      },
+      {
+        "text": "triangel"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "arean"
+      },
+      {
+        "text": "10"
+      },
+      {
+        "text": "cm²"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "basen"
+      },
+      {
+        "text": "5"
+      },
+      {
+        "text": "cm"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "Höjden"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "likbent"
+      },
+      {
+        "text": "triangel"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "arean"
+      },
+      {
+        "text": "16"
+      },
+      {
+        "text": "cm²"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "basen"
+      },
+      {
+        "text": "8"
+      },
+      {
+        "text": "cm"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 30,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "h = \\frac{2A}{b}"
+    },
+    {
+      "text": "I: \\frac{2 \\cdot 10}{5} = \\frac{20}{5} = 4"
+    },
+    {
+      "text": "II: \\frac{2 \\cdot 16}{8} = \\frac{32}{8} = 4"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 42.913,
+    "phases": {
+      "readStart": 1.684,
+      "writeStart": 16.822
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.684,
+          "end": 2.195
+        },
+        {
+          "start": 2.195,
+          "end": 2.764
+        },
+        {
+          "start": 2.764,
+          "end": 3.205
+        },
+        {
+          "start": 3.298,
+          "end": 3.356
+        },
+        {
+          "start": 3.379,
+          "end": 3.437
+        },
+        {
+          "start": 3.484,
+          "end": 4.122
+        },
+        {
+          "start": 4.157,
+          "end": 4.714
+        },
+        {
+          "start": 4.807,
+          "end": 4.947
+        },
+        {
+          "start": 4.947,
+          "end": 5.307
+        },
+        {
+          "start": 5.307,
+          "end": 5.411
+        },
+        {
+          "start": 5.411,
+          "end": 6.607
+        },
+        {
+          "start": 6.607,
+          "end": 6.677
+        },
+        {
+          "start": 6.711,
+          "end": 7.118
+        },
+        {
+          "start": 7.211,
+          "end": 7.385
+        },
+        {
+          "start": 7.385,
+          "end": 8.522
+        },
+        {
+          "start": 8.522,
+          "end": 9.045
+        },
+        {
+          "start": 9.045,
+          "end": 9.718
+        },
+        {
+          "start": 9.718,
+          "end": 10.113
+        },
+        {
+          "start": 10.171,
+          "end": 10.194
+        },
+        {
+          "start": 10.229,
+          "end": 10.276
+        },
+        {
+          "start": 10.31,
+          "end": 10.844
+        },
+        {
+          "start": 10.868,
+          "end": 11.309
+        },
+        {
+          "start": 11.355,
+          "end": 11.46
+        },
+        {
+          "start": 11.46,
+          "end": 11.808
+        },
+        {
+          "start": 11.808,
+          "end": 12.133
+        },
+        {
+          "start": 12.133,
+          "end": 13.666
+        },
+        {
+          "start": 13.666,
+          "end": 13.875
+        },
+        {
+          "start": 13.921,
+          "end": 14.432
+        },
+        {
+          "start": 14.606,
+          "end": 14.885
+        },
+        {
+          "start": 14.885,
+          "end": 15.825
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.822,
+          "chars": [
+            16.822,
+            17.095,
+            17.1769,
+            17.45,
+            17.5319,
+            17.8049,
+            18.0779,
+            18.351
+          ]
+        },
+        {
+          "start": 22.405,
+          "chars": [
+            22.405,
+            22.6455,
+            22.8859,
+            22.9581,
+            23.1985,
+            23.2707,
+            23.5112,
+            23.5833,
+            23.8238,
+            24.0642,
+            24.3047,
+            24.5452,
+            24.6173,
+            24.8578,
+            24.9299,
+            25.1704,
+            25.4108,
+            25.6513,
+            25.8918,
+            25.9639,
+            26.2044,
+            26.2765
+          ]
+        },
+        {
+          "start": 28.835,
+          "chars": [
+            28.835,
+            29.0743,
+            29.3137,
+            29.553,
+            29.6248,
+            29.8641,
+            29.936,
+            30.1753,
+            30.2471,
+            30.4864,
+            30.7258,
+            30.9651,
+            31.2044,
+            31.2762,
+            31.5156,
+            31.5874,
+            31.8267,
+            32.066,
+            32.3054,
+            32.5447,
+            32.6165,
+            32.8559,
+            32.9277
+          ]
+        },
+        {
+          "start": 33.167,
+          "chars": [
+            33.167,
+            33.4549,
+            33.5413,
+            33.8292,
+            33.9156,
+            34.2035
+          ]
+        },
+        {
+          "start": 37.36,
+          "chars": [
+            37.36,
+            37.5061,
+            37.6522,
+            37.7982,
+            37.9443,
+            37.9881,
+            38.1342,
+            38.2803,
+            38.4264,
+            38.5724,
+            38.7185,
+            38.8646,
+            39.0107,
+            39.1567,
+            39.3028,
+            39.3466,
+            39.4927,
+            39.5365,
+            39.6826,
+            39.8287,
+            39.9748,
+            40.1208,
+            40.2669
+          ]
+        }
+      ],
+      "circle": {
+        "start": 36.049,
+        "end": 36.99
+      },
+      "options": {
+        "hideAt": 16.522,
+        "showAt": 35.149
+      },
+      "concept": null,
+      "strikes": [
+        {
+          "start": 22.405,
+          "end": 23.155,
+          "targets": [
+            {
+              "w": 5
+            }
+          ]
+        },
+        {
+          "start": 23.505,
+          "end": 24.255,
+          "targets": [
+            {
+              "w": 20
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

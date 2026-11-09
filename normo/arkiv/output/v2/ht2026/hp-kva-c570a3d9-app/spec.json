@@ -1,0 +1,448 @@
+{
+  "slug": "hp-kva-c570a3d9-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "c570a3d9-87fa-4895-a6ee-652e4aeb6f8c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " \\frac{1}{6} + \\frac{1}{12} ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " \\frac{1}{3} - \\frac{1}{12} ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{1}{6} = \\frac{2}{12}, \\; \\frac{1}{3} = \\frac{4}{12}",
+      "gron": [
+        "\\frac{2}{12}",
+        "\\frac{4}{12}"
+      ],
+      "farg": {
+        "6": "#0E9F6E",
+        "7": "#0E9F6E",
+        "8": "#0E9F6E",
+        "9": "#0E9F6E",
+        "20": "#0E9F6E",
+        "21": "#0E9F6E",
+        "22": "#0E9F6E",
+        "23": "#0E9F6E"
+      }
+    },
+    {
+      "text": "\\frac{2}{12} + \\frac{1}{12} = \\frac{3}{12}",
+      "gron": [
+        {
+          "text": "\\frac{3}{12}"
+        }
+      ],
+      "farg": {
+        "14": "#0E9F6E",
+        "15": "#0E9F6E",
+        "16": "#0E9F6E",
+        "17": "#0E9F6E"
+      }
+    },
+    {
+      "text": "\\frac{4}{12} - \\frac{1}{12} = \\frac{3}{12}",
+      "rod": [
+        {
+          "text": "\\frac{3}{12}"
+        }
+      ],
+      "farg": {
+        "14": "#D93025",
+        "15": "#D93025",
+        "16": "#D93025",
+        "17": "#D93025"
+      }
+    },
+    {
+      "text": "\\frac{3}{12} = \\frac{1}{4}",
+      "rod": [
+        "\\frac{1}{4}"
+      ],
+      "farg": {
+        "7": "#D93025",
+        "8": "#D93025",
+        "9": "#D93025"
+      }
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 49.82,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 8.64
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 1.0813
+        },
+        {
+          "start": 1.0813,
+          "end": 1.9455
+        },
+        {
+          "start": 1.9455,
+          "end": 3.4114
+        },
+        {
+          "start": 3.4114,
+          "end": 4.3527
+        },
+        {
+          "start": 4.3527,
+          "end": 5.294
+        },
+        {
+          "start": 5.294,
+          "end": 6.76
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 8.64,
+          "chars": [
+            8.64,
+            8.8783,
+            9.1166,
+            9.355,
+            9.4265,
+            9.6648,
+            9.7363,
+            9.9746,
+            10.2129,
+            10.4513,
+            10.6896,
+            10.9279,
+            10.9994,
+            11.0709,
+            11.1424,
+            11.3807,
+            11.6191,
+            11.8574,
+            11.9289,
+            12.1672,
+            12.2387,
+            12.477,
+            12.7154,
+            12.9537
+          ]
+        },
+        {
+          "start": 22.38,
+          "chars": [
+            22.38,
+            22.623,
+            22.8661,
+            23.1091,
+            23.3521,
+            23.425,
+            23.668,
+            23.7409,
+            23.984,
+            24.227,
+            24.47,
+            24.7131,
+            24.786,
+            25.029,
+            25.1019,
+            25.3449,
+            25.5879,
+            25.831
+          ]
+        },
+        {
+          "start": 32.96,
+          "chars": [
+            32.96,
+            33.203,
+            33.4461,
+            33.6891,
+            33.9321,
+            34.005,
+            34.248,
+            34.3209,
+            34.564,
+            34.807,
+            35.05,
+            35.2931,
+            35.366,
+            35.609,
+            35.6819,
+            35.9249,
+            36.1679,
+            36.411
+          ]
+        },
+        {
+          "start": 39.96,
+          "chars": [
+            39.96,
+            40.2207,
+            40.4814,
+            40.7421,
+            41.0028,
+            41.081,
+            41.3417,
+            41.4199,
+            41.6806,
+            41.9413
+          ]
+        },
+        {
+          "start": 42.202,
+          "chars": [
+            42.202,
+            42.4981,
+            42.5869,
+            42.883,
+            42.9718,
+            43.2679
+          ]
+        },
+        {
+          "start": 48.58,
+          "chars": [
+            48.58,
+            48.5937,
+            48.6074,
+            48.6211,
+            48.6348,
+            48.6485,
+            48.6526,
+            48.6663,
+            48.68,
+            48.6937,
+            48.6978,
+            48.7115,
+            48.7252,
+            48.7389,
+            48.7526,
+            48.7663
+          ]
+        }
+      ],
+      "circle": {
+        "start": 45.96,
+        "end": 48.32
+      },
+      "options": {
+        "hideAt": 8.34,
+        "showAt": 45.06
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.1,
+          "end": 1.85,
+          "targets": [
+            {
+              "w": 0,
+              "from": "sjättedel",
+              "color": "gul"
+            },
+            {
+              "w": 1,
+              "from": "sjättedel",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "sjättedel",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 4.16,
+          "end": 4.91,
+          "targets": [
+            {
+              "w": 3,
+              "from": "tredjedel",
+              "color": "lila"
+            },
+            {
+              "w": 4,
+              "from": "tredjedel",
+              "color": "lila"
+            },
+            {
+              "w": 5,
+              "from": "tredjedel",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 48.53
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3,
+    "appKeyLines": [
+      3,
+      4
+    ]
+  },
+  "variant": "app"
+}

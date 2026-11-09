@@ -1,0 +1,564 @@
+{
+  "slug": "hp-dtk-9ab6f8ef-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "9ab6f8ef-a68e-403c-86b0-13c791b08a32"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Studera"
+      },
+      {
+        "text": "perioden"
+      },
+      {
+        "text": "2000–2005"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "avseende"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "förändringarna"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "antalet"
+      },
+      {
+        "text": "nybörjare"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "forskarutbildning"
+      },
+      {
+        "text": "inom"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "olika"
+      },
+      {
+        "text": "ämnesområdena."
+      },
+      {
+        "text": "Inom"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "text": "ämnesområde"
+      },
+      {
+        "text": "noterades"
+      },
+      {
+        "text": "störst"
+      },
+      {
+        "text": "förändring"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "år"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "nästa,"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "antal"
+      },
+      {
+        "text": "räknat?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 30,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Humaniora"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Medicin"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Naturvetenskap"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Teknikvetenskap"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/9ab6f8ef-a68e-403c-86b0-13c791b08a32.png",
+    "imageMax": 520
+  },
+  "writeLines": [
+    {
+      "text": "förändring = lodrät skillnad"
+    },
+    {
+      "text": "930 - 720 ≈ 210",
+      "rod": [
+        "- 720"
+      ],
+      "emphasis": true,
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025"
+      }
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 55.9,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 22.88
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.6
+        },
+        {
+          "start": 0.64,
+          "end": 1.22
+        },
+        {
+          "start": 1.52,
+          "end": 2.98
+        },
+        {
+          "start": 2.98,
+          "end": 3.038
+        },
+        {
+          "start": 3.038,
+          "end": 3.1427
+        },
+        {
+          "start": 3.1427,
+          "end": 3.1913
+        },
+        {
+          "start": 3.1913,
+          "end": 3.352
+        },
+        {
+          "start": 3.352,
+          "end": 3.4007
+        },
+        {
+          "start": 3.4007,
+          "end": 3.496
+        },
+        {
+          "start": 3.496,
+          "end": 3.61
+        },
+        {
+          "start": 3.61,
+          "end": 3.6512
+        },
+        {
+          "start": 3.6512,
+          "end": 3.84
+        },
+        {
+          "start": 3.84,
+          "end": 4.1
+        },
+        {
+          "start": 4.1,
+          "end": 4.1071
+        },
+        {
+          "start": 4.1071,
+          "end": 4.1184
+        },
+        {
+          "start": 4.1184,
+          "end": 4.1501
+        },
+        {
+          "start": 4.1501,
+          "end": 4.16
+        },
+        {
+          "start": 4.16,
+          "end": 4.58
+        },
+        {
+          "start": 4.68,
+          "end": 5.5
+        },
+        {
+          "start": 5.58,
+          "end": 6.28
+        },
+        {
+          "start": 6.42,
+          "end": 6.74
+        },
+        {
+          "start": 6.78,
+          "end": 7.58
+        },
+        {
+          "start": 9.06,
+          "end": 9.24
+        },
+        {
+          "start": 9.32,
+          "end": 9.54
+        },
+        {
+          "start": 9.66,
+          "end": 9.94
+        },
+        {
+          "start": 10,
+          "end": 10.14
+        },
+        {
+          "start": 10.18,
+          "end": 10.6
+        },
+        {
+          "start": 10.6,
+          "end": 10.6
+        },
+        {
+          "start": 10.6,
+          "end": 10.6
+        },
+        {
+          "start": 10.6,
+          "end": 10.6
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.88,
+          "chars": [
+            22.88,
+            23.1135,
+            23.347,
+            23.5805,
+            23.8141,
+            24.0476,
+            24.2811,
+            24.5146,
+            24.7481,
+            24.9816,
+            25.2151,
+            25.2852,
+            25.5187,
+            25.5888,
+            25.8223,
+            26.0558,
+            26.2893,
+            26.5228,
+            26.7563,
+            26.9898,
+            27.0599,
+            27.2934,
+            27.5269,
+            27.7604,
+            27.9939,
+            28.2275,
+            28.461,
+            28.6945
+          ]
+        },
+        {
+          "start": 46.3,
+          "chars": [
+            46.3,
+            46.5487,
+            46.7974,
+            47.0461,
+            47.1207,
+            47.3694,
+            47.444,
+            47.6927,
+            47.9413,
+            48.19,
+            48.2646,
+            48.5133,
+            48.5879,
+            48.8366,
+            49.0853
+          ]
+        },
+        {
+          "start": 54.72,
+          "chars": [
+            54.72,
+            54.7296,
+            54.7391,
+            54.7487,
+            54.7583,
+            54.7611,
+            54.7707,
+            54.7803,
+            54.7899,
+            54.7994,
+            54.809,
+            54.8186,
+            54.8281,
+            54.8377,
+            54.8473,
+            54.8501,
+            54.8597,
+            54.8626,
+            54.8722,
+            54.8817,
+            54.8913,
+            54.9009,
+            54.9104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 53.38,
+        "end": 54.4
+      },
+      "options": {
+        "hideAt": 11.52,
+        "showAt": 52.48
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.64,
+          "end": 1.39,
+          "targets": [
+            {
+              "w": 1,
+              "from": "perioden",
+              "color": "blå"
+            },
+            {
+              "w": 2,
+              "from": "perioden",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 6.42,
+          "end": 7.17,
+          "targets": [
+            {
+              "w": 20,
+              "from": "störst",
+              "color": "gul"
+            },
+            {
+              "w": 21,
+              "from": "störst",
+              "color": "gul"
+            },
+            {
+              "w": 22,
+              "from": "störst",
+              "color": "gul"
+            },
+            {
+              "w": 23,
+              "from": "störst",
+              "color": "gul"
+            },
+            {
+              "w": 24,
+              "from": "störst",
+              "color": "gul"
+            },
+            {
+              "w": 25,
+              "from": "störst",
+              "color": "gul"
+            },
+            {
+              "w": 26,
+              "from": "störst",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 16.9,
+          "end": 17.65,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.785,
+                0.14,
+                0.945,
+                0.41
+              ],
+              "from": "Perioden",
+              "color": "blå",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 34.9,
+          "end": 35.65,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.8796,
+                  0.2156
+                ],
+                [
+                  0.911,
+                  0.2655
+                ]
+              ],
+              "w": 0.008,
+              "snap": false,
+              "from": "Teknikvetenskap",
+              "color": "gul",
+              "keep": true,
+              "seg": 3,
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 12.22,
+          "end": 20.86,
+          "omrade": [
+            0.56,
+            0.13,
+            1,
+            0.425
+          ]
+        },
+        {
+          "start": 32.88,
+          "end": 44.3,
+          "omrade": [
+            0.56,
+            0.13,
+            1,
+            0.425
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 54.67
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 520,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

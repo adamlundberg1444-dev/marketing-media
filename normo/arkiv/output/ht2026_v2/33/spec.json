@@ -1,0 +1,502 @@
+{
+  "slug": "hp-elf-98909af2",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "98909af2-3104-4d41-8f0a-978c3df8720c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ELF · fråga 33 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "can"
+      },
+      {
+        "text": "be"
+      },
+      {
+        "text": "concluded"
+      },
+      {
+        "text": "early"
+      },
+      {
+        "text": "on"
+      },
+      {
+        "text": "concerning"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "British"
+      },
+      {
+        "text": "and"
+      },
+      {
+        "text": "tea?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Coffee"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "popular"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "throughout"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "17th"
+          },
+          {
+            "text": "century."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "From"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "start,"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "British"
+          },
+          {
+            "text": "were"
+          },
+          {
+            "text": "immediately"
+          },
+          {
+            "text": "obsessed"
+          },
+          {
+            "text": "with"
+          },
+          {
+            "text": "tea."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Until"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "1800s,"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "mainly"
+          },
+          {
+            "text": "used"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "its"
+          },
+          {
+            "text": "curative"
+          },
+          {
+            "text": "properties."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Coffee"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "much"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "expensive"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "in"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "1600s."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/elf__98909af2-3104-4d41-8f0a-978c3df8720c.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kaffe först, te tar över på 1700-talet",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 53.347,
+    "phases": {
+      "readStart": 3.809,
+      "writeStart": 22.184
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.809,
+          "end": 3.983
+        },
+        {
+          "start": 4.018,
+          "end": 4.111
+        },
+        {
+          "start": 4.157,
+          "end": 4.227
+        },
+        {
+          "start": 4.273,
+          "end": 4.656
+        },
+        {
+          "start": 4.714,
+          "end": 5.005
+        },
+        {
+          "start": 5.086,
+          "end": 5.19
+        },
+        {
+          "start": 5.26,
+          "end": 5.678
+        },
+        {
+          "start": 5.713,
+          "end": 5.783
+        },
+        {
+          "start": 5.829,
+          "end": 6.212
+        },
+        {
+          "start": 6.247,
+          "end": 6.328
+        },
+        {
+          "start": 6.386,
+          "end": 6.793
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.184,
+          "chars": [
+            22.184,
+            22.3815,
+            22.579,
+            22.7765,
+            22.9741,
+            23.1716,
+            23.2308,
+            23.4283,
+            23.6259,
+            23.8234,
+            24.0209,
+            24.2184,
+            24.4159,
+            24.4752,
+            24.6727,
+            24.8702,
+            24.9295,
+            25.127,
+            25.3245,
+            25.522,
+            25.5813,
+            25.7788,
+            25.9763,
+            26.1738,
+            26.3713,
+            26.4306,
+            26.6281,
+            26.8256,
+            26.8849,
+            27.0824,
+            27.2799,
+            27.4774,
+            27.6749,
+            27.8724,
+            28.0699,
+            28.2675,
+            28.465,
+            28.6625
+          ]
+        },
+        {
+          "start": 48.061,
+          "chars": [
+            48.061,
+            48.2362,
+            48.4114,
+            48.5867,
+            48.7619,
+            48.9371,
+            48.9897,
+            49.1649,
+            49.3401,
+            49.5153,
+            49.5679,
+            49.7431,
+            49.7957,
+            49.9709,
+            50.1461,
+            50.3213,
+            50.4966,
+            50.6718
+          ]
+        }
+      ],
+      "circle": {
+        "start": 46.116,
+        "end": 47.15
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 30.56,
+          "end": 31.31,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 37.195,
+          "end": 37.945,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 8.396,
+          "end": 9.146,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.5576
+                ],
+                [
+                  0.8325,
+                  0.5576
+                ],
+                [
+                  0.8325,
+                  0.6329
+                ],
+                [
+                  0.0435,
+                  0.6329
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 16.316,
+          "end": 17.066,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.8347,
+                  0.5576
+                ],
+                [
+                  0.8863,
+                  0.5576
+                ],
+                [
+                  0.8863,
+                  0.6329
+                ],
+                [
+                  0.8347,
+                  0.6329
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 17.416,
+          "end": 18.166,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6433
+                ],
+                [
+                  0.5264,
+                  0.6433
+                ],
+                [
+                  0.5264,
+                  0.7186
+                ],
+                [
+                  0.0435,
+                  0.7186
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 7.396,
+          "end": 20.832,
+          "omrade": [
+            0,
+            0.3565,
+            1,
+            0.8314
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

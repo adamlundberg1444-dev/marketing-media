@@ -1,0 +1,535 @@
+{
+  "slug": "hp-las-60a7a36f-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "60a7a36f-3cb7-41ef-9981-b93c4a1c1da8"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "får"
+      },
+      {
+        "text": "vi"
+      },
+      {
+        "text": "veta"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "recensentens"
+      },
+      {
+        "text": "eget"
+      },
+      {
+        "text": "förhållande"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "städning?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Hon"
+          },
+          {
+            "text": "försöker"
+          },
+          {
+            "text": "undvika"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "tråkiga"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "tidskrävande"
+          },
+          {
+            "text": "städningen."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Städningen"
+          },
+          {
+            "text": "skapar"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "ordning"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "krävs"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "hon"
+          },
+          {
+            "text": "ska"
+          },
+          {
+            "text": "få"
+          },
+          {
+            "text": "arbetsro."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Hon"
+          },
+          {
+            "text": "irriterar"
+          },
+          {
+            "text": "sig"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "hon"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "tar"
+          },
+          {
+            "text": "ansvar"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "städningen"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "hemmet."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Städningen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "både"
+          },
+          {
+            "text": "ett"
+          },
+          {
+            "text": "hinder"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "hjälp"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "hennes"
+          },
+          {
+            "text": "yrkesutövande."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__60a7a36f-3cb7-41ef-9981-b93c4a1c1da8.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "städning: både hinder och hjälp",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 37.52,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 28.48
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.24
+        },
+        {
+          "start": 0.28,
+          "end": 0.38
+        },
+        {
+          "start": 0.44,
+          "end": 0.52
+        },
+        {
+          "start": 0.58,
+          "end": 1.04
+        },
+        {
+          "start": 1.12,
+          "end": 1.24
+        },
+        {
+          "start": 1.28,
+          "end": 2.22
+        },
+        {
+          "start": 2.34,
+          "end": 2.66
+        },
+        {
+          "start": 2.7,
+          "end": 3.26
+        },
+        {
+          "start": 3.3,
+          "end": 3.46
+        },
+        {
+          "start": 3.54,
+          "end": 4.059
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 28.48,
+          "chars": [
+            28.48,
+            28.6502,
+            28.8204,
+            28.9906,
+            29.1609,
+            29.3311,
+            29.5013,
+            29.6715,
+            29.8417,
+            30.0119,
+            30.063,
+            30.2332,
+            30.4034,
+            30.5736,
+            30.7438,
+            30.7949,
+            30.9651,
+            31.1353,
+            31.3055,
+            31.4757,
+            31.646,
+            31.8162,
+            31.8672,
+            32.0374,
+            32.2077,
+            32.3779,
+            32.4289,
+            32.5991,
+            32.7694,
+            32.9396,
+            33.1098
+          ]
+        },
+        {
+          "start": 36.36,
+          "chars": [
+            36.36,
+            36.4166,
+            36.4732,
+            36.5298,
+            36.5864,
+            36.643,
+            36.66,
+            36.7166,
+            36.7732,
+            36.8298,
+            36.8468,
+            36.9034,
+            36.9204,
+            36.977,
+            37.0336,
+            37.0902,
+            37.1468,
+            37.2034
+          ]
+        }
+      ],
+      "circle": {
+        "start": 35.64,
+        "end": 36.02
+      },
+      "options": {
+        "hideAt": 5,
+        "showAt": 34.74
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 10.48,
+          "end": 11.23,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4025,
+                  0.2086
+                ],
+                [
+                  0.998,
+                  0.2086
+                ],
+                [
+                  0.998,
+                  0.2542
+                ],
+                [
+                  0.4025,
+                  0.2542
+                ]
+              ],
+              "color": "bla",
+              "from": "prokrastinering",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 19.94,
+          "end": 20.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.8369,
+                  0.816
+                ],
+                [
+                  0.9842,
+                  0.816
+                ],
+                [
+                  0.9842,
+                  0.8615
+                ],
+                [
+                  0.8369,
+                  0.8615
+                ]
+              ],
+              "color": "bla",
+              "from": "många texter",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 19.94,
+          "end": 20.69,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8755
+                ],
+                [
+                  0.4454,
+                  0.8755
+                ],
+                [
+                  0.4454,
+                  0.921
+                ],
+                [
+                  0,
+                  0.921
+                ]
+              ],
+              "color": "bla",
+              "from": "många texter",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 23.18,
+          "end": 23.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.8265,
+                  0.459
+                ],
+                [
+                  1,
+                  0.459
+                ],
+                [
+                  1,
+                  0.5045
+                ],
+                [
+                  0.8265,
+                  0.5045
+                ]
+              ],
+              "color": "bla",
+              "from": "ansvaret",
+              "hlFarg": "rosa",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 23.18,
+          "end": 23.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5185
+                ],
+                [
+                  0.6357,
+                  0.5185
+                ],
+                [
+                  0.6357,
+                  0.564
+                ],
+                [
+                  0,
+                  0.564
+                ]
+              ],
+              "color": "bla",
+              "from": "ansvaret",
+              "hlFarg": "rosa",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 36.31
+  },
+  "layout": {},
+  "variant": "app"
+}

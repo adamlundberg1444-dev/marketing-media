@@ -1,0 +1,586 @@
+{
+  "slug": "hp-las-30c26c63-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "30c26c63-b971-46a5-9344-2c5b7e7105e4"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "påstående"
+      },
+      {
+        "text": "om"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "socialdemokratiska"
+      },
+      {
+        "text": "partiet"
+      },
+      {
+        "text": "sammanfattar"
+      },
+      {
+        "text": "bäst"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "utveckling"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "beskrivs"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "recensionen?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 14,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "motvilligt"
+          },
+          {
+            "text": "tvingats"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "överge"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "modellen."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "måste"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "allt"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "utsträckning"
+          },
+          {
+            "text": "söka"
+          },
+          {
+            "text": "stöd"
+          },
+          {
+            "text": "från"
+          },
+          {
+            "text": "nya"
+          },
+          {
+            "text": "väljargrupper."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "kommer"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "tiden"
+          },
+          {
+            "text": "sannolikt"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "återgå"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "sin"
+          },
+          {
+            "text": "gamla"
+          },
+          {
+            "text": "politik."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Partiet"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "fått"
+          },
+          {
+            "text": "allt"
+          },
+          {
+            "text": "svårare"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "påverka"
+          },
+          {
+            "text": "det"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "samhällets"
+          },
+          {
+            "text": "utveckling."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__30c26c63-b971-46a5-9344-2c5b7e7105e4.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "partiet styr allt mindre",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 46.28,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 35.32
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.46
+        },
+        {
+          "start": 0.52,
+          "end": 1.32
+        },
+        {
+          "start": 1.4,
+          "end": 1.5
+        },
+        {
+          "start": 1.54,
+          "end": 1.64
+        },
+        {
+          "start": 1.72,
+          "end": 2.92
+        },
+        {
+          "start": 2.96,
+          "end": 3.5
+        },
+        {
+          "start": 3.9,
+          "end": 4.62
+        },
+        {
+          "start": 4.7,
+          "end": 5.18
+        },
+        {
+          "start": 5.28,
+          "end": 5.52
+        },
+        {
+          "start": 5.64,
+          "end": 6.38
+        },
+        {
+          "start": 6.44,
+          "end": 6.56
+        },
+        {
+          "start": 6.6,
+          "end": 7.22
+        },
+        {
+          "start": 7.28,
+          "end": 7.34
+        },
+        {
+          "start": 7.38,
+          "end": 8.16
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 35.32,
+          "chars": [
+            35.32,
+            35.556,
+            35.792,
+            36.0279,
+            36.2639,
+            36.4999,
+            36.7359,
+            36.9719,
+            37.0427,
+            37.2786,
+            37.5146,
+            37.7506,
+            37.9866,
+            38.0574,
+            38.2934,
+            38.5294,
+            38.7653,
+            39.0013,
+            39.0721,
+            39.3081,
+            39.5441,
+            39.7801,
+            40.016,
+            40.252
+          ]
+        },
+        {
+          "start": 45.06,
+          "chars": [
+            45.06,
+            45.0726,
+            45.0852,
+            45.0977,
+            45.1103,
+            45.1229,
+            45.1267,
+            45.1392,
+            45.1518,
+            45.1644,
+            45.1682,
+            45.1808,
+            45.1845,
+            45.1971,
+            45.2097,
+            45.2223,
+            45.2348,
+            45.2474
+          ]
+        }
+      ],
+      "circle": {
+        "start": 44.18,
+        "end": 44.78
+      },
+      "options": {
+        "hideAt": 14.32,
+        "showAt": 43.28
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 10.08,
+          "end": 10.83,
+          "targets": [
+            {
+              "w": 9,
+              "from": "utvecklingen",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 21.68,
+          "end": 22.3,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7988,
+                  0.161
+                ],
+                [
+                  0.9883,
+                  0.161
+                ],
+                [
+                  0.9883,
+                  0.2076
+                ],
+                [
+                  0.7988,
+                  0.2076
+                ]
+              ],
+              "color": "bla",
+              "from": "greppet",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 21.68,
+          "end": 22.3,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.2219
+                ],
+                [
+                  0.9949,
+                  0.2219
+                ],
+                [
+                  0.9949,
+                  0.2685
+                ],
+                [
+                  0,
+                  0.2685
+                ]
+              ],
+              "color": "bla",
+              "from": "greppet",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 21.68,
+          "end": 22.3,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.2827
+                ],
+                [
+                  0.087,
+                  0.2827
+                ],
+                [
+                  0.087,
+                  0.3294
+                ],
+                [
+                  0,
+                  0.3294
+                ]
+              ],
+              "color": "bla",
+              "from": "greppet",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 24.54,
+          "end": 25.29,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5601,
+                  0.4255
+                ],
+                [
+                  0.782,
+                  0.4255
+                ],
+                [
+                  0.782,
+                  0.4721
+                ],
+                [
+                  0.5601,
+                  0.4721
+                ]
+              ],
+              "color": "bla",
+              "from": "irrvägar",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 24.54,
+          "end": 25.29,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.4864
+                ],
+                [
+                  0.3194,
+                  0.4864
+                ],
+                [
+                  0.3194,
+                  0.533
+                ],
+                [
+                  0,
+                  0.533
+                ]
+              ],
+              "color": "bla",
+              "from": "irrvägar",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 32.34,
+          "end": 33.09,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7509
+                ],
+                [
+                  0.9081,
+                  0.7509
+                ],
+                [
+                  0.9081,
+                  0.7975
+                ],
+                [
+                  0,
+                  0.7975
+                ]
+              ],
+              "color": "bla",
+              "from": "aldrig",
+              "hlFarg": "rosa",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 45.01
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "xyz_5397fa1e_20262255",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "XYZ från\nhögskoleprovet",
+      "pillText": "XYZ-fråga",
+      "bgImage": "tiktok/assets/intro/intro-01.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "\\(L_1\\) och \\(L_2\\) är parallella linjer. Hur stor är vinkeln \\(x\\)?",
+      "options": [
+        "\\(50^\\circ\\)",
+        "\\(60^\\circ\\)",
+        "\\(70^\\circ\\)",
+        "\\(80^\\circ\\)"
+      ],
+      "image": "tiktok/assets/xyz/5397fa1e-8c43-4fd9-aeb5-d5a7169230bb.png",
+      "figCompact": true,
+      "optsGrid": true
+    },
+    {
+      "kind": "html",
+      "theme": "green",
+      "html": "\n  <div style=\"display:flex;flex-direction:column;align-items:center;gap:46px;padding:0 30px;\">\n    <span style=\"background:#0A0A0A;color:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:34px;font-weight:900;letter-spacing:3px;text-transform:uppercase;padding:16px 36px;border-radius:100px;\">Inget facit 👀</span>\n    <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:100px;font-weight:900;color:#FFFFFF;text-align:center;line-height:1.05;\">Vågar du gissa?</div>\n    <div style=\"position:relative;background:#FFFFFF;border:3px solid rgba(10,10,10,0.14);border-radius:36px;padding:40px 48px;max-width:830px;box-shadow:0 14px 34px rgba(10,10,10,0.10);\">\n      <div style=\"font-family:-apple-system,BlinkMacSystemFont,'Inter','Helvetica Neue',sans-serif;font-size:46px;font-weight:700;color:#0A0A0A;text-align:center;line-height:1.35;\">Kommentera vad du tror innan du kollar vad andra svarat</div>\n      <div style=\"position:absolute;left:84px;bottom:-27px;width:0;height:0;border-left:24px solid transparent;border-right:24px solid transparent;border-top:30px solid #FFFFFF;\"></div>\n    </div>\n    <div style=\"font-size:78px;margin-top:6px;\">💬 👇</div>\n  </div>"
+    },
+    {
+      "kind": "cta",
+      "title": "Öva gratis\ninför HP"
+    }
+  ]
+}

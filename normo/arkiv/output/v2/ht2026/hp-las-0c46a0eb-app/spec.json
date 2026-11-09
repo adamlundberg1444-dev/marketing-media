@@ -1,0 +1,573 @@
+{
+  "slug": "hp-las-0c46a0eb-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "0c46a0eb-210a-413e-bf1b-ae8e12296709"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "På"
+      },
+      {
+        "text": "vilket"
+      },
+      {
+        "text": "sätt"
+      },
+      {
+        "text": "bidrog"
+      },
+      {
+        "text": "Wagner-Jauregg"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "medicinhistorien,"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "döma?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "utvecklade"
+          },
+          {
+            "text": "den"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "dag"
+          },
+          {
+            "text": "enda"
+          },
+          {
+            "text": "verksamma"
+          },
+          {
+            "text": "behandlingen"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "neurosyfilis."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "först"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "upptäckten"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "feber"
+          },
+          {
+            "text": "kan"
+          },
+          {
+            "text": "lindra"
+          },
+          {
+            "text": "eller"
+          },
+          {
+            "text": "läka"
+          },
+          {
+            "text": "sinnessjukdom."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "utvecklade"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "behandlingsmetod"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "neurosyfilis"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "användes"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "stor"
+          },
+          {
+            "text": "skala."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Han"
+          },
+          {
+            "text": "beskrev"
+          },
+          {
+            "text": "mekanismerna"
+          },
+          {
+            "text": "bakom"
+          },
+          {
+            "text": "febersjukdomars"
+          },
+          {
+            "text": "effekt"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "neurosyfilis."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__0c46a0eb-210a-413e-bf1b-ae8e12296709.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "metod som användes i stor skala",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 43.16,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 33.64
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.22
+        },
+        {
+          "start": 0.24,
+          "end": 0.62
+        },
+        {
+          "start": 0.68,
+          "end": 0.9
+        },
+        {
+          "start": 1.02,
+          "end": 1.56
+        },
+        {
+          "start": 1.66,
+          "end": 2.74
+        },
+        {
+          "start": 2.86,
+          "end": 3.06
+        },
+        {
+          "start": 3.1,
+          "end": 4.2
+        },
+        {
+          "start": 4.68,
+          "end": 4.82
+        },
+        {
+          "start": 4.88,
+          "end": 5.22
+        },
+        {
+          "start": 5.28,
+          "end": 5.38
+        },
+        {
+          "start": 5.4,
+          "end": 5.7
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.64,
+          "chars": [
+            33.64,
+            33.8393,
+            34.0385,
+            34.2378,
+            34.4371,
+            34.6364,
+            34.6961,
+            34.8954,
+            35.0947,
+            35.294,
+            35.3537,
+            35.553,
+            35.7523,
+            35.9516,
+            36.1508,
+            36.3501,
+            36.5494,
+            36.7487,
+            36.9479,
+            37.0077,
+            37.207,
+            37.2668,
+            37.466,
+            37.6653,
+            37.8646,
+            38.0639,
+            38.1236,
+            38.3229,
+            38.5222,
+            38.7215,
+            38.9207
+          ]
+        },
+        {
+          "start": 41.86,
+          "chars": [
+            41.86,
+            41.8718,
+            41.8837,
+            41.8955,
+            41.9073,
+            41.9192,
+            41.9227,
+            41.9346,
+            41.9464,
+            41.9582,
+            41.9701,
+            41.9736,
+            41.9854,
+            41.989,
+            42.0008,
+            42.0127,
+            42.0245,
+            42.0363,
+            42.0482
+          ]
+        }
+      ],
+      "circle": {
+        "start": 41.4,
+        "end": 41.66
+      },
+      "options": {
+        "hideAt": 13.54,
+        "showAt": 40.5
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.66,
+          "end": 8.41,
+          "targets": [
+            {
+              "w": 3,
+              "from": "bidrog",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 15.56,
+          "end": 16.31,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.1436
+                ],
+                [
+                  0.7479,
+                  0.1436
+                ],
+                [
+                  0.7479,
+                  0.1852
+                ],
+                [
+                  0,
+                  0.1852
+                ]
+              ],
+              "color": "bla",
+              "from": "modell",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 15.56,
+          "end": 16.31,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.198
+                ],
+                [
+                  0.259,
+                  0.198
+                ],
+                [
+                  0.259,
+                  0.2395
+                ],
+                [
+                  0,
+                  0.2395
+                ]
+              ],
+              "color": "bla",
+              "from": "modell",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 22.26,
+          "end": 23.01,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6226,
+                  0.4883
+                ],
+                [
+                  0.9608,
+                  0.4883
+                ],
+                [
+                  0.9608,
+                  0.5299
+                ],
+                [
+                  0.6226,
+                  0.5299
+                ]
+              ],
+              "color": "bla",
+              "from": "Europa",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 22.26,
+          "end": 23.01,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5426
+                ],
+                [
+                  0.6496,
+                  0.5426
+                ],
+                [
+                  0.6496,
+                  0.5842
+                ],
+                [
+                  0,
+                  0.5842
+                ]
+              ],
+              "color": "bla",
+              "from": "Europa",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 28.4,
+          "end": 29.15,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5693,
+                  0.7243
+                ],
+                [
+                  0.7993,
+                  0.7243
+                ],
+                [
+                  0.7993,
+                  0.7659
+                ],
+                [
+                  0.5693,
+                  0.7659
+                ]
+              ],
+              "color": "bla",
+              "from": "systematiskt",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 28.4,
+          "end": 29.15,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7786
+                ],
+                [
+                  0.6995,
+                  0.7786
+                ],
+                [
+                  0.6995,
+                  0.8202
+                ],
+                [
+                  0,
+                  0.8202
+                ]
+              ],
+              "color": "bla",
+              "from": "systematiskt",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 41.81
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,421 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "x0",
+        "t": "x",
+        "it": true,
+        "uttryck": true
+      },
+      {
+        "id": "pl",
+        "t": " + "
+      },
+      {
+        "id": "fr1",
+        "tex": "\\frac{3}{5}"
+      },
+      {
+        "id": "eq",
+        "t": " = "
+      },
+      {
+        "id": "fr2",
+        "tex": "\\frac{5}{8}"
+      }
+    ],
+    [
+      {
+        "id": "q",
+        "t": "Vad är "
+      },
+      {
+        "id": "qx",
+        "t": "x",
+        "it": true
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\frac{2}{3}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\frac{3}{8}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\frac{2}{13}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\frac{1}{40}"
+    }
+  ],
+  "correct": 3,
+  "hook": {
+    "lines": [
+      "Lätt HP-fråga.",
+      "Lätt att göra fel på."
+    ],
+    "start": 0.01999999999999999,
+    "end": 4.1
+  },
+  "arrow": {
+    "start": 0.31999999999999995,
+    "end": 4.1,
+    "d": "M 930 1200 C 1010 1000, 1000 640, 880 430",
+    "head": "M 950 470 L 880 430 L 880 513"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "x",
+          "at": 13.629,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 13.629,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{5-3}{8-5}",
+          "at": 13.629,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R2",
+          "tex": "=\\frac{2}{3}",
+          "at": 17.28,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "x",
+          "at": 25.97,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 26.17,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{5}{8}",
+          "at": 26.45,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R2",
+          "tex": "-\\frac{3}{5}",
+          "at": 27.89,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 33.58,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R1",
+          "tex": "\\frac{25}{40}",
+          "at": 33.88,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R2",
+          "tex": "-\\frac{24}{40}",
+          "at": 37.55,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "x",
+          "at": 40.44,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 40.58,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "\\frac{1}{40}",
+          "at": 41.64,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "R1",
+      "at": 19.6
+    },
+    {
+      "row": 0,
+      "col": "R2",
+      "at": 19.85
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 3,
+      "col": "R",
+      "at": 42.09
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q",
+        "qx",
+        "qm"
+      ],
+      "at": 11.01,
+      "end": 12.109
+    },
+    {
+      "ids": [
+        "fr1"
+      ],
+      "at": 23.74,
+      "end": 30.2
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "fr1",
+        "fr2"
+      ],
+      "color": "rod",
+      "at": 4.24,
+      "end": 8.8
+    }
+  ],
+  "bagar": [],
+  "skamt": {
+    "ut": 4.24,
+    "tillbaka": 8.8,
+    "studsa": {
+      "ids": [
+        "fr1",
+        "fr2"
+      ],
+      "at": 6.87,
+      "end": 8.8
+    }
+  },
+  "alt": {
+    "losning": 4.04,
+    "tillbaka": 42.75
+  },
+  "lage": {
+    "rader": 610,
+    "krok": 1180
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.52,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 700,
+      "dur": 0.5
+    },
+    {
+      "at": 4.04,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 12.009,
+      "zoom": 1.35,
+      "x": 540,
+      "y": 640,
+      "dur": 0.45
+    },
+    {
+      "at": 30.1,
+      "zoom": 1.3,
+      "x": 540,
+      "y": 800,
+      "dur": 0.4
+    },
+    {
+      "at": 39.5,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 960,
+      "dur": 0.4
+    },
+    {
+      "at": 42.45,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Två bråk som inte har",
+      "start": 4.24,
+      "end": 5.58
+    },
+    {
+      "text": "något gemensamt",
+      "start": 5.58,
+      "end": 6.87
+    },
+    {
+      "text": "Inte ens nämnaren",
+      "start": 6.87,
+      "end": 8.8
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 8.8,
+      "end": 10.73
+    },
+    {
+      "text": "Vi ska hitta x",
+      "start": 10.73,
+      "end": 12.109
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 12.109,
+      "end": 13.589
+    },
+    {
+      "text": "5 minus 3 genom 8",
+      "start": 13.629,
+      "end": 15.89
+    },
+    {
+      "text": "minus 5",
+      "start": 15.89,
+      "end": 16.76
+    },
+    {
+      "text": "Det ger två tredjedelar",
+      "start": 16.76,
+      "end": 18.73
+    },
+    {
+      "text": "alltså A",
+      "start": 18.73,
+      "end": 19.6
+    },
+    {
+      "text": "Nej. Täljare och nämnare dras",
+      "start": 19.6,
+      "end": 21.84
+    },
+    {
+      "text": "inte av var för sig",
+      "start": 21.84,
+      "end": 23.74
+    },
+    {
+      "text": "Flytta över tre femtedelar",
+      "start": 23.74,
+      "end": 25.97
+    },
+    {
+      "text": "x är fem åttondelar minus",
+      "start": 25.97,
+      "end": 28.63
+    },
+    {
+      "text": "tre femtedelar",
+      "start": 28.63,
+      "end": 30.2
+    },
+    {
+      "text": "Gemensam nämnare är 40",
+      "start": 30.2,
+      "end": 32.38
+    },
+    {
+      "text": "Fem åttondelar är 25 fyrtiondelar",
+      "start": 32.38,
+      "end": 35.67
+    },
+    {
+      "text": "Tre femtedelar är 24 fyrtiondelar",
+      "start": 35.67,
+      "end": 39.6
+    },
+    {
+      "text": "Alltså är x lika med",
+      "start": 39.6,
+      "end": 41.64
+    },
+    {
+      "text": "en fyrtiondel",
+      "start": 41.64,
+      "end": 43.35
+    },
+    {
+      "text": "Svaret är D",
+      "start": 43.35,
+      "end": 44.61
+    }
+  ],
+  "circle": {
+    "start": 44.01,
+    "end": 44.71
+  },
+  "duration": 45.61
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "hp-ord-1ba2399d",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "1ba2399d-fab3-477f-aea5-564bbd63da17"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 7 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "patogen"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "känslostyrd"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "människofientlig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "välutvecklad"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "sjukdomsframkallande"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "lögnaktig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "sjukdomsframkallande",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 12.131,
+    "phases": {
+      "readStart": 1.426,
+      "writeStart": 2.137
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.426,
+          "end": 1.891
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 2.137,
+          "chars": [
+            2.137,
+            2.2775,
+            2.418,
+            2.5585,
+            2.699,
+            2.8395,
+            2.98,
+            3.1205,
+            3.261,
+            3.4015,
+            3.542,
+            3.6825,
+            3.823,
+            3.9635,
+            4.104,
+            4.2445,
+            4.385,
+            4.5255,
+            4.666,
+            4.8065
+          ]
+        },
+        {
+          "start": 6.67,
+          "chars": [
+            6.67,
+            6.8117,
+            6.9533,
+            7.095,
+            7.2367,
+            7.2792,
+            7.4209,
+            7.5626,
+            7.7042,
+            7.8459,
+            7.9876,
+            8.1292,
+            8.2709,
+            8.4126,
+            8.5543,
+            8.5968,
+            8.7384,
+            8.781,
+            8.9226,
+            9.0643,
+            9.206,
+            9.3477,
+            9.4893
+          ]
+        }
+      ],
+      "circle": {
+        "start": 5.081,
+        "end": 5.987
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

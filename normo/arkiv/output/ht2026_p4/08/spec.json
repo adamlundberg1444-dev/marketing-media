@@ -1,0 +1,294 @@
+{
+  "slug": "hp-xyz-e20eae5d",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "e20eae5d-21d9-43b4-b1d5-772e0bc5e502"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ · fråga 8 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " 5{,}3x - 4{,}9 = 6x ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " -7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " -0{,}7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 0{,}7 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "7"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "5,3x - 4,9 = 6x"
+    },
+    {
+      "text": "-4,9 = 6x - 5,3x = 0,7x"
+    },
+    {
+      "text": "x = \\frac{-4,9}{0,7} = \\frac{-49}{7} = -7",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 21.794,
+    "phases": {
+      "readStart": 1.166,
+      "writeStart": 7.58
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.166,
+          "end": 6.24
+        },
+        {
+          "start": 6.24,
+          "end": 6.542
+        },
+        {
+          "start": 6.658,
+          "end": 6.785
+        },
+        {
+          "start": 6.785,
+          "end": 6.9728
+        },
+        {
+          "start": 6.9728,
+          "end": 7.157
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.58,
+          "chars": [
+            7.58,
+            7.7399,
+            7.8999,
+            8.0598,
+            8.2197,
+            8.2677,
+            8.4277,
+            8.4756,
+            8.6356,
+            8.7955,
+            8.9554,
+            9.0034,
+            9.1634,
+            9.2113,
+            9.3713
+          ]
+        },
+        {
+          "start": 9.5312,
+          "chars": [
+            9.5312,
+            9.6911,
+            9.8511,
+            10.011,
+            10.171,
+            10.2189,
+            10.3789,
+            10.4269,
+            10.5868,
+            10.7467,
+            10.7947,
+            10.9546,
+            11.0026,
+            11.1626,
+            11.3225,
+            11.4824,
+            11.6424,
+            11.6903,
+            11.8503,
+            11.8983,
+            12.0582,
+            12.2181,
+            12.3781
+          ]
+        },
+        {
+          "start": 13.063,
+          "chars": [
+            13.063,
+            13.2505,
+            13.3068,
+            13.4944,
+            13.5506,
+            13.7382,
+            13.9257,
+            14.1133,
+            14.3008,
+            14.4884,
+            14.6759,
+            14.8635,
+            15.051,
+            15.1073,
+            15.2948,
+            15.3511,
+            15.5386,
+            15.7262,
+            15.9137,
+            16.1013,
+            16.2888,
+            16.3451,
+            16.5326,
+            16.5889,
+            16.7765
+          ]
+        },
+        {
+          "start": 18.388,
+          "chars": [
+            18.388,
+            18.445,
+            18.502,
+            18.5589,
+            18.6159,
+            18.6729,
+            18.69,
+            18.747,
+            18.804,
+            18.8609,
+            18.878,
+            18.935,
+            18.9521,
+            19.0091,
+            19.0661,
+            19.1231,
+            19.18,
+            19.237
+          ]
+        }
+      ],
+      "circle": {
+        "start": 17.527,
+        "end": 18.154
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 0,
+          "op": "- 5,3x",
+          "eq": 11,
+          "stryk": {
+            "from": 0,
+            "to": 3,
+            "sida": "vanster"
+          },
+          "start": 7.58,
+          "end": 9.431
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

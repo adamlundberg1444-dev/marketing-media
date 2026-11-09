@@ -1,0 +1,559 @@
+{
+  "slug": "hp-las-d5e75cf4-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "d5e75cf4-1a88-4db5-b370-cf8d2f42d937"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "beskriver"
+      },
+      {
+        "text": "recensenten"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "textens"
+      },
+      {
+        "text": "två"
+      },
+      {
+        "text": "inledande"
+      },
+      {
+        "text": "stycken?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 8,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "samhällets"
+          },
+          {
+            "text": "speciella"
+          },
+          {
+            "text": "ställning"
+          },
+          {
+            "text": "som"
+          },
+          {
+            "text": "studieobjekt."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "politikens"
+          },
+          {
+            "text": "rötter"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "en"
+          },
+          {
+            "text": "europeisk"
+          },
+          {
+            "text": "idétradition."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "modellens"
+          },
+          {
+            "text": "betydelse"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "svenskarnas"
+          },
+          {
+            "text": "självbild."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Den"
+          },
+          {
+            "text": "svenska"
+          },
+          {
+            "text": "socialdemokratins"
+          },
+          {
+            "text": "rörelse"
+          },
+          {
+            "text": "från"
+          },
+          {
+            "text": "utopiskt"
+          },
+          {
+            "text": "teoribygge"
+          },
+          {
+            "text": "till"
+          },
+          {
+            "text": "kompromissinriktad"
+          },
+          {
+            "text": "praktik."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__d5e75cf4-1a88-4db5-b370-cf8d2f42d937.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "Sverige som studieobjekt",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 49.92,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 39.42
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.36
+        },
+        {
+          "start": 0.4,
+          "end": 1.06
+        },
+        {
+          "start": 1.12,
+          "end": 1.84
+        },
+        {
+          "start": 1.86,
+          "end": 1.94
+        },
+        {
+          "start": 2,
+          "end": 2.54
+        },
+        {
+          "start": 2.6,
+          "end": 2.98
+        },
+        {
+          "start": 3.1,
+          "end": 3.82
+        },
+        {
+          "start": 3.9,
+          "end": 4.52
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 39.42,
+          "chars": [
+            39.42,
+            39.6554,
+            39.8908,
+            40.1262,
+            40.3616,
+            40.597,
+            40.8324,
+            41.0678,
+            41.1384,
+            41.3738,
+            41.6092,
+            41.8446,
+            41.9152,
+            42.1506,
+            42.386,
+            42.6214,
+            42.8568,
+            43.0922,
+            43.3276,
+            43.563,
+            43.7984,
+            44.0338,
+            44.2692,
+            44.5046
+          ]
+        },
+        {
+          "start": 49.7,
+          "chars": [
+            49.7,
+            49.7096,
+            49.7191,
+            49.7287,
+            49.7383,
+            49.7411,
+            49.7507,
+            49.7603,
+            49.7699,
+            49.7794,
+            49.789,
+            49.7986,
+            49.8081,
+            49.8177,
+            49.8273,
+            49.8301,
+            49.8397,
+            49.8426,
+            49.8522,
+            49.8617,
+            49.8713,
+            49.8809,
+            49.8904
+          ]
+        }
+      ],
+      "circle": {
+        "start": 47.56,
+        "end": 48.42
+      },
+      "options": {
+        "hideAt": 11.98,
+        "showAt": 46.66
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 6.12,
+          "end": 6.87,
+          "targets": [
+            {
+              "w": 5,
+              "from": "två stycken",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "två stycken",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "två stycken",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 18.92,
+          "end": 19.67,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7218,
+                  0.0708
+                ],
+                [
+                  0.7815,
+                  0.0708
+                ],
+                [
+                  0.7815,
+                  0.1068
+                ],
+                [
+                  0.7218,
+                  0.1068
+                ]
+              ],
+              "color": "bla",
+              "from": "forskningen",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 18.92,
+          "end": 19.67,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.1178
+                ],
+                [
+                  0.8536,
+                  0.1178
+                ],
+                [
+                  0.8536,
+                  0.1538
+                ],
+                [
+                  0,
+                  0.1538
+                ]
+              ],
+              "color": "bla",
+              "from": "forskningen",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 18.92,
+          "end": 19.67,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.1648
+                ],
+                [
+                  0.2172,
+                  0.1648
+                ],
+                [
+                  0.2172,
+                  0.2008
+                ],
+                [
+                  0,
+                  0.2008
+                ]
+              ],
+              "color": "bla",
+              "from": "forskningen",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 25.72,
+          "end": 26.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.369
+                ],
+                [
+                  0.6335,
+                  0.369
+                ],
+                [
+                  0.6335,
+                  0.405
+                ],
+                [
+                  0,
+                  0.405
+                ]
+              ],
+              "color": "bla",
+              "from": "skjuts",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 35.88,
+          "end": 36.63,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.8415,
+                  0.8083
+                ],
+                [
+                  0.9799,
+                  0.8083
+                ],
+                [
+                  0.9799,
+                  0.8443
+                ],
+                [
+                  0.8415,
+                  0.8443
+                ]
+              ],
+              "color": "bla",
+              "from": "projicerar",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 35.88,
+          "end": 36.63,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8553
+                ],
+                [
+                  0.9338,
+                  0.8553
+                ],
+                [
+                  0.9338,
+                  0.8913
+                ],
+                [
+                  0,
+                  0.8913
+                ]
+              ],
+              "color": "bla",
+              "from": "projicerar",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 35.88,
+          "end": 36.63,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.9023
+                ],
+                [
+                  0.139,
+                  0.9023
+                ],
+                [
+                  0.139,
+                  0.9383
+                ],
+                [
+                  0,
+                  0.9383
+                ]
+              ],
+              "color": "bla",
+              "from": "projicerar",
+              "hlFarg": "gul",
+              "mi": 6
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 49.65
+  },
+  "layout": {},
+  "variant": "app"
+}

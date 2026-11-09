@@ -1,0 +1,295 @@
+{
+  "slug": "hp-xyz-2dd15c0e-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "2dd15c0e-ccc9-4faa-9775-65786778a71c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " 3(x - 5) = 2(x + 6) ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " -3 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " 3 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 11 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 27 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "3x - 15 = 2x + 12"
+    },
+    {
+      "text": "x - 15 = 12"
+    },
+    {
+      "text": "x = 27",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 81.33,
+    "phases": {
+      "readStart": 0,
+      "writeStart": 11.887
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0,
+          "end": 2.8619
+        },
+        {
+          "start": 2.8619,
+          "end": 3.413
+        },
+        {
+          "start": 3.413,
+          "end": 3.68
+        },
+        {
+          "start": 3.68,
+          "end": 7.2734
+        },
+        {
+          "start": 7.2734,
+          "end": 10.799
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 11.887,
+          "chars": [
+            11.887,
+            12.1343,
+            12.3817,
+            12.4559,
+            12.7032,
+            12.7774,
+            13.0248,
+            13.2721,
+            13.3463,
+            13.5937,
+            13.6679,
+            13.9152,
+            14.1626,
+            14.2368,
+            14.4841,
+            14.5583,
+            14.8057
+          ]
+        },
+        {
+          "start": 30.89,
+          "chars": [
+            30.89,
+            31.1527,
+            31.2315,
+            31.4942,
+            31.573,
+            31.8357,
+            32.0983,
+            32.1771,
+            32.4398,
+            32.5186,
+            32.7813
+          ]
+        },
+        {
+          "start": 43.39,
+          "chars": [
+            43.39,
+            43.6861,
+            43.7749,
+            44.071,
+            44.1598,
+            44.4559
+          ]
+        },
+        {
+          "start": 66.95,
+          "chars": [
+            66.95,
+            67.1867,
+            67.4235,
+            67.6602,
+            67.897,
+            67.968,
+            68.2048,
+            68.4415,
+            68.6782,
+            68.915,
+            69.1517,
+            69.3885,
+            69.6252,
+            69.862,
+            70.0987,
+            70.1698,
+            70.4065,
+            70.4775,
+            70.7143,
+            70.951,
+            71.1878,
+            71.4245,
+            71.6613
+          ]
+        }
+      ],
+      "circle": {
+        "start": 50.054,
+        "end": 51.69
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 54.01,
+          "end": 54.76,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 66.95,
+          "end": 67.7,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 68.05,
+          "end": 68.8,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0,
+          "end": 0.75,
+          "targets": [
+            {
+              "w": 0,
+              "from": "3 gånger",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appKeepCta": true
+  },
+  "variant": "app"
+}

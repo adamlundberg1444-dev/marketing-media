@@ -1,0 +1,46 @@
+{
+  "slug": "xyz_760f7304_20263710",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "XYZ från\nhögskoleprovet",
+      "pillText": "XYZ-fråga",
+      "bgImage": "tiktok/assets/intro/intro-25.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "Vad är \\(\\frac{1}{\\frac{1}{x}+\\frac{1}{2}}\\)om \\(x = 4\\)?",
+      "options": [
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{4}{3}\\)",
+        "6"
+      ],
+      "figCompact": false,
+      "optBig": true,
+      "optsGrid": true
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "Vad är \\(\\frac{1}{\\frac{1}{x}+\\frac{1}{2}}\\)om \\(x = 4\\)?",
+      "options": [
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{4}{3}\\)",
+        "6"
+      ],
+      "figCompact": false,
+      "optBig": true,
+      "optsGrid": true,
+      "correct": 2
+    },
+    {
+      "kind": "cta",
+      "title": "Öva gratis\ninför HP"
+    }
+  ]
+}

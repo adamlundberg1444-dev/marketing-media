@@ -1,0 +1,419 @@
+{
+  "slug": "hp-las-a093241d",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "a093241d-4014-4975-a465-7c13d4c59591"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.8,
+    "optionGapScale": 0.6,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "optionWrap": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "LÄS · fråga 12 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "tema"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "båda"
+      },
+      {
+        "text": "texterna"
+      },
+      {
+        "text": "gemensamt?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "fridfulla"
+          },
+          {
+            "text": "avskedet."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Det"
+          },
+          {
+            "text": "ofrånkomliga"
+          },
+          {
+            "text": "vemodet."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "De"
+          },
+          {
+            "text": "flyktiga"
+          },
+          {
+            "text": "skeendenas"
+          },
+          {
+            "text": "ovisshet."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Den"
+          },
+          {
+            "text": "cykliska"
+          },
+          {
+            "text": "upprepningens"
+          },
+          {
+            "text": "trygghet."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/las__a093241d-4014-4975-a465-7c13d4c59591.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "återkomsten ger trygghet",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 41.154,
+    "phases": {
+      "readStart": 1.886,
+      "writeStart": 22.914
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.886,
+          "end": 2.165
+        },
+        {
+          "start": 2.188,
+          "end": 2.49
+        },
+        {
+          "start": 2.525,
+          "end": 2.629
+        },
+        {
+          "start": 2.652,
+          "end": 2.71
+        },
+        {
+          "start": 2.757,
+          "end": 3.024
+        },
+        {
+          "start": 3.07,
+          "end": 3.465
+        },
+        {
+          "start": 3.5,
+          "end": 4.162
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.914,
+          "chars": [
+            22.914,
+            23.0907,
+            23.2675,
+            23.4442,
+            23.6209,
+            23.7976,
+            23.9744,
+            24.1511,
+            24.3278,
+            24.5045,
+            24.6813,
+            24.858,
+            24.911,
+            25.0877,
+            25.2645,
+            25.4412,
+            25.4942,
+            25.6709,
+            25.8476,
+            26.0244,
+            26.2011,
+            26.3778,
+            26.5545,
+            26.7313
+          ]
+        },
+        {
+          "start": 35.868,
+          "chars": [
+            35.868,
+            36.0329,
+            36.1977,
+            36.3626,
+            36.5274,
+            36.6923,
+            36.7417,
+            36.9066,
+            37.0714,
+            37.2363,
+            37.4011,
+            37.4506,
+            37.6154,
+            37.6649,
+            37.8297,
+            37.9946,
+            38.1594,
+            38.3243,
+            38.4891
+          ]
+        }
+      ],
+      "circle": {
+        "start": 34.527,
+        "end": 35.41
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 28.021,
+          "end": 28.771,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 5.545,
+          "end": 6.295,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.3873
+                ],
+                [
+                  0.4275,
+                  0.3873
+                ],
+                [
+                  0.4275,
+                  0.4223
+                ],
+                [
+                  0.0435,
+                  0.4223
+                ]
+              ],
+              "color": "orange",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 14.834,
+          "end": 15.584,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.6198
+                ],
+                [
+                  0.5296,
+                  0.6198
+                ],
+                [
+                  0.5296,
+                  0.6548
+                ],
+                [
+                  0.0435,
+                  0.6548
+                ]
+              ],
+              "color": "orange",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 19.561,
+          "end": 20.311,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7514,
+                  0.8341
+                ],
+                [
+                  0.9435,
+                  0.8341
+                ],
+                [
+                  0.9435,
+                  0.8691
+                ],
+                [
+                  0.7514,
+                  0.8691
+                ]
+              ],
+              "color": "orange",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 20.661,
+          "end": 21.411,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0435,
+                  0.8739
+                ],
+                [
+                  0.4567,
+                  0.8739
+                ],
+                [
+                  0.4567,
+                  0.9089
+                ],
+                [
+                  0.0435,
+                  0.9089
+                ]
+              ],
+              "color": "orange",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 4.545,
+          "end": 12.72,
+          "omrade": [
+            0,
+            0.2757,
+            1,
+            0.5237
+          ]
+        },
+        {
+          "start": 13.834,
+          "end": 18.05,
+          "omrade": [
+            0,
+            0.4623,
+            1,
+            0.7471
+          ]
+        },
+        {
+          "start": 18.561,
+          "end": 22.411,
+          "omrade": [
+            0,
+            0.6857,
+            1,
+            0.9215
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

@@ -1,0 +1,600 @@
+{
+  "slug": "hp-las-d56505a1-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "d56505a1-bb1e-41db-99c9-cb2c80ef35c2"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilken"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "händelser"
+      },
+      {
+        "text": "lyfter"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "fram"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "möjligt"
+      },
+      {
+        "text": "upphov"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "livet"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "jorden?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Kemiska"
+          },
+          {
+            "text": "reaktioner"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "jordens"
+          },
+          {
+            "text": "urberg."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Kollisioner"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "himlakroppar."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Isbildning"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "månar."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Molekylära"
+          },
+          {
+            "text": "reaktioner"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "kolväten."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__d56505a1-bb1e-41db-99c9-cb2c80ef35c2.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kollisioner kan ha gett liv",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 52.86,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 42.7
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.6
+        },
+        {
+          "start": 0.66,
+          "end": 0.76
+        },
+        {
+          "start": 0.8,
+          "end": 1.36
+        },
+        {
+          "start": 1.4,
+          "end": 2.02
+        },
+        {
+          "start": 2.22,
+          "end": 2.54
+        },
+        {
+          "start": 2.58,
+          "end": 3.02
+        },
+        {
+          "start": 3.12,
+          "end": 3.44
+        },
+        {
+          "start": 3.56,
+          "end": 3.66
+        },
+        {
+          "start": 3.7,
+          "end": 3.8
+        },
+        {
+          "start": 3.86,
+          "end": 4.32
+        },
+        {
+          "start": 4.4,
+          "end": 4.92
+        },
+        {
+          "start": 5.16,
+          "end": 5.28
+        },
+        {
+          "start": 5.32,
+          "end": 5.64
+        },
+        {
+          "start": 5.68,
+          "end": 5.78
+        },
+        {
+          "start": 5.84,
+          "end": 6.32
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 42.7,
+          "chars": [
+            42.7,
+            42.9345,
+            43.1689,
+            43.4034,
+            43.6379,
+            43.8723,
+            44.1068,
+            44.3412,
+            44.5757,
+            44.8102,
+            45.0446,
+            45.2791,
+            45.3494,
+            45.5839,
+            45.8184,
+            46.0528,
+            46.1232,
+            46.3576,
+            46.5921,
+            46.6624,
+            46.8969,
+            47.1313,
+            47.3658,
+            47.6003,
+            47.6706,
+            47.9051,
+            48.1395
+          ]
+        },
+        {
+          "start": 51.48,
+          "chars": [
+            51.48,
+            51.5288,
+            51.5776,
+            51.6264,
+            51.6752,
+            51.6899,
+            51.7387,
+            51.7875,
+            51.8363,
+            51.8851,
+            51.9339,
+            51.9827,
+            52.0315,
+            52.0803,
+            52.1291,
+            52.1437,
+            52.1925,
+            52.2072,
+            52.256,
+            52.3048,
+            52.3536,
+            52.4024,
+            52.4512
+          ]
+        }
+      ],
+      "circle": {
+        "start": 50.8,
+        "end": 51.36
+      },
+      "options": {
+        "hideAt": 18.04,
+        "showAt": 49.9
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 9.66,
+          "end": 10.41,
+          "targets": [
+            {
+              "w": 10,
+              "from": "upphov",
+              "color": "gul"
+            },
+            {
+              "w": 11,
+              "from": "upphov",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "upphov",
+              "color": "gul"
+            },
+            {
+              "w": 13,
+              "from": "upphov",
+              "color": "gul"
+            },
+            {
+              "w": 14,
+              "from": "upphov",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 21.6,
+          "end": 22.35,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7437,
+                  0.5975
+                ],
+                [
+                  0.8597,
+                  0.5975
+                ],
+                [
+                  0.8597,
+                  0.6356
+                ],
+                [
+                  0.7437,
+                  0.6356
+                ]
+              ],
+              "color": "bla",
+              "from": "kollisioner",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 21.6,
+          "end": 22.35,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6473
+                ],
+                [
+                  0.9724,
+                  0.6473
+                ],
+                [
+                  0.9724,
+                  0.6854
+                ],
+                [
+                  0,
+                  0.6854
+                ]
+              ],
+              "color": "bla",
+              "from": "kollisioner",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 21.6,
+          "end": 22.35,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6971
+                ],
+                [
+                  0.9144,
+                  0.6971
+                ],
+                [
+                  0.9144,
+                  0.7353
+                ],
+                [
+                  0,
+                  0.7353
+                ]
+              ],
+              "color": "bla",
+              "from": "kollisioner",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 21.6,
+          "end": 22.35,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.747
+                ],
+                [
+                  0.2062,
+                  0.747
+                ],
+                [
+                  0.2062,
+                  0.7851
+                ],
+                [
+                  0,
+                  0.7851
+                ]
+              ],
+              "color": "bla",
+              "from": "kollisioner",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 31.06,
+          "end": 31.81,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3107,
+                  0.7968
+                ],
+                [
+                  0.9716,
+                  0.7968
+                ],
+                [
+                  0.9716,
+                  0.8349
+                ],
+                [
+                  0.3107,
+                  0.8349
+                ]
+              ],
+              "color": "bla",
+              "from": "proteiner",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 39.9,
+          "end": 40.64,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7928,
+                  0.2314
+                ],
+                [
+                  0.9869,
+                  0.2314
+                ],
+                [
+                  0.9869,
+                  0.2696
+                ],
+                [
+                  0.7928,
+                  0.2696
+                ]
+              ],
+              "color": "bla",
+              "from": "nedslag",
+              "hlFarg": "lila",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 39.9,
+          "end": 40.64,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.2813
+                ],
+                [
+                  0.8941,
+                  0.2813
+                ],
+                [
+                  0.8941,
+                  0.3194
+                ],
+                [
+                  0,
+                  0.3194
+                ]
+              ],
+              "color": "bla",
+              "from": "nedslag",
+              "hlFarg": "lila",
+              "mi": 6
+            }
+          ]
+        },
+        {
+          "start": 39.9,
+          "end": 40.64,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.3311
+                ],
+                [
+                  0.657,
+                  0.3311
+                ],
+                [
+                  0.657,
+                  0.3693
+                ],
+                [
+                  0,
+                  0.3693
+                ]
+              ],
+              "color": "bla",
+              "from": "nedslag",
+              "hlFarg": "lila",
+              "mi": 7
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 51.43
+  },
+  "layout": {},
+  "variant": "app"
+}

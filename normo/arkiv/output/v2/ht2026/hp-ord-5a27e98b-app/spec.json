@@ -1,0 +1,215 @@
+{
+  "slug": "hp-ord-5a27e98b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "5a27e98b-e27a-418b-af3e-86bbf7529953"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "partiellt"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "kortvarigt"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "rättvist"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "gemensamt"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "delvis"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "osakligt"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "partiellt = delvis",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 29.44,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 18.64
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.84
+        },
+        {
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "start": 0.84,
+          "end": 0.84
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.64,
+          "chars": [
+            18.64,
+            18.8811,
+            19.1222,
+            19.3633,
+            19.6043,
+            19.8454,
+            20.0865,
+            20.3276,
+            20.5687,
+            20.8098,
+            20.8821,
+            21.1232,
+            21.1955,
+            21.4366,
+            21.6777,
+            21.9187,
+            22.1598,
+            22.4009
+          ]
+        },
+        {
+          "start": 27.98,
+          "chars": [
+            27.98,
+            27.9937,
+            28.0074,
+            28.0211,
+            28.0348,
+            28.0485,
+            28.0526,
+            28.0663,
+            28.08,
+            28.0937,
+            28.0978,
+            28.1115,
+            28.1252,
+            28.1389,
+            28.1526,
+            28.1663
+          ]
+        }
+      ],
+      "circle": {
+        "start": 26.16,
+        "end": 27.94
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.1,
+          "end": 0.84,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Partiellt"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 27.93
+  },
+  "layout": {},
+  "variant": "app"
+}

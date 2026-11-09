@@ -1,0 +1,435 @@
+{
+  "slug": "hp-kva-2233ceab",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "2233ceab-b762-461d-9102-82619d357f32"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "HT 2017 · fråga 20",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "(-2)^4 = 16 \\qquad -2^4 = -16 \\qquad 3^{-2} = \\tfrac{1}{9}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": "\\frac{x}{y} = -1",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": "x^3 + y^3",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": "x^2 + y^2",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{x}{y} = -1"
+    },
+    {
+      "text": "x = -y"
+    },
+    {
+      "text": "I = (-y)^3+y^3 = -y^3+y^3 = 0"
+    },
+    {
+      "text": "II = (-y)^2+y^2 = y^2+y^2 = 2y^2"
+    },
+    {
+      "text": "II > I",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 86.662,
+    "phases": {
+      "readStart": 5.418,
+      "writeStart": 35.675
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.418,
+          "end": 8.622
+        },
+        {
+          "start": 8.622,
+          "end": 9.319
+        },
+        {
+          "start": 9.319,
+          "end": 11.1662
+        },
+        {
+          "start": 11.1662,
+          "end": 14.102
+        },
+        {
+          "start": 14.102,
+          "end": 14.683
+        },
+        {
+          "start": 14.683,
+          "end": 16.0051
+        },
+        {
+          "start": 16.0051,
+          "end": 17.934
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 35.675,
+          "chars": [
+            35.675,
+            35.948,
+            36.2211,
+            36.4941,
+            36.576,
+            36.849,
+            36.9309,
+            37.204
+          ]
+        },
+        {
+          "start": 40.916,
+          "chars": [
+            40.916,
+            41.2121,
+            41.3009,
+            41.597,
+            41.6858,
+            41.9819
+          ]
+        },
+        {
+          "start": 49.784,
+          "chars": [
+            49.784,
+            50.0208,
+            50.0919,
+            50.3287,
+            50.3997,
+            50.6366,
+            50.8734,
+            51.1102,
+            51.3471,
+            51.5839,
+            51.8207,
+            52.0575,
+            52.2944,
+            52.3654,
+            52.6022,
+            52.6733,
+            52.9101,
+            53.1469,
+            53.3838,
+            53.6206,
+            53.8574,
+            54.0943,
+            54.1653,
+            54.4021,
+            54.4732
+          ]
+        },
+        {
+          "start": 57.606,
+          "chars": [
+            57.606,
+            57.8414,
+            58.0767,
+            58.1473,
+            58.3827,
+            58.4533,
+            58.6886,
+            58.924,
+            59.1593,
+            59.3947,
+            59.63,
+            59.8654,
+            60.1007,
+            60.3361,
+            60.4067,
+            60.642,
+            60.7126,
+            60.948,
+            61.1833,
+            61.4187,
+            61.654,
+            61.8894,
+            61.96,
+            62.1953,
+            62.2659,
+            62.5013,
+            62.7366
+          ]
+        },
+        {
+          "start": 67.994,
+          "chars": [
+            67.994,
+            68.2901,
+            68.5862,
+            68.675,
+            68.9711,
+            69.0599
+          ]
+        },
+        {
+          "start": 80.899,
+          "chars": [
+            80.899,
+            81.0551,
+            81.2112,
+            81.3674,
+            81.5235,
+            81.5703,
+            81.7265,
+            81.8826,
+            82.0387,
+            82.1948,
+            82.351,
+            82.5071,
+            82.6632,
+            82.8193,
+            82.9755,
+            83.0223,
+            83.1784,
+            83.2253,
+            83.3814,
+            83.5375,
+            83.6936,
+            83.8498,
+            84.0059
+          ]
+        }
+      ],
+      "circle": {
+        "start": 76.194,
+        "end": 79.096
+      },
+      "options": {
+        "hideAt": 22.242,
+        "showAt": 75.294
+      },
+      "concept": {
+        "start": 23.005,
+        "end": 33.767,
+        "hideAt": 40.84
+      },
+      "strikes": [
+        {
+          "start": 49.784,
+          "end": 50.534,
+          "targets": [
+            {
+              "li": 2,
+              "from": 10,
+              "to": 11,
+              "snett": false
+            }
+          ]
+        },
+        {
+          "start": 50.884,
+          "end": 51.634,
+          "targets": [
+            {
+              "li": 2,
+              "from": 16,
+              "to": 17,
+              "snett": false
+            }
+          ]
+        },
+        {
+          "start": 51.984,
+          "end": 52.734,
+          "targets": [
+            {
+              "li": 2,
+              "from": 19,
+              "to": 20,
+              "snett": false
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 0,
+          "op": "· y",
+          "eq": 4,
+          "stryk": {
+            "from": 2,
+            "to": 2,
+            "sida": "vanster"
+          },
+          "start": 40.916,
+          "end": 48.858
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

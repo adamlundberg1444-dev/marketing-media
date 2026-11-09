@@ -1,0 +1,458 @@
+{
+  "slug": "hp-mek-d0887e13-app",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "d0887e13-7258-4c59-a2c6-2b8bd97e6fff"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Att"
+      },
+      {
+        "text": "träna"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "viktigt"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "upprätthålla"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "effektiv"
+      },
+      {
+        "text": "syreupptagningsförmåga."
+      },
+      {
+        "text": "I"
+      },
+      {
+        "text": "takt"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "syreupptagningen"
+      },
+      {
+        "text": "ökar"
+      },
+      {
+        "text": "bidrar"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "uthållighet"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "förbättrade"
+      },
+      {
+        "text": "resultat."
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "träning"
+      },
+      {
+        "text": "anses"
+      },
+      {
+        "text": "vara"
+      },
+      {
+        "text": "mest"
+      },
+      {
+        "text": "lämplig,"
+      },
+      {
+        "text": "eftersom"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "höjer"
+      },
+      {
+        "text": "hjärtfrekvensen"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "ökar"
+      },
+      {
+        "text": "syreintaget."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 36,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Aerob"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Binär"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Periodisk"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Elastisk"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null,
+    "gapFill": [
+      "Aerob"
+    ],
+    "gapFarg": [
+      "gul"
+    ]
+  },
+  "writeLines": [
+    {
+      "text": "aerob = med syre",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 54.41,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 43.54
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.28
+        },
+        {
+          "start": 0.34,
+          "end": 0.82
+        },
+        {
+          "start": 0.88,
+          "end": 0.96
+        },
+        {
+          "start": 1,
+          "end": 1.42
+        },
+        {
+          "start": 1.46,
+          "end": 1.54
+        },
+        {
+          "start": 1.6,
+          "end": 1.68
+        },
+        {
+          "start": 1.74,
+          "end": 2.32
+        },
+        {
+          "start": 2.36,
+          "end": 2.48
+        },
+        {
+          "start": 2.56,
+          "end": 3.16
+        },
+        {
+          "start": 3.24,
+          "end": 4.86
+        },
+        {
+          "start": 5.96,
+          "end": 6.02
+        },
+        {
+          "start": 6.08,
+          "end": 6.32
+        },
+        {
+          "start": 6.36,
+          "end": 6.42
+        },
+        {
+          "start": 6.46,
+          "end": 6.54
+        },
+        {
+          "start": 6.6,
+          "end": 7.6
+        },
+        {
+          "start": 7.72,
+          "end": 8.56
+        },
+        {
+          "start": 8.68,
+          "end": 9.14
+        },
+        {
+          "start": 9.18,
+          "end": 9.38
+        },
+        {
+          "start": 9.42,
+          "end": 9.58
+        },
+        {
+          "start": 9.68,
+          "end": 10.68
+        },
+        {
+          "start": 10.74,
+          "end": 10.8
+        },
+        {
+          "start": 10.86,
+          "end": 11.5
+        },
+        {
+          "start": 11.54,
+          "end": 12.3
+        },
+        {
+          "start": 12.3,
+          "end": 15.24
+        },
+        {
+          "start": 15.24,
+          "end": 15.74
+        },
+        {
+          "start": 15.84,
+          "end": 16.12
+        },
+        {
+          "start": 16.16,
+          "end": 16.36
+        },
+        {
+          "start": 16.42,
+          "end": 16.72
+        },
+        {
+          "start": 16.78,
+          "end": 17.36
+        },
+        {
+          "start": 17.84,
+          "end": 18.18
+        },
+        {
+          "start": 18.22,
+          "end": 18.42
+        },
+        {
+          "start": 18.48,
+          "end": 18.84
+        },
+        {
+          "start": 18.88,
+          "end": 19.94
+        },
+        {
+          "start": 20,
+          "end": 20.1
+        },
+        {
+          "start": 20.24,
+          "end": 20.68
+        },
+        {
+          "start": 20.76,
+          "end": 21.84
+        },
+        {
+          "start": 21.84,
+          "end": 21.84
+        },
+        {
+          "start": 21.84,
+          "end": 21.84
+        },
+        {
+          "start": 21.84,
+          "end": 21.84
+        },
+        {
+          "start": 21.84,
+          "end": 21.84
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 43.54,
+          "chars": [
+            43.54,
+            43.7852,
+            44.0304,
+            44.2755,
+            44.5207,
+            44.7659,
+            44.8395,
+            45.0846,
+            45.1582,
+            45.4034,
+            45.6485,
+            45.8937,
+            45.9673,
+            46.2125,
+            46.4576,
+            46.7028
+          ]
+        },
+        {
+          "start": 54.46,
+          "chars": [
+            54.46,
+            54.4726,
+            54.4852,
+            54.4977,
+            54.5103,
+            54.5229,
+            54.5267,
+            54.5392,
+            54.5518,
+            54.5644,
+            54.5682,
+            54.5808,
+            54.5845,
+            54.5971,
+            54.6097,
+            54.6223,
+            54.6348,
+            54.6474
+          ]
+        }
+      ],
+      "circle": {
+        "start": 41.14,
+        "end": 42.04
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 29.06,
+          "end": 29.81,
+          "targets": [
+            {
+              "w": 34,
+              "from": "ökar syreintaget",
+              "color": "gul"
+            },
+            {
+              "w": 35,
+              "from": "ökar syreintaget",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,418 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "just": "vanster",
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "q1",
+          "t": "Summan av "
+        },
+        {
+          "id": "q2",
+          "t": "tre på varandra "
+        },
+        {
+          "id": "q3",
+          "t": "följande heltal "
+        },
+        {
+          "id": "q4",
+          "t": "är "
+        },
+        {
+          "id": "qx",
+          "t": "x",
+          "it": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "just": "vanster",
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "f1",
+          "t": "Vad är ett "
+        },
+        {
+          "id": "f2",
+          "t": "möjligt värde "
+        },
+        {
+          "id": "f3",
+          "t": "på "
+        },
+        {
+          "id": "fx",
+          "t": "x",
+          "it": true
+        },
+        {
+          "id": "fq",
+          "t": "?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "\\text{54}"
+    },
+    {
+      "letter": "B",
+      "tex": "\\text{68}"
+    },
+    {
+      "letter": "C",
+      "tex": "\\text{71}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{89}"
+    }
+  ],
+  "correct": 0,
+  "hook": {
+    "lines": [
+      "Den här HP-frågan",
+      "har en genväg."
+    ],
+    "start": 0,
+    "end": 4.51
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 4.51,
+    "d": "M 900 990 C 990 800, 990 560, 870 410",
+    "head": "M 952 441 L 870 410 L 882 497"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 13.52,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "(n-1)",
+              "at": 16.53
+            },
+            {
+              "k": "p1",
+              "tex": "+",
+              "at": 16.88
+            },
+            {
+              "k": "n",
+              "tex": "n",
+              "at": 13.92
+            },
+            {
+              "k": "p2",
+              "tex": "+",
+              "at": 17.94
+            },
+            {
+              "k": "c",
+              "tex": "(n+1)",
+              "at": 18.14
+            }
+          ]
+        },
+        {
+          "at": 19.24,
+          "termer": [
+            {
+              "k": "a",
+              "tex": "n"
+            },
+            {
+              "k": "p1",
+              "tex": "+"
+            },
+            {
+              "k": "n",
+              "tex": "n"
+            },
+            {
+              "k": "p2",
+              "tex": "+"
+            },
+            {
+              "k": "c",
+              "tex": "n"
+            }
+          ]
+        },
+        {
+          "at": 21.3,
+          "termer": [
+            {
+              "k": "x",
+              "tex": "x"
+            },
+            "=",
+            {
+              "k": "s",
+              "tex": "3n",
+              "fran": [
+                "a",
+                "p1",
+                "n",
+                "p2",
+                "c"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "5+4",
+          "at": 28.53,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 29.78,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "9",
+          "at": 30.03,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "17+18+19",
+          "at": 37.841,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 39.56,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "54",
+          "at": 39.76,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "R",
+      "at": 40.21
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "f1",
+        "f2",
+        "f3",
+        "fx",
+        "fq"
+      ],
+      "at": 10.94,
+      "end": 13.06
+    },
+    {
+      "ids": [
+        "q4",
+        "qx"
+      ],
+      "at": 20.84,
+      "end": 23.68
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "q2",
+        "q3"
+      ],
+      "color": "rod",
+      "at": 4.49,
+      "end": 9.18
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 4.29,
+    "tillbaka": 39.95
+  },
+  "lage": null,
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.5,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 640,
+      "dur": 0.5
+    },
+    {
+      "at": 4.39,
+      "zoom": 1.2,
+      "x": 500,
+      "y": 430,
+      "dur": 0.45
+    },
+    {
+      "at": 12.86,
+      "zoom": 1.12,
+      "x": 540,
+      "y": 640,
+      "dur": 0.45
+    },
+    {
+      "at": 27.01,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 820,
+      "dur": 0.45
+    },
+    {
+      "at": 39.65,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Tre heltal som står i kö",
+      "start": 4.49,
+      "end": 6.93
+    },
+    {
+      "text": "Ingen får tränga sig före",
+      "start": 6.93,
+      "end": 9.03
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 9.18,
+      "end": 10.94
+    },
+    {
+      "text": "Vi ska hitta ett möjligt x",
+      "start": 10.94,
+      "end": 13.06
+    },
+    {
+      "text": "Kalla mittentalet n",
+      "start": 13.06,
+      "end": 15.47
+    },
+    {
+      "text": "Grannarna blir n minus 1",
+      "start": 15.47,
+      "end": 17.56
+    },
+    {
+      "text": "och n plus 1",
+      "start": 17.56,
+      "end": 19.24
+    },
+    {
+      "text": "Ettorna tar ut varandra",
+      "start": 19.24,
+      "end": 20.84
+    },
+    {
+      "text": "Så x är 3n",
+      "start": 20.84,
+      "end": 23.28
+    },
+    {
+      "text": "Alltså är x delbart med 3",
+      "start": 23.28,
+      "end": 25.48
+    },
+    {
+      "text": "Kolla siffersumman",
+      "start": 25.48,
+      "end": 27.18
+    },
+    {
+      "text": "54 ger 5 plus 4",
+      "start": 27.21,
+      "end": 29.93
+    },
+    {
+      "text": "alltså 9",
+      "start": 29.93,
+      "end": 31.02
+    },
+    {
+      "text": "De andra ger 14",
+      "start": 31.02,
+      "end": 33.26
+    },
+    {
+      "text": "8 och 17",
+      "start": 33.271,
+      "end": 34.771
+    },
+    {
+      "text": "54 är 3 gånger 18",
+      "start": 34.771,
+      "end": 37.101
+    },
+    {
+      "text": "Talen är 17",
+      "start": 37.101,
+      "end": 38.591
+    },
+    {
+      "text": "18 och 19",
+      "start": 38.591,
+      "end": 40.55
+    },
+    {
+      "text": "Svaret är A",
+      "start": 40.55,
+      "end": 42.43
+    }
+  ],
+  "circle": {
+    "start": 41.61,
+    "end": 42.31
+  },
+  "duration": 43.43
+}

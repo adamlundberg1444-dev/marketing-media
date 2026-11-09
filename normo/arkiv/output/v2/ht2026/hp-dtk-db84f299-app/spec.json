@@ -1,0 +1,529 @@
+{
+  "slug": "hp-dtk-db84f299-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "db84f299-4e49-4db2-9d66-8a42e581e621"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "ligger"
+      },
+      {
+        "text": "3"
+      },
+      {
+        "text": "km"
+      },
+      {
+        "text": "rakt"
+      },
+      {
+        "text": "söderut"
+      },
+      {
+        "text": "från"
+      },
+      {
+        "text": "tätorten"
+      },
+      {
+        "text": "Lysekils"
+      },
+      {
+        "text": "sydligaste"
+      },
+      {
+        "text": "spets?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "bostadsändamål,"
+          },
+          {
+            "text": "fritidsbebyggelse"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "avsett"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "bebyggas;"
+          },
+          {
+            "text": "naturreservat"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sport"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "idrott"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Område"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "allmänt"
+          },
+          {
+            "text": "friluftsbad"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/db84f299-4e49-4db2-9d66-8a42e581e621.png",
+    "imageMax": 860
+  },
+  "writeLines": [
+    {
+      "text": "söderut = rakt nedåt"
+    },
+    {
+      "text": "Ri: sport och idrott",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 59.82,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 30.84
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.36
+        },
+        {
+          "start": 0.4,
+          "end": 0.72
+        },
+        {
+          "start": 1.02,
+          "end": 1.06
+        },
+        {
+          "start": 1.12,
+          "end": 1.66
+        },
+        {
+          "start": 1.8,
+          "end": 2.18
+        },
+        {
+          "start": 2.28,
+          "end": 2.88
+        },
+        {
+          "start": 2.94,
+          "end": 3.22
+        },
+        {
+          "start": 3.28,
+          "end": 4.019
+        },
+        {
+          "start": 4.1,
+          "end": 4.82
+        },
+        {
+          "start": 5,
+          "end": 5.74
+        },
+        {
+          "start": 5.84,
+          "end": 6.26
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 30.84,
+          "chars": [
+            30.84,
+            31.0796,
+            31.3191,
+            31.5587,
+            31.7982,
+            32.0378,
+            32.2773,
+            32.5169,
+            32.5887,
+            32.8283,
+            32.9002,
+            33.1397,
+            33.3793,
+            33.6188,
+            33.8584,
+            33.9302,
+            34.1698,
+            34.4093,
+            34.6489,
+            34.8884
+          ]
+        },
+        {
+          "start": 54.598,
+          "chars": [
+            54.598,
+            54.683,
+            54.7681,
+            54.8531,
+            54.8786,
+            54.9636,
+            55.0486,
+            55.1337,
+            55.2187,
+            55.3037,
+            55.3292,
+            55.4143,
+            55.4993,
+            55.5843,
+            55.6098,
+            55.6949,
+            55.7799,
+            55.8649,
+            55.9499,
+            56.035
+          ]
+        },
+        {
+          "start": 58.66,
+          "chars": [
+            58.66,
+            58.6696,
+            58.6791,
+            58.6887,
+            58.6983,
+            58.7011,
+            58.7107,
+            58.7203,
+            58.7299,
+            58.7394,
+            58.749,
+            58.7586,
+            58.7681,
+            58.7777,
+            58.7873,
+            58.7901,
+            58.7997,
+            58.8026,
+            58.8122,
+            58.8217,
+            58.8313,
+            58.8409,
+            58.8504
+          ]
+        }
+      ],
+      "circle": {
+        "start": 57.36,
+        "end": 58.32
+      },
+      "options": {
+        "hideAt": 7.58,
+        "showAt": 56.46
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.02,
+          "end": 1.77,
+          "targets": [
+            {
+              "w": 2,
+              "from": "3",
+              "color": "orange"
+            },
+            {
+              "w": 3,
+              "from": "3",
+              "color": "orange"
+            },
+            {
+              "w": 4,
+              "from": "3",
+              "color": "orange"
+            },
+            {
+              "w": 5,
+              "from": "3",
+              "color": "orange"
+            }
+          ]
+        },
+        {
+          "start": 4.1,
+          "end": 4.85,
+          "targets": [
+            {
+              "w": 8,
+              "from": "Lysekils",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "Lysekils",
+              "color": "gul"
+            },
+            {
+              "w": 10,
+              "from": "Lysekils",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 14.9,
+          "end": 15.65,
+          "targets": [
+            {
+              "hl": true,
+              "point": [
+                0.412,
+                0.38
+              ],
+              "r": 0.014,
+              "from": "sydligaste",
+              "color": "gul",
+              "keep": true,
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.3,
+          "end": 27.05,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.505,
+                0.279,
+                0.752,
+                0.293
+              ],
+              "from": "noll",
+              "color": "orange",
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 39.58,
+          "end": 40.33,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.412,
+                  0.382
+                ],
+                [
+                  0.412,
+                  0.527
+                ]
+              ],
+              "w": 0.008,
+              "snap": false,
+              "from": "drar",
+              "color": "orange",
+              "keep": true,
+              "seg": 4,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 43.5,
+          "end": 44.25,
+          "targets": [
+            {
+              "hl": true,
+              "point": [
+                0.412,
+                0.527
+              ],
+              "r": 0.016,
+              "from": "landar",
+              "color": "lila",
+              "keep": true,
+              "seg": 4,
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 52.9,
+          "end": 53.65,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.035,
+                0.18,
+                0.33,
+                0.199
+              ],
+              "from": "ringarna",
+              "color": "lila",
+              "seg": 5,
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 8.28,
+          "end": 18.54,
+          "omrade": [
+            0.3,
+            0.33,
+            0.62,
+            0.41
+          ]
+        },
+        {
+          "start": 20.2,
+          "end": 28.05,
+          "omrade": [
+            0.48,
+            0.27,
+            0.96,
+            0.305
+          ]
+        },
+        {
+          "start": 38.4,
+          "end": 48.74,
+          "omrade": [
+            0.21,
+            0.37,
+            0.64,
+            0.55
+          ]
+        },
+        {
+          "start": 50.2,
+          "end": 54.448,
+          "omrade": [
+            0.02,
+            0.175,
+            0.48,
+            0.205
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 58.61
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 860,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

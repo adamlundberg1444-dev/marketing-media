@@ -1,0 +1,363 @@
+{
+  "slug": "hp-elf-387b5cb0-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "387b5cb0-f67e-4160-a9ee-d30056813e01"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Fyll"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "lucka"
+      },
+      {
+        "text": "32"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 4,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "irrelevant"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "confusing"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "important"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "offending"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__387b5cb0-f67e-4160-a9ee-d30056813e01.png",
+    "imageMax": null,
+    "passageFill": {
+      "box": [
+        0.7102701822916667,
+        0.7737798198636806,
+        0.9780110677083333,
+        0.8166686952288218
+      ],
+      "text": "offending"
+    }
+  },
+  "writeLines": [
+    {
+      "text": "offending = kränkande",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 55.21,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 47.84
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.28
+        },
+        {
+          "start": 0.34,
+          "end": 0.44
+        },
+        {
+          "start": 0.52,
+          "end": 0.98
+        },
+        {
+          "start": 1.16,
+          "end": 1.6
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 47.84,
+          "chars": [
+            47.84,
+            48.0779,
+            48.3157,
+            48.5536,
+            48.7914,
+            49.0293,
+            49.2671,
+            49.505,
+            49.7429,
+            49.9807,
+            50.0521,
+            50.2899,
+            50.3613,
+            50.5991,
+            50.837,
+            51.0749,
+            51.3127,
+            51.5506,
+            51.7884,
+            52.0263,
+            52.2641
+          ]
+        },
+        {
+          "start": 55.26,
+          "chars": [
+            55.26,
+            55.2737,
+            55.2874,
+            55.3011,
+            55.3148,
+            55.3285,
+            55.3326,
+            55.3463,
+            55.36,
+            55.3737,
+            55.3778,
+            55.3915,
+            55.4052,
+            55.4189,
+            55.4326,
+            55.4463
+          ]
+        }
+      ],
+      "circle": {
+        "start": 41.76,
+        "end": 45.94
+      },
+      "options": {
+        "hideAt": 2.28,
+        "showAt": 37.66,
+        "hide2": 46.54,
+        "show2": null,
+        "fyll": 47.84
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 3.96,
+          "end": 4.71,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.3575,
+                  0.77
+                ],
+                [
+                  0.7056,
+                  0.77
+                ],
+                [
+                  0.7056,
+                  0.8132
+                ],
+                [
+                  0.3575,
+                  0.8132
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 3.96,
+          "end": 4.71,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.7051,
+                  0.7772
+                ],
+                [
+                  0.9832,
+                  0.7772
+                ],
+                [
+                  0.9832,
+                  0.8145
+                ],
+                [
+                  0.7051,
+                  0.8145
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 3.96,
+          "end": 4.71,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8264
+                ],
+                [
+                  0.127,
+                  0.8264
+                ],
+                [
+                  0.127,
+                  0.8696
+                ],
+                [
+                  0,
+                  0.8696
+                ]
+              ],
+              "color": "bla",
+              "from": "lucka",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 19.84,
+          "end": 20.59,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.0699,
+                  0.3185
+                ],
+                [
+                  0.6515,
+                  0.3185
+                ],
+                [
+                  0.6515,
+                  0.3617
+                ],
+                [
+                  0.0699,
+                  0.3617
+                ]
+              ],
+              "color": "bla",
+              "from": "viciously",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 26.96,
+          "end": 27.71,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5846,
+                  0.6007
+                ],
+                [
+                  0.9167,
+                  0.6007
+                ],
+                [
+                  0.9167,
+                  0.6439
+                ],
+                [
+                  0.5846,
+                  0.6439
+                ]
+              ],
+              "color": "bla",
+              "from": "rasande",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {},
+  "variant": "app"
+}

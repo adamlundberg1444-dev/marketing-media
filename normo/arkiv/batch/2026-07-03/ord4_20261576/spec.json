@@ -1,0 +1,109 @@
+{
+  "slug": "ord4_20261576",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Så svåra är\norden på HP",
+      "bgImage": "tiktok/assets/intro/intro-14.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "tariff",
+      "options": [
+        "tö",
+        "strömmätare",
+        "påminnelse",
+        "pris; prislista"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "tariff",
+      "options": [
+        "tö",
+        "strömmätare",
+        "påminnelse",
+        "pris; prislista"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "sensualism",
+      "options": [
+        "gömställe",
+        "tillägg",
+        "sinnlighet",
+        "värdelös mark"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "sensualism",
+      "options": [
+        "gömställe",
+        "tillägg",
+        "sinnlighet",
+        "värdelös mark"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "bräsera",
+      "options": [
+        "spela",
+        "fira",
+        "småsteka och koka",
+        "variera radiovågor"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "bräsera",
+      "options": [
+        "spela",
+        "fira",
+        "småsteka och koka",
+        "variera radiovågor"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "kadaverdisciplin",
+      "options": [
+        "katastrof",
+        "populär missuppfattning",
+        "buskage av unga plantor",
+        "blind lydnad"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "kadaverdisciplin",
+      "options": [
+        "katastrof",
+        "populär missuppfattning",
+        "buskage av unga plantor",
+        "blind lydnad"
+      ],
+      "correct": 3,
+      "swipeText": "Svep",
+      "note": "Hur många rätt fick du av 4? Skriv 0–4 i kommentarerna 👇"
+    },
+    {
+      "kind": "cta",
+      "title": "Plugga smartare\ninför HP"
+    }
+  ]
+}

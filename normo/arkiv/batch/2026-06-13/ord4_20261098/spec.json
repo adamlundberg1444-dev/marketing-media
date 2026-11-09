@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261098",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-07.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "hisna",
+      "options": [
+        "bli yr; förvånas",
+        "omgiva",
+        "misstänka",
+        "bjuda någon på; spela eller behandla"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "hisna",
+      "options": [
+        "bli yr; förvånas",
+        "omgiva",
+        "misstänka",
+        "bjuda någon på; spela eller behandla"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "falsifiera",
+      "options": [
+        "bevisa motsatsen",
+        "göra sig till",
+        "använda sig av",
+        "vara bosatt"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "falsifiera",
+      "options": [
+        "bevisa motsatsen",
+        "göra sig till",
+        "använda sig av",
+        "vara bosatt"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "klåfingrig",
+      "options": [
+        "smakfull; känslig",
+        "som petar på allt",
+        "upprymd",
+        "kraftlös"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "klåfingrig",
+      "options": [
+        "smakfull; känslig",
+        "som petar på allt",
+        "upprymd",
+        "kraftlös"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "snärtig",
+      "options": [
+        "skarp",
+        "obeslutsam",
+        "lämplig",
+        "oöverlagd"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "snärtig",
+      "options": [
+        "skarp",
+        "obeslutsam",
+        "lämplig",
+        "oöverlagd"
+      ],
+      "correct": 0,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

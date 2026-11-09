@@ -1,0 +1,322 @@
+{
+  "slug": "hp-xyz-579e22a8-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "579e22a8-4cd7-412b-bdd2-e20088a1484e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " f(x) = 4 \\cdot 2^x ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "tex": " f(-1) ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " -8 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " \\frac{1}{8} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " 2 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": " 8 ",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "f(-1) = 4 \\cdot 2^{-1}",
+      "gron": [
+        {
+          "text": "-1",
+          "nth": 2
+        }
+      ],
+      "farg": {
+        "13": "#0E9F6E",
+        "14": "#0E9F6E"
+      }
+    },
+    {
+      "text": "2^{-1} = \\frac{1}{2}",
+      "rod": [
+        "\\frac{1}{2}"
+      ],
+      "farg": {
+        "6": "#D93025",
+        "7": "#D93025",
+        "8": "#D93025"
+      }
+    },
+    {
+      "text": "4 \\cdot \\frac{1}{2} = 2",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 40.28,
+    "phases": {
+      "readStart": 0.32,
+      "writeStart": 12.28
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.32,
+          "end": 2.6453
+        },
+        {
+          "start": 2.6453,
+          "end": 3.501
+        },
+        {
+          "start": 3.501,
+          "end": 4.2637
+        },
+        {
+          "start": 4.2637,
+          "end": 4.8403
+        },
+        {
+          "start": 4.8403,
+          "end": 6.2727
+        },
+        {
+          "start": 6.2727,
+          "end": 7.24
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.28,
+          "chars": [
+            12.28,
+            12.5287,
+            12.7774,
+            13.0261,
+            13.2748,
+            13.5234,
+            13.598,
+            13.8467,
+            13.9213,
+            14.17,
+            14.2446,
+            14.4933,
+            14.5679,
+            14.8166,
+            15.0653
+          ]
+        },
+        {
+          "start": 25.86,
+          "chars": [
+            25.86,
+            26.1261,
+            26.3921,
+            26.6582,
+            26.738,
+            27.004,
+            27.0838,
+            27.3499,
+            27.6159
+          ]
+        },
+        {
+          "start": 31.12,
+          "chars": [
+            31.12,
+            31.3827,
+            31.4615,
+            31.7242,
+            31.803,
+            32.0657,
+            32.3283,
+            32.591,
+            32.6698,
+            32.9325,
+            33.0113
+          ]
+        },
+        {
+          "start": 39.04,
+          "chars": [
+            39.04,
+            39.0526,
+            39.0652,
+            39.0777,
+            39.0903,
+            39.1029,
+            39.1067,
+            39.1192,
+            39.1318,
+            39.1444,
+            39.1482,
+            39.1608,
+            39.1645,
+            39.1771,
+            39.1897,
+            39.2023,
+            39.2148,
+            39.2274
+          ]
+        }
+      ],
+      "circle": {
+        "start": 37.84,
+        "end": 38.78
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.32,
+          "end": 1.07,
+          "targets": [
+            {
+              "w": 0,
+              "from": "f av x",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 5.14,
+          "end": 5.89,
+          "targets": [
+            {
+              "w": 1,
+              "from": "söker",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "söker",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "söker",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "söker",
+              "color": "gul"
+            },
+            {
+              "w": 5,
+              "from": "söker",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 38.99
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

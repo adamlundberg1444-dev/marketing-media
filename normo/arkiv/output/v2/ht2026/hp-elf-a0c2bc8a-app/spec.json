@@ -1,0 +1,601 @@
+{
+  "slug": "hp-elf-a0c2bc8a-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "a0c2bc8a-372a-4495-b5c4-cbd51f1cdd17"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "said"
+      },
+      {
+        "text": "with"
+      },
+      {
+        "text": "regard"
+      },
+      {
+        "text": "to"
+      },
+      {
+        "text": "East"
+      },
+      {
+        "text": "Asian"
+      },
+      {
+        "text": "tea"
+      },
+      {
+        "text": "for"
+      },
+      {
+        "text": "most"
+      },
+      {
+        "text": "of"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "19th"
+      },
+      {
+        "text": "century?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Although"
+          },
+          {
+            "text": "very"
+          },
+          {
+            "text": "expensive,"
+          },
+          {
+            "text": "Ceylon"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "more"
+          },
+          {
+            "text": "popular"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "both"
+          },
+          {
+            "text": "Indian"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "Chinese"
+          },
+          {
+            "text": "tea."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Despite"
+          },
+          {
+            "text": "being"
+          },
+          {
+            "text": "discredited,"
+          },
+          {
+            "text": "Chinese"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "most"
+          },
+          {
+            "text": "popular"
+          },
+          {
+            "text": "variety."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Chinese"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "generally"
+          },
+          {
+            "text": "proved"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "be"
+          },
+          {
+            "text": "less"
+          },
+          {
+            "text": "healthy"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "Indian"
+          },
+          {
+            "text": "tea."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "finest"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "most"
+          },
+          {
+            "text": "popular"
+          },
+          {
+            "text": "tastes"
+          },
+          {
+            "text": "were"
+          },
+          {
+            "text": "created"
+          },
+          {
+            "text": "by"
+          },
+          {
+            "text": "mixing"
+          },
+          {
+            "text": "Chinese"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "Indian"
+          },
+          {
+            "text": "tea."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__a0c2bc8a-372a-4495-b5c4-cbd51f1cdd17.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kinesiskt te ledde ändå till 1887",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 40.92,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 29.98
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.2
+        },
+        {
+          "start": 0.26,
+          "end": 0.38
+        },
+        {
+          "start": 0.46,
+          "end": 0.66
+        },
+        {
+          "start": 0.72,
+          "end": 0.84
+        },
+        {
+          "start": 0.9,
+          "end": 1.32
+        },
+        {
+          "start": 1.36,
+          "end": 1.5
+        },
+        {
+          "start": 1.56,
+          "end": 1.78
+        },
+        {
+          "start": 1.92,
+          "end": 2.3
+        },
+        {
+          "start": 2.38,
+          "end": 2.64
+        },
+        {
+          "start": 2.7,
+          "end": 2.82
+        },
+        {
+          "start": 2.88,
+          "end": 3.14
+        },
+        {
+          "start": 3.18,
+          "end": 3.24
+        },
+        {
+          "start": 3.3,
+          "end": 3.36
+        },
+        {
+          "start": 3.42,
+          "end": 3.94
+        },
+        {
+          "start": 4.019,
+          "end": 4.54
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 29.98,
+          "chars": [
+            29.98,
+            30.1983,
+            30.4166,
+            30.6349,
+            30.8532,
+            31.0715,
+            31.2898,
+            31.5081,
+            31.7264,
+            31.9447,
+            32.0102,
+            32.2285,
+            32.4468,
+            32.5123,
+            32.7306,
+            32.9489,
+            33.1673,
+            33.3856,
+            33.6039,
+            33.6694,
+            33.8877,
+            34.106,
+            34.3243,
+            34.5426,
+            34.6081,
+            34.8264,
+            35.0447,
+            35.263,
+            35.4813,
+            35.5468,
+            35.7651,
+            35.9834,
+            36.2017
+          ]
+        },
+        {
+          "start": 40.48,
+          "chars": [
+            40.48,
+            40.4937,
+            40.5074,
+            40.5211,
+            40.5348,
+            40.5485,
+            40.5526,
+            40.5663,
+            40.58,
+            40.5937,
+            40.5978,
+            40.6115,
+            40.6252,
+            40.6389,
+            40.6526,
+            40.6663
+          ]
+        }
+      ],
+      "circle": {
+        "start": 38.82,
+        "end": 39.42
+      },
+      "options": {
+        "hideAt": 13.04,
+        "showAt": 37.92
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 6.78,
+          "end": 7.53,
+          "targets": [
+            {
+              "w": 6,
+              "from": "East Asian",
+              "color": "blå"
+            },
+            {
+              "w": 7,
+              "from": "East Asian",
+              "color": "blå"
+            },
+            {
+              "w": 8,
+              "from": "East Asian",
+              "color": "blå"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 15.72,
+          "end": 16.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5915,
+                  0.5218
+                ],
+                [
+                  0.9992,
+                  0.5218
+                ],
+                [
+                  0.9992,
+                  0.5819
+                ],
+                [
+                  0.5915,
+                  0.5819
+                ]
+              ],
+              "color": "bla",
+              "from": "svartmålade",
+              "hlFarg": "rosa",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 15.72,
+          "end": 16.47,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6003
+                ],
+                [
+                  0.456,
+                  0.6003
+                ],
+                [
+                  0.456,
+                  0.6604
+                ],
+                [
+                  0,
+                  0.6604
+                ]
+              ],
+              "color": "bla",
+              "from": "svartmålade",
+              "hlFarg": "rosa",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 23.16,
+          "end": 23.91,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.9457,
+                  0.6788
+                ],
+                [
+                  0.9808,
+                  0.6788
+                ],
+                [
+                  0.9808,
+                  0.739
+                ],
+                [
+                  0.9457,
+                  0.739
+                ]
+              ],
+              "color": "bla",
+              "from": "1887",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 23.16,
+          "end": 23.91,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7574
+                ],
+                [
+                  0.9385,
+                  0.7574
+                ],
+                [
+                  0.9385,
+                  0.8175
+                ],
+                [
+                  0,
+                  0.8175
+                ]
+              ],
+              "color": "bla",
+              "from": "1887",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 23.16,
+          "end": 23.91,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8359
+                ],
+                [
+                  0.5581,
+                  0.8359
+                ],
+                [
+                  0.5581,
+                  0.896
+                ],
+                [
+                  0,
+                  0.896
+                ]
+              ],
+              "color": "bla",
+              "from": "1887",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 40.43
+  },
+  "layout": {},
+  "variant": "app"
+}

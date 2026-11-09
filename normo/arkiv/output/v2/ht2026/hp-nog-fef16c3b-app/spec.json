@@ -1,0 +1,788 @@
+{
+  "slug": "hp-nog-fef16c3b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "fef16c3b-7cb9-4d8e-a14b-bced92d3452f"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vilken"
+      },
+      {
+        "text": "volym"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "text": "rätblocket?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "text": "Rätblockets"
+      },
+      {
+        "text": "bredd"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "20"
+      },
+      {
+        "text": "cm."
+      },
+      {
+        "text": "Summan"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "rätblockets"
+      },
+      {
+        "text": "höjd"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "djup"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "30"
+      },
+      {
+        "text": "cm."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "text": "Rätblockets"
+      },
+      {
+        "text": "höjd"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "10"
+      },
+      {
+        "text": "cm."
+      },
+      {
+        "text": "Summan"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "rätblockets"
+      },
+      {
+        "text": "bredd"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "djup"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "40"
+      },
+      {
+        "text": "cm."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 34,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "V = b \\cdot h \\cdot d"
+    },
+    {
+      "text": "10 + d = 30"
+    },
+    {
+      "text": "d = 20",
+      "rod": [
+        "20"
+      ],
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025"
+      }
+    },
+    {
+      "text": "V = 20 \\cdot 10 \\cdot 20 = 4000 cm^3",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 72.78,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 7.4
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.1702
+        },
+        {
+          "start": 0.1702,
+          "end": 0.1971
+        },
+        {
+          "start": 0.1971,
+          "end": 0.2175
+        },
+        {
+          "start": 0.2175,
+          "end": 0.2839
+        },
+        {
+          "start": 0.2839,
+          "end": 0.3042
+        },
+        {
+          "start": 0.3042,
+          "end": 0.3509
+        },
+        {
+          "start": 0.3509,
+          "end": 0.3778
+        },
+        {
+          "start": 0.3778,
+          "end": 0.3949
+        },
+        {
+          "start": 0.3949,
+          "end": 0.4119
+        },
+        {
+          "start": 0.4119,
+          "end": 0.452
+        },
+        {
+          "start": 0.452,
+          "end": 0.4822
+        },
+        {
+          "start": 0.4822,
+          "end": 0.4993
+        },
+        {
+          "start": 0.4993,
+          "end": 0.5459
+        },
+        {
+          "start": 0.5459,
+          "end": 0.5696
+        },
+        {
+          "start": 0.5696,
+          "end": 0.59
+        },
+        {
+          "start": 0.59,
+          "end": 0.6136
+        },
+        {
+          "start": 0.6136,
+          "end": 0.6307
+        },
+        {
+          "start": 0.6307,
+          "end": 0.6478
+        },
+        {
+          "start": 0.6478,
+          "end": 0.6878
+        },
+        {
+          "start": 0.6878,
+          "end": 0.7082
+        },
+        {
+          "start": 0.7082,
+          "end": 0.7548
+        },
+        {
+          "start": 0.7548,
+          "end": 0.7785
+        },
+        {
+          "start": 0.7785,
+          "end": 0.7956
+        },
+        {
+          "start": 0.7956,
+          "end": 0.8126
+        },
+        {
+          "start": 0.8126,
+          "end": 0.8527
+        },
+        {
+          "start": 0.8527,
+          "end": 0.8829
+        },
+        {
+          "start": 0.8829,
+          "end": 0.9
+        },
+        {
+          "start": 0.9,
+          "end": 1.68
+        },
+        {
+          "start": 1.68,
+          "end": 2.3664
+        },
+        {
+          "start": 2.3664,
+          "end": 2.8854
+        },
+        {
+          "start": 2.8854,
+          "end": 3.4881
+        },
+        {
+          "start": 3.4881,
+          "end": 3.9234
+        },
+        {
+          "start": 3.9234,
+          "end": 4.3587
+        },
+        {
+          "start": 4.3587,
+          "end": 5.38
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 7.4,
+          "chars": [
+            7.4,
+            7.6598,
+            7.7377,
+            7.9975,
+            8.0754,
+            8.3352,
+            8.4131,
+            8.6729,
+            8.7508,
+            9.0106,
+            9.0885,
+            9.3483,
+            9.4262
+          ]
+        },
+        {
+          "start": 50.24,
+          "chars": [
+            50.24,
+            50.5027,
+            50.7654,
+            50.8442,
+            51.1069,
+            51.1857,
+            51.4483,
+            51.5271,
+            51.7898,
+            51.8686,
+            52.1313
+          ]
+        },
+        {
+          "start": 56.02,
+          "chars": [
+            56.02,
+            56.2896,
+            56.3704,
+            56.64,
+            56.7209,
+            56.9904
+          ]
+        },
+        {
+          "start": 59.32,
+          "chars": [
+            59.32,
+            59.5569,
+            59.628,
+            59.8649,
+            59.936,
+            60.1729,
+            60.4098,
+            60.4809,
+            60.7178,
+            60.7888,
+            61.0257,
+            61.2626,
+            61.3337,
+            61.5706,
+            61.6417,
+            61.8786,
+            62.1155,
+            62.1866,
+            62.4235,
+            62.4946,
+            62.7315,
+            62.9684,
+            63.2053,
+            63.4422,
+            63.5133,
+            63.7502,
+            63.9871
+          ]
+        },
+        {
+          "start": 71.56,
+          "chars": [
+            71.56,
+            71.5737,
+            71.5874,
+            71.6011,
+            71.6148,
+            71.6285,
+            71.6326,
+            71.6463,
+            71.66,
+            71.6737,
+            71.6778,
+            71.6915,
+            71.7052,
+            71.7189,
+            71.7326,
+            71.7463
+          ]
+        }
+      ],
+      "circle": {
+        "start": 69,
+        "end": 71.28
+      },
+      "options": {
+        "hideAt": 7.1,
+        "showAt": 68.1
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.72,
+          "end": 2.47,
+          "targets": [
+            {
+              "w": 0,
+              "from": "volym",
+              "color": "lila"
+            },
+            {
+              "w": 1,
+              "from": "volym",
+              "color": "lila"
+            },
+            {
+              "w": 2,
+              "from": "volym",
+              "color": "lila"
+            },
+            {
+              "w": 3,
+              "from": "volym",
+              "color": "lila"
+            }
+          ]
+        },
+        {
+          "start": 19.54,
+          "end": 20.29,
+          "targets": [
+            {
+              "w": 5,
+              "from": "bredden",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "bredden",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "bredden",
+              "color": "gul"
+            },
+            {
+              "w": 8,
+              "from": "bredden",
+              "color": "gul"
+            },
+            {
+              "w": 9,
+              "from": "bredden",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 22.26,
+          "end": 23.01,
+          "targets": [
+            {
+              "w": 10,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 11,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 13,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 14,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 15,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 16,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 17,
+              "from": "summan",
+              "color": "gul"
+            },
+            {
+              "w": 18,
+              "from": "summan",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 36.24,
+          "end": 36.99,
+          "targets": [
+            {
+              "w": 20,
+              "from": "höjden",
+              "color": "rosa"
+            },
+            {
+              "w": 21,
+              "from": "höjden",
+              "color": "rosa"
+            },
+            {
+              "w": 22,
+              "from": "höjden",
+              "color": "rosa"
+            },
+            {
+              "w": 23,
+              "from": "höjden",
+              "color": "rosa"
+            },
+            {
+              "w": 24,
+              "from": "höjden",
+              "color": "rosa"
+            }
+          ]
+        },
+        {
+          "start": 37.72,
+          "end": 38.47,
+          "targets": [
+            {
+              "w": 25,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 26,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 27,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 28,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 29,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 30,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 31,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 32,
+              "from": "summan",
+              "color": "rosa"
+            },
+            {
+              "w": 33,
+              "from": "summan",
+              "color": "rosa"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 1,
+          "farg": "#D93025",
+          "from": "minus 10",
+          "eq": 7,
+          "n": 11,
+          "op": "- 10",
+          "stryk": [
+            {
+              "from": 0,
+              "to": 1,
+              "sida": "vanster"
+            }
+          ],
+          "start": 54.44,
+          "strykAt": 55.44
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 71.51
+  },
+  "layout": {
+    "appKeyLines": [
+      3
+    ],
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

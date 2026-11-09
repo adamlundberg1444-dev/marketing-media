@@ -1,0 +1,284 @@
+{
+  "slug": "hp-xyz-555a28a4",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "555a28a4-ca25-4c05-beb0-adbc73e4814b"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "HT 2013 · fråga 1",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "xyz",
+      "kva"
+    ],
+    "text": "Förkorta bort det som går innan du multiplicerar ihop något."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "2/3"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "3/4?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "1/2"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "3/7"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "5/7"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "5/12"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{2}{3} \\cdot \\frac{3}{4}"
+    },
+    {
+      "text": "= \\frac{2 \\cdot 3}{3 \\cdot 4}"
+    },
+    {
+      "text": "= \\frac{2}{4}"
+    },
+    {
+      "text": "= \\frac{1}{2}",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 56.577,
+    "phases": {
+      "readStart": 3.526,
+      "writeStart": 16.004
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.526,
+          "end": 3.793
+        },
+        {
+          "start": 3.897,
+          "end": 4.083
+        },
+        {
+          "start": 4.083,
+          "end": 5.279
+        },
+        {
+          "start": 5.279,
+          "end": 5.348
+        },
+        {
+          "start": 5.348,
+          "end": 6.742
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.004,
+          "chars": [
+            16.004,
+            16.2701,
+            16.5361,
+            16.8022,
+            16.882,
+            17.148,
+            17.2278,
+            17.4939,
+            17.7599
+          ]
+        },
+        {
+          "start": 24.547,
+          "chars": [
+            24.547,
+            24.8038,
+            24.8809,
+            25.1377,
+            25.2148,
+            25.4716,
+            25.5487,
+            25.8055,
+            26.0624,
+            26.3192,
+            26.3963,
+            26.6531,
+            26.7302
+          ]
+        },
+        {
+          "start": 33.561,
+          "chars": [
+            33.561,
+            33.8624,
+            33.9528,
+            34.2542,
+            34.5556
+          ]
+        },
+        {
+          "start": 42.03,
+          "chars": [
+            42.03,
+            42.3314,
+            42.4218,
+            42.7232,
+            43.0246
+          ]
+        },
+        {
+          "start": 50.745,
+          "chars": [
+            50.745,
+            50.9422,
+            51.1393,
+            51.3365,
+            51.5336,
+            51.7308,
+            51.7899,
+            51.9871,
+            52.1843,
+            52.3814,
+            52.5786,
+            52.6377,
+            52.8349,
+            52.894,
+            53.0912,
+            53.2884,
+            53.4855,
+            53.6827,
+            53.8798
+          ]
+        }
+      ],
+      "circle": {
+        "start": 46.399,
+        "end": 48.744
+      },
+      "options": null,
+      "concept": {
+        "start": 7.874,
+        "end": 14.631,
+        "hideAt": 24.455
+      },
+      "strikes": [
+        {
+          "start": 24.547,
+          "end": 25.297,
+          "targets": [
+            {
+              "li": 1,
+              "from": 6,
+              "to": 6,
+              "snett": false
+            }
+          ]
+        },
+        {
+          "start": 25.647,
+          "end": 26.397,
+          "targets": [
+            {
+              "li": 1,
+              "from": 8,
+              "to": 8,
+              "snett": false
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

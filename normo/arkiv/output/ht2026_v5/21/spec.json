@@ -1,0 +1,477 @@
+{
+  "slug": "hp-mek-d0887e13",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "d0887e13-7258-4c59-a2c6-2b8bd97e6fff"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK · fråga 21 av 40",
+    "text2": "HT 2026 · provpass 5",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Att"
+      },
+      {
+        "text": "träna"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "viktigt"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "upprätthålla"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "effektiv"
+      },
+      {
+        "text": "syreupptagningsförmåga."
+      },
+      {
+        "text": "I"
+      },
+      {
+        "text": "takt"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "syreupptagningen"
+      },
+      {
+        "text": "ökar"
+      },
+      {
+        "text": "bidrar"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "uthållighet"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "förbättrade"
+      },
+      {
+        "text": "resultat."
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "träning"
+      },
+      {
+        "text": "anses"
+      },
+      {
+        "text": "vara"
+      },
+      {
+        "text": "mest"
+      },
+      {
+        "text": "lämplig,"
+      },
+      {
+        "text": "eftersom"
+      },
+      {
+        "text": "den"
+      },
+      {
+        "text": "höjer"
+      },
+      {
+        "text": "hjärtfrekvensen"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "ökar"
+      },
+      {
+        "text": "syreintaget."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 36,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Aerob"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Binär"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Periodisk"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Elastisk"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "aerob = med syre",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 34.144,
+    "phases": {
+      "readStart": 3.337,
+      "writeStart": 24.394
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.337,
+          "end": 3.477
+        },
+        {
+          "start": 3.5,
+          "end": 3.871
+        },
+        {
+          "start": 3.929,
+          "end": 3.976
+        },
+        {
+          "start": 4.011,
+          "end": 4.394
+        },
+        {
+          "start": 4.452,
+          "end": 4.522
+        },
+        {
+          "start": 4.545,
+          "end": 4.614
+        },
+        {
+          "start": 4.684,
+          "end": 5.148
+        },
+        {
+          "start": 5.183,
+          "end": 5.265
+        },
+        {
+          "start": 5.381,
+          "end": 5.915
+        },
+        {
+          "start": 5.996,
+          "end": 7.308
+        },
+        {
+          "start": 7.691,
+          "end": 7.738
+        },
+        {
+          "start": 7.83,
+          "end": 8.051
+        },
+        {
+          "start": 8.086,
+          "end": 8.167
+        },
+        {
+          "start": 8.19,
+          "end": 8.283
+        },
+        {
+          "start": 8.33,
+          "end": 9.142
+        },
+        {
+          "start": 9.258,
+          "end": 9.549
+        },
+        {
+          "start": 9.607,
+          "end": 10.141
+        },
+        {
+          "start": 10.652,
+          "end": 10.814
+        },
+        {
+          "start": 10.849,
+          "end": 11
+        },
+        {
+          "start": 11.081,
+          "end": 11.511
+        },
+        {
+          "start": 11.604,
+          "end": 11.685
+        },
+        {
+          "start": 11.72,
+          "end": 12.196
+        },
+        {
+          "start": 12.242,
+          "end": 12.997
+        },
+        {
+          "start": 12.997,
+          "end": 14.68
+        },
+        {
+          "start": 14.68,
+          "end": 15.052
+        },
+        {
+          "start": 15.122,
+          "end": 15.389
+        },
+        {
+          "start": 15.423,
+          "end": 15.574
+        },
+        {
+          "start": 15.621,
+          "end": 15.795
+        },
+        {
+          "start": 15.83,
+          "end": 16.387
+        },
+        {
+          "start": 16.654,
+          "end": 17.026
+        },
+        {
+          "start": 17.072,
+          "end": 17.165
+        },
+        {
+          "start": 17.188,
+          "end": 17.49
+        },
+        {
+          "start": 17.502,
+          "end": 18.233
+        },
+        {
+          "start": 18.291,
+          "end": 18.361
+        },
+        {
+          "start": 18.384,
+          "end": 18.674
+        },
+        {
+          "start": 18.721,
+          "end": 19.603
+        },
+        {
+          "start": 21.157,
+          "end": 21.865
+        },
+        {
+          "start": 22.097,
+          "end": 22.515
+        },
+        {
+          "start": 22.538,
+          "end": 23.131
+        },
+        {
+          "start": 23.432,
+          "end": 24.013
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 24.394,
+          "chars": [
+            24.394,
+            24.6128,
+            24.8317,
+            25.0505,
+            25.2694,
+            25.4882,
+            25.5539,
+            25.7727,
+            25.8384,
+            26.0573,
+            26.2761,
+            26.4949,
+            26.5606,
+            26.7795,
+            26.9983,
+            27.2172
+          ]
+        },
+        {
+          "start": 31.6439,
+          "chars": [
+            31.6439,
+            31.6535,
+            31.6631,
+            31.6726,
+            31.6822,
+            31.6851,
+            31.6946,
+            31.7042,
+            31.7138,
+            31.7233,
+            31.7329,
+            31.7425,
+            31.7521,
+            31.7616,
+            31.7712,
+            31.7741,
+            31.7836,
+            31.7865,
+            31.7961,
+            31.8056,
+            31.8152,
+            31.8248,
+            31.8344
+          ]
+        }
+      ],
+      "circle": {
+        "start": 30.363,
+        "end": 31.291
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 27.868,
+          "end": 28.618,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 28.457,
+          "end": 29.207,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 29.046,
+          "end": 29.796,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

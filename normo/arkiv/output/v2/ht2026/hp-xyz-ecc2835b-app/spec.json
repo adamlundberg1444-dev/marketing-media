@@ -1,0 +1,403 @@
+{
+  "slug": "hp-xyz-ecc2835b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "ecc2835b-a7be-4915-b055-b2fcb4b73edd"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Summan"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "tre"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "varandra"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "heltal"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "ett"
+      },
+      {
+        "text": "möjligt"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 18,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "54"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "68"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "71"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "89"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "(n - 1) + n + (n + 1)"
+    },
+    {
+      "text": "x = 3n",
+      "gron": [
+        "3n"
+      ],
+      "farg": {
+        "4": "#0E9F6E",
+        "5": "#0E9F6E"
+      }
+    },
+    {
+      "text": "54 = 3 \\cdot 18",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 54.33,
+    "phases": {
+      "readStart": 0.16,
+      "writeStart": 12.86
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.16,
+          "end": 0.66
+        },
+        {
+          "start": 0.72,
+          "end": 0.84
+        },
+        {
+          "start": 0.9,
+          "end": 1.12
+        },
+        {
+          "start": 2.52,
+          "end": 2.6
+        },
+        {
+          "start": 2.64,
+          "end": 3.44
+        },
+        {
+          "start": 3.44,
+          "end": 3.5169
+        },
+        {
+          "start": 3.5169,
+          "end": 3.58
+        },
+        {
+          "start": 3.58,
+          "end": 3.94
+        },
+        {
+          "start": 3.94,
+          "end": 4.4092
+        },
+        {
+          "start": 4.4092,
+          "end": 4.8695
+        },
+        {
+          "start": 4.8695,
+          "end": 5.1439
+        },
+        {
+          "start": 5.1439,
+          "end": 5.3741
+        },
+        {
+          "start": 5.3741,
+          "end": 5.6485
+        },
+        {
+          "start": 5.6485,
+          "end": 6.1
+        },
+        {
+          "start": 6.1,
+          "end": 6.44
+        },
+        {
+          "start": 6.44,
+          "end": 6.6186
+        },
+        {
+          "start": 6.6186,
+          "end": 6.9827
+        },
+        {
+          "start": 6.9827,
+          "end": 7.34
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.86,
+          "chars": [
+            12.86,
+            13.1027,
+            13.3455,
+            13.4183,
+            13.661,
+            13.7338,
+            13.9765,
+            14.2193,
+            14.2921,
+            14.5348,
+            14.6076,
+            14.8504,
+            14.9232,
+            15.1659,
+            15.2387,
+            15.4815,
+            15.7242,
+            15.797,
+            16.0397,
+            16.1125,
+            16.3553
+          ]
+        },
+        {
+          "start": 27.14,
+          "chars": [
+            27.14,
+            27.4361,
+            27.5249,
+            27.821,
+            27.9098,
+            28.2059
+          ]
+        },
+        {
+          "start": 35.08,
+          "chars": [
+            35.08,
+            35.3427,
+            35.6054,
+            35.6842,
+            35.9469,
+            36.0257,
+            36.2883,
+            36.3671,
+            36.6298,
+            36.7086,
+            36.9713
+          ]
+        },
+        {
+          "start": 54.38,
+          "chars": [
+            54.38,
+            54.3937,
+            54.4074,
+            54.4211,
+            54.4348,
+            54.4485,
+            54.4526,
+            54.4663,
+            54.48,
+            54.4937,
+            54.4978,
+            54.5115,
+            54.5252,
+            54.5389,
+            54.5526,
+            54.5663
+          ]
+        }
+      ],
+      "circle": {
+        "start": 51.38,
+        "end": 52.74
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.16,
+          "end": 0.91,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Summan",
+              "color": "gul"
+            },
+            {
+              "w": 1,
+              "from": "Summan",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "Summan",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "Summan",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "Summan",
+              "color": "gul"
+            },
+            {
+              "w": 5,
+              "from": "Summan",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "Summan",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 0,
+          "farg": "#D93025",
+          "from": "Ettan som dras",
+          "forkorta": [
+            {
+              "from": 3,
+              "to": 5
+            },
+            {
+              "from": 17,
+              "to": 19
+            }
+          ],
+          "start": 18.9,
+          "strykAt": 19.9
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

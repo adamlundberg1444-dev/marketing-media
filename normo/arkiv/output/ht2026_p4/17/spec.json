@@ -1,0 +1,353 @@
+{
+  "slug": "hp-kva-0809bf7c",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "0809bf7c-d94b-4301-b41b-f2a3bb116037"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA · fråga 17 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " x < 0 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " -7x ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " -6x ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "-x > 0"
+    },
+    {
+      "text": "I: -7x = 7 \\cdot (-x)"
+    },
+    {
+      "text": "II: -6x = 6 \\cdot (-x)"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 24.848,
+    "phases": {
+      "readStart": 1.289,
+      "writeStart": 6.651
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.289,
+          "end": 2.729
+        },
+        {
+          "start": 2.729,
+          "end": 3.263
+        },
+        {
+          "start": 3.263,
+          "end": 3.9294
+        },
+        {
+          "start": 3.9294,
+          "end": 4.703
+        },
+        {
+          "start": 4.703,
+          "end": 5.202
+        },
+        {
+          "start": 5.202,
+          "end": 5.7471
+        },
+        {
+          "start": 5.7471,
+          "end": 6.328
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.651,
+          "chars": [
+            6.651,
+            6.9471,
+            7.2432,
+            7.332,
+            7.6281,
+            7.7169
+          ]
+        },
+        {
+          "start": 9.401,
+          "chars": [
+            9.401,
+            9.6204,
+            9.8397,
+            9.9055,
+            10.1249,
+            10.3442,
+            10.5636,
+            10.6294,
+            10.8488,
+            10.9146,
+            11.1339,
+            11.1997,
+            11.4191,
+            11.4849,
+            11.7043,
+            11.9236,
+            12.143
+          ]
+        },
+        {
+          "start": 12.3623,
+          "chars": [
+            12.3623,
+            12.5817,
+            12.801,
+            13.0204,
+            13.0862,
+            13.3056,
+            13.5249,
+            13.7443,
+            13.8101,
+            14.0294,
+            14.0952,
+            14.3146,
+            14.3804,
+            14.5998,
+            14.6656,
+            14.8849,
+            15.1043,
+            15.3236
+          ]
+        },
+        {
+          "start": 15.889,
+          "chars": [
+            15.889,
+            16.1062,
+            16.1713,
+            16.3885,
+            16.4537,
+            16.6708
+          ]
+        },
+        {
+          "start": 18.911,
+          "chars": [
+            18.911,
+            19.0754,
+            19.2399,
+            19.4043,
+            19.5688,
+            19.6181,
+            19.7826,
+            19.947,
+            20.1115,
+            20.2759,
+            20.4404,
+            20.6048,
+            20.7693,
+            20.9337,
+            21.0982,
+            21.1475,
+            21.312,
+            21.3613,
+            21.5258,
+            21.6902,
+            21.8547,
+            22.0191,
+            22.1836
+          ]
+        }
+      ],
+      "circle": {
+        "start": 17.346,
+        "end": 18.17
+      },
+      "options": {
+        "hideAt": 6.351,
+        "showAt": 16.446
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 6.651,
+          "end": 7.401,
+          "targets": [
+            {
+              "w": 0
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

@@ -1,0 +1,262 @@
+{
+  "slug": "hp-ord-30718e57-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "30718e57-77bd-4421-bd0c-d1df87f15f5e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "kassera"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "strunta"
+          },
+          {
+            "text": "i"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "packa"
+          },
+          {
+            "text": "ner"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "ta"
+          },
+          {
+            "text": "ur"
+          },
+          {
+            "text": "bruk"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "samla"
+          },
+          {
+            "text": "ihop"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ta"
+          },
+          {
+            "text": "tillvara"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "kassera = ta ur bruk",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 31.4,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 19.62
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        },
+        {
+          "start": 0.8,
+          "end": 0.8
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 19.62,
+          "chars": [
+            19.62,
+            19.856,
+            20.0921,
+            20.3281,
+            20.5642,
+            20.8002,
+            21.0363,
+            21.2723,
+            21.3431,
+            21.5792,
+            21.65,
+            21.886,
+            22.1221,
+            22.1929,
+            22.429,
+            22.665,
+            22.7358,
+            22.9719,
+            23.2079,
+            23.444
+          ]
+        },
+        {
+          "start": 31.1,
+          "chars": [
+            31.1,
+            31.1118,
+            31.1237,
+            31.1355,
+            31.1473,
+            31.1592,
+            31.1627,
+            31.1746,
+            31.1864,
+            31.1982,
+            31.2101,
+            31.2136,
+            31.2254,
+            31.229,
+            31.2408,
+            31.2527,
+            31.2645,
+            31.2763,
+            31.2882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 27.34,
+        "end": 29.9
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.08,
+          "end": 0.8,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Kassera"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 31.05
+  },
+  "layout": {},
+  "variant": "app"
+}

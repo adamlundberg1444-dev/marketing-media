@@ -1,0 +1,640 @@
+{
+  "slug": "hp-dtk-c09cd74b-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "c09cd74b-d70f-44cf-b398-e4a283c97c1e"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.2
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Dela"
+      },
+      {
+        "text": "Skaftölandet"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "nordlig"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "sydlig"
+      },
+      {
+        "text": "del"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "hjälp"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "öst–västlig"
+      },
+      {
+        "text": "linje"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "höjd"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "Stockeviks"
+      },
+      {
+        "text": "småbåtshamn."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "områden"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "allmänt"
+      },
+      {
+        "text": "friluftsbad"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "då"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "Skaftölandets"
+      },
+      {
+        "text": "södra"
+      },
+      {
+        "text": "del?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 32,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "1"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "2"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "3"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "4"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/c09cd74b-d70f-44cf-b398-e4a283c97c1e.png",
+    "imageMax": 720
+  },
+  "writeLines": [
+    {
+      "text": "Rb: vågmönster"
+    },
+    {
+      "text": "söder om linjen: 2 st",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 65.14,
+    "phases": {
+      "readStart": 0.12,
+      "writeStart": 19.29
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.12,
+          "end": 0.4
+        },
+        {
+          "start": 0.48,
+          "end": 1.44
+        },
+        {
+          "start": 1.44,
+          "end": 1.4476
+        },
+        {
+          "start": 1.4476,
+          "end": 1.4565
+        },
+        {
+          "start": 1.4565,
+          "end": 1.474
+        },
+        {
+          "start": 1.474,
+          "end": 1.4846
+        },
+        {
+          "start": 1.4846,
+          "end": 1.4936
+        },
+        {
+          "start": 1.4936,
+          "end": 1.5094
+        },
+        {
+          "start": 1.5094,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 1.68
+        },
+        {
+          "start": 1.68,
+          "end": 1.7167
+        },
+        {
+          "start": 1.7167,
+          "end": 1.74
+        },
+        {
+          "start": 1.74,
+          "end": 1.86
+        },
+        {
+          "start": 1.94,
+          "end": 2.88
+        },
+        {
+          "start": 2.94,
+          "end": 3.38
+        },
+        {
+          "start": 3.7,
+          "end": 3.78
+        },
+        {
+          "start": 3.84,
+          "end": 4.16
+        },
+        {
+          "start": 4.2,
+          "end": 4.32
+        },
+        {
+          "start": 4.42,
+          "end": 5.2
+        },
+        {
+          "start": 5.4,
+          "end": 6.36
+        },
+        {
+          "start": 7.62,
+          "end": 7.86
+        },
+        {
+          "start": 7.92,
+          "end": 8.24
+        },
+        {
+          "start": 8.34,
+          "end": 9.12
+        },
+        {
+          "start": 9.18,
+          "end": 9.34
+        },
+        {
+          "start": 9.44,
+          "end": 9.88
+        },
+        {
+          "start": 9.94,
+          "end": 11.16
+        },
+        {
+          "start": 11.26,
+          "end": 11.52
+        },
+        {
+          "start": 11.52,
+          "end": 11.56
+        },
+        {
+          "start": 11.56,
+          "end": 11.64
+        },
+        {
+          "start": 11.64,
+          "end": 11.86
+        },
+        {
+          "start": 11.86,
+          "end": 12.24
+        },
+        {
+          "start": 12.24,
+          "end": 12.68
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 19.29,
+          "chars": [
+            19.29,
+            19.4562,
+            19.6223,
+            19.7885,
+            19.8383,
+            20.0045,
+            20.1707,
+            20.3368,
+            20.503,
+            20.6692,
+            20.8353,
+            21.0015,
+            21.1677,
+            21.3338
+          ]
+        },
+        {
+          "start": 56.54,
+          "chars": [
+            56.54,
+            56.7323,
+            56.9246,
+            57.1169,
+            57.3092,
+            57.5015,
+            57.5592,
+            57.7515,
+            57.9438,
+            58.0015,
+            58.1938,
+            58.3862,
+            58.5785,
+            58.7708,
+            58.9631,
+            59.1554,
+            59.3477,
+            59.4054,
+            59.5977,
+            59.6554,
+            59.8477
+          ]
+        },
+        {
+          "start": 63.92,
+          "chars": [
+            63.92,
+            63.9296,
+            63.9391,
+            63.9487,
+            63.9583,
+            63.9611,
+            63.9707,
+            63.9803,
+            63.9899,
+            63.9994,
+            64.009,
+            64.0186,
+            64.0281,
+            64.0377,
+            64.0473,
+            64.0501,
+            64.0597,
+            64.0626,
+            64.0722,
+            64.0817,
+            64.0913,
+            64.1009,
+            64.1104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 61.98,
+        "end": 63.64
+      },
+      "options": {
+        "hideAt": 13.48,
+        "showAt": 61.08
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 4.42,
+          "end": 5.17,
+          "targets": [
+            {
+              "w": 18,
+              "from": "Stockeviks",
+              "color": "blå"
+            },
+            {
+              "w": 19,
+              "from": "Stockeviks",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 9.44,
+          "end": 10.19,
+          "targets": [
+            {
+              "w": 24,
+              "from": "allmänt",
+              "color": "gul"
+            },
+            {
+              "w": 25,
+              "from": "allmänt",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.34,
+          "end": 18.09,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.035,
+                0.199,
+                0.32,
+                0.215
+              ],
+              "from": "friluftsbad",
+              "color": "gul",
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.5,
+          "end": 27.25,
+          "targets": [
+            {
+              "hl": true,
+              "point": [
+                0.372,
+                0.589
+              ],
+              "r": 0.016,
+              "from": "H-märket",
+              "color": "blå",
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 30.32,
+          "end": 31.07,
+          "targets": [
+            {
+              "hl": true,
+              "line": [
+                [
+                  0.3,
+                  0.589
+                ],
+                [
+                  0.82,
+                  0.589
+                ]
+              ],
+              "w": 0.006,
+              "snap": false,
+              "from": "linje",
+              "color": "blå",
+              "keep": true,
+              "seg": 2,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 40.26,
+          "end": 41.01,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.465,
+                0.5,
+                0.522,
+                0.525
+              ],
+              "from": "Fiskebäckskil",
+              "color": "lila",
+              "seg": 3,
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 42.96,
+          "end": 43.71,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.638,
+                0.4,
+                0.722,
+                0.457
+              ],
+              "from": "nordost",
+              "color": "lila",
+              "seg": 3,
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 50.7,
+          "end": 51.45,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.345,
+                0.606,
+                0.396,
+                0.648
+              ],
+              "from": "Stockevik",
+              "color": "gul",
+              "keep": true,
+              "seg": 4,
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 53.3,
+          "end": 54.05,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.425,
+                0.783,
+                0.478,
+                0.828
+              ],
+              "from": "sydkusten",
+              "color": "gul",
+              "keep": true,
+              "seg": 4,
+              "mi": 6
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 14.18,
+          "end": 19.09,
+          "omrade": [
+            0.02,
+            0.196,
+            0.48,
+            0.219
+          ]
+        },
+        {
+          "start": 22.92,
+          "end": 32.46,
+          "omrade": [
+            0.25,
+            0.55,
+            0.62,
+            0.63
+          ]
+        },
+        {
+          "start": 34.16,
+          "end": 55.05,
+          "omrade": [
+            0.25,
+            0.38,
+            0.8,
+            0.85
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 63.87
+  },
+  "layout": {
+    "appFigurKvar": true,
+    "appOptionsHide": true,
+    "imageMax": 720,
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.2
+  },
+  "variant": "app"
+}

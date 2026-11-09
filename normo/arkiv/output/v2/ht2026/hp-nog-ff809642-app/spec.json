@@ -1,0 +1,901 @@
+{
+  "slug": "hp-nog-ff809642-app",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "ff809642-663d-4bb0-b9f5-5140c3711a49"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "En"
+      },
+      {
+        "text": "blombukett"
+      },
+      {
+        "text": "innehåller"
+      },
+      {
+        "text": "endast"
+      },
+      {
+        "text": "enfärgade"
+      },
+      {
+        "text": "blommor:"
+      },
+      {
+        "text": "liljor"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "rosor."
+      },
+      {
+        "text": "Var"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "blommorna"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "antingen"
+      },
+      {
+        "text": "vit"
+      },
+      {
+        "text": "eller"
+      },
+      {
+        "text": "gul."
+      },
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "liljor"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "buketten?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "text": "Av"
+      },
+      {
+        "text": "de"
+      },
+      {
+        "text": "tio"
+      },
+      {
+        "text": "vita"
+      },
+      {
+        "text": "blommorna"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "buketten"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "60"
+      },
+      {
+        "text": "procent"
+      },
+      {
+        "text": "rosor."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "text": "Det"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "sex"
+      },
+      {
+        "text": "liljor"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "buketten."
+      },
+      {
+        "text": "En"
+      },
+      {
+        "text": "tredjedel"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "dem"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "gula."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 52,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "0{,}6 \\cdot 10 = 6"
+    },
+    {
+      "text": "10 - 6 = 4",
+      "rod": [
+        "- 6"
+      ],
+      "farg": {
+        "3": "#D93025",
+        "4": "#D93025",
+        "5": "#D93025"
+      }
+    },
+    {
+      "text": "\\frac{6}{3} = 2"
+    },
+    {
+      "text": "6 - 2 = 4",
+      "rod": [
+        "- 2"
+      ],
+      "emphasis": true,
+      "farg": {
+        "2": "#D93025",
+        "3": "#D93025",
+        "4": "#D93025"
+      }
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 59.66,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 20.94
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.1437
+        },
+        {
+          "start": 0.1437,
+          "end": 0.3054
+        },
+        {
+          "start": 0.3054,
+          "end": 0.4671
+        },
+        {
+          "start": 0.4671,
+          "end": 0.5798
+        },
+        {
+          "start": 0.5798,
+          "end": 0.7293
+        },
+        {
+          "start": 0.7293,
+          "end": 0.94
+        },
+        {
+          "start": 0.94,
+          "end": 1.4
+        },
+        {
+          "start": 1.42,
+          "end": 1.5
+        },
+        {
+          "start": 1.56,
+          "end": 2.14
+        },
+        {
+          "start": 2.14,
+          "end": 2.52
+        },
+        {
+          "start": 2.52,
+          "end": 2.58
+        },
+        {
+          "start": 2.58,
+          "end": 2.8147
+        },
+        {
+          "start": 2.8147,
+          "end": 3.0494
+        },
+        {
+          "start": 3.0494,
+          "end": 3.6
+        },
+        {
+          "start": 3.6,
+          "end": 3.72
+        },
+        {
+          "start": 3.72,
+          "end": 3.78
+        },
+        {
+          "start": 3.78,
+          "end": 4.24
+        },
+        {
+          "start": 4.34,
+          "end": 4.5
+        },
+        {
+          "start": 4.56,
+          "end": 5.04
+        },
+        {
+          "start": 5.04,
+          "end": 5.1837
+        },
+        {
+          "start": 5.1837,
+          "end": 5.3738
+        },
+        {
+          "start": 5.3738,
+          "end": 5.5407
+        },
+        {
+          "start": 5.5407,
+          "end": 5.7539
+        },
+        {
+          "start": 5.7539,
+          "end": 5.944
+        },
+        {
+          "start": 5.944,
+          "end": 6.0877
+        },
+        {
+          "start": 6.0877,
+          "end": 6.1897
+        },
+        {
+          "start": 6.1897,
+          "end": 6.6115
+        },
+        {
+          "start": 6.6115,
+          "end": 6.7552
+        },
+        {
+          "start": 6.7552,
+          "end": 6.8758
+        },
+        {
+          "start": 6.8758,
+          "end": 6.9963
+        },
+        {
+          "start": 6.9963,
+          "end": 7.14
+        },
+        {
+          "start": 7.14,
+          "end": 7.62
+        },
+        {
+          "start": 7.62,
+          "end": 7.6308
+        },
+        {
+          "start": 7.6308,
+          "end": 7.6347
+        },
+        {
+          "start": 7.6347,
+          "end": 7.6446
+        },
+        {
+          "start": 7.6446,
+          "end": 7.6492
+        },
+        {
+          "start": 7.6492,
+          "end": 7.6538
+        },
+        {
+          "start": 7.6538,
+          "end": 7.6628
+        },
+        {
+          "start": 7.6628,
+          "end": 7.6763
+        },
+        {
+          "start": 7.6763,
+          "end": 7.6818
+        },
+        {
+          "start": 7.6818,
+          "end": 7.6873
+        },
+        {
+          "start": 7.6873,
+          "end": 7.6945
+        },
+        {
+          "start": 7.6945,
+          "end": 7.7
+        },
+        {
+          "start": 7.7,
+          "end": 8.24
+        },
+        {
+          "start": 8.24,
+          "end": 8.414
+        },
+        {
+          "start": 8.414,
+          "end": 9.1338
+        },
+        {
+          "start": 9.1338,
+          "end": 9.3394
+        },
+        {
+          "start": 9.3394,
+          "end": 9.8219
+        },
+        {
+          "start": 9.8219,
+          "end": 10.0276
+        },
+        {
+          "start": 10.0276,
+          "end": 10.2728
+        },
+        {
+          "start": 10.2728,
+          "end": 10.4784
+        },
+        {
+          "start": 10.4784,
+          "end": 11.04
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 20.94,
+          "chars": [
+            20.94,
+            21.198,
+            21.4561,
+            21.7141,
+            21.7915,
+            22.0496,
+            22.127,
+            22.385,
+            22.6431,
+            22.7205,
+            22.9785,
+            23.056
+          ]
+        },
+        {
+          "start": 25.58,
+          "chars": [
+            25.58,
+            25.8486,
+            26.1172,
+            26.1978,
+            26.4664,
+            26.547,
+            26.8156,
+            26.8962,
+            27.1648,
+            27.2454
+          ]
+        },
+        {
+          "start": 35,
+          "chars": [
+            35,
+            35.2825,
+            35.565,
+            35.8475,
+            35.9323,
+            36.2148,
+            36.2995
+          ]
+        },
+        {
+          "start": 41.26,
+          "chars": [
+            41.26,
+            41.5365,
+            41.6194,
+            41.8958,
+            41.9788,
+            42.2552,
+            42.3382,
+            42.6146,
+            42.6975
+          ]
+        },
+        {
+          "start": 58.42,
+          "chars": [
+            58.42,
+            58.4296,
+            58.4391,
+            58.4487,
+            58.4583,
+            58.4611,
+            58.4707,
+            58.4803,
+            58.4899,
+            58.4994,
+            58.509,
+            58.5186,
+            58.5281,
+            58.5377,
+            58.5473,
+            58.5501,
+            58.5597,
+            58.5626,
+            58.5722,
+            58.5817,
+            58.5913,
+            58.6009,
+            58.6104
+          ]
+        }
+      ],
+      "circle": {
+        "start": 54.92,
+        "end": 58.16
+      },
+      "options": {
+        "hideAt": 19.6,
+        "showAt": 54.02
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 3.78,
+          "end": 4.53,
+          "targets": [
+            {
+              "w": 15,
+              "from": "vit eller",
+              "color": "blå"
+            },
+            {
+              "w": 16,
+              "from": "vit eller",
+              "color": "blå"
+            },
+            {
+              "w": 17,
+              "from": "vit eller",
+              "color": "blå"
+            },
+            {
+              "w": 18,
+              "from": "vit eller",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 7.14,
+          "end": 7.89,
+          "targets": [
+            {
+              "w": 19,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 20,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 21,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 22,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 23,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 24,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 25,
+              "from": "vita liljor",
+              "color": "lila"
+            },
+            {
+              "w": 26,
+              "from": "vita liljor",
+              "color": "lila"
+            }
+          ]
+        },
+        {
+          "start": 13.04,
+          "end": 13.79,
+          "targets": [
+            {
+              "w": 28,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 29,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 30,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 31,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 32,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 33,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 34,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 35,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 36,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 37,
+              "from": "Påstående ett",
+              "color": "gul"
+            },
+            {
+              "w": 38,
+              "from": "Påstående ett",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 31.44,
+          "end": 32.19,
+          "targets": [
+            {
+              "w": 40,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 41,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 42,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 43,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 44,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 45,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 46,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 47,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 48,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 49,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 50,
+              "from": "Påstående två",
+              "color": "rosa"
+            },
+            {
+              "w": 51,
+              "from": "Påstående två",
+              "color": "rosa"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 58.37
+  },
+  "layout": {
+    "appKeyLines": [
+      3
+    ],
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

@@ -1,0 +1,480 @@
+{
+  "layout": "rader",
+  "fraga": [
+    {
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "q0",
+          "t": "För funktionen "
+        },
+        {
+          "id": "qf",
+          "t": "f",
+          "it": true
+        },
+        {
+          "t": " gäller att"
+        }
+      ]
+    },
+    {
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "g1",
+          "tex": "f(x) = 2x + 4"
+        },
+        {
+          "id": "v1",
+          "t": " för "
+        },
+        {
+          "id": "c1",
+          "tex": "x \\leq 2"
+        }
+      ]
+    },
+    {
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "g2",
+          "tex": "f(x) = 2x - 1"
+        },
+        {
+          "id": "v2",
+          "t": " för "
+        },
+        {
+          "id": "c2",
+          "tex": "x > 2"
+        }
+      ]
+    },
+    {
+      "storlek": 60,
+      "delar": [
+        {
+          "id": "q",
+          "t": "Vad är "
+        },
+        {
+          "id": "qf0",
+          "tex": "f(0)"
+        },
+        {
+          "id": "qm",
+          "t": "?"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "-2"
+    },
+    {
+      "letter": "B",
+      "tex": "-1"
+    },
+    {
+      "letter": "C",
+      "tex": "\\text{3}"
+    },
+    {
+      "letter": "D",
+      "tex": "\\text{4}"
+    }
+  ],
+  "correct": 3,
+  "hook": {
+    "lines": [
+      "Två regler på HP.",
+      "Villkoret väljer åt dig."
+    ],
+    "start": 0,
+    "end": 4.569999999999999
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 4.569999999999999,
+    "d": "M 950 1100 C 1040 930, 1040 700, 900 590",
+    "head": "M 970 600 L 900 590 L 925 660"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "2x+4=0",
+          "at": 16.18,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "\\Rightarrow",
+          "at": 18.101,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "x=-2",
+          "at": 18.741,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "color": "bla",
+      "forvandla": [
+        {
+          "at": 32.87,
+          "termer": [
+            {
+              "k": "f",
+              "tex": "f(0)"
+            },
+            {
+              "k": "=",
+              "tex": "=",
+              "at": 33.17
+            },
+            {
+              "k": "t",
+              "tex": "2\\cdot 0",
+              "at": 34.41
+            },
+            {
+              "k": "p",
+              "tex": "+",
+              "at": 35.4
+            },
+            {
+              "k": "c",
+              "tex": "4",
+              "at": 35.55
+            }
+          ]
+        },
+        {
+          "at": 37.85,
+          "termer": [
+            {
+              "k": "f",
+              "tex": "f(0)"
+            },
+            "=",
+            {
+              "k": "t",
+              "tex": "0"
+            },
+            {
+              "k": "p",
+              "tex": "+"
+            },
+            {
+              "k": "c",
+              "tex": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "f(0)",
+          "at": 38.74,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 39.04,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "4",
+          "at": 40.42,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "L",
+      "at": 23.001
+    },
+    {
+      "row": 0,
+      "col": "R",
+      "at": 23.251
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 2,
+      "col": "R",
+      "at": 40.87
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "q",
+        "qf0",
+        "qm"
+      ],
+      "at": 11.17,
+      "end": 13.95
+    },
+    {
+      "ids": [
+        "c1"
+      ],
+      "at": 29.59,
+      "end": 32.87
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "g1"
+      ],
+      "color": "bla",
+      "at": 5.64,
+      "end": 7.2
+    },
+    {
+      "ids": [
+        "g2"
+      ],
+      "color": "rod",
+      "at": 7.2,
+      "end": 9.04
+    },
+    {
+      "ids": [
+        "qf0"
+      ],
+      "color": "rod",
+      "at": 25.18,
+      "end": 27.76
+    },
+    {
+      "ids": [
+        "g1"
+      ],
+      "color": "gron",
+      "at": 31.53,
+      "end": 36.95
+    }
+  ],
+  "bagar": [],
+  "skamt": null,
+  "alt": {
+    "losning": 4.4,
+    "lockbete": {
+      "at": 18.101,
+      "end": 21.711,
+      "markera": {
+        "val": "A",
+        "at": 20.321,
+        "end": 21.711
+      }
+    },
+    "tillbaka": 40.98
+  },
+  "lage": {
+    "fraga": 300,
+    "alt": 720,
+    "rader": 720,
+    "krok": 1080
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.46,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 650,
+      "dur": 0.5
+    },
+    {
+      "at": 4.5,
+      "zoom": 1.3,
+      "x": 540,
+      "y": 500,
+      "dur": 0.45
+    },
+    {
+      "at": 8.94,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 560,
+      "dur": 0.4
+    },
+    {
+      "at": 13.85,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 700,
+      "dur": 0.4
+    },
+    {
+      "at": 17.651,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 22.801,
+      "zoom": 1.2,
+      "x": 540,
+      "y": 700,
+      "dur": 0.4
+    },
+    {
+      "at": 27.66,
+      "zoom": 1.35,
+      "x": 540,
+      "y": 500,
+      "dur": 0.4
+    },
+    {
+      "at": 32.77,
+      "zoom": 1.25,
+      "x": 540,
+      "y": 760,
+      "dur": 0.4
+    },
+    {
+      "at": 40.68,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "En funktion med två personligheter",
+      "start": 4.6,
+      "end": 7.2
+    },
+    {
+      "text": "Den byter vid 2",
+      "start": 7.2,
+      "end": 9.04
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 9.04,
+      "end": 11.17
+    },
+    {
+      "text": "Vi ska hitta f av 0",
+      "start": 11.17,
+      "end": 13.95
+    },
+    {
+      "text": "Lätt. f är 0 när",
+      "start": 13.95,
+      "end": 16.18
+    },
+    {
+      "text": "2x plus 4 är 0",
+      "start": 16.18,
+      "end": 18.101
+    },
+    {
+      "text": "Så x är minus 2",
+      "start": 18.101,
+      "end": 20.321
+    },
+    {
+      "text": "svaret är A",
+      "start": 20.321,
+      "end": 21.811
+    },
+    {
+      "text": "Men vänta lite nu",
+      "start": 21.811,
+      "end": 23.001
+    },
+    {
+      "text": "Nej, det är nollstället",
+      "start": 23.001,
+      "end": 25.18
+    },
+    {
+      "text": "Vi ska sätta in x",
+      "start": 25.18,
+      "end": 26.48
+    },
+    {
+      "text": "lika med 0",
+      "start": 26.48,
+      "end": 27.76
+    },
+    {
+      "text": "Vilken regel gäller?",
+      "start": 27.76,
+      "end": 29.59
+    },
+    {
+      "text": "0 är mindre än 2",
+      "start": 29.59,
+      "end": 31.39
+    },
+    {
+      "text": "så den översta",
+      "start": 31.39,
+      "end": 32.87
+    },
+    {
+      "text": "Sätt in 0",
+      "start": 32.87,
+      "end": 34.41
+    },
+    {
+      "text": "2 gånger 0 plus 4",
+      "start": 34.41,
+      "end": 36.95
+    },
+    {
+      "text": "2 gånger 0 är 0",
+      "start": 36.95,
+      "end": 38.74
+    },
+    {
+      "text": "Så f av 0 är 4",
+      "start": 38.74,
+      "end": 41.58
+    },
+    {
+      "text": "Svaret är D",
+      "start": 41.58,
+      "end": 43.46
+    }
+  ],
+  "circle": {
+    "start": 42.7,
+    "end": 43.400000000000006
+  },
+  "duration": 44.46
+}

@@ -1,0 +1,221 @@
+{
+  "slug": "hp-ord-de4cf0c0-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "de4cf0c0-1c85-49f1-af21-f1598f209acb"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "ordinär"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "verksam"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "allsidig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "medelmåttig"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "lydig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "populär"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "ordinär = medelmåttig",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 32.7,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 20.42
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "start": 0.78,
+          "end": 0.78
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 20.42,
+          "chars": [
+            20.42,
+            20.6579,
+            20.8957,
+            21.1336,
+            21.3714,
+            21.6093,
+            21.8471,
+            22.085,
+            22.1564,
+            22.3942,
+            22.4656,
+            22.7034,
+            22.9413,
+            23.1791,
+            23.417,
+            23.6549,
+            23.8927,
+            24.1306,
+            24.3684,
+            24.6063,
+            24.8441
+          ]
+        },
+        {
+          "start": 32.38,
+          "chars": [
+            32.38,
+            32.3918,
+            32.4037,
+            32.4155,
+            32.4273,
+            32.4392,
+            32.4427,
+            32.4546,
+            32.4664,
+            32.4782,
+            32.4901,
+            32.4936,
+            32.5054,
+            32.509,
+            32.5208,
+            32.5327,
+            32.5445,
+            32.5563,
+            32.5682
+          ]
+        }
+      ],
+      "circle": {
+        "start": 29.22,
+        "end": 31.2
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.08,
+          "end": 0.78,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Ordinär"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 32.33
+  },
+  "layout": {},
+  "variant": "app"
+}

@@ -1,0 +1,296 @@
+{
+  "slug": "hp-ord-9aa96598-app",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "9aa96598-d292-4d87-a2e0-74a1d36ce14c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "fet": "allt"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "komma"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "fråga"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 3,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "anses"
+          },
+          {
+            "text": "olämplig"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "be"
+          },
+          {
+            "text": "om"
+          },
+          {
+            "text": "lov"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "kräva"
+          },
+          {
+            "text": "uppmärksamhet"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "bli"
+          },
+          {
+            "text": "kritiserad"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "vara"
+          },
+          {
+            "text": "tänkbar"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "komma i fråga = vara tänkbar",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.64,
+    "phases": {
+      "readStart": 0.1,
+      "writeStart": 23.18
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.1,
+          "end": 0.62
+        },
+        {
+          "start": 0.68,
+          "end": 0.76
+        },
+        {
+          "start": 0.84,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "start": 1.4,
+          "end": 1.4
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 23.18,
+          "chars": [
+            23.18,
+            23.4143,
+            23.6486,
+            23.8829,
+            24.1171,
+            24.3514,
+            24.4217,
+            24.656,
+            24.7263,
+            24.9606,
+            25.1949,
+            25.4291,
+            25.6634,
+            25.8977,
+            25.968,
+            26.2023,
+            26.2726,
+            26.5069,
+            26.7411,
+            26.9754,
+            27.2097,
+            27.28,
+            27.5143,
+            27.7486,
+            27.9829,
+            28.2171,
+            28.4514,
+            28.6857
+          ]
+        },
+        {
+          "start": 34.22,
+          "chars": [
+            34.22,
+            34.243,
+            34.2659,
+            34.2889,
+            34.3119,
+            34.3188,
+            34.3417,
+            34.3647,
+            34.3877,
+            34.4106,
+            34.4336,
+            34.4566,
+            34.4795,
+            34.5025,
+            34.5255,
+            34.5323,
+            34.5553,
+            34.5622,
+            34.5852,
+            34.6081,
+            34.6311,
+            34.6541,
+            34.677
+          ]
+        }
+      ],
+      "circle": {
+        "start": 32.159,
+        "end": 34.14
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.1,
+          "end": 0.85,
+          "targets": [
+            {
+              "w": 0,
+              "from": "Komma"
+            },
+            {
+              "w": 1,
+              "from": "Komma"
+            },
+            {
+              "w": 2,
+              "from": "Komma"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 34.17
+  },
+  "layout": {},
+  "variant": "app"
+}

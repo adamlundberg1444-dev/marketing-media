@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20260710",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-13.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "fix idé",
+      "options": [
+        "viktig angelägenhet",
+        "misstag pga glömska",
+        "sång",
+        "tvångstanke"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "fix idé",
+      "options": [
+        "viktig angelägenhet",
+        "misstag pga glömska",
+        "sång",
+        "tvångstanke"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "förbida",
+      "options": [
+        "stilla invänta",
+        "avundas",
+        "bevista",
+        "kräva"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "förbida",
+      "options": [
+        "stilla invänta",
+        "avundas",
+        "bevista",
+        "kräva"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "armatur",
+      "options": [
+        "oäkta material",
+        "belysning; utrustning",
+        "en slags växt",
+        "försvarsverk"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "armatur",
+      "options": [
+        "oäkta material",
+        "belysning; utrustning",
+        "en slags växt",
+        "försvarsverk"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "informell",
+      "options": [
+        "steril",
+        "oansvarig",
+        "aktningsvärd",
+        "otvungen"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "informell",
+      "options": [
+        "steril",
+        "oansvarig",
+        "aktningsvärd",
+        "otvungen"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

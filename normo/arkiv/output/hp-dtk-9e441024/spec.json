@@ -1,0 +1,420 @@
+{
+  "slug": "hp-dtk-9e441024",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "9e441024-1fe7-440d-b901-25d9a1c84131"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK-fråga · Högskoleprovet",
+    "text2": "HT 2016 · fråga 31",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "\\text{antal nu} = \\text{antal basåret} \\cdot \\frac{\\text{index}}{100}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "många"
+      },
+      {
+        "text": "personbilar"
+      },
+      {
+        "text": "ägdes"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "kvinnor"
+      },
+      {
+        "text": "1972?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "450"
+          },
+          {
+            "text": "000"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "650"
+          },
+          {
+            "text": "000"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "1"
+          },
+          {
+            "text": "000"
+          },
+          {
+            "text": "000"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "2"
+          },
+          {
+            "text": "200"
+          },
+          {
+            "text": "000"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/9e441024-1fe7-440d-b901-25d9a1c84131.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "index 100 = antalet 1972"
+    },
+    {
+      "text": "2004: index ≈ 245"
+    },
+    {
+      "text": "2004: 1\\,113\\,527 bilar"
+    },
+    {
+      "text": "\\frac{1\\,113\\,527}{2{,}45} ≈ 450\\,000",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "duration": 41.374,
+    "phases": {
+      "readStart": 0.8,
+      "writeStart": 4.92
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.8,
+          "end": 1.11
+        },
+        {
+          "start": 1.11,
+          "end": 1.52
+        },
+        {
+          "start": 1.52,
+          "end": 2.23
+        },
+        {
+          "start": 2.23,
+          "end": 2.64
+        },
+        {
+          "start": 2.64,
+          "end": 2.9
+        },
+        {
+          "start": 2.9,
+          "end": 3.41
+        },
+        {
+          "start": 3.41,
+          "end": 4.12
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 6.52,
+          "chars": [
+            6.52,
+            6.6738,
+            6.8277,
+            6.9815,
+            7.1354,
+            7.2892,
+            7.3354,
+            7.4892,
+            7.6431,
+            7.7969,
+            7.8431,
+            7.9969,
+            8.0431,
+            8.1969,
+            8.3508,
+            8.5046,
+            8.6585,
+            8.8123,
+            8.9662,
+            9.12,
+            9.1662,
+            9.32,
+            9.4738,
+            9.6277
+          ]
+        },
+        {
+          "start": 10.1315,
+          "chars": [
+            10.1315,
+            10.2854,
+            10.4392,
+            10.5931,
+            10.7469,
+            10.9008,
+            10.9469,
+            11.1008,
+            11.2546,
+            11.4085,
+            11.5623,
+            11.7162,
+            11.7623,
+            11.9162,
+            11.9623,
+            12.1162,
+            12.27
+          ]
+        },
+        {
+          "start": 12.7738,
+          "chars": [
+            12.7738,
+            12.9277,
+            13.0815,
+            13.2354,
+            13.3892,
+            13.5431,
+            13.5892,
+            13.7431,
+            13.7892,
+            13.9431,
+            14.0969,
+            14.2508,
+            14.2969,
+            14.4508,
+            14.6046,
+            14.7585,
+            14.8046,
+            14.9585,
+            15.1123,
+            15.2662,
+            15.42
+          ]
+        },
+        {
+          "start": 15.9238,
+          "chars": [
+            15.9238,
+            16.0777,
+            16.1238,
+            16.2777,
+            16.4315,
+            16.5854,
+            16.6315,
+            16.7854,
+            16.9392,
+            17.0931,
+            17.2469,
+            17.4008,
+            17.5546,
+            17.7085,
+            17.8623,
+            17.9085,
+            18.0623,
+            18.1085,
+            18.2623,
+            18.4162,
+            18.57,
+            18.6162,
+            18.77,
+            18.9238
+          ]
+        },
+        {
+          "start": 20.7777,
+          "chars": [
+            20.7777,
+            20.9315,
+            21.0854,
+            21.2392,
+            21.3931,
+            21.5469,
+            21.5931,
+            21.7469,
+            21.9008,
+            22.0546,
+            22.1008,
+            22.2546,
+            22.3008,
+            22.4546,
+            22.6085,
+            22.7623,
+            22.9162,
+            23.07
+          ]
+        }
+      ],
+      "circle": {
+        "start": 19.428,
+        "end": 20.328
+      },
+      "options": null,
+      "concept": {
+        "start": 4.92,
+        "end": 6.02,
+        "hideAt": 12.92
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 23.574,
+          "end": 24.324,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.301,
+                  0.388
+                ],
+                [
+                  0.415,
+                  0.388
+                ]
+              ],
+              "color": "red",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.174,
+          "end": 25.924,
+          "targets": [
+            {
+              "point": [
+                0.455,
+                0.135
+              ],
+              "color": "red",
+              "label": "245",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.774,
+          "end": 27.524,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.294,
+                  0.522
+                ],
+                [
+                  0.638,
+                  0.522
+                ]
+              ],
+              "color": "red",
+              "mi": 0
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 28.374,
+          "end": 34.874,
+          "omrade": [
+            0.02,
+            0.045,
+            0.7,
+            0.45
+          ]
+        },
+        {
+          "start": 35.374,
+          "end": 38.374,
+          "omrade": [
+            0.02,
+            0.41,
+            0.8,
+            0.66
+          ]
+        }
+      ],
+      "figureShrinks": [
+        {
+          "start": 34.874
+        }
+      ],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

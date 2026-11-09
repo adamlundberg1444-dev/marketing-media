@@ -1,0 +1,555 @@
+{
+  "slug": "hp-las-27dfeefd-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "27dfeefd-91ba-4815-92b5-2e827ad74191"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "följande"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "enligt"
+      },
+      {
+        "text": "texten"
+      },
+      {
+        "text": "viktigt"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "man"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "anställd"
+      },
+      {
+        "text": "ska"
+      },
+      {
+        "text": "kunna"
+      },
+      {
+        "text": "hantera"
+      },
+      {
+        "text": "farorna"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "”gränslöst"
+      },
+      {
+        "text": "arbete”?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 19,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "förmågan"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "växla"
+          },
+          {
+            "text": "mellan"
+          },
+          {
+            "text": "flera"
+          },
+          {
+            "text": "olika"
+          },
+          {
+            "text": "arbetsuppgifter."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "markerar"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "arbetsgivaren"
+          },
+          {
+            "text": "har"
+          },
+          {
+            "text": "ansvar"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "arbetsplaneringen."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "låter"
+          },
+          {
+            "text": "arbetstempot"
+          },
+          {
+            "text": "variera"
+          },
+          {
+            "text": "beroende"
+          },
+          {
+            "text": "på"
+          },
+          {
+            "text": "arbetsgivarens"
+          },
+          {
+            "text": "tidsplan."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Att"
+          },
+          {
+            "text": "man"
+          },
+          {
+            "text": "kan"
+          },
+          {
+            "text": "bedöma"
+          },
+          {
+            "text": "när"
+          },
+          {
+            "text": "ett"
+          },
+          {
+            "text": "arbetsmoment"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "slutfört."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__27dfeefd-91ba-4815-92b5-2e827ad74191.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "avgöra när uppgiften är klar",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 43.36,
+    "phases": {
+      "readStart": 0.16,
+      "writeStart": 33.86
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.16,
+          "end": 0.38
+        },
+        {
+          "start": 0.44,
+          "end": 0.54
+        },
+        {
+          "start": 0.62,
+          "end": 1.28
+        },
+        {
+          "start": 1.4,
+          "end": 1.5
+        },
+        {
+          "start": 1.56,
+          "end": 1.8
+        },
+        {
+          "start": 1.86,
+          "end": 2.36
+        },
+        {
+          "start": 2.42,
+          "end": 3.06
+        },
+        {
+          "start": 3.1,
+          "end": 3.18
+        },
+        {
+          "start": 3.22,
+          "end": 3.32
+        },
+        {
+          "start": 3.36,
+          "end": 3.46
+        },
+        {
+          "start": 3.5,
+          "end": 3.62
+        },
+        {
+          "start": 3.74,
+          "end": 4.26
+        },
+        {
+          "start": 4.3,
+          "end": 4.44
+        },
+        {
+          "start": 4.48,
+          "end": 4.64
+        },
+        {
+          "start": 4.68,
+          "end": 5.16
+        },
+        {
+          "start": 5.24,
+          "end": 5.76
+        },
+        {
+          "start": 6.02,
+          "end": 6.14
+        },
+        {
+          "start": 6.2,
+          "end": 7.14
+        },
+        {
+          "start": 7.26,
+          "end": 7.82
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 33.86,
+          "chars": [
+            33.86,
+            34.0767,
+            34.2933,
+            34.51,
+            34.7267,
+            34.9433,
+            35.16,
+            35.225,
+            35.4417,
+            35.6583,
+            35.875,
+            35.94,
+            36.1567,
+            36.3733,
+            36.59,
+            36.8067,
+            37.0233,
+            37.24,
+            37.4567,
+            37.6733,
+            37.89,
+            37.955,
+            38.1717,
+            38.3883,
+            38.4533,
+            38.67,
+            38.8867,
+            39.1033
+          ]
+        },
+        {
+          "start": 43.12,
+          "chars": [
+            43.12,
+            43.1326,
+            43.1452,
+            43.1577,
+            43.1703,
+            43.1829,
+            43.1867,
+            43.1992,
+            43.2118,
+            43.2244,
+            43.2282,
+            43.2408,
+            43.2445,
+            43.2571,
+            43.2697,
+            43.2823,
+            43.2948,
+            43.3074
+          ]
+        }
+      ],
+      "circle": {
+        "start": 41.5,
+        "end": 41.86
+      },
+      "options": {
+        "hideAt": 15.6,
+        "showAt": 40.6
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 9.8,
+          "end": 10.55,
+          "targets": [
+            {
+              "w": 14,
+              "from": "farorna",
+              "color": "gul"
+            },
+            {
+              "w": 15,
+              "from": "farorna",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 18.76,
+          "end": 19.51,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4989,
+                  0.2588
+                ],
+                [
+                  0.8597,
+                  0.2588
+                ],
+                [
+                  0.8597,
+                  0.3132
+                ],
+                [
+                  0.4989,
+                  0.3132
+                ]
+              ],
+              "color": "bla",
+              "from": "bra nog",
+              "hlFarg": "gul",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 26.18,
+          "end": 26.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6193,
+                  0.6385
+                ],
+                [
+                  0.9255,
+                  0.6385
+                ],
+                [
+                  0.9255,
+                  0.6928
+                ],
+                [
+                  0.6193,
+                  0.6928
+                ]
+              ],
+              "color": "bla",
+              "from": "avgöra",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 26.18,
+          "end": 26.93,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.7095
+                ],
+                [
+                  0.4062,
+                  0.7095
+                ],
+                [
+                  0.4062,
+                  0.7639
+                ],
+                [
+                  0,
+                  0.7639
+                ]
+              ],
+              "color": "bla",
+              "from": "avgöra",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 29.74,
+          "end": 30.49,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4056,
+                  0.7095
+                ],
+                [
+                  0.8798,
+                  0.7095
+                ],
+                [
+                  0.8798,
+                  0.7639
+                ],
+                [
+                  0.4056,
+                  0.7639
+                ]
+              ],
+              "color": "bla",
+              "from": "säger nej",
+              "hlFarg": "rosa",
+              "mi": 3
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 43.07
+  },
+  "layout": {},
+  "variant": "app"
+}

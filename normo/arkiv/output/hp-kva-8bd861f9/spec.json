@@ -1,0 +1,395 @@
+{
+  "slug": "hp-kva-8bd861f9",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "8bd861f9-b9f7-456f-ad70-d21a947c7a72"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "HT 2012 · fråga 19",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "(-2)^4 = 16 \\qquad -2^4 = -16 \\qquad 3^{-2} = \\tfrac{1}{9}"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Funktionen"
+      },
+      {
+        "tex": " g ",
+        "display": false
+      },
+      {
+        "text": "ges"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "tex": " g(x) = 4 - x^2 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": " g(4) ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": " g(-4) ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 11,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "g(4) = 4 - 4^2 = 4 - 16 = -12"
+    },
+    {
+      "text": "g(-4) = 4 - (-4)^2"
+    },
+    {
+      "text": "= 4 - 16 = -12"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 78.124,
+    "phases": {
+      "readStart": 3.561,
+      "writeStart": 31.697
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.561,
+          "end": 4.269
+        },
+        {
+          "start": 4.269,
+          "end": 4.733
+        },
+        {
+          "start": 4.733,
+          "end": 4.907
+        },
+        {
+          "start": 4.977,
+          "end": 5.07
+        },
+        {
+          "start": 5.07,
+          "end": 7.0739
+        },
+        {
+          "start": 7.0739,
+          "end": 8.007
+        },
+        {
+          "start": 8.007,
+          "end": 8.065
+        },
+        {
+          "start": 8.065,
+          "end": 9.284
+        },
+        {
+          "start": 9.284,
+          "end": 9.911
+        },
+        {
+          "start": 9.911,
+          "end": 11.9333
+        },
+        {
+          "start": 11.9333,
+          "end": 14.486
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 31.697,
+          "chars": [
+            31.697,
+            31.9337,
+            32.1703,
+            32.407,
+            32.6437,
+            32.7147,
+            32.9513,
+            33.0223,
+            33.259,
+            33.33,
+            33.5667,
+            33.6377,
+            33.8743,
+            34.111,
+            34.182,
+            34.4187,
+            34.4897,
+            34.7263,
+            34.7973,
+            35.034,
+            35.105,
+            35.3417,
+            35.5783,
+            35.6493,
+            35.886,
+            35.957,
+            36.1937,
+            36.4303
+          ]
+        },
+        {
+          "start": 39.74,
+          "chars": [
+            39.74,
+            39.9846,
+            40.2293,
+            40.4739,
+            40.7186,
+            40.9632,
+            41.0366,
+            41.2813,
+            41.3547,
+            41.5993,
+            41.6727,
+            41.9174,
+            41.9908,
+            42.2354,
+            42.4801,
+            42.7247,
+            42.9694
+          ]
+        },
+        {
+          "start": 53.472,
+          "chars": [
+            53.472,
+            53.7253,
+            53.8013,
+            54.0547,
+            54.1307,
+            54.384,
+            54.46,
+            54.7133,
+            54.9667,
+            55.0427,
+            55.296,
+            55.372,
+            55.6253,
+            55.8787
+          ]
+        },
+        {
+          "start": 63.241,
+          "chars": [
+            63.241,
+            63.5371,
+            63.6259,
+            63.922,
+            64.0108,
+            64.3069
+          ]
+        },
+        {
+          "start": 72.245,
+          "chars": [
+            72.245,
+            72.4449,
+            72.6449,
+            72.8448,
+            73.0448,
+            73.2447,
+            73.3047,
+            73.5046,
+            73.7046,
+            73.9045,
+            74.1044,
+            74.1644,
+            74.3644,
+            74.4244,
+            74.6243,
+            74.8242,
+            75.0242,
+            75.2241,
+            75.4241
+          ]
+        }
+      ],
+      "circle": {
+        "start": 67.041,
+        "end": 70.245
+      },
+      "options": {
+        "hideAt": 19.607,
+        "showAt": 66.141
+      },
+      "concept": {
+        "start": 20.792,
+        "end": 30.196,
+        "hideAt": 39.278
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "slug": "hp-mek-be21d3f9",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "be21d3f9-95c4-4061-be9c-bda9fbbb5585"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK-fråga · Högskoleprovet",
+    "text2": "HT 2017 · fråga 21",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "mek"
+    ],
+    "text": "Ett ord i meningen styr luckan: rentav trappar upp, men vänder, ju mer lovar en riktning."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Edith"
+      },
+      {
+        "text": "Södergrans"
+      },
+      {
+        "text": "expressionistiska"
+      },
+      {
+        "text": "diktning"
+      },
+      {
+        "text": "ger"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "högre"
+      },
+      {
+        "text": "grad"
+      },
+      {
+        "text": "prov"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "______"
+      },
+      {
+        "text": "livsyttringar"
+      },
+      {
+        "text": "än"
+      },
+      {
+        "text": "på"
+      },
+      {
+        "text": "inhemska."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "utsvävande"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "spontana"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "angenäma"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "kontinentala"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "utsvävande = överdriven"
+    },
+    {
+      "text": "spontan = utan planering"
+    },
+    {
+      "text": "angenäm = behaglig"
+    },
+    {
+      "text": "kontinental = från Europa",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 103.172,
+    "phases": {
+      "readStart": 3.723,
+      "writeStart": 40.704
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.723,
+          "end": 4.095
+        },
+        {
+          "start": 4.129,
+          "end": 4.838
+        },
+        {
+          "start": 4.896,
+          "end": 5.79
+        },
+        {
+          "start": 5.848,
+          "end": 6.3
+        },
+        {
+          "start": 6.335,
+          "end": 6.463
+        },
+        {
+          "start": 6.498,
+          "end": 6.521
+        },
+        {
+          "start": 6.591,
+          "end": 7.044
+        },
+        {
+          "start": 7.102,
+          "end": 7.38
+        },
+        {
+          "start": 7.438,
+          "end": 7.717
+        },
+        {
+          "start": 7.821,
+          "end": 8.088
+        },
+        {
+          "start": 8.088,
+          "end": 10.097
+        },
+        {
+          "start": 10.097,
+          "end": 10.991
+        },
+        {
+          "start": 11.072,
+          "end": 11.177
+        },
+        {
+          "start": 11.258,
+          "end": 11.374
+        },
+        {
+          "start": 11.432,
+          "end": 12.28
+        },
+        {
+          "start": 14.498,
+          "end": 15.415
+        },
+        {
+          "start": 15.45,
+          "end": 16.332
+        },
+        {
+          "start": 16.379,
+          "end": 17.342
+        },
+        {
+          "start": 17.667,
+          "end": 18.654
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 40.704,
+          "chars": [
+            40.704,
+            40.9402,
+            41.1764,
+            41.4126,
+            41.6488,
+            41.885,
+            42.1212,
+            42.3574,
+            42.5936,
+            42.8298,
+            43.066,
+            43.1369,
+            43.3731,
+            43.444,
+            43.6802,
+            43.9164,
+            44.1526,
+            44.3888,
+            44.625,
+            44.8612,
+            45.0974,
+            45.3336,
+            45.5698
+          ]
+        },
+        {
+          "start": 52.986,
+          "chars": [
+            52.986,
+            53.222,
+            53.458,
+            53.6939,
+            53.9299,
+            54.1659,
+            54.4019,
+            54.6379,
+            54.7087,
+            54.9446,
+            55.0154,
+            55.2514,
+            55.4874,
+            55.7234,
+            55.9594,
+            56.0302,
+            56.2661,
+            56.5021,
+            56.7381,
+            56.9741,
+            57.2101,
+            57.4461,
+            57.682,
+            57.918
+          ]
+        },
+        {
+          "start": 64.932,
+          "chars": [
+            64.932,
+            65.1731,
+            65.4142,
+            65.6553,
+            65.8963,
+            66.1374,
+            66.3785,
+            66.6196,
+            66.6919,
+            66.933,
+            67.0053,
+            67.2464,
+            67.4875,
+            67.7286,
+            67.9697,
+            68.2107,
+            68.4518,
+            68.6929
+          ]
+        },
+        {
+          "start": 78.816,
+          "chars": [
+            78.816,
+            79.0513,
+            79.2866,
+            79.5219,
+            79.7571,
+            79.9924,
+            80.2277,
+            80.463,
+            80.6983,
+            80.9336,
+            81.1688,
+            81.4041,
+            81.4747,
+            81.71,
+            81.7806,
+            82.0159,
+            82.2511,
+            82.4864,
+            82.7217,
+            82.7923,
+            83.0276,
+            83.2629,
+            83.4981,
+            83.7334,
+            83.9687
+          ]
+        },
+        {
+          "start": 97.294,
+          "chars": [
+            97.294,
+            97.4939,
+            97.6938,
+            97.8936,
+            98.0935,
+            98.2934,
+            98.3534,
+            98.5533,
+            98.7531,
+            98.953,
+            99.1529,
+            99.2129,
+            99.4127,
+            99.4727,
+            99.6726,
+            99.8725,
+            100.0724,
+            100.2722,
+            100.4721
+          ]
+        }
+      ],
+      "circle": {
+        "start": 90.777,
+        "end": 96.524
+      },
+      "options": null,
+      "concept": {
+        "start": 20.023,
+        "end": 38.936,
+        "hideAt": 50.327
+      },
+      "strikes": [
+        {
+          "start": 50.272,
+          "end": 51.022,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 62.891,
+          "end": 63.641,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 75.951,
+          "end": 76.701,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 20.023,
+          "end": 20.773,
+          "targets": [
+            {
+              "w": 12
+            },
+            {
+              "w": 14
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

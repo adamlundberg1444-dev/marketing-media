@@ -1,0 +1,456 @@
+{
+  "slug": "hp-ord-70f5d327",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "70f5d327-b978-4c7f-bc38-226a6d3b32c7"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD-fråga · Högskoleprovet",
+    "text2": "HT 2020 · fråga 6",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "ord"
+    ],
+    "text": "Förstavelsen bär riktningen: av- bort, in- in, sam- ihop, o- tvärtom, för- före eller fel."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "trollbinda"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "förhindra"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "fascinera"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "bluffa"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "förvirra"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "överraska"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "troll + binda → bunden av trolldom"
+    },
+    {
+      "text": "publiken satt trollbunden"
+    },
+    {
+      "text": "förhindra = stoppa"
+    },
+    {
+      "text": "fascinera = fånga helt",
+      "emphasis": true
+    },
+    {
+      "text": "bluffa = lura"
+    },
+    {
+      "text": "förvirra = göra vilsen"
+    },
+    {
+      "text": "överraska = komma plötsligt"
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 129.896,
+    "phases": {
+      "readStart": 5.65,
+      "writeStart": 26.482
+    },
+    "read": {
+      "words": [
+        {
+          "start": 5.65,
+          "end": 6.916
+        },
+        {
+          "start": 9.471,
+          "end": 10.376
+        },
+        {
+          "start": 10.423,
+          "end": 11.247
+        },
+        {
+          "start": 11.363,
+          "end": 12.106
+        },
+        {
+          "start": 12.164,
+          "end": 12.965
+        },
+        {
+          "start": 13.383,
+          "end": 14.382
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 26.482,
+          "chars": [
+            26.482,
+            26.7137,
+            26.9455,
+            27.1772,
+            27.409,
+            27.6407,
+            27.7102,
+            27.942,
+            28.0115,
+            28.2433,
+            28.475,
+            28.7068,
+            28.9385,
+            29.1702,
+            29.2398,
+            29.4715,
+            29.541,
+            29.7728,
+            30.0045,
+            30.2363,
+            30.468,
+            30.6998,
+            30.9315,
+            31.001,
+            31.2328,
+            31.4645,
+            31.534,
+            31.7658,
+            31.9975,
+            32.2293,
+            32.461,
+            32.6928,
+            32.9245,
+            33.1563
+          ]
+        },
+        {
+          "start": 37.02,
+          "chars": [
+            37.02,
+            37.2548,
+            37.4897,
+            37.7245,
+            37.9593,
+            38.1942,
+            38.429,
+            38.6638,
+            38.8986,
+            38.9691,
+            39.2039,
+            39.4388,
+            39.6736,
+            39.9084,
+            39.9789,
+            40.2137,
+            40.4485,
+            40.6834,
+            40.9182,
+            41.153,
+            41.3878,
+            41.6227,
+            41.8575,
+            42.0923,
+            42.3272
+          ]
+        },
+        {
+          "start": 46.648,
+          "chars": [
+            46.648,
+            46.8891,
+            47.1302,
+            47.3713,
+            47.6123,
+            47.8534,
+            48.0945,
+            48.3356,
+            48.5767,
+            48.8178,
+            48.8901,
+            49.1312,
+            49.2035,
+            49.4446,
+            49.6857,
+            49.9267,
+            50.1678,
+            50.4089
+          ]
+        },
+        {
+          "start": 59.421,
+          "chars": [
+            59.421,
+            59.6586,
+            59.8962,
+            60.1338,
+            60.3714,
+            60.6089,
+            60.8465,
+            61.0841,
+            61.3217,
+            61.5593,
+            61.6306,
+            61.8682,
+            61.9394,
+            62.177,
+            62.4146,
+            62.6522,
+            62.8898,
+            63.1274,
+            63.1986,
+            63.4362,
+            63.6738,
+            63.9114
+          ]
+        },
+        {
+          "start": 70.66,
+          "chars": [
+            70.66,
+            70.9102,
+            71.1603,
+            71.4105,
+            71.6607,
+            71.9109,
+            72.161,
+            72.2361,
+            72.4863,
+            72.5613,
+            72.8115,
+            73.0617,
+            73.3118
+          ]
+        },
+        {
+          "start": 80.903,
+          "chars": [
+            80.903,
+            81.1406,
+            81.3782,
+            81.6158,
+            81.8534,
+            82.0909,
+            82.3285,
+            82.5661,
+            82.8037,
+            82.875,
+            83.1126,
+            83.1838,
+            83.4214,
+            83.659,
+            83.8966,
+            84.1342,
+            84.2055,
+            84.4431,
+            84.6806,
+            84.9182,
+            85.1558,
+            85.3934
+          ]
+        },
+        {
+          "start": 93.281,
+          "chars": [
+            93.281,
+            93.5151,
+            93.7491,
+            93.9832,
+            94.2172,
+            94.4513,
+            94.6853,
+            94.9194,
+            95.1534,
+            95.3875,
+            95.4577,
+            95.6918,
+            95.762,
+            95.9961,
+            96.2301,
+            96.4642,
+            96.6982,
+            96.9323,
+            97.0025,
+            97.2366,
+            97.4706,
+            97.7047,
+            97.9387,
+            98.1728,
+            98.4068,
+            98.6409,
+            98.8749
+          ]
+        },
+        {
+          "start": 123.924,
+          "chars": [
+            123.924,
+            124.0901,
+            124.2562,
+            124.4224,
+            124.5885,
+            124.6383,
+            124.8045,
+            124.9706,
+            125.1367,
+            125.3028,
+            125.469,
+            125.6351,
+            125.8012,
+            125.9673,
+            126.1335,
+            126.1833,
+            126.3494,
+            126.3993,
+            126.5654,
+            126.7315,
+            126.8976,
+            127.0638,
+            127.2299
+          ]
+        }
+      ],
+      "circle": {
+        "start": 103.921,
+        "end": 109.621
+      },
+      "options": null,
+      "concept": {
+        "start": 15.878,
+        "end": 25.271,
+        "hideAt": 36.407
+      },
+      "strikes": [
+        {
+          "start": 56.924,
+          "end": 57.674,
+          "targets": [
+            {
+              "opt": 0
+            }
+          ]
+        },
+        {
+          "start": 78.673,
+          "end": 79.423,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 90.622,
+          "end": 91.372,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        },
+        {
+          "start": 101.561,
+          "end": 102.311,
+          "targets": [
+            {
+              "opt": 4
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

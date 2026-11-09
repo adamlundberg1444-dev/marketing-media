@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20262068",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-15.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "boudoir",
+      "options": [
+        "salong",
+        "hänsyn",
+        "motståndare",
+        "ord med samma uttal"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "boudoir",
+      "options": [
+        "salong",
+        "hänsyn",
+        "motståndare",
+        "ord med samma uttal"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "terminologi",
+      "options": [
+        "lånat köp",
+        "institutionsassistent",
+        "förruttnelse",
+        "samling ämnesbegrepp"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "terminologi",
+      "options": [
+        "lånat köp",
+        "institutionsassistent",
+        "förruttnelse",
+        "samling ämnesbegrepp"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "härförleden",
+      "options": [
+        "så småningom",
+        "dessutom",
+        "nyligen",
+        "ordagrant"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "härförleden",
+      "options": [
+        "så småningom",
+        "dessutom",
+        "nyligen",
+        "ordagrant"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "diplomat",
+      "options": [
+        "hårtofs",
+        "specialområde",
+        "statssändebud",
+        "pappersvaror"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "diplomat",
+      "options": [
+        "hårtofs",
+        "specialområde",
+        "statssändebud",
+        "pappersvaror"
+      ],
+      "correct": 2,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

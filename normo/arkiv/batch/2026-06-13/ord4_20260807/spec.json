@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20260807",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-23.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "gli",
+      "options": [
+        "en tygsort",
+        "ouppnåelig fantasi",
+        "djurinhägnad",
+        "fiskyngel"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "gli",
+      "options": [
+        "en tygsort",
+        "ouppnåelig fantasi",
+        "djurinhägnad",
+        "fiskyngel"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "dekanus",
+      "options": [
+        "fakultetsordförande vid högskola",
+        "sätt att vara; natur",
+        "bakdel på djur",
+        "befallning"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "dekanus",
+      "options": [
+        "fakultetsordförande vid högskola",
+        "sätt att vara; natur",
+        "bakdel på djur",
+        "befallning"
+      ],
+      "correct": 0,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "nitid",
+      "options": [
+        "via synen",
+        "rask",
+        "prydlig",
+        "sinnlig"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "nitid",
+      "options": [
+        "via synen",
+        "rask",
+        "prydlig",
+        "sinnlig"
+      ],
+      "correct": 2,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "probera",
+      "options": [
+        "visa vägen",
+        "bli släkt med",
+        "förbruka",
+        "pröva"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "probera",
+      "options": [
+        "visa vägen",
+        "bli släkt med",
+        "förbruka",
+        "pröva"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

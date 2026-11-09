@@ -1,0 +1,326 @@
+{
+  "slug": "hp-kva-4aba4f96",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "4aba4f96-6b60-4483-bb4d-d60135cd75d3"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "VT 2023 · fråga 16",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "\\tfrac{1}{4} = 0{,}25 = 25\\,\\% \\qquad \\tfrac{1}{3} \\approx 0{,}33"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": "\\frac{3x - 1}{4}",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": "0,75x - 0,25",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{3x - 1}{4} = \\frac{3x}{4} - \\frac{1}{4}"
+    },
+    {
+      "text": "0,75 = \\frac{3}{4},\\; 0,25 = \\frac{1}{4}"
+    },
+    {
+      "text": "I = II",
+      "emphasis": true
+    },
+    {
+      "text": "Ladda ner HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 67.229,
+    "phases": {
+      "readStart": 3.7,
+      "writeStart": 27.135
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.7,
+          "end": 4.315
+        },
+        {
+          "start": 4.315,
+          "end": 5.7032
+        },
+        {
+          "start": 5.7032,
+          "end": 7.612
+        },
+        {
+          "start": 7.612,
+          "end": 8.17
+        },
+        {
+          "start": 8.17,
+          "end": 9.4176
+        },
+        {
+          "start": 9.4176,
+          "end": 11.606
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 27.135,
+          "chars": [
+            27.135,
+            27.3758,
+            27.6167,
+            27.6889,
+            27.9298,
+            28.002,
+            28.2428,
+            28.4837,
+            28.7245,
+            28.7968,
+            29.0376,
+            29.1098,
+            29.3507,
+            29.5915,
+            29.8323,
+            30.0732,
+            30.1454,
+            30.3863,
+            30.4585,
+            30.6993,
+            30.9402
+          ]
+        },
+        {
+          "start": 38.974,
+          "chars": [
+            38.974,
+            39.2126,
+            39.4512,
+            39.6899,
+            39.9285,
+            40.0001,
+            40.2387,
+            40.3103,
+            40.5489,
+            40.7875,
+            41.0261,
+            41.2647,
+            41.3363,
+            41.4079,
+            41.6465,
+            41.8851,
+            42.1237,
+            42.3624,
+            42.4339,
+            42.6726,
+            42.7441,
+            42.9828,
+            43.2214
+          ]
+        },
+        {
+          "start": 48.376,
+          "chars": [
+            48.376,
+            48.6721,
+            48.7609,
+            49.057,
+            49.1458,
+            49.4419
+          ]
+        },
+        {
+          "start": 61.653,
+          "chars": [
+            61.653,
+            61.8637,
+            62.0744,
+            62.2851,
+            62.4957,
+            62.7064,
+            62.7696,
+            62.9803,
+            63.191,
+            63.4017,
+            63.4649,
+            63.6756,
+            63.8863,
+            64.0969,
+            64.3076,
+            64.5183
+          ]
+        }
+      ],
+      "circle": {
+        "start": 57.145,
+        "end": 60.291
+      },
+      "options": {
+        "hideAt": 16.229,
+        "showAt": 56.245
+      },
+      "concept": {
+        "start": 17.356,
+        "end": 26.261,
+        "hideAt": 38.384
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

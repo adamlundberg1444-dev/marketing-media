@@ -1,0 +1,370 @@
+{
+  "slug": "hp-xyz-32677344-app",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "32677344-61af-4d24-b85f-e6a5b3796771"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " \\frac{4}{x} = \\frac{2}{x + 1} ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "tex": " x ",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 5,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "tex": " -2 ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "tex": " -\\frac{1}{2} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": " \\frac{1}{3} ",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "1"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "4(x + 1) = 2x",
+      "gron": [
+        "(x + 1)",
+        {
+          "text": "x",
+          "nth": 2
+        }
+      ],
+      "farg": {
+        "1": "#0E9F6E",
+        "2": "#0E9F6E",
+        "3": "#0E9F6E",
+        "4": "#0E9F6E",
+        "5": "#0E9F6E",
+        "6": "#0E9F6E",
+        "7": "#0E9F6E",
+        "12": "#0E9F6E"
+      }
+    },
+    {
+      "text": "4x + 4 = 2x",
+      "gron": [
+        "4x + 4"
+      ],
+      "farg": {
+        "0": "#0E9F6E",
+        "1": "#0E9F6E",
+        "2": "#0E9F6E",
+        "3": "#0E9F6E",
+        "4": "#0E9F6E",
+        "5": "#0E9F6E"
+      }
+    },
+    {
+      "text": "2x = -4",
+      "rod": [
+        "2x",
+        "-4"
+      ],
+      "farg": {
+        "0": "#D93025",
+        "1": "#D93025",
+        "5": "#D93025",
+        "6": "#D93025"
+      }
+    },
+    {
+      "text": "x = -2",
+      "emphasis": true,
+      "rod": [
+        "-2"
+      ],
+      "farg": {
+        "4": "#D93025",
+        "5": "#D93025"
+      }
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 48.26,
+    "phases": {
+      "readStart": 0.5,
+      "writeStart": 16.98
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.5,
+          "end": 1.5201
+        },
+        {
+          "start": 1.5201,
+          "end": 1.8
+        },
+        {
+          "start": 1.8,
+          "end": 1.86
+        },
+        {
+          "start": 1.86,
+          "end": 4.3838
+        },
+        {
+          "start": 4.3838,
+          "end": 6.86
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.98,
+          "chars": [
+            16.98,
+            17.2343,
+            17.4886,
+            17.7429,
+            17.8192,
+            18.0735,
+            18.1498,
+            18.4042,
+            18.6585,
+            18.7348,
+            18.9891,
+            19.0654,
+            19.3197
+          ]
+        },
+        {
+          "start": 28.12,
+          "chars": [
+            28.12,
+            28.3827,
+            28.6454,
+            28.7242,
+            28.9869,
+            29.0657,
+            29.3283,
+            29.4071,
+            29.6698,
+            29.7486,
+            30.0113
+          ]
+        },
+        {
+          "start": 37.78,
+          "chars": [
+            37.78,
+            38.0625,
+            38.345,
+            38.4297,
+            38.7123,
+            38.797,
+            39.0795
+          ]
+        },
+        {
+          "start": 42.76,
+          "chars": [
+            42.76,
+            42.973,
+            43.037,
+            43.25,
+            43.3139,
+            43.527
+          ]
+        },
+        {
+          "start": 46.92,
+          "chars": [
+            46.92,
+            47.0169,
+            47.1137,
+            47.2106,
+            47.3074,
+            47.4043,
+            47.4333,
+            47.5302,
+            47.627,
+            47.7239,
+            47.753,
+            47.8498,
+            47.8789,
+            47.9757,
+            48.0726,
+            48.1694,
+            48.2663,
+            48.3631
+          ]
+        }
+      ],
+      "circle": {
+        "start": 45.44,
+        "end": 46.76
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 0.5,
+          "end": 1.25,
+          "targets": [
+            {
+              "w": 0,
+              "from": "4 delat",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [],
+      "steg": [
+        {
+          "li": 1,
+          "farg": "#D93025",
+          "from": "drar bort",
+          "strykFrom": "från båda",
+          "eq": 7,
+          "n": 11,
+          "op": "- 2x - 4",
+          "stryk": [
+            {
+              "from": 3,
+              "to": 5,
+              "sida": "vanster",
+              "opDel": {
+                "from": 5,
+                "to": 7
+              }
+            },
+            {
+              "from": 9,
+              "to": 10,
+              "sida": "hoger",
+              "opDel": {
+                "from": 0,
+                "to": 3
+              }
+            }
+          ],
+          "start": 34,
+          "strykAt": 36
+        },
+        {
+          "li": 2,
+          "farg": "#D93025",
+          "from": "minus 4",
+          "eq": 3,
+          "n": 7,
+          "dela": "2",
+          "stryk": [
+            {
+              "from": 0,
+              "to": 0,
+              "sida": "vanster"
+            }
+          ],
+          "start": 39.98,
+          "strykAt": 41.28
+        }
+      ]
+    },
+    "tailHold": 2.5,
+    "audioEnd": 46.87
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3
+  },
+  "variant": "app"
+}

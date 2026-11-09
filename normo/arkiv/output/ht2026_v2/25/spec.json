@@ -1,0 +1,409 @@
+{
+  "slug": "hp-mek-1308aea3",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "1308aea3-803f-411e-8eba-40fc733a8c34"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK · fråga 25 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Giftiga"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "svårnedbrytbara"
+      },
+      {
+        "text": "kemikalier"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "återvinnas"
+      },
+      {
+        "text": "förbränns"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "speciella"
+      },
+      {
+        "text": "ugnar"
+      },
+      {
+        "text": "vid"
+      },
+      {
+        "text": "höga"
+      },
+      {
+        "text": "temperaturer."
+      },
+      {
+        "text": "De"
+      },
+      {
+        "text": "ämnen"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "inte"
+      },
+      {
+        "text": "kan"
+      },
+      {
+        "text": "oskadliggöras"
+      },
+      {
+        "text": "lämnas"
+      },
+      {
+        "text": "för"
+      },
+      {
+        "text": "_____."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 24,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "deponering"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "segregering"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "kompostering"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "refusering"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "deponering = förvaring",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 29.464,
+    "phases": {
+      "readStart": 1.624,
+      "writeStart": 18.19
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.624,
+          "end": 2.088
+        },
+        {
+          "start": 2.204,
+          "end": 2.32
+        },
+        {
+          "start": 2.355,
+          "end": 3.365
+        },
+        {
+          "start": 3.4,
+          "end": 3.957
+        },
+        {
+          "start": 3.992,
+          "end": 4.085
+        },
+        {
+          "start": 4.131,
+          "end": 4.259
+        },
+        {
+          "start": 4.294,
+          "end": 4.41
+        },
+        {
+          "start": 4.468,
+          "end": 4.944
+        },
+        {
+          "start": 4.99,
+          "end": 5.327
+        },
+        {
+          "start": 5.374,
+          "end": 5.397
+        },
+        {
+          "start": 5.432,
+          "end": 5.884
+        },
+        {
+          "start": 5.977,
+          "end": 6.302
+        },
+        {
+          "start": 6.36,
+          "end": 6.453
+        },
+        {
+          "start": 6.477,
+          "end": 6.732
+        },
+        {
+          "start": 6.778,
+          "end": 7.614
+        },
+        {
+          "start": 7.997,
+          "end": 8.125
+        },
+        {
+          "start": 8.16,
+          "end": 8.462
+        },
+        {
+          "start": 8.497,
+          "end": 8.624
+        },
+        {
+          "start": 8.694,
+          "end": 8.915
+        },
+        {
+          "start": 8.961,
+          "end": 9.135
+        },
+        {
+          "start": 9.286,
+          "end": 9.948
+        },
+        {
+          "start": 9.994,
+          "end": 10.273
+        },
+        {
+          "start": 10.308,
+          "end": 10.424
+        },
+        {
+          "start": 10.424,
+          "end": 12.421
+        },
+        {
+          "start": 13.913,
+          "end": 14.563
+        },
+        {
+          "start": 14.598,
+          "end": 15.306
+        },
+        {
+          "start": 15.329,
+          "end": 16.177
+        },
+        {
+          "start": 16.757,
+          "end": 17.465
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.19,
+          "chars": [
+            18.19,
+            18.3332,
+            18.4763,
+            18.6195,
+            18.7626,
+            18.9058,
+            19.0489,
+            19.1921,
+            19.3352,
+            19.4784,
+            19.6216,
+            19.6645,
+            19.8077,
+            19.8506,
+            19.9938,
+            20.1369,
+            20.2801,
+            20.4232,
+            20.5664,
+            20.7095,
+            20.8527,
+            20.9958
+          ]
+        },
+        {
+          "start": 25.106,
+          "chars": [
+            25.106,
+            25.2159,
+            25.3259,
+            25.4358,
+            25.5458,
+            25.6557,
+            25.6887,
+            25.7986,
+            25.9086,
+            26.0185,
+            26.1284,
+            26.1614,
+            26.2714,
+            26.3044,
+            26.4143,
+            26.5242,
+            26.6342,
+            26.7441,
+            26.8541
+          ]
+        }
+      ],
+      "circle": {
+        "start": 23.757,
+        "end": 24.755
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 21.664,
+          "end": 22.414,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 22.195,
+          "end": 22.945,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 22.725,
+          "end": 23.475,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 18.19,
+          "end": 18.94,
+          "targets": [
+            {
+              "w": 18
+            },
+            {
+              "w": 19
+            },
+            {
+              "w": 20
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

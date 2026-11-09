@@ -1,0 +1,628 @@
+{
+  "slug": "hp-las-cb4ef379-app",
+  "video": true,
+  "questionRef": {
+    "bank": "las",
+    "id": "cb4ef379-a3d7-4336-88ad-3c91df54c501"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Textförfattarna"
+      },
+      {
+        "text": "misstänker"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "Wagner-Jauregg"
+      },
+      {
+        "text": "kände"
+      },
+      {
+        "text": "sin"
+      },
+      {
+        "text": "ställning"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "feberterapins"
+      },
+      {
+        "text": "upphovsman"
+      },
+      {
+        "text": "hotad."
+      },
+      {
+        "text": "Vad"
+      },
+      {
+        "text": "får"
+      },
+      {
+        "text": "dem"
+      },
+      {
+        "text": "att"
+      },
+      {
+        "text": "tro"
+      },
+      {
+        "text": "det?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 17,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "benägenhet"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "ignorera"
+          },
+          {
+            "text": "tidigare"
+          },
+          {
+            "text": "studier."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "sätt"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "berätta"
+          },
+          {
+            "text": "historien"
+          },
+          {
+            "text": "om"
+          },
+          {
+            "text": "upptäcktens"
+          },
+          {
+            "text": "tillkomst."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "oförmåga"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "försvara"
+          },
+          {
+            "text": "sig"
+          },
+          {
+            "text": "mot"
+          },
+          {
+            "text": "kritikernas"
+          },
+          {
+            "text": "synpunkter."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Hans"
+          },
+          {
+            "text": "val"
+          },
+          {
+            "text": "att"
+          },
+          {
+            "text": "undanhålla"
+          },
+          {
+            "text": "vissa"
+          },
+          {
+            "text": "av"
+          },
+          {
+            "text": "sina"
+          },
+          {
+            "text": "resultat."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/las__cb4ef379-a3d7-4336-88ad-3c91df54c501.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "hur han berättar historien",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 51.14,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 42.98
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.94
+        },
+        {
+          "start": 0.98,
+          "end": 1.56
+        },
+        {
+          "start": 1.62,
+          "end": 1.74
+        },
+        {
+          "start": 1.78,
+          "end": 2.78
+        },
+        {
+          "start": 2.84,
+          "end": 3.14
+        },
+        {
+          "start": 3.18,
+          "end": 3.36
+        },
+        {
+          "start": 3.46,
+          "end": 3.92
+        },
+        {
+          "start": 4.019,
+          "end": 4.26
+        },
+        {
+          "start": 4.32,
+          "end": 5.4
+        },
+        {
+          "start": 5.48,
+          "end": 6.2
+        },
+        {
+          "start": 6.26,
+          "end": 6.8
+        },
+        {
+          "start": 7.96,
+          "end": 8.08
+        },
+        {
+          "start": 8.14,
+          "end": 8.3
+        },
+        {
+          "start": 8.36,
+          "end": 8.46
+        },
+        {
+          "start": 8.52,
+          "end": 8.68
+        },
+        {
+          "start": 8.76,
+          "end": 9
+        },
+        {
+          "start": 9.08,
+          "end": 9.44
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 42.98,
+          "chars": [
+            42.98,
+            43.1407,
+            43.3013,
+            43.462,
+            43.5102,
+            43.6709,
+            43.8315,
+            43.9922,
+            44.0404,
+            44.2011,
+            44.3618,
+            44.5224,
+            44.6831,
+            44.8438,
+            45.0044,
+            45.1651,
+            45.3258,
+            45.374,
+            45.5346,
+            45.6953,
+            45.856,
+            46.0167,
+            46.1773,
+            46.338,
+            46.4987,
+            46.6593
+          ]
+        },
+        {
+          "start": 50.84,
+          "chars": [
+            50.84,
+            50.8526,
+            50.8652,
+            50.8777,
+            50.8903,
+            50.9029,
+            50.9067,
+            50.9192,
+            50.9318,
+            50.9444,
+            50.9482,
+            50.9608,
+            50.9645,
+            50.9771,
+            50.9897,
+            51.0023,
+            51.0148,
+            51.0274
+          ]
+        }
+      ],
+      "circle": {
+        "start": 49.04,
+        "end": 49.64
+      },
+      "options": {
+        "hideAt": 17.38,
+        "showAt": 48.14
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 11.1,
+          "end": 11.85,
+          "targets": [
+            {
+              "w": 11,
+              "from": "vad får dem",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "vad får dem",
+              "color": "gul"
+            },
+            {
+              "w": 13,
+              "from": "vad får dem",
+              "color": "gul"
+            },
+            {
+              "w": 14,
+              "from": "vad får dem",
+              "color": "gul"
+            },
+            {
+              "w": 15,
+              "from": "vad får dem",
+              "color": "gul"
+            },
+            {
+              "w": 16,
+              "from": "vad får dem",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 20.46,
+          "end": 21.21,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.5473,
+                  0.2654
+                ],
+                [
+                  0.8231,
+                  0.2654
+                ],
+                [
+                  0.8231,
+                  0.3211
+                ],
+                [
+                  0.5473,
+                  0.3211
+                ]
+              ],
+              "color": "bla",
+              "from": "Rosenbljum",
+              "hlFarg": "blå",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 20.46,
+          "end": 21.21,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.3382
+                ],
+                [
+                  0.9858,
+                  0.3382
+                ],
+                [
+                  0.9858,
+                  0.3939
+                ],
+                [
+                  0,
+                  0.3939
+                ]
+              ],
+              "color": "bla",
+              "from": "Rosenbljum",
+              "hlFarg": "blå",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 20.46,
+          "end": 21.21,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.411
+                ],
+                [
+                  0.2486,
+                  0.411
+                ],
+                [
+                  0.2486,
+                  0.4667
+                ],
+                [
+                  0,
+                  0.4667
+                ]
+              ],
+              "color": "bla",
+              "from": "Rosenbljum",
+              "hlFarg": "blå",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 29.62,
+          "end": 30.37,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4585,
+                  0.4838
+                ],
+                [
+                  0.9891,
+                  0.4838
+                ],
+                [
+                  0.9891,
+                  0.5395
+                ],
+                [
+                  0.4585,
+                  0.5395
+                ]
+              ],
+              "color": "bla",
+              "from": "memoarer",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 29.62,
+          "end": 30.37,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5566
+                ],
+                [
+                  0.1692,
+                  0.5566
+                ],
+                [
+                  0.1692,
+                  0.6123
+                ],
+                [
+                  0,
+                  0.6123
+                ]
+              ],
+              "color": "bla",
+              "from": "memoarer",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 37.06,
+          "end": 37.81,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.6029,
+                  0.7022
+                ],
+                [
+                  0.9611,
+                  0.7022
+                ],
+                [
+                  0.9611,
+                  0.7579
+                ],
+                [
+                  0.6029,
+                  0.7579
+                ]
+              ],
+              "color": "bla",
+              "from": "syfte",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        },
+        {
+          "start": 37.06,
+          "end": 37.81,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.775
+                ],
+                [
+                  0.8507,
+                  0.775
+                ],
+                [
+                  0.8507,
+                  0.8307
+                ],
+                [
+                  0,
+                  0.8307
+                ]
+              ],
+              "color": "bla",
+              "from": "syfte",
+              "hlFarg": "gul",
+              "mi": 6
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 50.79
+  },
+  "layout": {},
+  "variant": "app"
+}

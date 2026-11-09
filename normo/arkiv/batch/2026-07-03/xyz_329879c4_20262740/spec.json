@@ -1,0 +1,46 @@
+{
+  "slug": "xyz_329879c4_20262740",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "XYZ från\nhögskoleprovet",
+      "pillText": "XYZ-fråga",
+      "bgImage": "tiktok/assets/intro/intro-23.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "Vilket svarsalternativ motsvarar ekvationen för linjen \\( L \\)?",
+      "options": [
+        "\\( y = -1,5x - 3 \\)",
+        "\\( y = -1,5x + 3 \\)",
+        "\\( y = 1,5x - 3 \\)",
+        "\\( y = 1,5x + 3 \\)"
+      ],
+      "image": "tiktok/assets/xyz/329879c4-cb25-4dde-9ca2-fae135c49894.png",
+      "figCompact": true,
+      "optsGrid": true
+    },
+    {
+      "kind": "quiz",
+      "theme": "greenxyz",
+      "title": "Vilket svarsalternativ motsvarar ekvationen för linjen \\( L \\)?",
+      "options": [
+        "\\( y = -1,5x - 3 \\)",
+        "\\( y = -1,5x + 3 \\)",
+        "\\( y = 1,5x - 3 \\)",
+        "\\( y = 1,5x + 3 \\)"
+      ],
+      "image": "tiktok/assets/xyz/329879c4-cb25-4dde-9ca2-fae135c49894.png",
+      "figCompact": true,
+      "optsGrid": true,
+      "correct": 1
+    },
+    {
+      "kind": "cta",
+      "title": "Öva gratis\ninför HP"
+    }
+  ]
+}

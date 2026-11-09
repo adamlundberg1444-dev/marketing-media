@@ -1,0 +1,405 @@
+{
+  "slug": "hp-xyz-5e43acc4",
+  "video": true,
+  "questionRef": {
+    "bank": "xyz",
+    "id": "5e43acc4-da3f-4b12-bc78-2c2b3e995de3"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "XYZ-fråga · Högskoleprovet",
+    "text2": "VT 2022 · fråga 1",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": "5(3 - x) = (4+x)2",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "värde"
+      },
+      {
+        "text": "har"
+      },
+      {
+        "tex": "x",
+        "display": false
+      },
+      {
+        "text": "?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 6,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "0"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "1"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "tex": "\\frac{7}{2}",
+            "display": false
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "tex": "\\frac{11}{3}",
+            "display": false
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "5(3 - x) = 2(4 + x)"
+    },
+    {
+      "text": "15 - 5x = 8 + 2x"
+    },
+    {
+      "text": "15 - 7x = 8"
+    },
+    {
+      "text": "-7x = -7"
+    },
+    {
+      "text": "x = 1",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 79.722,
+    "phases": {
+      "readStart": 3.038,
+      "writeStart": 12.288
+    },
+    "read": {
+      "words": [
+        {
+          "start": 3.038,
+          "end": 10.12
+        },
+        {
+          "start": 10.12,
+          "end": 10.445
+        },
+        {
+          "start": 10.492,
+          "end": 10.736
+        },
+        {
+          "start": 10.77,
+          "end": 10.933
+        },
+        {
+          "start": 10.933,
+          "end": 11.1993
+        },
+        {
+          "start": 11.1993,
+          "end": 11.537
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.288,
+          "chars": [
+            12.288,
+            12.5316,
+            12.7753,
+            13.0189,
+            13.092,
+            13.3357,
+            13.4088,
+            13.6524,
+            13.8961,
+            13.9692,
+            14.2128,
+            14.2859,
+            14.5296,
+            14.7732,
+            15.0169,
+            15.09,
+            15.3336,
+            15.4067,
+            15.6504
+          ]
+        },
+        {
+          "start": 28.716,
+          "chars": [
+            28.716,
+            28.9657,
+            29.2153,
+            29.2902,
+            29.5399,
+            29.6148,
+            29.8644,
+            30.1141,
+            30.189,
+            30.4387,
+            30.5136,
+            30.7632,
+            30.8381,
+            31.0878,
+            31.1627,
+            31.4123
+          ]
+        },
+        {
+          "start": 43.435,
+          "chars": [
+            43.435,
+            43.6977,
+            43.9604,
+            44.0392,
+            44.3019,
+            44.3807,
+            44.6433,
+            44.906,
+            44.9848,
+            45.2475,
+            45.3263
+          ]
+        },
+        {
+          "start": 51.606,
+          "chars": [
+            51.606,
+            51.879,
+            52.1521,
+            52.4251,
+            52.507,
+            52.78,
+            52.8619,
+            53.135
+          ]
+        },
+        {
+          "start": 60.891,
+          "chars": [
+            60.891,
+            61.2082,
+            61.3034,
+            61.6206,
+            61.7158
+          ]
+        },
+        {
+          "start": 73.913,
+          "chars": [
+            73.913,
+            74.1211,
+            74.3292,
+            74.5373,
+            74.7455,
+            74.9536,
+            75.016,
+            75.2241,
+            75.4322,
+            75.6403,
+            75.7028,
+            75.9109,
+            75.9733,
+            76.1814,
+            76.3895,
+            76.5977,
+            76.8058,
+            77.0139
+          ]
+        }
+      ],
+      "circle": {
+        "start": 71.018,
+        "end": 72.888
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [
+        {
+          "start": 12.288,
+          "end": 13.038,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                0,
+                0
+              ],
+              "to": [
+                2,
+                2
+              ],
+              "side": "over"
+            }
+          ]
+        },
+        {
+          "start": 13.388,
+          "end": 14.138,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                0,
+                0
+              ],
+              "to": [
+                6,
+                6
+              ],
+              "side": "under"
+            }
+          ]
+        },
+        {
+          "start": 14.488,
+          "end": 15.238,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                11,
+                11
+              ],
+              "to": [
+                13,
+                13
+              ],
+              "side": "over"
+            }
+          ]
+        },
+        {
+          "start": 15.588,
+          "end": 16.338,
+          "targets": [
+            {
+              "li": 0,
+              "from": [
+                11,
+                11
+              ],
+              "to": [
+                17,
+                17
+              ],
+              "side": "under"
+            }
+          ]
+        }
+      ],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": [
+        {
+          "li": 1,
+          "op": "- 2x",
+          "eq": 8,
+          "stryk": {
+            "from": 14,
+            "to": 15,
+            "sida": "hoger"
+          },
+          "start": 43.435,
+          "end": 50.505
+        },
+        {
+          "li": 2,
+          "op": "- 15",
+          "eq": 8,
+          "stryk": {
+            "from": 0,
+            "to": 1,
+            "sida": "vanster"
+          },
+          "start": 51.606,
+          "end": 59.408
+        },
+        {
+          "li": 3,
+          "op": "/ -7",
+          "eq": 4,
+          "stryk": null,
+          "start": 60.891,
+          "end": 69.018
+        }
+      ]
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

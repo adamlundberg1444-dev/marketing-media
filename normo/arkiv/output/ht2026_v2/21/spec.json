@@ -1,0 +1,397 @@
+{
+  "slug": "hp-mek-71032ef5",
+  "video": true,
+  "questionRef": {
+    "bank": "mek",
+    "id": "71032ef5-5fb4-4e29-a122-0f7faeb1fd80"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "MEK · fråga 21 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "På"
+      },
+      {
+        "text": "fasadens"
+      },
+      {
+        "text": "fris"
+      },
+      {
+        "text": "finns"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "_____"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "meter"
+      },
+      {
+        "text": "höga"
+      },
+      {
+        "text": "bokstäver,"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "minne"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "påven"
+      },
+      {
+        "text": "Paulus"
+      },
+      {
+        "text": "V"
+      },
+      {
+        "text": "som"
+      },
+      {
+        "text": "var"
+      },
+      {
+        "text": "en"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "Peterskyrkans"
+      },
+      {
+        "text": "byggherrar."
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 23,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "inskription"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "obelisk"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "notation"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "parafras"
+          }
+        ]
+      }
+    ],
+    "optionsRead": true,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "inhuggen text",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 29.463,
+    "phases": {
+      "readStart": 2.819,
+      "writeStart": 18.248
+    },
+    "read": {
+      "words": [
+        {
+          "start": 2.819,
+          "end": 2.912
+        },
+        {
+          "start": 2.97,
+          "end": 3.446
+        },
+        {
+          "start": 3.504,
+          "end": 3.737
+        },
+        {
+          "start": 3.806,
+          "end": 4.096
+        },
+        {
+          "start": 4.155,
+          "end": 4.247
+        },
+        {
+          "start": 4.247,
+          "end": 5.989
+        },
+        {
+          "start": 5.989,
+          "end": 6.128
+        },
+        {
+          "start": 6.175,
+          "end": 6.244
+        },
+        {
+          "start": 6.291,
+          "end": 6.651
+        },
+        {
+          "start": 6.697,
+          "end": 6.964
+        },
+        {
+          "start": 7.011,
+          "end": 7.51
+        },
+        {
+          "start": 7.545,
+          "end": 7.661
+        },
+        {
+          "start": 7.684,
+          "end": 7.928
+        },
+        {
+          "start": 7.986,
+          "end": 8.09
+        },
+        {
+          "start": 8.16,
+          "end": 8.462
+        },
+        {
+          "start": 8.497,
+          "end": 8.949
+        },
+        {
+          "start": 8.949,
+          "end": 9.82
+        },
+        {
+          "start": 9.82,
+          "end": 9.983
+        },
+        {
+          "start": 10.018,
+          "end": 10.134
+        },
+        {
+          "start": 10.203,
+          "end": 10.296
+        },
+        {
+          "start": 10.366,
+          "end": 10.436
+        },
+        {
+          "start": 10.528,
+          "end": 11.271
+        },
+        {
+          "start": 11.318,
+          "end": 12.026
+        },
+        {
+          "start": 14.063,
+          "end": 14.899
+        },
+        {
+          "start": 15.073,
+          "end": 15.781
+        },
+        {
+          "start": 15.839,
+          "end": 16.594
+        },
+        {
+          "start": 17.163,
+          "end": 17.778
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 18.248,
+          "chars": [
+            18.248,
+            18.4965,
+            18.7449,
+            18.9934,
+            19.2418,
+            19.4903,
+            19.7387,
+            19.9872,
+            20.2356,
+            20.3102,
+            20.5586,
+            20.8071,
+            21.0555
+          ]
+        },
+        {
+          "start": 25.465,
+          "chars": [
+            25.465,
+            25.5367,
+            25.6083,
+            25.68,
+            25.7517,
+            25.7732,
+            25.8449,
+            25.9166,
+            25.9882,
+            26.0599,
+            26.1316,
+            26.2032,
+            26.2749,
+            26.3466,
+            26.4183,
+            26.4398,
+            26.5114,
+            26.533,
+            26.6046,
+            26.6763,
+            26.748,
+            26.8197,
+            26.8913
+          ]
+        }
+      ],
+      "circle": {
+        "start": 24.012,
+        "end": 25.022
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [
+        {
+          "start": 22.534,
+          "end": 23.284,
+          "targets": [
+            {
+              "opt": 1
+            }
+          ]
+        },
+        {
+          "start": 22.769,
+          "end": 23.519,
+          "targets": [
+            {
+              "opt": 2
+            }
+          ]
+        },
+        {
+          "start": 23.004,
+          "end": 23.754,
+          "targets": [
+            {
+              "opt": 3
+            }
+          ]
+        }
+      ],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 18.248,
+          "end": 18.998,
+          "targets": [
+            {
+              "w": 8
+            },
+            {
+              "w": 9
+            },
+            {
+              "w": 10
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

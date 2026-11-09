@@ -1,0 +1,399 @@
+{
+  "slug": "hp-dtk-391f56f4",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "391f56f4-d598-4b4b-9519-a02fefdf9bdc"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "DTK · fråga 36 av 40",
+    "text2": "HT 2026 · provpass 4",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Studera"
+      },
+      {
+        "text": "företagen"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "skogslänen"
+      },
+      {
+        "text": "avseende"
+      },
+      {
+        "text": "försäljningen"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "text": "färdigvaror."
+      },
+      {
+        "text": "Vilket"
+      },
+      {
+        "text": "var"
+      },
+      {
+        "text": "förhållandet"
+      },
+      {
+        "text": "mellan"
+      },
+      {
+        "text": "försäljningsvärdet"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "det"
+      },
+      {
+        "text": "egna"
+      },
+      {
+        "text": "länet"
+      },
+      {
+        "text": "och"
+      },
+      {
+        "text": "försäljningsvärdet"
+      },
+      {
+        "text": "till"
+      },
+      {
+        "text": "ospecificerat"
+      },
+      {
+        "text": "område?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 22,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "2:3"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "2:5"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "1:4"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "1:6"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 2,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/391f56f4-d598-4b4b-9519-a02fefdf9bdc.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{160}{649} ≈ \\frac{160}{640} = \\frac{1}{4}",
+      "emphasis": true
+    },
+    {
+      "text": "Fler HP-frågor i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 35.343,
+    "phases": {
+      "readStart": 1.271,
+      "writeStart": 22.108
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.271,
+          "end": 1.631
+        },
+        {
+          "start": 1.677,
+          "end": 2.2
+        },
+        {
+          "start": 2.223,
+          "end": 2.246
+        },
+        {
+          "start": 2.269,
+          "end": 2.885
+        },
+        {
+          "start": 3.001,
+          "end": 3.43
+        },
+        {
+          "start": 3.477,
+          "end": 3.987
+        },
+        {
+          "start": 4.046,
+          "end": 4.138
+        },
+        {
+          "start": 4.255,
+          "end": 5.125
+        },
+        {
+          "start": 5.566,
+          "end": 5.845
+        },
+        {
+          "start": 5.88,
+          "end": 5.95
+        },
+        {
+          "start": 5.996,
+          "end": 6.507
+        },
+        {
+          "start": 6.577,
+          "end": 6.832
+        },
+        {
+          "start": 6.902,
+          "end": 7.703
+        },
+        {
+          "start": 7.772,
+          "end": 7.993
+        },
+        {
+          "start": 8.109,
+          "end": 8.225
+        },
+        {
+          "start": 8.26,
+          "end": 8.504
+        },
+        {
+          "start": 8.55,
+          "end": 8.922
+        },
+        {
+          "start": 9.363,
+          "end": 9.583
+        },
+        {
+          "start": 9.63,
+          "end": 10.396
+        },
+        {
+          "start": 10.431,
+          "end": 10.617
+        },
+        {
+          "start": 10.71,
+          "end": 11.604
+        },
+        {
+          "start": 11.673,
+          "end": 12.254
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 22.108,
+          "chars": [
+            22.108,
+            22.3453,
+            22.5827,
+            22.82,
+            23.0573,
+            23.2946,
+            23.532,
+            23.7693,
+            23.8405,
+            24.0778,
+            24.149,
+            24.3863,
+            24.6237,
+            24.861,
+            25.0983,
+            25.3356,
+            25.573,
+            25.8103,
+            25.8815,
+            26.1188,
+            26.19,
+            26.4273,
+            26.6647
+          ]
+        },
+        {
+          "start": 32.1,
+          "chars": [
+            32.1,
+            32.1356,
+            32.1711,
+            32.2067,
+            32.2422,
+            32.2529,
+            32.2884,
+            32.324,
+            32.3595,
+            32.3951,
+            32.4306,
+            32.4662,
+            32.5017,
+            32.5373,
+            32.5728,
+            32.5835,
+            32.619,
+            32.6297,
+            32.6652,
+            32.7008,
+            32.7363,
+            32.7719,
+            32.8074
+          ]
+        }
+      ],
+      "circle": {
+        "start": 29.838,
+        "end": 31.731
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 14.354,
+          "end": 15.104,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.42,
+                  0.139
+                ],
+                [
+                  0.535,
+                  0.139
+                ]
+              ],
+              "color": "red",
+              "snap": false,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 15.454,
+          "end": 16.204,
+          "targets": [
+            {
+              "circle": [
+                0.422,
+                0.2355
+              ],
+              "r": 0.024,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 16.554,
+          "end": 17.304,
+          "targets": [
+            {
+              "circle": [
+                0.421,
+                0.358
+              ],
+              "r": 0.024,
+              "mi": 2
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 13.554,
+          "end": 21.483,
+          "omrade": [
+            0.13,
+            0.115,
+            0.6,
+            0.39
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

@@ -1,0 +1,387 @@
+{
+  "slug": "hp-nog-32f4324d",
+  "video": true,
+  "questionRef": {
+    "bank": "nog",
+    "id": "32f4324d-ac12-405a-87be-67227b42fc94"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionFontScale": 0.9,
+    "optionGapScale": 0.7,
+    "optionIndent": 0,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "NOG · fråga 28 av 40",
+    "text2": "HT 2026 · provpass 1",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "for": [
+      "nog"
+    ],
+    "text": "Kom ihåg: NOG-frågor kräver inte exakt svar."
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Är"
+      },
+      {
+        "tex": " x > 0 ",
+        "display": false
+      },
+      {
+        "text": "?"
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(1)"
+      },
+      {
+        "tex": " x^2 > 0 ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "(2)"
+      },
+      {
+        "tex": " (-x)^2 > 0 ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 7,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "men"
+          },
+          {
+            "text": "ej"
+          },
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "tillsammans"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "(2)"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "i"
+          },
+          {
+            "text": "(1)"
+          },
+          {
+            "text": "och"
+          },
+          {
+            "text": "(2)"
+          },
+          {
+            "text": "var"
+          },
+          {
+            "text": "för"
+          },
+          {
+            "text": "sig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "ej"
+          },
+          {
+            "text": "genom"
+          },
+          {
+            "text": "de"
+          },
+          {
+            "text": "båda"
+          },
+          {
+            "text": "påståendena"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 4,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "(1) x = 2 eller -2: räcker ej"
+    },
+    {
+      "text": "(2) (-x)^2 = x^2: samma, räcker ej",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 36.469,
+    "phases": {
+      "readStart": 1.433,
+      "writeStart": 16.148
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.433,
+          "end": 1.573
+        },
+        {
+          "start": 1.573,
+          "end": 3.6011
+        },
+        {
+          "start": 3.6011,
+          "end": 4.9707
+        },
+        {
+          "start": 4.9707,
+          "end": 5.7872
+        },
+        {
+          "start": 5.7872,
+          "end": 8.1313
+        },
+        {
+          "start": 8.1313,
+          "end": 8.9478
+        },
+        {
+          "start": 8.9478,
+          "end": 11.766
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 16.148,
+          "chars": [
+            16.148,
+            16.3518,
+            16.5556,
+            16.7593,
+            16.8205,
+            17.0242,
+            17.0854,
+            17.2891,
+            17.3503,
+            17.5541,
+            17.6152,
+            17.819,
+            18.0227,
+            18.2265,
+            18.4303,
+            18.6341,
+            18.6952,
+            18.899,
+            19.1028,
+            19.3065,
+            19.3677,
+            19.5714,
+            19.7752,
+            19.979,
+            20.1828,
+            20.3865,
+            20.5903,
+            20.6514,
+            20.8552
+          ]
+        },
+        {
+          "start": 21.77,
+          "chars": [
+            21.77,
+            22.0026,
+            22.2352,
+            22.4678,
+            22.5375,
+            22.7701,
+            23.0027,
+            23.2353,
+            23.4679,
+            23.7005,
+            23.7703,
+            24.0029,
+            24.0726,
+            24.3052,
+            24.5378,
+            24.7704,
+            24.8402,
+            25.0728,
+            25.3054,
+            25.538,
+            25.7705,
+            26.0031,
+            26.2357,
+            26.3055,
+            26.5381,
+            26.7707,
+            27.0033,
+            27.2359,
+            27.4685,
+            27.701,
+            27.7708,
+            28.0034
+          ]
+        },
+        {
+          "start": 31.995,
+          "chars": [
+            31.995,
+            32.1192,
+            32.2433,
+            32.3675,
+            32.4916,
+            32.6158,
+            32.653,
+            32.7772,
+            32.9013,
+            33.0255,
+            33.0627,
+            33.1868,
+            33.2241,
+            33.3482,
+            33.4724,
+            33.5965,
+            33.7207,
+            33.8448
+          ]
+        }
+      ],
+      "circle": {
+        "start": 30.274,
+        "end": 31.412
+      },
+      "options": {
+        "hideAt": 15.848,
+        "showAt": 29.374
+      },
+      "concept": {
+        "start": 12.64,
+        "end": 15.635,
+        "hideAt": 21.859
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 2
+  }
+}

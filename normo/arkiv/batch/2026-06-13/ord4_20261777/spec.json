@@ -1,0 +1,108 @@
+{
+  "slug": "ord4_20261777",
+  "theme": "green",
+  "slides": [
+    {
+      "kind": "hook",
+      "title": "Hur många av dessa\nfyra HP-ord klarar du?",
+      "bgImage": "tiktok/assets/intro/intro-11.jpeg",
+      "bgScrim": "rgba(0,0,0,0.32)"
+    },
+    {
+      "kind": "quiz",
+      "word": "etologi",
+      "options": [
+        "lyrisk dikt",
+        "läran om djurbeteende",
+        "tidig picknick",
+        "hemlig sammankomst"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "etologi",
+      "options": [
+        "lyrisk dikt",
+        "läran om djurbeteende",
+        "tidig picknick",
+        "hemlig sammankomst"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "punktlig",
+      "options": [
+        "lat",
+        "som håller tiden",
+        "största möjliga",
+        "som rest mycket"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "punktlig",
+      "options": [
+        "lat",
+        "som håller tiden",
+        "största möjliga",
+        "som rest mycket"
+      ],
+      "correct": 1,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "veneration",
+      "options": [
+        "hissande lyftanordning",
+        "moderkaka",
+        "rutmönster, t.ex i trycksak",
+        "djup vördnad"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "veneration",
+      "options": [
+        "hissande lyftanordning",
+        "moderkaka",
+        "rutmönster, t.ex i trycksak",
+        "djup vördnad"
+      ],
+      "correct": 3,
+      "swipeText": "Nästa"
+    },
+    {
+      "kind": "quiz",
+      "word": "kränga",
+      "options": [
+        "tillkännage, utannonsera",
+        "förse med kläder",
+        "sänka markyta",
+        "sälja"
+      ],
+      "swipeText": "Facit"
+    },
+    {
+      "kind": "quiz",
+      "word": "kränga",
+      "options": [
+        "tillkännage, utannonsera",
+        "förse med kläder",
+        "sänka markyta",
+        "sälja"
+      ],
+      "correct": 3,
+      "swipeText": "Svep"
+    },
+    {
+      "kind": "cta",
+      "title": "Nå ditt mål på högskoleprovet"
+    }
+  ]
+}

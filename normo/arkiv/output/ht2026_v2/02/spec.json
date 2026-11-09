@@ -1,0 +1,180 @@
+{
+  "slug": "hp-ord-f9e7b287",
+  "video": true,
+  "questionRef": {
+    "bank": "ord",
+    "id": "f9e7b287-6442-4126-a15b-535012979d04"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "ORD · fråga 2 av 40",
+    "text2": "HT 2026 · provpass 2",
+    "seconds": 3
+  },
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "givmild"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 1,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "generös"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "vänlig"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "belåten"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "fredlig"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "tokens": [
+          {
+            "text": "omtänksam"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "generös",
+      "emphasis": true
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 9.198,
+    "phases": {
+      "readStart": 1.136,
+      "writeStart": 1.777
+    },
+    "read": {
+      "words": [
+        {
+          "start": 1.136,
+          "end": 1.554
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 1.777,
+          "chars": [
+            1.777,
+            2.047,
+            2.317,
+            2.587,
+            2.857,
+            3.127,
+            3.397
+          ]
+        },
+        {
+          "start": 5.107,
+          "chars": [
+            5.107,
+            5.2071,
+            5.3071,
+            5.4072,
+            5.5073,
+            5.6073,
+            5.6373,
+            5.7374,
+            5.8375,
+            5.9375,
+            5.9675,
+            6.0676,
+            6.0976,
+            6.1977,
+            6.2977,
+            6.3978,
+            6.4979,
+            6.5979
+          ]
+        }
+      ],
+      "circle": {
+        "start": 3.967,
+        "end": 4.791
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {}
+}

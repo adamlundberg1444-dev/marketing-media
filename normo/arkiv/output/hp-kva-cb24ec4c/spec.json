@@ -1,0 +1,431 @@
+{
+  "slug": "hp-kva-cb24ec4c",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "cb24ec4c-ee6c-4c30-a77a-be04ab89094c"
+  },
+  "eyebrow": null,
+  "theme": {
+    "eyebrowBg": "#056B50",
+    "mathDisplaystyle": true,
+    "ink": "#056B50",
+    "optionLetters": true,
+    "optionLetterDot": true,
+    "optionIndent": 0,
+    "optionColumn": true,
+    "ctaBadge": true,
+    "ctaLogo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+    "ctaName": "HPHome",
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "brand": {
+      "logo": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/logo-app.png",
+      "text": "HPHome"
+    }
+  },
+  "label": {
+    "text": "KVA-fråga · Högskoleprovet",
+    "text2": "HT 2021 · fråga 14",
+    "seconds": 3
+  },
+  "concept": {
+    "label": null,
+    "tex": "v_1 + v_2 + v_3 = 180^\\circ"
+  },
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "M"
+      },
+      {
+        "text": "är"
+      },
+      {
+        "text": "cirkelns"
+      },
+      {
+        "text": "medelpunkt."
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "tex": "v",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "tex": "30^\\circ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 10,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 0,
+    "readUnderline": true,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/xyz/cb24ec4c-ee6c-4c30-a77a-be04ab89094c.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "360° - 250° = 110°"
+    },
+    {
+      "text": "v = \\frac{180° - 110°}{2} = \\frac{70°}{2} = 35°"
+    },
+    {
+      "text": "35° > 30°"
+    },
+    {
+      "text": "I > II",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 76.002,
+    "phases": {
+      "readStart": 4.942,
+      "writeStart": 29.359
+    },
+    "read": {
+      "words": [
+        {
+          "start": 4.942,
+          "end": 5.081
+        },
+        {
+          "start": 5.174,
+          "end": 5.209
+        },
+        {
+          "start": 5.244,
+          "end": 5.708
+        },
+        {
+          "start": 5.778,
+          "end": 6.672
+        },
+        {
+          "start": 7.311,
+          "end": 8.007
+        },
+        {
+          "start": 8.007,
+          "end": 8.5098
+        },
+        {
+          "start": 8.5098,
+          "end": 8.878
+        },
+        {
+          "start": 8.878,
+          "end": 9.505
+        },
+        {
+          "start": 9.505,
+          "end": 10.4056
+        },
+        {
+          "start": 10.4056,
+          "end": 11.188
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 29.359,
+          "chars": [
+            29.359,
+            29.602,
+            29.8451,
+            30.0881,
+            30.3311,
+            30.404,
+            30.647,
+            30.7199,
+            30.963,
+            31.206,
+            31.449,
+            31.6921,
+            31.765,
+            32.008,
+            32.0809,
+            32.3239,
+            32.5669,
+            32.81
+          ]
+        },
+        {
+          "start": 41.187,
+          "chars": [
+            41.187,
+            41.4208,
+            41.4909,
+            41.7247,
+            41.7948,
+            42.0286,
+            42.2624,
+            42.4962,
+            42.7299,
+            42.8001,
+            43.0339,
+            43.104,
+            43.3378,
+            43.5716,
+            43.8053,
+            44.0391,
+            44.2729,
+            44.5067,
+            44.5768,
+            44.8106,
+            44.8807,
+            45.1145,
+            45.3483,
+            45.5821,
+            45.8158,
+            46.0496,
+            46.1197,
+            46.3535,
+            46.4237,
+            46.6574,
+            46.8912
+          ]
+        },
+        {
+          "start": 55.615,
+          "chars": [
+            55.615,
+            55.8811,
+            56.1471,
+            56.4132,
+            56.493,
+            56.759,
+            56.8388,
+            57.1049,
+            57.3709
+          ]
+        },
+        {
+          "start": 60.272,
+          "chars": [
+            60.272,
+            60.5681,
+            60.6569,
+            60.953,
+            61.0418,
+            61.3379
+          ]
+        },
+        {
+          "start": 70.054,
+          "chars": [
+            70.054,
+            70.258,
+            70.462,
+            70.6661,
+            70.8701,
+            71.0741,
+            71.1353,
+            71.3393,
+            71.5434,
+            71.7474,
+            71.9514,
+            72.0126,
+            72.2167,
+            72.2779,
+            72.4819,
+            72.6859,
+            72.8899,
+            73.094,
+            73.298
+          ]
+        }
+      ],
+      "circle": {
+        "start": 65.163,
+        "end": 68.541
+      },
+      "options": {
+        "hideAt": 15.88,
+        "showAt": 64.263
+      },
+      "concept": {
+        "start": 17.688,
+        "end": 27.707,
+        "hideAt": 41.026
+      },
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 17.688,
+          "end": 18.438,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.4908,
+                  0.4918
+                ],
+                [
+                  0.06,
+                  0.68
+                ]
+              ],
+              "color": "blue",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 18.788,
+          "end": 19.538,
+          "targets": [
+            {
+              "line": [
+                [
+                  0.4892,
+                  0.4918
+                ],
+                [
+                  0.92,
+                  0.68
+                ]
+              ],
+              "color": "blue",
+              "mi": 1
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 16.688,
+          "end": 27.707
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5
+  },
+  "layout": {
+    "compact": 1
+  }
+}

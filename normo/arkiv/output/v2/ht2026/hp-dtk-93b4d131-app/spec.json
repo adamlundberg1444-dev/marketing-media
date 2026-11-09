@@ -1,0 +1,535 @@
+{
+  "slug": "hp-dtk-93b4d131-app",
+  "video": true,
+  "questionRef": {
+    "bank": "dtk",
+    "id": "93b4d131-70e9-4af5-bf16-2d760b644853"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "Hur"
+      },
+      {
+        "text": "stor"
+      },
+      {
+        "text": "var"
+      },
+      {
+        "text": "industrins"
+      },
+      {
+        "text": "vattenanvändning"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Västernorrlands"
+      },
+      {
+        "text": "län"
+      },
+      {
+        "text": "jämfört"
+      },
+      {
+        "text": "med"
+      },
+      {
+        "text": "i"
+      },
+      {
+        "text": "Uppsala"
+      },
+      {
+        "text": "län?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 13,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "Fem"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Sex"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "Sju"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Åtta"
+          },
+          {
+            "text": "gånger"
+          },
+          {
+            "text": "så"
+          },
+          {
+            "text": "stor"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/app_bild/93b4d131-70e9-4af5-bf16-2d760b644853.png",
+    "imageMax": 860
+  },
+  "writeLines": [
+    {
+      "figure": {
+        "table": {
+          "rows": [
+            [
+              "Län",
+              "Totalt"
+            ],
+            [
+              "Uppsala",
+              "42 105"
+            ],
+            [
+              "Västernorrland",
+              "336 724"
+            ]
+          ],
+          "header": true
+        }
+      },
+      "graph": {
+        "figure": {
+          "table": {
+            "rows": [
+              [
+                "Län",
+                "Totalt"
+              ],
+              [
+                "Uppsala",
+                "42 105"
+              ],
+              [
+                "Västernorrland",
+                "336 724"
+              ]
+            ],
+            "header": true
+          }
+        }
+      }
+    },
+    {
+      "text": "\\frac{336\\,724}{42\\,105} ≈ \\frac{336}{42}"
+    },
+    {
+      "text": "42 · 8 = 336",
+      "emphasis": true,
+      "gron": [
+        "· 8"
+      ],
+      "farg": {
+        "3": "#0E9F6E",
+        "4": "#0E9F6E",
+        "5": "#0E9F6E"
+      }
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 50.32,
+    "phases": {
+      "readStart": 0.08,
+      "writeStart": 29.24
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.24
+        },
+        {
+          "start": 0.3,
+          "end": 0.6
+        },
+        {
+          "start": 0.64,
+          "end": 0.9
+        },
+        {
+          "start": 0.96,
+          "end": 1.66
+        },
+        {
+          "start": 1.72,
+          "end": 2.74
+        },
+        {
+          "start": 2.96,
+          "end": 3.02
+        },
+        {
+          "start": 3.06,
+          "end": 3.86
+        },
+        {
+          "start": 3.92,
+          "end": 4.16
+        },
+        {
+          "start": 4.54,
+          "end": 5.06
+        },
+        {
+          "start": 5.12,
+          "end": 5.46
+        },
+        {
+          "start": 5.52,
+          "end": 5.6
+        },
+        {
+          "start": 5.68,
+          "end": 6.2
+        },
+        {
+          "start": 6.24,
+          "end": 6.52
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 29.24,
+          "chars": [
+            29.24,
+            32.6868
+          ]
+        },
+        {
+          "start": 32.6868,
+          "chars": [
+            32.6868,
+            32.9241,
+            33.1614,
+            33.3988,
+            33.47,
+            33.7073,
+            33.9446,
+            34.1819,
+            34.4193,
+            34.6566,
+            34.8939,
+            34.9651,
+            35.2024,
+            35.4398,
+            35.6771,
+            35.7483,
+            35.9856,
+            36.0568,
+            36.2941,
+            36.5315,
+            36.7688,
+            37.0061,
+            37.2435
+          ]
+        },
+        {
+          "start": 39.42,
+          "chars": [
+            39.42,
+            39.678,
+            39.9361,
+            40.0135,
+            40.2715,
+            40.349,
+            40.607,
+            40.6844,
+            40.9425,
+            41.0199,
+            41.2779,
+            41.536
+          ]
+        },
+        {
+          "start": 49.24,
+          "chars": [
+            49.24,
+            49.285,
+            49.3299,
+            49.3749,
+            49.4199,
+            49.4649,
+            49.4783,
+            49.5233,
+            49.5683,
+            49.6133,
+            49.6582,
+            49.6717,
+            49.7167,
+            49.7302,
+            49.7751,
+            49.8201,
+            49.8651,
+            49.9101,
+            49.955
+          ]
+        }
+      ],
+      "circle": {
+        "start": 45.74,
+        "end": 48.82
+      },
+      "options": null,
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 3.06,
+          "end": 3.81,
+          "targets": [
+            {
+              "w": 6,
+              "from": "Västernorrlands",
+              "color": "lila"
+            },
+            {
+              "w": 7,
+              "from": "Västernorrlands",
+              "color": "lila"
+            }
+          ]
+        },
+        {
+          "start": 5.68,
+          "end": 6.43,
+          "targets": [
+            {
+              "w": 11,
+              "from": "Uppsala",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "Uppsala",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 8.24,
+          "end": 8.99,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.918,
+                0.1519,
+                0.994,
+                0.1873
+              ],
+              "color": "blå",
+              "seg": 1,
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 15.58,
+          "end": 16.33,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.012,
+                0.2646,
+                0.986,
+                0.2975
+              ],
+              "from": "Uppsala",
+              "color": "gul",
+              "seg": 2,
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 17.14,
+          "end": 17.89,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.907,
+                0.2646,
+                0.986,
+                0.2975
+              ],
+              "from": "42",
+              "color": "gul",
+              "keep": true,
+              "seg": 2,
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 20.84,
+          "end": 21.59,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.012,
+                0.7253,
+                0.986,
+                0.7582
+              ],
+              "from": "Västernorrland",
+              "color": "lila",
+              "seg": 3,
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 22.76,
+          "end": 23.51,
+          "targets": [
+            {
+              "hl": true,
+              "rect": [
+                0.895,
+                0.7253,
+                0.986,
+                0.7582
+              ],
+              "from": "336",
+              "color": "lila",
+              "keep": true,
+              "seg": 3,
+              "mi": 4
+            }
+          ]
+        }
+      ],
+      "figureZooms": [
+        {
+          "start": 7.74,
+          "end": 19.04,
+          "omrade": [
+            0.6,
+            0.09,
+            1,
+            0.3222
+          ]
+        },
+        {
+          "start": 20.34,
+          "end": 26.16,
+          "omrade": [
+            0.6,
+            0.6101,
+            1,
+            0.8404
+          ]
+        }
+      ],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 49.19
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appFigurKvar": true,
+    "imageMax": 860
+  },
+  "variant": "app"
+}

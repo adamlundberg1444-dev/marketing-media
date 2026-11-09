@@ -1,0 +1,438 @@
+{
+  "layout": "rader",
+  "fraga": [
+    [
+      {
+        "id": "q",
+        "t": "Vad är"
+      }
+    ],
+    [
+      {
+        "id": "p3",
+        "tex": "\\left(\\sqrt{3}\\right)^3",
+        "uttryck": true
+      },
+      {
+        "id": "pl",
+        "t": " + "
+      },
+      {
+        "id": "p5",
+        "tex": "\\left(\\sqrt{3}\\right)^5"
+      },
+      {
+        "id": "qm",
+        "t": "?"
+      }
+    ]
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "tex": "8\\sqrt{3}"
+    },
+    {
+      "letter": "B",
+      "tex": "12\\sqrt{3}"
+    },
+    {
+      "letter": "C",
+      "tex": "15\\sqrt{3}"
+    },
+    {
+      "letter": "D",
+      "tex": "81"
+    }
+  ],
+  "correct": 1,
+  "hook": {
+    "lines": [
+      "Roten ur 3, två gånger.",
+      "Ser du genvägen på HP?"
+    ],
+    "start": 0,
+    "end": 6.17
+  },
+  "arrow": {
+    "start": 0.3,
+    "end": 6.17,
+    "d": "M 900 990 C 990 800, 990 560, 870 410",
+    "head": "M 952 441 L 870 410 L 882 497"
+  },
+  "rows": [
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\left(\\sqrt{3}\\right)^{3+5}",
+          "at": 17.18,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 17.98,
+          "hand": true,
+          "color": "rod"
+        },
+        {
+          "col": "R",
+          "tex": "\\left(\\sqrt{3}\\right)^{8}=81",
+          "at": 18.08,
+          "hand": true,
+          "color": "rod"
+        }
+      ]
+    },
+    {
+      "plats": 0,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\left(\\sqrt{3}\\right)^2",
+          "at": 26.99,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 29.17,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "3",
+          "at": 29.27,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 1,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\left(\\sqrt{3}\\right)^3",
+          "at": 30.2,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 31.26,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "3\\sqrt{3}",
+          "at": 33.16,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 2,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "\\left(\\sqrt{3}\\right)^5",
+          "at": 35.86,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 36.96,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "9\\sqrt{3}",
+          "at": 38.83,
+          "hand": true,
+          "color": "bla"
+        }
+      ]
+    },
+    {
+      "plats": 3,
+      "cells": [
+        {
+          "col": "L",
+          "tex": "3\\sqrt{3}+9\\sqrt{3}",
+          "at": 43.11,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "=",
+          "tex": "=",
+          "at": 44.21,
+          "hand": true,
+          "color": "bla"
+        },
+        {
+          "col": "R",
+          "tex": "12\\sqrt{3}",
+          "at": 44.59,
+          "hand": true,
+          "color": "gron"
+        }
+      ]
+    }
+  ],
+  "strikes": [
+    {
+      "row": 0,
+      "col": "R",
+      "at": 21.35
+    }
+  ],
+  "bars": [],
+  "rings": [
+    {
+      "row": 4,
+      "col": "R",
+      "at": 45.09
+    }
+  ],
+  "markering": [
+    {
+      "ids": [
+        "p3",
+        "pl",
+        "p5"
+      ],
+      "at": 12.76,
+      "end": 13.88
+    }
+  ],
+  "farg": [
+    {
+      "ids": [
+        "p3"
+      ],
+      "color": "gron",
+      "at": 30.2,
+      "end": 35.86
+    },
+    {
+      "ids": [
+        "p5"
+      ],
+      "color": "gron",
+      "at": 35.86,
+      "end": 41.54
+    }
+  ],
+  "bagar": [],
+  "skamt": {
+    "ut": 6.201,
+    "tillbaka": 10.491,
+    "studsa": {
+      "ids": [
+        "p3",
+        "p5"
+      ],
+      "at": 7.891,
+      "end": 10.491
+    }
+  },
+  "alt": {
+    "losning": 6.001,
+    "tillbaka": 46.309
+  },
+  "lage": {
+    "fraga": 320,
+    "alt": 600,
+    "rader": 680,
+    "krok": 980
+  },
+  "figur": null,
+  "fragaUt": null,
+  "kamera": [
+    {
+      "at": 0.5,
+      "zoom": 1.08,
+      "x": 540,
+      "y": 700,
+      "dur": 0.5
+    },
+    {
+      "at": 6.001,
+      "zoom": 1,
+      "dur": 0.35
+    },
+    {
+      "at": 10.391,
+      "zoom": 1.3,
+      "x": 540,
+      "y": 460,
+      "dur": 0.45
+    },
+    {
+      "at": 13.78,
+      "zoom": 1.1,
+      "x": 540,
+      "y": 640,
+      "dur": 0.45
+    },
+    {
+      "at": 30.1,
+      "zoom": 1.1,
+      "x": 540,
+      "y": 760,
+      "dur": 0.45
+    },
+    {
+      "at": 35.76,
+      "zoom": 1.1,
+      "x": 540,
+      "y": 820,
+      "dur": 0.45
+    },
+    {
+      "at": 46.009,
+      "zoom": 1,
+      "dur": 0.4
+    }
+  ],
+  "captions": [
+    {
+      "text": "Samma rot",
+      "start": 6.201,
+      "end": 7.411
+    },
+    {
+      "text": "men de kunde inte enas",
+      "start": 7.411,
+      "end": 9.071
+    },
+    {
+      "text": "om exponenten",
+      "start": 9.071,
+      "end": 10.491
+    },
+    {
+      "text": "Okej, tillbaka till papperet",
+      "start": 10.491,
+      "end": 12.34
+    },
+    {
+      "text": "Vi ska lägga ihop dem",
+      "start": 12.34,
+      "end": 13.88
+    },
+    {
+      "text": "Vanligt slarv",
+      "start": 13.88,
+      "end": 15.07
+    },
+    {
+      "text": "lägga ihop exponenterna",
+      "start": 15.07,
+      "end": 17.18
+    },
+    {
+      "text": "3 plus 5 är 8",
+      "start": 17.18,
+      "end": 18.82
+    },
+    {
+      "text": "och det blir 81",
+      "start": 18.82,
+      "end": 20.28
+    },
+    {
+      "text": "alltså D",
+      "start": 20.28,
+      "end": 21.35
+    },
+    {
+      "text": "Nej. Exponenter läggs ihop bara",
+      "start": 21.35,
+      "end": 24.17
+    },
+    {
+      "text": "när man multiplicerar",
+      "start": 24.17,
+      "end": 25.93
+    },
+    {
+      "text": "Genvägen: roten ur 3 i",
+      "start": 25.93,
+      "end": 28.55
+    },
+    {
+      "text": "kvadrat är 3",
+      "start": 28.55,
+      "end": 30.2
+    },
+    {
+      "text": "Tre rötter är ett par",
+      "start": 30.2,
+      "end": 32
+    },
+    {
+      "text": "och en till",
+      "start": 32,
+      "end": 33.16
+    },
+    {
+      "text": "Alltså 3 roten ur 3",
+      "start": 33.16,
+      "end": 35.86
+    },
+    {
+      "text": "Fem rötter är två par",
+      "start": 35.86,
+      "end": 37.82
+    },
+    {
+      "text": "och en till",
+      "start": 37.82,
+      "end": 38.83
+    },
+    {
+      "text": "Alltså 9 roten ur 3",
+      "start": 38.83,
+      "end": 41.54
+    },
+    {
+      "text": "Samma rot",
+      "start": 41.54,
+      "end": 42.59
+    },
+    {
+      "text": "så 3 plus 9 blir",
+      "start": 42.59,
+      "end": 44.59
+    },
+    {
+      "text": "12 roten ur 3",
+      "start": 44.59,
+      "end": 46.909
+    },
+    {
+      "text": "Svaret är B",
+      "start": 46.909,
+      "end": 48.929
+    }
+  ],
+  "circle": {
+    "start": 47.929,
+    "end": 48.629000000000005
+  },
+  "duration": 49.929
+}

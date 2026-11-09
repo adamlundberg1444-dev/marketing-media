@@ -1,0 +1,542 @@
+{
+  "slug": "hp-kva-5c09e9e8-app",
+  "video": true,
+  "questionRef": {
+    "bank": "kva",
+    "id": "5c09e9e8-ac1d-4b8f-8ee6-76b85c9f24df"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#1E2A4A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "skrivSkala": 1.3
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "tex": " a < b < c < d ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "I:"
+      },
+      {
+        "text": "Medelvärdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "tex": " a ",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": " d ",
+        "display": false
+      },
+      {
+        "break": true
+      },
+      {
+        "break": true
+      },
+      {
+        "text": "Kvantitet"
+      },
+      {
+        "text": "II:"
+      },
+      {
+        "text": "Medelvärdet"
+      },
+      {
+        "text": "av"
+      },
+      {
+        "tex": " b ",
+        "display": false
+      },
+      {
+        "text": "och"
+      },
+      {
+        "tex": " c ",
+        "display": false
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 15,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "II"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "större"
+          },
+          {
+            "text": "än"
+          },
+          {
+            "text": "I"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "I"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "lika"
+          },
+          {
+            "text": "med"
+          },
+          {
+            "text": "II"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "Informationen"
+          },
+          {
+            "text": "är"
+          },
+          {
+            "text": "otillräcklig"
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 3,
+    "readUnderline": false,
+    "points": "",
+    "image": null,
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "\\frac{a + d}{2} \\; ? \\; \\frac{b + c}{2}"
+    },
+    {
+      "text": "1, 2, 3, 4: I = II"
+    },
+    {
+      "text": "1, 2, 3, 100: I > II",
+      "gron": [
+        "100"
+      ],
+      "farg": {
+        "9": "#0E9F6E",
+        "10": "#0E9F6E",
+        "11": "#0E9F6E"
+      }
+    },
+    {
+      "text": "-100, 2, 3, 4: I < II",
+      "emphasis": true,
+      "rod": [
+        "-100"
+      ],
+      "farg": {
+        "0": "#D93025",
+        "1": "#D93025",
+        "2": "#D93025",
+        "3": "#D93025"
+      }
+    },
+    {
+      "text": "Träna mer i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 66.099,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 12.58
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.7852
+        },
+        {
+          "start": 0.7852,
+          "end": 1.1
+        },
+        {
+          "start": 1.1,
+          "end": 1.18
+        },
+        {
+          "start": 4.36,
+          "end": 5.16
+        },
+        {
+          "start": 5.24,
+          "end": 5.32
+        },
+        {
+          "start": 5.32,
+          "end": 7.16
+        },
+        {
+          "start": 7.16,
+          "end": 7.26
+        },
+        {
+          "start": 7.26,
+          "end": 7.7231
+        },
+        {
+          "start": 7.7231,
+          "end": 8.2562
+        },
+        {
+          "start": 8.2562,
+          "end": 8.7892
+        },
+        {
+          "start": 8.7892,
+          "end": 9.4097
+        },
+        {
+          "start": 9.4097,
+          "end": 9.6369
+        },
+        {
+          "start": 9.6369,
+          "end": 10.1
+        },
+        {
+          "start": 10.1,
+          "end": 10.2
+        },
+        {
+          "start": 10.2,
+          "end": 10.38
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 12.58,
+          "chars": [
+            12.58,
+            12.825,
+            12.8985,
+            13.1435,
+            13.217,
+            13.462,
+            13.707,
+            13.952,
+            14.0255,
+            14.099,
+            14.1725,
+            14.4175,
+            14.491,
+            14.5645,
+            14.638,
+            14.883,
+            14.9565,
+            15.2015,
+            15.275,
+            15.52,
+            15.765
+          ]
+        },
+        {
+          "start": 26.76,
+          "chars": [
+            26.76,
+            27.0054,
+            27.2507,
+            27.3243,
+            27.5697,
+            27.8151,
+            27.8887,
+            28.134,
+            28.3794,
+            28.453,
+            28.6984,
+            28.9437,
+            29.0173,
+            29.2627,
+            29.3363,
+            29.5817,
+            29.6553,
+            29.9006
+          ]
+        },
+        {
+          "start": 39.66,
+          "chars": [
+            39.66,
+            39.9022,
+            40.1443,
+            40.2169,
+            40.4591,
+            40.7013,
+            40.7739,
+            41.0161,
+            41.2582,
+            41.3308,
+            41.573,
+            41.8152,
+            42.0573,
+            42.2995,
+            42.3721,
+            42.6143,
+            42.6869,
+            42.9291,
+            43.0017,
+            43.2438
+          ]
+        },
+        {
+          "start": 52.04,
+          "chars": [
+            52.04,
+            52.2808,
+            52.5217,
+            52.7625,
+            53.0033,
+            53.2442,
+            53.3164,
+            53.5572,
+            53.7981,
+            53.8703,
+            54.1112,
+            54.352,
+            54.4243,
+            54.6651,
+            54.9059,
+            54.9782,
+            55.219,
+            55.2912,
+            55.5321,
+            55.6043,
+            55.8452
+          ]
+        },
+        {
+          "start": 64.959,
+          "chars": [
+            64.959,
+            64.9716,
+            64.9842,
+            64.9967,
+            65.0093,
+            65.0219,
+            65.0257,
+            65.0382,
+            65.0508,
+            65.0634,
+            65.0672,
+            65.0798,
+            65.0835,
+            65.0961,
+            65.1087,
+            65.1213,
+            65.1338,
+            65.1464
+          ]
+        }
+      ],
+      "circle": {
+        "start": 60.2,
+        "end": 64.599
+      },
+      "options": {
+        "hideAt": 12.28,
+        "showAt": 59.3
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 1.28,
+          "end": 2.03,
+          "targets": [
+            {
+              "w": 0,
+              "from": "storleksordning",
+              "color": "blå"
+            }
+          ]
+        },
+        {
+          "start": 5.64,
+          "end": 6.39,
+          "targets": [
+            {
+              "w": 1,
+              "from": "yttre",
+              "color": "gul"
+            },
+            {
+              "w": 2,
+              "from": "yttre",
+              "color": "gul"
+            },
+            {
+              "w": 3,
+              "from": "yttre",
+              "color": "gul"
+            },
+            {
+              "w": 4,
+              "from": "yttre",
+              "color": "gul"
+            },
+            {
+              "w": 5,
+              "from": "yttre",
+              "color": "gul"
+            },
+            {
+              "w": 6,
+              "from": "yttre",
+              "color": "gul"
+            },
+            {
+              "w": 7,
+              "from": "yttre",
+              "color": "gul"
+            }
+          ]
+        },
+        {
+          "start": 8.66,
+          "end": 9.41,
+          "targets": [
+            {
+              "w": 8,
+              "from": "inre",
+              "color": "lila"
+            },
+            {
+              "w": 9,
+              "from": "inre",
+              "color": "lila"
+            },
+            {
+              "w": 10,
+              "from": "inre",
+              "color": "lila"
+            },
+            {
+              "w": 11,
+              "from": "inre",
+              "color": "lila"
+            },
+            {
+              "w": 12,
+              "from": "inre",
+              "color": "lila"
+            },
+            {
+              "w": 13,
+              "from": "inre",
+              "color": "lila"
+            },
+            {
+              "w": 14,
+              "from": "inre",
+              "color": "lila"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 64.909
+  },
+  "layout": {
+    "appRodaAndringar": true,
+    "appSkrivSkala": 1.3,
+    "appKeyLines": [
+      2,
+      3
+    ]
+  },
+  "variant": "app"
+}

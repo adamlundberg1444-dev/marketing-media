@@ -1,0 +1,611 @@
+{
+  "slug": "hp-elf-6a415491-app",
+  "video": true,
+  "questionRef": {
+    "bank": "elf",
+    "id": "6a415491-3dad-4d33-afd7-b1dd2d90cb0d"
+  },
+  "eyebrow": null,
+  "theme": {
+    "ink": "#068E6A",
+    "mathDisplaystyle": true,
+    "optionLetters": true,
+    "optionLetterDot": false,
+    "optionColumn": true,
+    "optionWrap": true,
+    "optionIndent": 0,
+    "ctaHidden": true,
+    "stamp": null,
+    "questionNumber": null,
+    "app": {
+      "accent": "#068E6A",
+      "byt": true,
+      "fet": "fraga"
+    }
+  },
+  "label": null,
+  "concept": null,
+  "regions": {
+    "questionTokens": [
+      {
+        "text": "What"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "argued"
+      },
+      {
+        "text": "in"
+      },
+      {
+        "text": "relation"
+      },
+      {
+        "text": "to"
+      },
+      {
+        "text": "human"
+      },
+      {
+        "text": "aggressiveness"
+      },
+      {
+        "text": "in"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "first"
+      },
+      {
+        "text": "two"
+      },
+      {
+        "text": "paragraphs?"
+      }
+    ],
+    "questionImage": null,
+    "shotBoxes": null,
+    "questionReadTo": 13,
+    "options": [
+      {
+        "letter": "A",
+        "tokens": [
+          {
+            "text": "There"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "little"
+          },
+          {
+            "text": "evidence"
+          },
+          {
+            "text": "that"
+          },
+          {
+            "text": "it"
+          },
+          {
+            "text": "is"
+          },
+          {
+            "text": "a"
+          },
+          {
+            "text": "prominent"
+          },
+          {
+            "text": "feature"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "humans’"
+          },
+          {
+            "text": "mental"
+          },
+          {
+            "text": "makeup."
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "tokens": [
+          {
+            "text": "Its"
+          },
+          {
+            "text": "role"
+          },
+          {
+            "text": "in"
+          },
+          {
+            "text": "the"
+          },
+          {
+            "text": "developmental"
+          },
+          {
+            "text": "advances"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "humanity"
+          },
+          {
+            "text": "has"
+          },
+          {
+            "text": "been"
+          },
+          {
+            "text": "overestimated."
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "tokens": [
+          {
+            "text": "The"
+          },
+          {
+            "text": "human"
+          },
+          {
+            "text": "race"
+          },
+          {
+            "text": "has"
+          },
+          {
+            "text": "been"
+          },
+          {
+            "text": "less"
+          },
+          {
+            "text": "prone"
+          },
+          {
+            "text": "to"
+          },
+          {
+            "text": "violence"
+          },
+          {
+            "text": "than"
+          },
+          {
+            "text": "most"
+          },
+          {
+            "text": "other"
+          },
+          {
+            "text": "species."
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "tokens": [
+          {
+            "text": "It"
+          },
+          {
+            "text": "was"
+          },
+          {
+            "text": "necessary"
+          },
+          {
+            "text": "for"
+          },
+          {
+            "text": "increasing"
+          },
+          {
+            "text": "humanity’s"
+          },
+          {
+            "text": "long-term"
+          },
+          {
+            "text": "chances"
+          },
+          {
+            "text": "of"
+          },
+          {
+            "text": "survival."
+          }
+        ]
+      }
+    ],
+    "optionsRead": false,
+    "svarPrefix": "Svar:",
+    "noSvar": true,
+    "correctOption": 1,
+    "readUnderline": false,
+    "points": "",
+    "image": "/Users/adamlundberg/Documents/Projekt/Marketing/apps/hphome/tiktok/assets/passage/app/elf__6a415491-3dad-4d33-afd7-b1dd2d90cb0d.png",
+    "imageMax": null
+  },
+  "writeLines": [
+    {
+      "text": "våldets roll är överskattad",
+      "emphasis": true
+    },
+    {
+      "text": "Gamla prov i HPHome",
+      "cta": true
+    }
+  ],
+  "timeline": {
+    "version": 1,
+    "voice": true,
+    "duration": 50.12,
+    "phases": {
+      "readStart": 0.14,
+      "writeStart": 41.32
+    },
+    "read": {
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.26
+        },
+        {
+          "start": 0.32,
+          "end": 0.5
+        },
+        {
+          "start": 0.6,
+          "end": 1.06
+        },
+        {
+          "start": 1.14,
+          "end": 1.22
+        },
+        {
+          "start": 1.26,
+          "end": 1.72
+        },
+        {
+          "start": 1.78,
+          "end": 1.88
+        },
+        {
+          "start": 1.96,
+          "end": 2.28
+        },
+        {
+          "start": 2.36,
+          "end": 3.16
+        },
+        {
+          "start": 3.22,
+          "end": 3.28
+        },
+        {
+          "start": 3.32,
+          "end": 3.42
+        },
+        {
+          "start": 3.48,
+          "end": 3.74
+        },
+        {
+          "start": 3.82,
+          "end": 3.94
+        },
+        {
+          "start": 4.08,
+          "end": 4.78
+        }
+      ]
+    },
+    "write": {
+      "lines": [
+        {
+          "start": 41.32,
+          "chars": [
+            41.32,
+            41.5047,
+            41.6895,
+            41.8742,
+            42.059,
+            42.2437,
+            42.4284,
+            42.6132,
+            42.6686,
+            42.8533,
+            43.0381,
+            43.2228,
+            43.4076,
+            43.463,
+            43.6477,
+            43.8324,
+            43.8879,
+            44.0726,
+            44.2573,
+            44.4421,
+            44.6268,
+            44.8116,
+            44.9963,
+            45.181,
+            45.3658,
+            45.5505,
+            45.7353
+          ]
+        },
+        {
+          "start": 49,
+          "chars": [
+            49,
+            49.0118,
+            49.0237,
+            49.0355,
+            49.0473,
+            49.0592,
+            49.0627,
+            49.0746,
+            49.0864,
+            49.0982,
+            49.1101,
+            49.1136,
+            49.1254,
+            49.129,
+            49.1408,
+            49.1527,
+            49.1645,
+            49.1763,
+            49.1882
+          ]
+        }
+      ],
+      "circle": {
+        "start": 47.94,
+        "end": 48.62
+      },
+      "options": {
+        "hideAt": 13.46,
+        "showAt": 47.04
+      },
+      "concept": null,
+      "strikes": [],
+      "marks": [],
+      "arrows": [],
+      "arcs": [],
+      "underlines": [
+        {
+          "start": 7.76,
+          "end": 8.51,
+          "targets": [
+            {
+              "w": 10,
+              "from": "first two paragraphs",
+              "color": "gul"
+            },
+            {
+              "w": 11,
+              "from": "first two paragraphs",
+              "color": "gul"
+            },
+            {
+              "w": 12,
+              "from": "first two paragraphs",
+              "color": "gul"
+            }
+          ]
+        }
+      ],
+      "rearranges": [],
+      "graphZooms": [],
+      "graphMarks": [],
+      "figureMarks": [
+        {
+          "start": 20.24,
+          "end": 20.99,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.4663,
+                  0.2069
+                ],
+                [
+                  1,
+                  0.2069
+                ],
+                [
+                  1,
+                  0.2521
+                ],
+                [
+                  0.4663,
+                  0.2521
+                ]
+              ],
+              "color": "bla",
+              "from": "konkurrens",
+              "hlFarg": "rosa",
+              "mi": 0
+            }
+          ]
+        },
+        {
+          "start": 25.7,
+          "end": 26.45,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.5224
+                ],
+                [
+                  0.7956,
+                  0.5224
+                ],
+                [
+                  0.7956,
+                  0.5676
+                ],
+                [
+                  0,
+                  0.5676
+                ]
+              ],
+              "color": "bla",
+              "from": "osannolikt",
+              "hlFarg": "gul",
+              "mi": 1
+            }
+          ]
+        },
+        {
+          "start": 30.52,
+          "end": 31.27,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.273,
+                  0.5814
+                ],
+                [
+                  0.9176,
+                  0.5814
+                ],
+                [
+                  0.9176,
+                  0.6266
+                ],
+                [
+                  0.273,
+                  0.6266
+                ]
+              ],
+              "color": "bla",
+              "from": "sårbara",
+              "hlFarg": "gul",
+              "mi": 2
+            }
+          ]
+        },
+        {
+          "start": 30.52,
+          "end": 31.27,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.6404
+                ],
+                [
+                  0.1836,
+                  0.6404
+                ],
+                [
+                  0.1836,
+                  0.6856
+                ],
+                [
+                  0,
+                  0.6856
+                ]
+              ],
+              "color": "bla",
+              "from": "sårbara",
+              "hlFarg": "gul",
+              "mi": 3
+            }
+          ]
+        },
+        {
+          "start": 35.28,
+          "end": 36.03,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0.134,
+                  0.8175
+                ],
+                [
+                  0.9742,
+                  0.8175
+                ],
+                [
+                  0.9742,
+                  0.8626
+                ],
+                [
+                  0.134,
+                  0.8626
+                ]
+              ],
+              "color": "bla",
+              "from": "samarbete",
+              "hlFarg": "gul",
+              "mi": 4
+            }
+          ]
+        },
+        {
+          "start": 35.28,
+          "end": 36.03,
+          "targets": [
+            {
+              "polygon": [
+                [
+                  0,
+                  0.8765
+                ],
+                [
+                  0.2249,
+                  0.8765
+                ],
+                [
+                  0.2249,
+                  0.9217
+                ],
+                [
+                  0,
+                  0.9217
+                ]
+              ],
+              "color": "bla",
+              "from": "samarbete",
+              "hlFarg": "gul",
+              "mi": 5
+            }
+          ]
+        }
+      ],
+      "figureZooms": [],
+      "figureShrinks": [],
+      "badaLeds": []
+    },
+    "tailHold": 2.5,
+    "audioEnd": 48.95
+  },
+  "layout": {},
+  "variant": "app"
+}
